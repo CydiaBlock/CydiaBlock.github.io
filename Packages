@@ -2393,6 +2393,38 @@ Icon: https://redentic.dev/depictions/com.redenticdev.swrespringpack/icon.png
 Name: Star Wars Respring Pack
 Sileodepiction: https://redentic.dev/depictions/com.redenticdev.swrespringpack/sileo.json
 
+Package: com.samgisaninja.SuccessionRestore
+Version: 0.9~b6
+Architecture: iphoneos-arm
+Maintainer: Samg_is_a_Ninja
+Depends: firmware-sbin, rsync
+Filename: package_debian_A1/com.samgisaninja.SuccessionRestore_1.0_iphoneos-arm.deb
+Size: 833482
+MD5sum: 89791b7794e72c0751100378c8039955
+SHA1: ec55085051d05e41eb3357d55bcaf0f79a810c49
+SHA256: ac660d026febee557a5e37c08c8ed004bac6f19b9023180ff7a8eb0268edaad0
+Section: Utilities
+Description: Restore without updating via rootfilesystem DMG
+Author: Samg_is_a_Ninja
+Icon: file:///Applications/SuccessionRestore.app/AppIcon60x60@3x.png
+Name: Succession [beta]
+
+Package: com.samgisaninja.SuccessionRestore
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Samg_is_a_Ninja
+Depends: firmware-sbin, rsync
+Filename: package_debian_A1/com.samgisaninja.SuccessionRestore_1.1_iphoneos-arm.deb
+Size: 2266464
+MD5sum: f8c040534505e140fd4891835bcd31d5
+SHA1: 258270005f5c10866717092312c38847f98786d2
+SHA256: 47166593348278c31be3507fc3e07f2d2863c291d4b5c20e2b3f180766459e67
+Section: Utilities
+Description: Restore without updating via rootfilesystem DMG
+Author: Samg_is_a_Ninja
+Icon: file:///Applications/SuccessionRestore.app/AppIcon60x60@3x.png
+Name: Succession
+
 Package: com.saurik.afc2d
 Version: 1.2
 Architecture: iphoneos-arm
