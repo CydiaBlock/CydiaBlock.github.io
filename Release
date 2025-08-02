@@ -1,0 +1,8 @@
+Origin: Cydia Block Repository
+Label: Cydia Block Repository
+Suite: stable
+Version: 1.0
+Codename: CydiaBlock
+Architectures: iphoneos-arm
+Components: main
+Description: Open-source Cydia repo for backing up packages under 100MB.
