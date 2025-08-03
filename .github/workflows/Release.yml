@@ -34,14 +34,14 @@ jobs:
       - name: Format and Clean Packages
         run: |
             sed -i 's|Filename: \./|Filename: |' Packages
-            sed -i 's/!CydiaVn-//g' Packages
-            sed -i 's/!GSMVN-//g' Packages
-            sed -i 's/!GSMVN For OS3.0/Tools/g' Packages
-            sed -i 's/HiPhone-Tools/Tools/g' Packages
-            sed -i 's/iSystem/System/g' Packages
-            sed -i 's/: iOS4/Tweaks/g' Packages
-            sed -i 's/GSMVN-//g' Packages
-            sed -i 's/: VietHoa/Packaging/g' Packages
+            sed -i 's/: !CydiaVn-/: /g' Packages
+            sed -i 's/: !GSMVN-/: /g' Packages
+            sed -i 's/: !GSMVN For OS3.0/: Tools/g' Packages
+            sed -i 's/: HiPhone-Tools/: Tools/g' Packages
+            sed -i 's/: iSystem/: System/g' Packages
+            sed -i 's/: iOS4/: Tweaks/g' Packages
+            sed -i 's/: GSMVN-/: /g' Packages
+            sed -i 's/: VietHoa/: Packaging/g' Packages
 
       - name: Compress
         run: bzip2 -fks Packages
