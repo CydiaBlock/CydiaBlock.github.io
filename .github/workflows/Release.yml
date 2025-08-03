@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 env:
-  REPO_COUNT: 3
+  REPO_COUNT: 5
 
 jobs:
   build:
