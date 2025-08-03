@@ -42,6 +42,7 @@ jobs:
             sed -i 's/: iOS4/: Tweaks/g' Packages
             sed -i 's/: GSMVN-/: /g' Packages
             sed -i 's/: VietHoa/: Packaging/g' Packages
+            sed -i 's/: Apps/: Applications/g' Packages
             sed -i '/^Icon:/d' Packages
 
       - name: Compress
