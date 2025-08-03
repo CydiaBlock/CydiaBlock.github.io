@@ -21,18 +21,13 @@ jobs:
           git config --global user.name "dopaemon"
           git config --global user.email "polarisdp@gmail.com"
 
-      - name: Clone All Repositories
+      - name: Clone and Build Cluster Packages
         run: |
           for i in $(seq 1 $REPO_COUNT); do
             git clone --depth=1 https://github.com/CydiaBlock/package_debian_A$i.git
-          done
-
-      - name: Build Cluster Packages
-        run: |
-          > Packages
-          for i in $(seq 1 $REPO_COUNT); do
             dpkg-scanpackages -m package_debian_A$i /dev/null >> Packages
             echo "" >> Packages
+            rm -rf package_debian_A$i
           done
 
       - name: Format and Clean Packages
@@ -42,9 +37,6 @@ jobs:
 
       - name: Compress
         run: bzip2 -fks Packages
-
-      - name: Clean folders
-        run: rm -rf package_debian_*
 
       - name: Commit and push changes
         uses: devops-infra/action-commit-push@master
