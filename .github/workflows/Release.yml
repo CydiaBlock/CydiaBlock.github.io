@@ -32,10 +32,10 @@ jobs:
 
       - name: Format and Clean Packages
         run: |
-          sed -i 's|Filename: \./package_debian_A[0-9]\+|Filename: package_debian_A|' Packages
-          sed -i 's/!CydiaVn-//g' Packages
-          sed -i 's/!GSMVN-//g' Packages
-          sed -i 's/GSMVN-//g' Packages
+            sed -i 's|Filename: \./|Filename: |' Packages
+            sed -i 's/!CydiaVn-//g' Packages
+            sed -i 's/!GSMVN-//g' Packages
+            sed -i 's/GSMVN-//g' Packages
 
       - name: Compress
         run: bzip2 -fks Packages
