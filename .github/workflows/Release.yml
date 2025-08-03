@@ -1,48 +1,56 @@
-name: Release
+name: Cluster Release
 
 on:
   schedule:
     - cron: '0 0 * * *'
   workflow_dispatch:
 
+env:
+  REPO_COUNT: 2
+
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Setup Github Repository
+      - name: Setup Git identity
         run: |
-          git config --global user.email "polarisdp@gmail.com"
           git config --global user.name "dopaemon"
+          git config --global user.email "polarisdp@gmail.com"
 
-      - name: Clone A1 Repository
+      - name: Clone All Repositories
         run: |
-          git clone --depth=1 https://github.com/CydiaBlock/package_debian_A1.git
+          for i in $(seq 1 $REPO_COUNT); do
+            git clone --depth=1 https://github.com/CydiaBlock/package_debian_A$i.git
+          done
 
-      - name: Create Packages
+      - name: Build Cluster Packages
         run: |
-          dpkg-scanpackages -m . /dev/null >Packages
+          > Packages
+          for i in $(seq 1 $REPO_COUNT); do
+            dpkg-scanpackages -m package_debian_A$i /dev/null >> Packages
+            echo "" >> Packages
+          done
 
-      - name: Format for Cluster Repo
+      - name: Format and Clean Packages
         run: |
-          sed -i 's|Filename: \./package_debian_A1|Filename: package_debian_A1|' Packages
+          sed -i 's|Filename: \./package_debian_A[0-9]\+|Filename: package_debian_A|' Packages
+          sed -i 's/!CydiaVn-//g' Packages
 
-      - name: Compress Packages.bz2
-        run: |
-          rm -rf Packages.bz2
-          bzip2 -fks Packages
+      - name: Compress
+        run: bzip2 -fks Packages
 
-      - name: Packages Clean
-        run: |
-          rm -rf ./package_debian_*
+      - name: Clean folders
+        run: rm -rf package_debian_*
 
       - name: Commit and push changes
         uses: devops-infra/action-commit-push@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          commit_message: "Repo: Repository Update"
+          commit_message: "Cluster Repo Updated"
 
       - name: Upload GitHub Pages artifact
         uses: actions/upload-pages-artifact@v3
@@ -60,7 +68,7 @@ jobs:
 
     environment:
       name: github-pages
-      url: ${\{ steps.deployment.outputs.page_url }}
+      url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
       - name: Deploy to GitHub Pages
