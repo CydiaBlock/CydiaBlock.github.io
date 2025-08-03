@@ -1903,7 +1903,6 @@ Priority: optional
 Description: (Firmware 2.2.x Only) A full iPhone/iPod Touch Arabization. Now you can read/write Arabic, Farsi, and Urdu also other improvements to the device so that fits smoothly your Arabic needs.
 Author: iPhoneIslam <info@iphoneislam.com>
 Depiction: http://www.iphoneislam.com/ArabtallerPlus/Cydia
-Icon: file:///Applications/Arabtaller.app/icon.png
 Name: Arabtaller Plus (2.2.x)
 
 Package: com.iphoneislam.gpsineg
@@ -1987,7 +1986,6 @@ Homepage: https://litchie.com/dospad
 Description: A DOS emulator based on dosbox, also known as DOSPad
 Author: litchiedev
 Depiction: http://johan.margueritte.free.fr/repo/depictions/?p=com.litchie.idosgames
-Icon: http://johan.margueritte.free.fr/repo/depictions/com.litchie.idosgames/screenshots/icon.png
 Name: iDOS 2
 Sileodepiction: http://johan.margueritte.free.fr/repo/depictions/com.litchie.idosgames/sileo.json
 
@@ -2232,7 +2230,6 @@ Section: Tweaks
 Description: Auto-extend app's description in AppStore updates
 Author: RedenticDev <redenticdev@gmail.com>
 Depiction: https://redentic.dev/depictions/?p=com.redenticdev.appmore
-Icon: https://redentic.dev/depictions/com.redenticdev.appmore/icon.png
 Name: AppMore
 Sileodepiction: https://redentic.dev/depictions/com.redenticdev.appmore/sileo.json
 
@@ -2251,7 +2248,6 @@ Section: Tweaks (Requests)
 Description: Auto-extend app's description in AppStore updates page
 Author: RedenticDev <redenticdev@gmail.com>
 Depiction: https://redentic.dev/depictions/?p=com.redenticdev.appmore
-Icon: https://redentic.dev/depictions/com.redenticdev.appmore/icon.png
 Name: AppMore
 Sileodepiction: https://redentic.dev/depictions/com.redenticdev.appmore/sileo.json
 
@@ -2272,7 +2268,6 @@ Section: Tweaks
 Description: Toggle LPM by tapping the battery icon
 Author: RedenticDev <redenticdev@gmail.com>
 Depiction: https://redentic.dev/depictions/?p=com.redenticdev.fastlpm
-Icon: https://redentic.dev/depictions/com.redenticdev.fastlpm/icon.png
 Name: FastLPM
 Sileodepiction: https://redentic.dev/depictions/com.redenticdev.fastlpm/sileo.json
 
@@ -2292,7 +2287,6 @@ Section: Tweaks
 Description: Toggle LPM by tapping the battery icon
 Author: RedenticDev <redenticdev@gmail.com>
 Depiction: https://redentic.dev/depictions/?p=com.redenticdev.fastlpm
-Icon: https://redentic.dev/depictions/com.redenticdev.fastlpm/icon.png
 Name: FastLPM
 Sileodepiction: https://redentic.dev/depictions/com.redenticdev.fastlpm/sileo.json
 
@@ -2312,7 +2306,6 @@ Section: Tweaks
 Description: Toggle LPM by tapping the battery icon
 Author: RedenticDev <redenticdev@gmail.com>
 Depiction: https://redentic.dev/depictions/?p=com.redenticdev.fastlpm
-Icon: https://redentic.dev/depictions/com.redenticdev.fastlpm/icon.png
 Name: FastLPM
 Sileodepiction: https://redentic.dev/depictions/com.redenticdev.fastlpm/sileo.json
 
@@ -2332,7 +2325,6 @@ Section: Tweaks
 Description: Toggle LPM by tapping the battery icon
 Author: RedenticDev <redenticdev@gmail.com>
 Depiction: https://redentic.dev/depictions/?p=com.redenticdev.fastlpm
-Icon: https://redentic.dev/depictions/com.redenticdev.fastlpm/icon.png
 Name: FastLPM
 Sileodepiction: https://redentic.dev/depictions/com.redenticdev.fastlpm/sileo.json
 
@@ -2352,7 +2344,6 @@ Section: Tweaks
 Description: Toggle LPM by tapping the battery icon
 Author: RedenticDev <redenticdev@gmail.com>
 Depiction: https://redentic.dev/depictions/?p=com.redenticdev.fastlpm
-Icon: https://redentic.dev/depictions/com.redenticdev.fastlpm/icon.png
 Name: FastLPM
 Sileodepiction: https://redentic.dev/depictions/com.redenticdev.fastlpm/sileo.json
 
@@ -2370,7 +2361,6 @@ Section: Themes
 Description: A free respring pack with fun icons
 Author: RedenticDev <redenticdev@gmail.com>
 Depiction: https://redentic.dev/depictions/?p=com.redenticdev.respringpack
-Icon: https://redentic.dev/depictions/com.redenticdev.respringpack/icon.png
 Name: Redentic's Respring Pack
 Sileodepiction: https://redentic.dev/depictions/com.redenticdev.respringpack/sileo.json
 
@@ -2388,7 +2378,6 @@ Section: Themes
 Description: A free respring pack with fun icons
 Author: RedenticDev <redenticdev@gmail.com>
 Depiction: https://redentic.dev/depictions/?p=com.redenticdev.respringpack
-Icon: https://redentic.dev/depictions/com.redenticdev.respringpack/icon.png
 Name: Redentic's Respring Pack
 Sileodepiction: https://redentic.dev/depictions/com.redenticdev.respringpack/sileo.json
 
@@ -2406,7 +2395,6 @@ Section: Themes
 Description: A free respring pack with fun icons
 Author: RedenticDev <redenticdev@gmail.com>
 Depiction: https://redentic.dev/depictions/?p=com.redenticdev.respringpack
-Icon: https://redentic.dev/depictions/com.redenticdev.respringpack/icon.png
 Name: Redentic's Respring Pack
 Sileodepiction: https://redentic.dev/depictions/com.redenticdev.respringpack/sileo.json
 
@@ -2425,7 +2413,6 @@ Section: Tweaks
 Description: Easily change your status bar colors!
 Author: RedenticDev <redenticdev@gmail.com>
 Depiction: https://redentic.dev/depictions/?p=com.redenticdev.sbcolors
-Icon: https://raw.githubusercontent.com/RedenticDev/SBColors/master/assets/icon-large.png
 Name: SBColors
 
 Package: com.redenticdev.sbcolors
@@ -2443,7 +2430,6 @@ Section: Tweaks
 Description: Easily change your status bar colors!
 Author: RedenticDev <redenticdev@gmail.com>
 Depiction: https://redentic.dev/depictions/?p=com.redenticdev.sbcolors
-Icon: https://redentic.dev/depictions/com.redenticdev.sbcolors/icon.png
 Name: SBColors
 Sileodepiction: https://redentic.dev/depictions/com.redenticdev.sbcolors/sileo.json
 
@@ -2461,7 +2447,6 @@ Section: Themes
 Description: A nice Star Wars respring pack
 Author: RedenticDev <redenticdev@gmail.com>
 Depiction: https://redentic.dev/depictions/?p=com.redenticdev.swrespringpack
-Icon: https://redentic.dev/depictions/com.redenticdev.swrespringpack/icon.png
 Name: Star Wars Respring Pack
 Sileodepiction: https://redentic.dev/depictions/com.redenticdev.swrespringpack/sileo.json
 
@@ -2479,7 +2464,6 @@ Section: Themes
 Description: A nice Star Wars respring pack
 Author: RedenticDev <redenticdev@gmail.com>
 Depiction: https://redentic.dev/depictions/?p=com.redenticdev.swrespringpack
-Icon: https://redentic.dev/depictions/com.redenticdev.swrespringpack/icon.png
 Name: Star Wars Respring Pack
 Sileodepiction: https://redentic.dev/depictions/com.redenticdev.swrespringpack/sileo.json
 
@@ -2496,7 +2480,6 @@ SHA256: ac660d026febee557a5e37c08c8ed004bac6f19b9023180ff7a8eb0268edaad0
 Section: Utilities
 Description: Restore without updating via rootfilesystem DMG
 Author: Samg_is_a_Ninja
-Icon: file:///Applications/SuccessionRestore.app/AppIcon60x60@3x.png
 Name: Succession [beta]
 
 Package: com.samgisaninja.SuccessionRestore
@@ -2512,7 +2495,6 @@ SHA256: 47166593348278c31be3507fc3e07f2d2863c291d4b5c20e2b3f180766459e67
 Section: Utilities
 Description: Restore without updating via rootfilesystem DMG
 Author: Samg_is_a_Ninja
-Icon: file:///Applications/SuccessionRestore.app/AppIcon60x60@3x.png
 Name: Succession
 
 Package: com.saurik.afc2d
@@ -2554,7 +2536,6 @@ Description: on-device device management utility
 Tag: purpose::uikit, role::enduser
 Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: http://cydia.saurik.com/info/com.saurik.impactor/
-Icon: file:///Applications/Impactor.app/Icon-60.png
 Name: Cydia Impactor
 
 Package: com.saurik.impactor
@@ -2574,7 +2555,6 @@ Description: on-device device management utility
 Tag: purpose::uikit, role::enduser
 Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: http://cydia.saurik.com/info/com.saurik.impactor/
-Icon: file:///Applications/Impactor.app/Icon-60.png
 Name: Cydia Impactor
 
 Package: com.saurik.impactor
@@ -2594,7 +2574,6 @@ Description: on-device device management utility
 Tag: purpose::uikit, role::enduser
 Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: http://cydia.saurik.com/info/com.saurik.impactor/
-Icon: file:///Applications/Impactor.app/Icon-60.png
 Name: Cydia Impactor
 
 Package: com.saurik.impactor
@@ -2614,7 +2593,6 @@ Description: specific utility to unjailbreak most devices
 Tag: purpose::uikit, role::enduser
 Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: http://cydia.saurik.com/info/com.saurik.impactor/
-Icon: file:///Applications/Eraser.app/Icon-60.png
 Name: Cydia Eraser
 
 Package: com.saurik.impactor
@@ -2634,7 +2612,6 @@ Description: specific utility to unjailbreak most devices
 Tag: purpose::uikit, role::enduser
 Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: http://cydia.saurik.com/info/com.saurik.impactor/
-Icon: file:///Applications/Eraser.app/Icon-60.png
 Name: Cydia Eraser
 
 Package: com.saurik.impactor
@@ -2654,7 +2631,6 @@ Description: specific utility to unjailbreak most devices
 Tag: purpose::uikit, role::enduser
 Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: http://cydia.saurik.com/info/com.saurik.impactor/
-Icon: file:///Applications/Eraser.app/Icon-60.png
 Name: Cydia Eraser
 
 Package: com.saurik.iphone.cve-2010-1797
@@ -3450,7 +3426,6 @@ Description: graphical iPhone front-end for APT
 Tag: purpose::uikit, cydia::essential, role::enduser
 Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: http://cydia.saurik.com/info/cydia/
-Icon: file:///Applications/Cydia.app/Icon-60.png
 Name: Cydia Installer
 
 Package: cydia
@@ -3474,7 +3449,6 @@ Description: graphical iPhone front-end for APT
 Tag: purpose::uikit, cydia::essential, role::enduser
 Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: http://cydia.saurik.com/info/cydia/
-Icon: file:///Applications/Cydia.app/Icon-60.png
 Name: Cydia Installer
 
 Package: cydia
@@ -3498,7 +3472,6 @@ Description: graphical iPhone front-end for APT
 Tag: purpose::uikit, cydia::essential, role::enduser
 Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: http://cydia.saurik.com/info/cydia/
-Icon: file:///Applications/Cydia.app/Icon-60.png
 Name: Cydia Installer
 
 Package: cydia
@@ -3522,7 +3495,6 @@ Description: graphical iPhone front-end for APT
 Tag: purpose::uikit, cydia::essential, role::enduser
 Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: http://cydia.saurik.com/info/cydia/
-Icon: file:///Applications/Cydia.app/Icon-60.png
 Name: Cydia Installer
 
 Package: cydia
@@ -3546,7 +3518,6 @@ Description: graphical iPhone front-end for APT
 Tag: purpose::uikit, cydia::essential, role::enduser
 Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: http://cydia.saurik.com/info/cydia/
-Icon: file:///Applications/Cydia.app/Icon-60.png
 Name: Cydia Installer
 
 Package: cydia
@@ -3570,7 +3541,6 @@ Description: graphical iPhone front-end for APT
 Tag: purpose::uikit, cydia::essential, role::enduser
 Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: http://cydia.saurik.com/info/cydia/
-Icon: file:///Applications/Cydia.app/Icon-60.png
 Name: Cydia Installer
 
 Package: cydia
@@ -3594,7 +3564,6 @@ Description: graphical iPhone front-end for APT
 Tag: purpose::uikit, cydia::essential, role::enduser
 Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: http://cydia.saurik.com/info/cydia/
-Icon: file:///Applications/Cydia.app/Icon-60.png
 Name: Cydia Installer
 
 Package: cydia
@@ -7362,7 +7331,6 @@ Homepage: https://basilisk.cebix.net
 Description: An Open Source 68k Macintosh emulator (Mac OS 7.0 - 8.1)
 Author: Jesús A. Álvarez (zydeco) <zydeco@namedfork.net>
 Depiction: http://johan.margueritte.free.fr/repo/depictions/?p=net.namedfork.basiliskii
-Icon: http://johan.margueritte.free.fr/repo/depictions/net.namedfork.basiliskii/screenshots/icon.png
 Name: BasiliskII
 Sileodepiction: http://johan.margueritte.free.fr/repo/depictions/net.namedfork.basiliskii/sileo.json
 
@@ -7947,7 +7915,6 @@ Homepage: https://justgetflux.com/
 Description: warms colors at night to match indoor lighting
 Author: F.lux Software LLC <justgetflux@gmail.com>
 Depiction: https://justgetflux.com/cydia/
-Icon: file:///Library/PreferenceLoader/Preferences/org.herf.flux.png
 Name: f.lux
 
 Package: org.herf.flux
@@ -7966,7 +7933,6 @@ Homepage: https://justgetflux.com/
 Description: warms colors at night to match indoor lighting
 Author: F.lux Software LLC <support@justgetflux.com>
 Depiction: https://justgetflux.com/cydia/
-Icon: file:///Library/PreferenceLoader/Preferences/org.herf.flux.png
 Name: f.lux
 
 Package: org.herf.flux
@@ -7985,7 +7951,6 @@ Homepage: https://justgetflux.com/
 Description: warms colors at night to match indoor lighting
 Author: F.lux Software LLC <support@justgetflux.com>
 Depiction: https://justgetflux.com/cydia/
-Icon: file:///Library/PreferenceLoader/Preferences/org.herf.flux.png
 Name: f.lux
 
 Package: org.neutronfile.360vpnpro
@@ -8005,7 +7970,6 @@ Description: VPN 360 - Unlimited VPN Proxy Premium Subscribtion
 Author: pxcex
 Depiction: https://apt.neutronfile.org/description.html?id=org.neutronfile.360vpnpro
 Donate: https://paypal.me/Elhizazi
-Icon: https://i.imgur.com/1JEQLQB.png
 Name: VPN 360 PRO
 Sileodepiction: https://apt.neutronfile.org/depiction/org.neutronfile.360vpnpro.json
 Sponsor: NeutronFile.org <http://neutronfile.org/>
@@ -8028,7 +7992,6 @@ Description: Download Lagu, Playlist dan Semua lagu yang dilike, mainkan secara 
 Author: pxcex
 Depiction: https://apt.neutronfile.org/description.html?id=org.neutronfile.SoundCloudplus
 Donate: https://paypal.me/Elhizazi
-Icon: https://i.imgur.com/2cca5i8.png
 Name: SoundCloud Plus
 Sileodepiction: https://apt.neutronfile.org/depiction/org.neutronfile.SoundCloudplus.json
 Sponsor: NeutronFile.org <http://neutronfile.org/>
@@ -8051,7 +8014,6 @@ Description: AdGuard — adblock&privacy Premium!
 Author: pxcex
 Depiction: https://apt.neutronfile.org/description.html?id=org.neutronfile.adguardpro
 Donate: https://paypal.me/Elhizazi
-Icon: https://i.imgur.com/Ue0M7ob.png
 Name: AdGuard PRO
 Sileodepiction: https://apt.neutronfile.org/depiction/org.neutronfile.adguardpro.json
 Sponsor: NeutronFile.org <http://neutronfile.org/>
@@ -8074,7 +8036,6 @@ Description: Subscription Export Unlimited!
 Author: pxcex
 Depiction: https://apt.neutronfile.org/description.html?id=org.neutronfile.adoberushpro
 Donate: https://paypal.me/Elhizazi
-Icon: https://i.imgur.com/wjaoc7U.png
 Name: AdobeRushCC PRO
 Sileodepiction: https://apt.neutronfile.org/depiction/org.neutronfile.adoberushpro.json
 Sponsor: NeutronFile.org <http://neutronfile.org/>
@@ -8097,7 +8058,6 @@ Description: Adobe Spark Page Subscription. Remove Adobe Branding from your proj
 Author: pxcex
 Depiction: https://apt.neutronfile.org/description.html?id=org.neutronfile.adobesparkpagepro
 Donate: https://paypal.me/Elhizazi
-Icon: https://i.imgur.com/Wu2wbEN.png
 Name: AdobeSpark Page PRO
 Sileodepiction: https://apt.neutronfile.org/depiction/org.neutronfile.adobesparkpagepro.json
 Sponsor: NeutronFile.org <http://neutronfile.org/>
@@ -8120,7 +8080,6 @@ Description: Adobe Spark Post Spark Subscription.
 Author: pxcex
 Depiction: https://apt.neutronfile.org/description.html?id=org.neutronfile.adobesparkpostpro
 Donate: https://paypal.me/Elhizazi
-Icon: https://i.imgur.com/pVIpE02.png
 Name: AdobeSpark Post PRO
 Sileodepiction: https://apt.neutronfile.org/depiction/org.neutronfile.adobesparkpostpro.json
 Sponsor: NeutronFile.org <http://neutronfile.org/>
@@ -8143,7 +8102,6 @@ Description: Adobe Spark Video Spark Subscription.
 Author: pxcex
 Depiction: https://apt.neutronfile.org/description.html?id=org.neutronfile.adobesparkvideopro
 Donate: https://paypal.me/Elhizazi
-Icon: https://i.imgur.com/nzud1Kc.png
 Name: AdobeSpark Video PRO
 Sileodepiction: https://apt.neutronfile.org/depiction/org.neutronfile.adobesparkvideopro.json
 Sponsor: NeutronFile.org <http://neutronfile.org/>
@@ -8166,7 +8124,6 @@ Description: Swipe up icon on homescreen to get the AppTweak13 features for Free
 Author: pxcex
 Depiction: https://apt.neutronfile.org/description.html?id=org.neutronfile.apptweak13
 Donate: https://paypal.me/Elhizazi
-Icon: https://i.imgur.com/
 Name: AppTweak13
 Sileodepiction: https://apt.neutronfile.org/depiction/org.neutronfile.apptweak13.json
 Sponsor: NeutronFile.org <http://neutronfile.org/>
@@ -8189,7 +8146,6 @@ Description: CC toggle to disable microphone, camera and GPS.
 Author: Nepeta m
 Depiction: https://apt.neutronfile.org/description.html?id=org.neutronfile.begonecia-11/
 Donate: https://paypal.me/Elhizazi
-Icon: file:///Library/ControlCenter/Bundles/BegoneCIAModule.bundle/SettingsIcon@3x.png
 Name: BegoneCIA (iOS 11, 12 and up)
 Sileodepiction: https://apt.neutronfile.org/depiction/org.neutronfile.begonecia-11.json
 Sponsor: NeutronFile.org <http://neutronfile.org/>
@@ -8212,7 +8168,6 @@ Description: Subscription Life Time!
 Author: pxcex
 Depiction: https://apt.neutronfile.org/description.html?id=org.neutronfile.calmpro
 Donate: https://paypal.me/Elhizazi
-Icon: https://i.imgur.com/RbbGqaX.png
 Name: Calm App Premium
 Sileodepiction: https://apt.neutronfile.org/depiction/org.neutronfile.calmpro.json
 Sponsor: NeutronFile.org <http://neutronfile.org/>
@@ -8235,7 +8190,6 @@ Description: VIP Lifetime!
 Author: pxcex
 Depiction: https://apt.neutronfile.org/description.html?id=org.neutronfile.camera360pro
 Donate: https://paypal.me/Elhizazi
-Icon: https://i.imgur.com/DT6WUBc.png
 Name: Camera360 PRO
 Sileodepiction: https://apt.neutronfile.org/depiction/org.neutronfile.camera360pro.json
 Sponsor: NeutronFile.org <http://neutronfile.org/>
@@ -8299,7 +8253,6 @@ Description: Cydia Download Manager & Extra Features!
 Author: julioverne
 Depiction: http://apt.neutronfile.org/description.html?id=org.neutronfile.cydown
 Donate: https://paypal.me/Elhizazi
-Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
 Name: CyDown
 Sileodepiction: https://apt.neutronfile.org/depiction/org.neutronfile.cydown.json
 Sponsor: NeutronFile.org <http://neutronfile.org/>
@@ -8343,7 +8296,6 @@ Description: Premium Lifetime.
 Author: pxcex
 Depiction: https://apt.neutronfile.org/description.html?id=org.neutronfile.flipagrampro
 Donate: https://paypal.me/Elhizazi
-Icon: https://i.imgur.com/OSXQZzT.png
 Name: Flipagram PRO
 Sileodepiction: https://apt.neutronfile.org/depiction/org.neutronfile.flipagrampro.json
 Sponsor: NeutronFile.org <http://neutronfile.org/>
@@ -8366,7 +8318,6 @@ Description: Lifetime unlimited access.
 Author: pxcex
 Depiction: https://apt.neutronfile.org/description.html?id=org.neutronfile.focospro
 Donate: https://paypal.me/Elhizazi
-Icon: https://i.imgur.com/Jwwrf6f.png
 Name: Focos Premuim
 Sileodepiction: https://apt.neutronfile.org/depiction/org.neutronfile.focospro.json
 Sponsor: NeutronFile.org <http://neutronfile.org/>
@@ -8388,7 +8339,6 @@ Description: Graviboard alternative
 Author: julioverne
 Depiction: http://apt.neutronfile.org/description.html?id=org.neutronfile.gravity
 Donate: https://paypal.me/Elhizazi
-Icon: file:///Library/PreferenceBundles/Gravity.bundle/icon@2x.png
 Name: Gravity
 Sileodepiction: https://apt.neutronfile.org/depiction/org.neutronfile.gravity.json
 Sponsor: NeutronFile.org <http://neutronfile.org/>
@@ -8493,7 +8443,6 @@ Description: InShot Pro lifetime.
 Author: pxcex
 Depiction: https://apt.neutronfile.org/description.html?id=org.neutronfile.inshotpro
 Donate: https://paypal.me/Elhizazi
-Icon: https://i.imgur.com/plulY8V.png
 Name: InShot PRO
 Sileodepiction: https://apt.neutronfile.org/depiction/org.neutronfile.inshotpro.json
 Sponsor: NeutronFile.org <http://neutronfile.org/>
@@ -8559,7 +8508,6 @@ Tag: purpose::extension, compatible_max::ios15.x
 Author: pxcex
 Depiction: https://apt.neutronfile.org/description.html?id=org.neutronfile.kinemasterpro
 Donate: https://paypal.me/Elhizazi
-Icon: https://i.imgur.com/6gwSmed.png
 Name: KineMaster Premuim
 Sileodepiction: https://apt.neutronfile.org/depiction/org.neutronfile.kinemasterpro.json
 Sponsor: NeutronFile.org <http://neutronfile.org/>
@@ -8603,7 +8551,6 @@ Description: Free In-App Purchases include app IOS 12 IOS UP bypass Lock iCloud 
 Author: NeutronFile <neutronfile19@gmail.com>
 Depiction: https://apt.neutronfile.org/description.html?id=org.neutronfile.localiapstorefull
 Donate: https://paypal.me/Elhizazi
-Icon: https://raw.githack.com/neutronfile/NeutronFile/master/images/neutronfile1.jpg
 Name: LocalIAPStore Full
 Sileodepiction: https://apt.neutronfile.org/depiction/org.neutronfile.localiapstorefull.json
 Sponsor: NeutronFile.org <http://neutronfile.org/>
@@ -8626,7 +8573,6 @@ Tag: purpose::extension, compatible_min::ios12.0, compatible_max::ios14.x
 Author: MTAC <mtactheming@gmail.com>
 Depiction: https://apt.neutronfile.org/description.html?id=org.neutronfile.lynx
 Donate: https://paypal.me/Elhizazi
-Icon: https://twickd.com/cdn/screenshots/6195125da9033aac54ffa8c087ff0eaa/default
 Name: Lynx
 Sileodepiction: https://apt.neutronfile.org/depiction/org.neutronfile.lynx.json
 Sponsor: NeutronFile.org <http://neutronfile.org/>
@@ -8669,7 +8615,6 @@ Description: Media Importer Directly From Music App
 Author: julioverne
 Depiction: https://apt.neutronfile.org/description.html?id=org.neutronfile.mimport
 Donate: https://paypal.me/Elhizazi
-Icon: file:///Library/PreferenceBundles/MImport.bundle/icon@2x.png
 Name: MImport
 Sileodepiction: https://apt.neutronfile.org/depiction/org.neutronfile.mimport.json
 Sponsor: NeutronFile.org <http://neutronfile.org/>
@@ -8713,7 +8658,6 @@ Description: OfficeSuite & PDF editor
 Author: pxcex
 Depiction: https://apt.neutronfile.org/description.html?id=org.neutronfile.officesuite
 Donate: https://paypal.me/Elhizazi
-Icon: https://i.imgur.com/mGmRfUU.png
 Name: OfficeSuite Unlock
 Sileodepiction: https://apt.neutronfile.org/depiction/org.neutronfile.officesuite.json
 Sponsor: NeutronFile.org <http://neutronfile.org/>
@@ -8737,7 +8681,6 @@ Tag: purpose::extension, compatible_max::ios15.x
 Author: pxcex
 Depiction: https://apt.neutronfile.org/description.html?id=org.neutronfile.picsartgold
 Donate: https://paypal.me/Elhizazi
-Icon: https://i.imgur.com/WVO9EQj.png
 Name: PicsArt Gold
 Sileodepiction: https://apt.neutronfile.org/depiction/org.neutronfile.picsartgold.json
 Sponsor: NeutronFile.org <http://neutronfile.org/>
@@ -8760,7 +8703,6 @@ Description: Polaris Office - PDF & Docs Premium Service.
 Author: pxcex
 Depiction: https://apt.neutronfile.org/description.html?id=org.neutronfile.polarisoffice
 Donate: https://paypal.me/Elhizazi
-Icon: https://i.imgur.com/HeHIRfe.png
 Name: Polaris Office Unlock
 Sileodepiction: https://apt.neutronfile.org/depiction/org.neutronfile.polarisoffice.json
 Sponsor: NeutronFile.org <http://neutronfile.org/>
@@ -8782,7 +8724,6 @@ Homepage: https://neutronfile.org
 Author: NeutronFile
 Depiction: https://apt.neutronfile.org/description.html?id=org.neutronfile.psiphonpro
 Donate: https://paypal.me/Elhizazi
-Icon: https://i.imgur.com/aW810v7.png
 Name: Psiphon VPN PRO
 Sileodepiction: https://apt.neutronfile.org/depiction/org.neutronfile.psiphonpro.json
 Sponsor: NeutronFile.org <http://neutronfile.org/>
@@ -8828,7 +8769,6 @@ Author: Soh Satoh, Matt Clarke
 Depiction: http://apt.neutronfile.org/description.html?id=org.neutronfile.reprovision
 Dev: Matt Clarke
 Donate: https://paypal.me/Elhizazi
-Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
 Name: ReProvision Reborn
 Sileodepiction: https://apt.neutronfile.org/depiction/org.neutronfile.reprovision.json
 Sponsor: NeutronFile.org <http://neutronfile.org/>
@@ -8851,7 +8791,6 @@ Description: Star VPN: Unlimited WiFi Proxy Premium!
 Author: pxcex
 Depiction: https://apt.neutronfile.org/description.html?id=org.neutronfile.starvpnunlock
 Donate: https://paypal.me/Elhizazi
-Icon: https://i.imgur.com/a8bRvk7.png
 Name: Star VPN Unlock
 Sileodepiction: https://apt.neutronfile.org/depiction/org.neutronfile.starvpnunlock.json
 Sponsor: NeutronFile.org <http://neutronfile.org/>
@@ -8874,7 +8813,6 @@ Description: Download TikTok videos without watermark.
 Author: pxcex
 Depiction: https://apt.neutronfile.org/description.html?id=org.neutronfile.tiktoknowatermark
 Donate: https://paypal.me/Elhizazi
-Icon: https://i.imgur.com/2bUty4T.png
 Name: TikTok No Watermark
 Sileodepiction: https://apt.neutronfile.org/depiction/org.neutronfile.tiktoknowatermark.json
 Sponsor: NeutronFile.org <http://neutronfile.org/>
@@ -8897,7 +8835,6 @@ Description: Touch VPN — Unlimited Proxy Premium!
 Author: pxcex
 Depiction: https://apt.neutronfile.org/description.html?id=org.neutronfile.touchvp
 Donate: https://paypal.me/Elhizazi
-Icon: https://i.imgur.com/zoioFqX.png
 Name: Touch VPN PRO
 Sileodepiction: https://apt.neutronfile.org/depiction/org.neutronfile.touchvpn.json
 Sponsor: NeutronFile.org <http://neutronfile.org/>
@@ -8920,7 +8857,6 @@ Description: VIP Plan Lifetime.
 Author: pxcex
 Depiction: https://apt.neutronfile.org/description.html?id=org.neutronfile.turbovpnunlock
 Donate: https://paypal.me/Elhizazi
-Icon: https://i.imgur.com/2gbr7a9.png
 Name: Turbo VPN Unlock
 Sileodepiction: https://apt.neutronfile.org/depiction/org.neutronfile.turbovpnunlock.json
 Sponsor: NeutronFile.org <http://neutronfile.org/>
@@ -8943,7 +8879,6 @@ Description: Video Star Gold Pass (All Access Pass)
 Author: pxcex
 Depiction: https://apt.neutronfile.org/description.html?id=org.neutronfile.videostarunlock
 Donate: https://paypal.me/Elhizazi
-Icon: https://i.imgur.com/6eHS657.jpg
 Name: Video Star Unlock
 Sileodepiction: https://apt.neutronfile.org/depiction/org.neutronfile.videostarunlock.json
 Sponsor: NeutronFile.org <http://neutronfile.org/>
@@ -8964,7 +8899,6 @@ Description: get souerc any website & Get all codes (html pho js css ...)
 Author: elhizazi1 <elhizazi1@gmail.com>
 Depection: https://apt.neutronfile.org/description.html?id=org.neutronfile.viewsource
 Donate: https://paypal.me/Elhizazi
-Icon: https://i.imgur.com/KL2iOmC.png
 Name: View Source
 Sileodepiction: https://apt.neutronfile.org/depiction/org.neutronfile.viewsource.json
 Sponsor: NeutronFile.org <http://neutronfile.org/>
@@ -8987,7 +8921,6 @@ Description: VivaVideo VIP for Free!
 Author: pxcex
 Depiction: https://apt.neutronfile.org/description.html?id=org.neutronfile.vivavideovip
 Donate: https://paypal.me/Elhizazi
-Icon: https://i.imgur.com/lqef7Wz.png
 Name: VivaVideo VIP
 Sileodepiction: https://apt.neutronfile.org/depiction/org.neutronfile.vivavideovip.json
 Sponsor: NeutronFile.org <http://neutronfile.org/>
@@ -9010,7 +8943,6 @@ Description: VPN Aegis Unlimited VPN Proxy Premium!
 Author: pxcex
 Depiction: https://apt.neutronfile.org/description.html?id=org.neutronfile.vpnaegispro
 Donate: https://paypal.me/Elhizazi
-Icon: https://i.imgur.com/lFAmGx5.png
 Name: VPN Aegis PRO
 Sileodepiction: https://apt.neutronfile.org/depiction/org.neutronfile.vpnaegispro.json
 Sponsor: NeutronFile.org <http://neutronfile.org/>
@@ -9033,7 +8965,6 @@ Description: Unlimited VPN VIP!
 Author: pxcex
 Depiction: https://apt.neutronfile.org/description.html?id=org.neutronfile.vpnproxymaster
 Donate: https://paypal.me/Elhizazi
-Icon: https://i.imgur.com/TH7s22d.png
 Name: VPN Proxy Master Unlock
 Sileodepiction: https://apt.neutronfile.org/depiction/org.neutronfile.vpnproxymaster.json
 Sponsor: NeutronFile.org <http://neutronfile.org/>
@@ -9056,7 +8987,6 @@ Description: VSCO X permanent, Path from tweak LocallAPStore.
 Author: pxcex
 Depiction: https://apt.neutronfile.org/description.html?id=org.neutronfile.vscoxactive
 Donate: https://paypal.me/Elhizazi
-Icon: https://i.imgur.com/dgC8R9p.png
 Name: VSCO X Active
 Sileodepiction: https://apt.neutronfile.org/depiction/org.neutronfile.vscoxactive.json
 Sponsor: NeutronFile.org <http://neutronfile.org/>
@@ -9079,7 +9009,6 @@ Description: Super VIP Lifetime.
 Author: pxcex
 Depiction: https://apt.neutronfile.org/description.html?id=org.neutronfile.wpsoffice
 Donate: https://paypal.me/Elhizazi
-Icon: https://i.imgur.com/nSdrcGN.png
 Name: WPS Office Unlock
 Sileodepiction: https://apt.neutronfile.org/depiction/org.neutronfile.wpsoffice.json
 Sponsor: NeutronFile.org <http://neutronfile.org/>
@@ -9100,7 +9029,6 @@ Homepage: http://ppsspp.org
 Description: Can run your PSP games on your PC in full HD resolution, and play them on iOS too
 Author: Henrik Rydgard <hrydgard+ppsspp@gmail.com>
 Depiction: http://johan.margueritte.free.fr/repo/depictions/?p=org.ppsspp.ppsspp
-Icon: http://johan.margueritte.free.fr/repo/depictions/org.ppsspp.ppsspp/screenshots/icon.png
 Name: PPSSPP
 Sileodepiction: http://johan.margueritte.free.fr/repo/depictions/org.ppsspp.ppsspp/sileo.json
 
@@ -11047,7 +10975,6 @@ Homepage: http://cydia.vn/
 Description: App Store of Vietnamese - AppStoreVn.
 Author: Thieu.Bocap <support@gsm.vn>
 Depiction: http://cydia.gsm.vn/t4/
-Icon: file:///Applications/appstorevn.app/Icon.png
 Name: AppStoreVn
 Sponsor: iPhone GSM.VN <http://gsm.vn/f339/>
 
@@ -11636,7 +11563,6 @@ Description: Unlock the full potential of Infuse
 Tag: role::enduser
 Author: EshayDev & CobreDev <eshay.dev@gmail.com>
 Depiction: https://eshaydev.github.io/depiction/web/xyz.eshaydev.ignition.html
-Icon: https://eshaydev.github.io/assets/xyz.eshaydev.ignition/icon.png
 Moderndepiction: https://eshaydev.github.io/depiction/native/xyz.eshaydev.ignition.json
 Name: Ignition
 Sileodepiction: https://eshaydev.github.io/depiction/native/xyz.eshaydev.ignition.json
@@ -11725,7 +11651,6 @@ Homepage: http://cydia.vn/
 Description: Kho tải ứng dụng, nhạc chuông, hình nền, ebook lớn nhất Việt Nam cho iDevices.
 Author: Cydia.vn <repo@cydia.vn>
 Depiction: http://cydia.vn/depic/t5528/
-Icon: file:///Applications/Appvn.app/AppIcon57x57.png
 Name: Appvn iOS 6, 7, 8, 9
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -11746,7 +11671,6 @@ Homepage: http://cydia.vn/
 Description: Appvn phiên bản cho iOS 5 - kho tải lớn nhất Việt Nam.
 Author: Cydia.vn <repo@cydia.vn>
 Depiction: http://cydia.vn/depic/t15/
-Icon: file:///Applications/Appvn.app/AppIcon57x57.png
 Name: Appvn iOS 5
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -11767,7 +11691,6 @@ Description: on-device device management utility
 Tag: purpose::uikit, role::enduser
 Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: http://cydia.saurik.com/info/com.saurik.impactor/
-Icon: file:///Applications/Impactor.app/Icon-60.png
 Name: Cydia Impactor
 
 Package: gsm.ferrarif430
@@ -11801,7 +11724,6 @@ Description: Theme dành tặng cho tất cả các bạn yêu Xbox360. Theme v�
 Author: aaron falcon (iSquad) <isquad_devteam@yahoo.com>
 Depiction: http://iphone.gsm.vn/cydya/moreinfo/thereal360.php
 Dev: isquaddev
-Icon: file:///Applications/Cydia.app/Sections/Planet-iPhones Mods.png
 Name: TheReal360
 
 Package: gsm.videorec3.full
@@ -11862,7 +11784,6 @@ Section: Themes
 Description: Themes WinterBoard phong cách Windows 7 trên iPhone. Với hơn 660 icon, animated wallpaper, sliders...
 Author: Spyboy <navi.007@gmail.com>
 Dev: spyboy
-Icon: file:///Applications/Cydia.app/Sections/Planet-iPhones Mods.png
 Name: Windows7 Mobile
 
 Package: iphone.gsm.kyodai
@@ -11879,7 +11800,6 @@ Section: Games
 Homepage: http://iphone.gsm.vn/cydia/moreinfo/info.html
 Description: Games Pikachu tren iPhone.
 Author: GSMVN Team <support@gsm.vn>
-Icon: file://Applications/Kyodai.app/icon.png
 Name: Kyodai
 Sponsr: GSMVN Team <support@gsm.vn>
 
@@ -11950,7 +11870,6 @@ Homepage: http://iphone.handheld.com.vn/cydia/moreinfo/info.html
 Description: Bàn phím tiếng Việt dành cho FW2.x, sau khi cài đặt vào Setting - General - Keyboard bật bàn phím Russian lên! Muốn gõ tiếng Việt thì bấm vào biểu tượng quả địa cầu trên bàn phím!
 Author: Le Van Thang <thanglvan@yahoo.com>
 Depiption: http://iphone.gsm.vn/cydia/moreinfo/info.html
-Icon: file:///Applications/vnKeyInstaller.app/icon.png
 Name: vnKeyInstaller
 
 Package: ring.gsm.4single
@@ -12038,7 +11957,6 @@ Homepage: http://cydia.vn/
 Description: quick launch apps from iOS 7 Notification Center
 Author: DarkMalloc
 Depiction: http://cydia.vn/depic/t4591/
-Icon: file:///Library/PreferenceBundles/Apptray.bundle/Apptray@2x.png
 Name: Apptray
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -12275,7 +12193,6 @@ Homepage: http://iphone.gsm.vn
 Description: glasses-free 3D effect for home screen
 Author: Apocolipse <apocolipse@gmail.com>
 Depiction: http://cydia.gsm.vn/t365/
-Icon: file:///Library/PreferenceLoader/Preferences/3DBoard/Icon@2x.png
 Name: 3DBoard
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -12298,7 +12215,6 @@ Description: Allow 3G/LTE use of FaceTime, YouTube & more.
  Allows you to trick applications into thinking they are on WiFi even though they are on 3G/LTE, which removes restrictions like not being able to use FaceTime on 3G or watch high quality YouTube videos.
 Author: Kim Streich
 Depiction: http://cydia.vn/depic/t2289/
-Icon: file:///Applications/Unrestrictor3G.app/Icon.png
 Name: 3G Unrestrictor 5 (iOS 8 & 7)
 
 Package: vn.gsm.3gunrestrictor5
@@ -12320,7 +12236,6 @@ Description: Allow 3G/LTE use of FaceTime, YouTube & more.
  Allows you to trick applications into thinking they are on WiFi even though they are on 3G/LTE, which removes restrictions like not being able to use FaceTime on 3G or watch high quality YouTube videos.
 Author: Kim Streich
 Depiction: http://cydia.vn/depic/t2289/
-Icon: file:///Applications/Unrestrictor3G.app/Icon.png
 Name: 3G Unrestrictor 5 (iOS 9/8/7)
 
 Package: vn.gsm.51107bbup
@@ -12373,7 +12288,6 @@ Homepage: http://cydia.vn/
 Description: custom keyboard; iPhone/iPod
 Author: Ganbold
 Depiction: http://cydia.vn/depic/t2557/
-Icon: file:///Library/PreferenceBundles/5RowKeyboard.bundle/5RowKeyboard@2x.png
 Name: 5 Row Customizable Keyboard for iPhone
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -12393,7 +12307,6 @@ Homepage: http://cydia.vn/
 Description: custom keyboard; iPhone/iPod
 Author: Ganbold
 Depiction: http://cydia.vn/depic/t2557/
-Icon: file:///Library/PreferenceBundles/5RowKeyboard.bundle/5RowKeyboard@2x.png
 Name: 5 Row Customizable Keyboard for iPhone
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -12491,7 +12404,6 @@ Section: Games
 Description: 600 ROMs NES Part 01 cho iPhone!
 Author: GSMVN Team <support@gsm.vn>
 Depiction: http://iphone.gsm.vn/moreinfo/romsnes.php
-Icon: file:///Applications/NES.app/icon.png
 Name: 600 ROMs NES Part1
 Sponsr: GSMVN Team <support@gsm.vn>
 Website: http://iphone.gsm.vn/moreinfo/info.html
@@ -12510,7 +12422,6 @@ Section: Games
 Description: 600 ROMs NES Part 02 cho iPhone!
 Author: GSMVN Team <support@gsm.vn>
 Depiction: http://iphone.gsm.vn/moreinfo/romsnes.php
-Icon: file:///Applications/NES.app/icon.png
 Name: 600 ROMs NES Part1
 Sponsr: GSMVN Team <support@gsm.vn>
 Website: http://iphone.gsm.vn/moreinfo/info.html
@@ -12529,7 +12440,6 @@ Section: Games
 Description: 600 ROMs NES Part 03 cho iPhone!
 Author: GSMVN Team <support@gsm.vn>
 Depiction: http://iphone.gsm.vn/moreinfo/romsnes.php
-Icon: file:///Applications/NES.app/icon.png
 Name: 600 ROMs NES Part3
 Sponsr: GSMVN Team <support@gsm.vn>
 Website: http://iphone.gsm.vn/moreinfo/info.html
@@ -12548,7 +12458,6 @@ Section: Games
 Description: 600 ROMs NES Part 04 cho iPhone!
 Author: GSMVN Team <support@gsm.vn>
 Depiction: http://iphone.gsm.vn/moreinfo/romsnes.php
-Icon: file:///Applications/NES.app/icon.png
 Name: 600 ROMs NES Part4
 Sponsr: GSMVN Team <support@gsm.vn>
 Website: http://iphone.gsm.vn/moreinfo/info.html
@@ -12567,7 +12476,6 @@ Section: Games
 Description: 600 ROMs NES Part 05 cho iPhone!
 Author: GSMVN Team <support@gsm.vn>
 Depiction: http://iphone.gsm.vn/moreinfo/romsnes.php
-Icon: file:///Applications/NES.app/icon.png
 Name: 600 ROMs NES Part5
 Sponsr: GSMVN Team <support@gsm.vn>
 Website: http://iphone.gsm.vn/moreinfo/info.html
@@ -12766,7 +12674,6 @@ Homepage: http://www.ixtension.com
 Description: Quản lý cuộc gọi, tin nhắn cho iPhone. Chỉ hoạt động trên FW3.0!
 Author: iXtension k.s.
 Depiction: http://iphone.gsm.vn/moreinfo/mobilelog.php
-Icon: file:///Applications/MobileLog.app/Icon.png
 Name: MobileLog OS3.x
 
 Package: vn.gsm.NoCyfresh
@@ -12783,7 +12690,6 @@ Section: Tools
 Description: SBSetting Toggle on/off chế độ auto refresh Packages Cydia!
 Author: nathulal <inathulal@gmail.com>
 Depiction: http://iphone.gsm.vn/moreinfo/nocyfresh.php
-Icon: file:///var/mobile/Library/SBSettings/Themes/Default/NoCyfresh/on.png
 Name: NoCyfresh
 
 Package: vn.gsm.SBSilentToggle
@@ -12809,7 +12715,6 @@ Description:
  * Added a feedback mechanism when toggling the silent mode. It will now show the same ringer on/off indication as the springboard.
 Author: nathulal <inathulal@gmail.com>
 Depiction: http://iphone.gsm.vn/moreinfo/sbsilenttoggle.php
-Icon: file:///var/mobile/Library/SBSettings/Themes/Default/Silent/on.png
 Name: SBSilentToggle
 
 Package: vn.gsm.a2600emu
@@ -12828,7 +12733,6 @@ Homepage: http://cydia.vn/
 Description: full-featured Atari 2600 VCS emulator
 Author: Robert Broglia
 Depiction: http://cydia.vn/depic/t2165/
-Icon: file:///Applications/2600Emu.app/icon-57.png
 Name: 2600.emu
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -12956,7 +12860,6 @@ Homepage: http://cydia.vn/
 Description: Manage your notifications better.
 Author: A. Richardson & J. Tucker
 Depiction: http://cydia.gsm.vn/t4199/
-Icon: file:///Library/PreferenceBundles/AbstergoSettings.bundle/AbstergoIcon@2x.png
 Name: Abstergo
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -12976,7 +12879,6 @@ Homepage: http://cydia.vn/
 Description: Apple Watch UI SpringBoard replacement
 Author: Acamar (Walker Chen)
 Depiction: http://cydia.vn/depic/t5725/
-Icon: file:///Library/PreferenceBundles/AcamarPref.bundle/AcamarPref@2x.png
 Name: AcamarUI
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -12997,7 +12899,6 @@ Homepage: http://cydia.vn/
 Description: Elegant, gesture based Music controls
 Author: Pat Sluth
 Depiction: http://cydia.vn/depic/t5618/
-Icon: file:///Library/PreferenceBundles/AcapellaPrefs.bundle/Acapella_Prefs_Icon@2x.png
 Name: Acapella
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -13017,7 +12918,6 @@ Homepage: http://cydia.vn/
 Description: Elegant, gesture based Music controls
 Author: Pat Sluth
 Depiction: http://cydia.vn/depic/t5859/
-Icon: file:///Library/PreferenceBundles/AcapellaPrefs2.bundle/Icon@2x.png
 Name: Acapella II (iOS 8.4+)
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -13037,7 +12937,6 @@ Homepage: http://cydia.vn/
 Description: Elegant, gesture based Music controls
 Author: Pat Sluth
 Depiction: http://cydia.vn/depic/t5859/
-Icon: file:///Library/PreferenceBundles/AcapellaPrefs2.bundle/Icon@2x.png
 Name: Acapella II (iOS 8.4+)
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -13212,7 +13111,6 @@ Homepage: http://cydia.vn/
 Description: Add useful system functions to the AppSwitcher!
 Author: SBCoders
 Depiction: http://cydia.gsm.vn/t2150/
-Icon: file:///Library/ActionBoard@2x.png
 Name: ActionBoard
 Sponsor: iPhone GSM.VN <http://gsm.vn/f339/>
 
@@ -13233,7 +13131,6 @@ Homepage: http://cydia.vn/
 Description: Additional actions for Action Menu!
 Author: Ryan Petrich <repo@cydia.vn>
 Depiction: http://cydia.vn/depic/t409/
-Icon: file:///Library/ActionMenu/icon-large.png
 Name: Action Menu Plus Pack
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -13253,7 +13150,6 @@ Homepage: http://cydia.vn/
 Description: close app, kill background, open switcher and more from NotificationCenter!
 Author: Merlin
 Depiction: http://cydia.gsm.vn/t2470/
-Icon: file:///System/Library/WeeAppPlugins/ActionSlider.bundle/Icon@2x.png
 Name: ActionSlider
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -13291,7 +13187,6 @@ Homepage: http://cydia.vn/
 Description: info from Web for current playing media
 Author: rob311
 Depiction: http://cydia.vn/depic/t5135/
-Icon: file:///Library/PreferenceBundles/MediaSearchSettings.bundle/MoreInfo/MediaSearchSettings@2x.png
 Name: MoreInfo
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -13310,7 +13205,6 @@ Homepage: http://cydia.vn/
 Description: info from Web for current playing media
 Author: rob311
 Depiction: http://cydia.vn/depic/t5135/
-Icon: file:///Library/PreferenceBundles/MediaSearchSettings.bundle/MoreInfo/MediaSearchSettings@2x.png
 Name: MoreInfo
 
 Package: vn.gsm.activeboard
@@ -13348,7 +13242,6 @@ Homepage: http://cydia.vn/
 Description: Extraordinary native dock system
 Author: FilippoBiga & Surenix
 Depiction: http://cydia.gsm.vn/t4007/
-Icon: file:///Library/PreferenceBundles/activedocksettings.bundle/icon@2x.png
 Name: ActiveDock
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -13368,7 +13261,6 @@ Homepage: http://cydia.vn/
 Description: A reimagined way to control your device
 Author: Sassoty & Phillip Tennen
 Depiction: http://cydia.vn/depic/t5157/
-Icon: file:///Library/PreferenceBundles/Acute.bundle/Acute@2x.png
 Name: Acute
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -13407,7 +13299,6 @@ Homepage: http://cydia.vn/
 Description: lockscreen quick access to favourite things
 Author: Orangebananaspy
 Depiction: http://cydia.vn/depic/t5081/
-Icon: file:///Library/PreferenceBundles/AcutusPrefs.bundle/AcutusPrefs@2x.png
 Name: Acutus
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -13462,7 +13353,6 @@ Homepage: http://iphone.gsm.vn/
 Description: AdBlock chặn quảng cáo trong Safari
 Author: Cocoamug Software <contact@cocoamug.com>
 Depiction: http://cydia.gsm.vn/t393/
-Icon: file:///Applications/AdBlock.app/icon.png
 Name: AdBlock
 Sponsor: iPhone GSM.VN <http://gsm.vn/f339/>
 
@@ -13483,7 +13373,6 @@ Homepage: http://cydia.vn/
 Description: quick dial/add number from Control Center
 Author: ravirajm
 Depiction: http://cydia.vn/depic/t5125/
-Icon: file:///Library/Application%20Support/CCToggles/QuickLaunches/DialAddial.bundle/Icon@2x.png
 Name: Addial CCToggles
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -13504,7 +13393,6 @@ Homepage: http://cydia.vn/
 Description: quick dial/add number from Control Center
 Author: ravirajm
 Depiction: http://cydia.vn/depic/t5105/
-Icon: file:///Library/CCLoader/Bundles/AddialforiOS7.bundle/dial@2x.png
 Name: Addial for iOS 7
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -13576,7 +13464,6 @@ Homepage: http://cydia.vn/
 Description: A much less intrusive Siri
 Author: GreenyDev
 Depiction: http://cydia.vn/depic/t5832/
-Icon: file:///Library/PreferenceBundles/adiutor.bundle/adiutor@2x.png
 Name: Adiutor
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -13596,7 +13483,6 @@ Homepage: http://cydia.vn/
 Description: Adaptable keyboard style at your fingertips
 Author: sabharz
 Depiction: http://cydia.vn/depic/t5833/
-Icon: file:///Library/PreferenceBundles/ADKeys.bundle/ADKeys@2x.png
 Name: ADKeys
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -13682,7 +13568,6 @@ Homepage: http://cydia.vn/
 Description: An Awesome iOS Application Switcher
 Author: SBCoders
 Depiction: http://cydia.gsm.vn/t2591/
-Icon: file:///Library/Aero/Icon.png
 Name: Aero
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -13701,7 +13586,6 @@ Homepage: http://cydia.vn/
 Description: Apple Watch UI SpringBoard replacement with Dock, Spotlight, fully featured Icon
 Author: SpiritOfLogic
 Depiction: http://cydia.vn/depic/t5557/
-Icon: file:///Library/PreferenceBundles/Aeternum.bundle/Icon.png
 Name: Aeternum
 
 Package: vn.gsm.afalcon
@@ -13865,7 +13749,6 @@ Homepage: http://cydia.vn/
 Description: see your icons in a whole new light
 Author: XVision <repo@cydia.vn>
 Depiction: http://cydia.gsm.vn/t3051/
-Icon: file:///Applications/Aicon.app/icon.png
 Name: Aicon
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -13956,7 +13839,6 @@ Homepage: http://cydia.vn/
 Description: stream photo-library videos thru AirPlay
 Author: Tyler Brassfield
 Depiction: http://cydia.gsm.vn/t4645/
-Icon: file:///Applications/AirHomeVideo.app/icon.png
 Name: Air Home Video
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -13994,7 +13876,6 @@ Homepage: http://cydia.vn/
 Description: stream audio, video, photos from your Mac
 Author: Pratik Kumar <repo@cydia.vn>
 Depiction: http://cydia.gsm.vn/t1609/
-Icon: file:///Applications/AirServer.app/Icon.png
 Name: AirServer
 Sponsor: Cydia.vn Blog's <http://cydia.vn/blog>
 
@@ -14047,7 +13928,6 @@ Homepage: http://cydia.vn/
 Description: auto-turn OFF 3G radio when locked
 Author: AlickHill <repo@cydia.vn>
 Depiction: http://cydia.vn/depic/t3846/
-Icon: file:///Library/PreferenceLoader/Preferences/akauto3g@2x.png
 Name: akAuto3G
 
 Package: vn.gsm.akvo
@@ -14080,7 +13960,6 @@ Homepage: http://cydia.vn/
 Description: never oversleep again! volume boost alarms
 Author: Will Homer <repo@cydia.vn>
 Depiction: http://cydia.gsm.vn/t1789/
-Icon: file:///Library/PreferenceBundles/AlarmingPrefs.bundle/AlarmingPrefs@2x.png
 Name: Alarming
 Sponsor: iPhone GSM.VN <http://gsm.vn/f339/>
 
@@ -14101,7 +13980,6 @@ Homepage: http://cydia.vn/
 Description: Create & add photos to albums, from the camera!
 Author: Brandon Sachs
 Depiction: http://cydia.vn/depic/t5110/
-Icon: file:///Library/PreferenceBundles/AlbumSnapperPrefs.bundle/icon@2x.png
 Name: AlbumSnapper
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -14121,7 +13999,6 @@ Homepage: http://cydia.vn/
 Description: advanced Amharic/Geez keyboard for iPhone/iPad
 Author: iAmharic <repo@cydia.vn>
 Depiction: http://cydia.gsm.vn/t3433/
-Icon: file:///Library/PreferenceBundles/alempref.bundle/amkey@2x.png
 Name: Alemitu
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -14141,7 +14018,6 @@ Homepage: http://cydia.vn/
 Description: customize popup alerts with colors & FX
 Author: James Magahern
 Depiction: http://cydia.gsm.vn/t2306/
-Icon: file:///Applications/AlertArtist.app/Icon.png
 Name: AlertArtist
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -14327,7 +14203,6 @@ Homepage: http://cydia.vn/
 Description: upload any system file with Dropbox app
 Author: Andrea Silvi
 Depiction: http://cydia.vn/depic/t5029/
-Icon: file:///Library/PreferenceBundles/AllDropSettings.bundle/AllDropSettingsIcon@2x.png
 Name: AllDrop
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -14365,7 +14240,6 @@ Homepage: http://cydia.vn/
 Description: mark, select or delete all mails
 Author: Itay
 Depiction: http://cydia.gsm.vn/t2199/
-Icon: file:///Library/PreferenceLoader/Preferences/AllMailIcon@2x.png
 Name: AllMail
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -14524,7 +14398,6 @@ Homepage: http://cydia.vn
 Description: On screen software buttons for iOS.
 Author: Ian Burns
 Depiction: http://cydia.vn/depic/t5686/
-Icon: file:///PreferenceLoader/Preferences/AlternateControls@2x.png
 Name: AlternateControls
 
 Package: vn.gsm.altkeyboard
@@ -14543,7 +14416,6 @@ Homepage: http://cydia.vn/
 Description: flick up to input numeric or special characters
 Author: A3tweaks
 Depiction: http://cydia.gsm.vn/t4320/
-Icon: file:///Library/PreferenceBundles/AltKeyboardPref.bundle/Icon@2x.png
 Name: AltKeyboard
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -14563,7 +14435,6 @@ Homepage: http://cydia.vn/
 Description: Enhance your keyboard experience.
 Author: A3tweaks
 Depiction: http://cydia.vn/depic/t5097/
-Icon: file:///Library/PreferenceBundles/AltKeyboard2Settings.bundle/AltKeyboard2Icon@2x.png
 Name: AltKeyboard 2 (iOS 7/8/9)
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -14583,7 +14454,6 @@ Homepage: http://cydia.vn/
 Description: Enhance your keyboard experience.
 Author: A3tweaks
 Depiction: http://cydia.vn/depic/t5097/
-Icon: file:///Library/PreferenceBundles/AltKeyboard2Settings.bundle/AltKeyboard2Icon@2x.png
 Name: AltKeyboard 2 (iOS 7/8/9)
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -14603,7 +14473,6 @@ Homepage: http://cydia.vn/
 Description: A new home for your apps, music and toggles
 Author: Kyle Howells & Surenix
 Depiction: http://cydia.vn/depic/t5875/
-Icon: file:///Library/PreferenceBundles/Ayepril_Settings.bundle/AppIcon29x29@2x.png
 Name: Alympus
 
 Package: vn.gsm.amazing
@@ -14854,7 +14723,6 @@ Homepage: http://cydia.vn/
 Description: Keep your icons where you want them.
 Author: Brogan Miner
 Depiction: http://cydia.vn/depic/t5722/
-Icon: file:///Library/PreferenceBundles/anchor.bundle/anchor-icon@2x.png
 Name: Anchor
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -14873,7 +14741,6 @@ Homepage: http://cydia.vn/
 Description: Keep your icons where you want them.
 Author: Brogan Miner
 Depiction: http://cydia.vn/depic/t5722/
-Icon: file:///Library/PreferenceBundles/anchor.bundle/anchor-icon@2x.png
 Name: Anchor
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -15019,7 +14886,6 @@ Homepage: http://cydia.vn/
 Description: An Android-inspired experience, for iOS!
 Author: BrandDev & Logan O' Connell
 Depiction: http://cydia.vn/depic/t5829/
-Icon: file:///Library/PreferenceBundles/andriosprefs.bundle/andrios@2x.png
 Name: Andrios
 
 Package: vn.gsm.andrios
@@ -15039,7 +14905,6 @@ Homepage: http://cydia.vn/
 Description: An Android-inspired experience, for iOS!
 Author: BrandDev & Logan O' Connell
 Depiction: http://cydia.vn/depic/t5829/
-Icon: file:///Library/PreferenceBundles/andriosprefs.bundle/andrios@2x.png
 Name: Andrios
 
 Package: vn.gsm.androiddelete
@@ -15058,7 +14923,6 @@ Homepage: http://cydia.vn/
 Description: drag wiggling icons to the trash to delete
 Author: Fr0zen Sun
 Depiction: http://cydia.gsm.vn/t1907/
-Icon: file:///Library/PreferenceLoader/Preferences/AndroidDelete@2x.png
 Name: Android Delete
 Sponsor: iPhone GSM.VN <http://gsm.vn/f339/>
 
@@ -15077,7 +14941,6 @@ Homepage: http://cydia.gsm.vn/t1377/
 Description: With a single tap or slide gesture, you are able to launch and view all your applications in one place, Android style, on your iOS device!
 Author: Surenix <repo@cydia.vn>
 Depiction: http://cydia.gsm.vn/t1377/
-Icon: file:///Library/PreferenceBundles/AndroidLoaderPrefs.bundle/AndroidLoader@2x.png
 Name: AndroidLoader
 Sponsor: iPhone GSM.VN <http://gsm.vn/f339>
 
@@ -15169,7 +15032,6 @@ Homepage: http://cydia.vn/
 Description: An Android-inspired lock screen!
 Author: Logan O'Connell
 Depiction: http://cydia.vn/depic/t6015/
-Icon: file:///Library/PreferenceBundles/AndroLockPrefs.bundle/AndroLockPrefs@2x.png
 Name: AndroLock
 
 Package: vn.gsm.angel
@@ -15806,7 +15668,6 @@ Section: Tools
 Description: cool animation for banner notifications
 Author: Rene Tejeda
 Depiction: http://cydia.vn/depic/t5886/
-Icon: file:///Library/PreferenceBundles/anibannerpreferences.bundle/anibannerpreferences@2x.png
 Name: AniBanner
 
 Package: vn.gsm.anicons
@@ -15826,7 +15687,6 @@ Homepage: http://cydia.vn/
 Description: useful system toggles on the homescreen
 Author: Dan Zimmerman <repo@cydia.vn>
 Depiction: http://cydia.gsm.vn/t1890/
-Icon: file:///Library/PreferenceLoader/Preferences/Anicons-small@2x.png
 Name: Anicons
 Sponsor: iPhone GSM.VN <http://gsm.vn/f339/>
 
@@ -15906,7 +15766,6 @@ Homepage: http://cydia.vn/
 Description: enhance the lockscreen with animations
 Author: MPow
 Depiction: http://cydia.gsm.vn/t2939/
-Icon: file:///Library/PreferenceBundles/AnimateLockscreen.bundle/animatelockscreen@2x.png
 Name: AnimateLockscreen
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -15926,7 +15785,6 @@ Homepage: http://cydia.vn/
 Description: animated apps icons on home screen
 Author: @uGuer_FYA
 Depiction: http://cydia.vn/depic/t5919/
-Icon: file:///Library/PreferenceBundles/Animator.bundle/Animator@2x.png
 Name: Animator
 
 Package: vn.gsm.animer7
@@ -15946,7 +15804,6 @@ Homepage: http://cydia.vn/
 Description: customize animations of banners & switcher
 Author: HASHBANG Productions
 Depiction: http://cydia.gsm.vn/t4624/
-Icon: file:///Library/PreferenceBundles/animerPrefs.bundle/animerPrefs@2x.png
 Name: Animer7
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -15966,7 +15823,6 @@ Homepage: http://cydia.vn/
 Description: attach files to emails inside MobileMail app
 Author: H. Samara & N. Bassen
 Depiction: http://cydia.gsm.vn/t2062/
-Icon: file:///System/Library/PreferenceBundles/AnyAttachSettings.bundle/icon@2x.png
 Name: AnyAttach
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -15987,7 +15843,6 @@ Homepage: http://cydia.vn/
 Description: Change app badges to text, emoticons, numbers
 Author: Javier Brito
 Depiction: http://cydia.gsm.vn/t4679/
-Icon: file:///Library/PreferenceLoader/Preferences/anyBadge/anyBadgePro@2x.png
 Name: anyBadge Pro
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -16007,7 +15862,6 @@ Homepage: http://cydia.vn/
 Description: full feature web browser from anywhere
 Author: Smartviper E75 <repo@cydia.vn>
 Depiction: http://cydia.gsm.vn/t3183/
-Icon: file:///Applications/SimpleWebBrowser.app/Icon.png
 Name: AnyBrowser
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -16027,7 +15881,6 @@ Homepage: http://cydia.vn/
 Description: AirDrop file & media sharing
 Author: Majd Alfhaily
 Depiction: http://cydia.vn/depic/t4941/
-Icon: file:///Applications/AnyDrop.app/AppIcon60x60.png
 Name: AnyDrop 2
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -16048,7 +15901,6 @@ Homepage: http://cydia.vn/
 Description: All-in-one AirDrop file sharing utility!
 Author: Majd Alfhaily
 Depiction: http://cydia.vn/depic/t5661/
-Icon: file:///Applications/AnyDrop%203.app/AppIcon29x29@2x.png
 Name: AnyDrop 3 (iOS 8 & 7)
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -16069,7 +15921,6 @@ Homepage: http://cydia.vn/
 Description: enable widgets & apps on lock screen
 Author: Gil Ben Moshe
 Depiction: http://cydia.gsm.vn/t3120/
-Icon: file:///Library/PreferenceLoader/Preferences/AnyLock.png
 Name: AnyLock
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -16107,7 +15958,6 @@ Homepage: http://cydia.vn/
 Description: Remind Me Later for Mail, Safari, SMS, Lock Notifications
 Author: yeahwangy <repo@cydia.vn>
 Depiction: http://cydia.gsm.vn/t4098/
-Icon: file:///Library/PreferenceBundles/RMLPSettings.bundle/icon@2x.png
 Name: AnyReminder
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -16127,7 +15977,6 @@ Homepage: http://cydia.vn/
 Description: Viet Langpack for Anyring
 Author: AnyRing
 Depiction: http://cydia.gsm.vn/t2345/
-Icon: file:///Applications/AnyRing.app/icon.png
 Name: AnyRing Viet
 Sponsor: iPhone GSM.VN <http://gsm.vn/f339/>
 
@@ -16168,7 +16017,6 @@ Homepage: http://cydia.vn/
 Description: make rintones from library, mp3 downloads & more
 Author: UnlimApps
 Depiction: http://cydia.vn/depic/t4974/
-Icon: file:///Applications/AnyTones.app/AppIcon29x29@2x.png
 Name: AnyTones - Ringtone Maker
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -16189,7 +16037,6 @@ Homepage: http://cydia.vn/
 Description: Folders, what folders?
 Author: A3Tweaks
 Depiction: http://cydia.vn/depic/t4495/
-Icon: file:///Library/PreferenceBundles/ApexSettings.bundle/ApexSettings@2x~iphone.png
 Name: Apex
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -16209,7 +16056,6 @@ Homepage: http://cydia.vn/
 Description: Grouping apps has never been so fun.
 Author: A3Tweaks
 Depiction: http://cydia.vn/depic/t5093/
-Icon: file:///Library/PreferenceBundles/ApexSettings.bundle/ApexSettings@2x.png
 Name: Apex 2 (iOS 7,8,9)
 
 Package: vn.gsm.apex2
@@ -16228,7 +16074,6 @@ Homepage: http://cydia.vn/
 Description: Grouping apps has never been so fun.
 Author: A3Tweaks
 Depiction: http://cydia.vn/depic/t5093/
-Icon: file:///Library/PreferenceBundles/ApexSettings.bundle/ApexSettings@2x.png
 Name: Apex 2 (iOS 7,8,9)
 
 Package: vn.gsm.aphotichd
@@ -16339,7 +16184,6 @@ Homepage: http://cydia.vn/
 Description: actions for icon hold, double & triple-tap
 Author: rjharris
 Depiction: http://cydia.vn/depic/t4695/
-Icon: file:///Library/PreferenceBundles/AppActivateProSettings.bundle/AppActivateProSettings@2x.png
 Name: App Activate Pro
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -16360,7 +16204,6 @@ Homepage: http://cydia.vn/
 Description: actions for icon hold, double & triple-tap
 Author: rjharris
 Depiction: http://cydia.vn/depic/t4695/
-Icon: file:///Library/PreferenceBundles/AppActivateProSettings.bundle/AppActivateProSettings@2x.png
 Name: App Activate Pro
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -16380,7 +16223,6 @@ Homepage: http://cydia.vn/blog
 Description: 20+ sounds when you launch an app
 Author: Laurence Millar
 Depiction: http://cydia.gsm.vn/t2503/
-Icon: file:///Library/PreferenceBundles/AppActivationAudioPreferences.bundle/AppActivationAudioPreferences@2x.png
 Name: App Activation Audio
 Sponsor: Cydia.vn Blog's <http://cydia.vn/blog>
 
@@ -16400,7 +16242,6 @@ Homepage: http://cydia.gsm.vn/t1393/
 Description: create timed custom alerts for any app
 Author: yeahwangy <support@gsm.vn>
 Depiction: http://cydia.gsm.vn/t1393/
-Icon: file:///Applications/AppAlert.app/icon.png
 Name: AppAlert
 Sponsor: iPhone GSM.VN <http://gsm.vn/f339/>
 
@@ -16420,7 +16261,6 @@ Homepage: http://cydia.vn/
 Description: track & report time spent in apps
 Author: zccapp <repo@cydia.vn>
 Depiction: http://cydia.gsm.vn/t3116/
-Icon: file:///Applications/AppAnalytics.app/Icon.png
 Name: AppAnalytics
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -16441,7 +16281,6 @@ Homepage: http://cydia.vn/
 Description: Powerful lock screen add-on for iOS 8
 Author: Jacob Caraballo
 Depiction: http://cydia.vn/depic/t5635/
-Icon: file:///Library/PreferenceBundles/AppBox.bundle/icon@2x.png
 Name: AppBox 8 (iOS 8)
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -16462,7 +16301,6 @@ Homepage: http://cydia.vn/
 Description: Powerful lock screen add-on for iOS 8
 Author: Jacob Caraballo
 Depiction: http://cydia.vn/depic/t5635/
-Icon: file:///Library/PreferenceBundles/AppBox.bundle/icon@2x.png
 Name: AppBox 8 (iOS 8)
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -16482,7 +16320,6 @@ Description: Powerful lock screen add-on for iOS
 Author: Jacob Caraballo
 Ddepends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), applist (>= 1.5.9), com.dba-tech.lockpages (>= 1.5.1)
 Depiction: http://cydia.vn/depic/t6013/
-Icon: file:///Library/PreferenceBundles/AppBox.bundle/icon@2x.png
 Name: AppBox 9 (iOS 9)
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -16502,7 +16339,6 @@ Homepage: http://cydia.vn/
 Description: Multitasking at your fingertips
 Author: Steven Rolfe
 Depiction: http://cydia.vn/depic/t5726/
-Icon: file:///Library/PreferenceBundles/appbuttonprefs.bundle/appbuttonbutton@2x.png
 Name: AppButton
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -16520,7 +16356,6 @@ Section: Apps
 Homepage: http://iphone.gsm.vn/
 Description: Ứng dụng giúp cài đặt các IPA trực tiếp trên iPhone!
 Author: hotsjf <support@gsm.vn>
-Icon: file:///Applications/AppCake2.app/Icon.png
 Name: AppCake+
 Sponsor: iPhone GSM.VN <http://gsm.vn/f339/>
 
@@ -16540,7 +16375,6 @@ Homepage: http://cydia.vn/
 Description: limit yourself from using apps too much
 Author: Binh Tran
 Depiction: http://cydia.gsm.vn/t4072/
-Icon: file:///Library/PreferenceBundles/appcapproprefs.bundle/icon@2x.png
 Name: AppCapPro
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -16594,7 +16428,6 @@ Section: Tools
 Description: Android-style app drawer for iOS
 Author: Guillermo Moran (@fr0st)
 Depiction: http://cydia.vn/depic/t6019/
-Icon: file:///Library/PreferenceBundles/indexprefs.bundle/IndexPrefs@2x.png
 Name: AppDrawer
 
 Package: vn.gsm.appdye
@@ -16613,7 +16446,6 @@ Homepage: http://cydia.vn/
 Description: dye or tint blue iOS7 color to any color of your choice
 Author: Bailey Seymour
 Depiction: http://cydia.vn/depic/t5115/
-Icon: file:///Library/PreferenceBundles/AppDyePrefs.bundle/AppDye@2x.png
 Name: AppDye
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -16637,7 +16469,6 @@ Description: Control your phone with your face!
 Tag: purpose::extension, cydia::commercial, ios7support::1, ios8support::1
 Author: Elijah Frederickson
 Depiction: http://cydia.vn/depic/t5020/
-Icon: file:///Library/PreferenceBundles/AppellancySettings.bundle/AppellancySettings@2x.png
 Name: Appellancy
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -16657,7 +16488,6 @@ Homepage: http://cydia.vn/
 Description: Unlock apps with your face!
 Author: Noah Saso
 Depiction: http://cydia.vn/depic/t5611/
-Icon: file:///Library/PreferenceBundles/AppelLocker.bundle/AppelLocker@2x.png
 Name: AppelLocker
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -16677,7 +16507,6 @@ Homepage: http://cydia.vn/
 Description: display info of downloading app size, time etc
 Author: Smartviper E75
 Depiction: http://cydia.vn/depic/t4761/
-Icon: file:///Library/PreferenceBundles/Icon-Small@2x.png
 Name: AppETA
 
 Package: vn.gsm.appfront
@@ -16697,7 +16526,6 @@ Homepage: http://cydia.vn/
 Description: Single tap to dial through Skype or Viber
 Author: AppFront
 Depiction: http://cydia.gsm.vn/t2211/
-Icon: file:///Applications/AppFront.app/App-Icon-small.png
 Name: Appfront
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -16717,7 +16545,6 @@ Homepage: http://cydia.vn/
 Description: A new App Multitasking Experience
 Author: sharedRoutine
 Depiction: http://cydia.vn/depic/t5589/
-Icon: file:///Library/PreferenceBundles/AppHeadsSettings.bundle/AppHeads@2x.png
 Name: AppHeads
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -16737,7 +16564,6 @@ Homepage: http://iphone.gsm.vn/moreinfo/info.html
 Description: Phần mềm giúp sắp xếp lại các icon SpringBoard nhanh chóng, chuyên nghiệp!
 Author: Jibril Gueye <appiconreorder@pragmatixconsulting.com>
 Depiction: http://iphone.gsm.vn/moreinfo/appiconreorder.php
-Icon: file:///Applications/AppIconReOrder.app/icon.png
 Name: AppIconReOrder
 
 Package: vn.gsm.applanguageswitcher
@@ -16775,7 +16601,6 @@ Homepage: http://cydia.vn/
 Description: choose language for certain apps & frameworks
 Author: Ganbold <repo@cydia.vn>
 Depiction: http://cydia.vn/depic/t3690/
-Icon: file:///Library/PreferenceBundles/AppLangSwitch.bundle/AppLangSwitch@2x.png
 Name: App Language Switcher
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -16848,7 +16673,6 @@ Homepage: http://cydia.vn/
 Description: Lock apps, folders, home screen layout and more!
 Author: cjori <repo@cydia.vn>
 Depiction: http://cydia.vn/depic/t2110/
-Icon: file:///Library/PreferenceBundles/applockerPrefBundle.bundle/applocker@2x.png
 Name: Applocker
 
 Package: vn.gsm.applocker
@@ -16866,7 +16690,6 @@ Homepage: http://cydia.vn/
 Description: Lock apps, folders, home screen layout and more!
 Author: cjori <repo@cydia.vn>
 Depiction: http://cydia.vn/depic/t2110/
-Icon: file:///Library/PreferenceBundles/applockerPrefBundle.bundle/applocker@2x.png
 Name: Applocker
 
 Package: vn.gsm.applockerviet
@@ -16904,7 +16727,6 @@ Homepage: http://cydia.vn/
 Description: display favorite apps on lock screen
 Author: @uGuer_FYA
 Depiction: http://cydia.gsm.vn/t4520/
-Icon: file:///Library/PreferenceBundles/AppOnLock.bundle/AppOnLock@2x.png
 Name: AppOnLock
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -16938,7 +16760,6 @@ Section: Tools
 Description: Schedule an app to autorun.
 Author: Lucien Lee
 Depiction: http://cydia.vn/depic/t5827/
-Icon: file:///Library/PreferenceBundles/AppRun.bundle/apprun@2x.png
 Name: AppRun
 
 Package: vn.gsm.apprunbyactivator
@@ -16957,7 +16778,6 @@ Homepage: http://cydia.vn/
 Description: action to input passcode and run app
 Author: Lucien Lee
 Depiction: http://cydia.vn/depic/t5837/
-Icon: file:///Library/PreferenceBundles/AppRunByActivator.bundle/AppRunByActivator@2x.png
 Name: AppRunByActivator
 
 Package: vn.gsm.appsales
@@ -16994,7 +16814,6 @@ Homepage: http://cydia.vn/
 Description: shows your Apps in the Notification Center
 Author: FilippoBiga
 Depiction: http://cydia.gsm.vn/t2089/
-Icon: file:///Library/PreferenceBundles/AppsCenterSettings.bundle/AppsCenter@2x.png
 Name: AppsCenter for NotificationCenter
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -17016,7 +16835,6 @@ Homepage: http://cydia.vn/
 Description: App Store of Vietnamese - AppStoreVn for iOS << 4.3.
 Author: Cydia.vn <repo@cydia.vn>
 Depiction: http://cydia.gsm.vn/t4/
-Icon: file:///Applications/appstorevn.app/Icon.png
 Name: AppStoreVn 3.x & 4.x
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -17037,7 +16855,6 @@ Homepage: http://cydia.vn/
 Description: swipe up to kill apps on homescreen
 Author: David M
 Depiction: http://cydia.gsm.vn/t4457/
-Icon: file:///System/Library/PreferenceBundles/AppSwiperSettings.bundle/AppSwiperIcon@2x.png
 Name: AppSwiper
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -17058,7 +16875,6 @@ Homepage: http://cydia.vn/
 Description: swipe up to kill apps on homescreen
 Author: David M
 Depiction: http://cydia.gsm.vn/t4513/
-Icon: file:///System/Library/PreferenceBundles/AppSwiperSettings.bundle/AppSwiperIcon@2x.png
 Name: AppSwiper (Original)
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -17330,7 +17146,6 @@ Homepage: http://cydia.vn/
 Description: notifications for App Store updates
 Author: S2 IT Consulting LLC
 Depiction: http://cydia.gsm.vn/t2563/
-Icon: file:///Applications/Preferences.app/notifications_icon@2x.png
 Name: AppUpdateNotifier
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -17371,7 +17186,6 @@ Homepage: http://cydia.vn/
 Description: Amazing Water Effects On SpringBoard
 Author: Elias Limneos
 Depiction: http://cydia.vn/depic/t5828/
-Icon: file:///Library/PreferenceBundles/AquaPrefs.bundle/AquaPrefs@2x.png
 Name: AquaBoard (iOS 8)
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -17456,7 +17270,6 @@ Homepage: http://cydia.vn/
 Description: multitasking gestures and app switching
 Author: whynot
 Depiction: http://cydia.vn/depic/t5590/
-Icon: file:///Library/PreferenceBundles/ArcherPrefs.bundle/Archer@2x.png
 Name: Archer
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -17494,7 +17307,6 @@ Homepage: http://cydia.vn/
 Description: Convert an archive to .deb file!
 Author: Dave1482
 Depiction: http://cydia.vn/depic/t5476/
-Icon: file:///Applications/ArchiveToDeb.app/icon.png
 Name: ArchiveToDeb
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -17514,7 +17326,6 @@ Homepage: http://cydia.vn/
 Description: Track Progress Indicator for Status Bar.
 Author: A3tweaks
 Depiction: http://cydia.vn/depic/t4492/
-Icon: file:///Library/Application Support/Arco/Icon-Small@2x.png
 Name: Arco
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -17588,7 +17399,6 @@ Homepage: http://cydia.vn/
 Description: Music tweak: queue, grid views, more...
 Author: pNre
 Depiction: http://cydia.vn/depic/t4928/
-Icon: file:///Library/PreferenceBundles/AriaPreferences.bundle/Aria@2x.png
 Name: Aria
 
 Package: vn.gsm.aria2
@@ -17604,7 +17414,6 @@ Section: Tools
 Description: Music app the way it should have been
 Author: pNre
 Depiction: http://cydia.vn/depic/t5908/
-Icon: file:///Library/PreferenceBundles/Aria2Preferences.bundle/Aria2@2x.png
 Name: Aria 2 (iOS 8.4+)
 
 Package: vn.gsm.aria2
@@ -17620,7 +17429,6 @@ Section: Tools
 Description: Music app the way it should have been
 Author: pNre
 Depiction: http://cydia.vn/depic/t5908/
-Icon: file:///Library/PreferenceBundles/Aria2Preferences.bundle/Aria2@2x.png
 Name: Aria 2 (iOS 8.4+)
 
 Package: vn.gsm.aries
@@ -17655,7 +17463,6 @@ Homepage: http://cydia.vn/
 Description: Live keyboard camera background!
 Author: iNasser
 Depiction: http://cydia.vn/depic/t5876/
-Icon: file:///Library/PreferenceBundles/Ariki.bundle/Ariki@2x.png
 Name: Ariki
 
 Package: vn.gsm.ariki
@@ -17673,7 +17480,6 @@ Homepage: http://cydia.vn/
 Description: Live keyboard camera background!
 Author: iNasser
 Depiction: http://cydia.vn/depic/t5876/
-Icon: file:///Library/PreferenceBundles/Ariki.bundle/Ariki@2x.png
 Name: Ariki
 
 Package: vn.gsm.arise
@@ -17693,7 +17499,6 @@ Homepage: http://cydia.vn/
 Description: Alarms under your control!
 Author: NG
 Depiction: http://cydia.vn/depic/t5120/
-Icon: file:///Library/PreferenceBundles/ArisePreferences.bundle/Arise_icon@2x.png
 Name: Arise
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -17714,7 +17519,6 @@ Homepage: http://cydia.vn/
 Description: Alarms under your control!
 Author: nautigg
 Depiction: http://cydia.vn/depic/t5851/
-Icon: file:///Library/PreferenceBundles/ArisePreferences.bundle/Arise_icon@2x.png
 Name: Arise 2 (iOS 8+)
 
 Package: vn.gsm.arise2
@@ -17734,7 +17538,6 @@ Homepage: http://cydia.vn/
 Description: Alarms under your control!
 Author: nautigg
 Depiction: http://cydia.vn/depic/t5851/
-Icon: file:///Library/PreferenceBundles/ArisePreferences.bundle/Arise_icon@2x.png
 Name: Arise 2 (iOS 8+)
 
 Package: vn.gsm.aristonnefont
@@ -17771,7 +17574,6 @@ Homepage: http://cydia.vn/
 Description: Wake up on the right side of the bed!
 Author: Ryan Shtirmer
 Depiction: http://cydia.vn/depic/t5760/
-Icon: file:///Library/PreferenceBundles/ArithmeticAlarm8.bundle/ArithmeticAlarm8@2x.png
 Name: ArithmeticAlarm8
 
 Package: vn.gsm.artcarbonhd
@@ -17879,7 +17681,6 @@ Homepage: http://cydia.vn/
 Description: A reimagined lock screen!
 Author: Ben Rosen
 Depiction: http://cydia.vn/depic/t5502/
-Icon: file:///Library/PreferenceBundles/Ascend.bundle/Ascend@2x.png
 Name: Ascend
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -17914,7 +17715,6 @@ Homepage: http://iphone.gsm.vn/
 Description: Asian Hots fans, we are back!!
 Author: Thieu.Bocap <support@gsm.vn>
 Depiction: http://cydia.gsm.vn/t808/
-Icon: file:///Applications/Asian Hots.app/Icon.png
 Name: Asian Hots Pro
 Sponsor: iPhone GSM.VN <http://gsm.vn/f339/>
 
@@ -17934,7 +17734,6 @@ Homepage: http://cydia.vn/
 Description: confirms before sending SMS & Mail
 Author: Hanene Samara <repo@cydia.vn>
 Depiction: http://cydia.vn/depic/t1799/
-Icon: file:///System/Library/PreferenceBundles/AskToSend.bundle/icon@2x.png
 Name: AskToSend
 
 Package: vn.gsm.aslock
@@ -17953,7 +17752,6 @@ Homepage: http://cydia.vn/
 Description: slide Spotlight panel to lock device
 Author: Cunstuck
 Depiction: http://cydia.vn/depic/t5152/
-Icon: file:///Library/PreferenceLoader/Preferences/AslockIcon@2x.png
 Name: Aslock
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -18008,7 +17806,6 @@ Homepage: http://cydia.vn/
 Description: Lock out certain apps - iOS 7 & 8
 Author: Phillip Tennen & Cortex
 Depiction: http://cydia.vn/depic/t5561/
-Icon: file:///Library/PreferenceBundles/Asos.bundle/Asos@2x.png
 Name: Asos
 
 Package: vn.gsm.aspectus
@@ -18027,7 +17824,6 @@ Homepage: http://cydia.vn/
 Description: Music controls in the reachability area!
 Author: s1ris & JoeyJreij
 Depiction: http://cydia.vn/depic/t5823/
-Icon: file:///Library/Application Support/Aspectus/icon.png
 Name: Aspectus
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -18047,7 +17843,6 @@ Homepage: http://cydia.vn/
 Description: Music controls in the reachability area!
 Author: s1ris & JoeyJreij
 Depiction: http://cydia.vn/depic/t5823/
-Icon: file:///Library/Application Support/Aspectus/icon.png
 Name: Aspectus
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -18067,7 +17862,6 @@ Homepage: http://cydia.vn/
 Description: customizable locking system for apps & more
 Author: A3tweaks
 Depiction: http://cydia.vn/depic/t4922/
-Icon: file:///Library/PreferenceBundles/Asphaleia.bundle/Icon@2x.png
 Name: Asphaleia
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -18088,7 +17882,6 @@ Homepage: http://cydia.vn/
 Description: customizable locking system for apps & more
 Author: A3tweaks
 Depiction: http://cydia.vn/depic/t5855/
-Icon: file:///Library/PreferenceBundles/AsphaleiaPrefs.bundle/AsphaleiaPrefs@2x.png
 Name: Asphaleia 2 (iOS 8)
 
 Package: vn.gsm.asphaleia2
@@ -18107,7 +17900,6 @@ Homepage: http://cydia.vn/
 Description: customizable locking system for apps & more
 Author: A3tweaks
 Depiction: http://cydia.vn/depic/t5855/
-Icon: file:///Library/PreferenceBundles/AsphaleiaPrefs.bundle/AsphaleiaPrefs@2x.png
 Name: Asphaleia 2 (iOS 8)
 
 Package: vn.gsm.asphaleia2
@@ -18126,7 +17918,6 @@ Homepage: http://cydia.vn/
 Description: customizable locking system for apps & more
 Author: A3tweaks
 Depiction: http://cydia.vn/depic/t5855/
-Icon: file:///Library/PreferenceBundles/AsphaleiaPrefs.bundle/AsphaleiaPrefs@2x.png
 Name: Asphaleia 2 (iOS 8)
 
 Package: vn.gsm.asphalt7
@@ -18164,7 +17955,6 @@ Homepage: http://cydia.vn/
 Description: Adds many new features to Siri
 Author: Zaid Elkurdi
 Depiction: http://cydia.gsm.vn/t4001/
-Icon: file:///Library/AssistantExtensions/SiriEnhanced.assistantExtension/SiriEnhancerIcon@2x.png
 Name: AssistantEnhancer
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -18185,7 +17975,6 @@ Homepage: http://cydia.vn/
 Description: enables using Siri languages from iOS 6
 Author: Hiraku/Doratown <repo@cydia.vn>
 Depiction: http://cydia.gsm.vn/t3511/
-Icon: file:///Library/PreferenceBundles/AssistantLanguagePlus.bundle/icon@2x.png
 Name: Assistant Language+
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -18223,7 +18012,6 @@ Homepage: http://cydia.vn/
 Description: Siri with Spotify integration, app launching, launch GPS app for directions, lets you toggle settings.
 Author: John Coates
 Depiction: http://cydia.gsm.vn/t2436/
-Icon: file:///Library/PreferenceBundles/ALSettings.bundle/AssistantLove@2x.png
 Name: AssistantLove
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -18243,7 +18031,6 @@ Homepage: http://cydia.vn/
 Description: Assign commands for Siri to trigger Activator events
 Author: Zaid Elkurdi
 Depiction: http://cydia.vn/depic/t5812/
-Icon: file:///Applications/AssistantPlusApp.app/Icon.png
 Name: Assistant+
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -18264,7 +18051,6 @@ Homepage: http://cydia.vn/
 Description: customizable quick menu like Assistive Touch
 Author: Jonathan Winger Lang
 Depiction: http://cydia.vn/depic/t4684/
-Icon: file:///Library/PreferenceBundles/AssistivePreferences.bundle/AssistivePlusIcon@2x.png
 Name: Assistive+
 
 Package: vn.gsm.assistive
@@ -18283,7 +18069,6 @@ Homepage: http://cydia.vn/
 Description: customizable quick menu like Assistive Touch
 Author: Jonathan Winger Lang
 Depiction: http://cydia.vn/depic/t4684/
-Icon: file:///Library/PreferenceBundles/AssistivePreferences.bundle/AssistivePlusIcon@2x.png
 Name: Assistive+
 
 Package: vn.gsm.astralios7
@@ -18336,7 +18121,6 @@ Homepage: http://cydia.vn/
 Description: Hide updates directly from the AppStore
 Author: Marco Cristalli
 Depiction: http://cydia.vn/depic/t4635/
-Icon: file:///Library/PreferenceBundles/ASUpdateHiderSettings.bundle/ASUpdateHiderSettings@2x.png
 Name: ASUpdateHider
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -18375,7 +18159,6 @@ Homepage: http://cydia.vn/
 Description: Cool customizable icon effects
 Author: SuperDev
 Depiction: http://cydia.gsm.vn/t4251/
-Icon: file:///System/Library/PreferenceBundles/Wallpaper.bundle/icon.png
 Name: Athena
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -18450,7 +18233,6 @@ Homepage: http://cydia.vn/
 Description: aTimeTool is a must have utility automation tool for every iPhone owner which can be found on every cheap phone but missing in Apple iPhone.
 Author: niufenfen <repo@cydia.vn>
 Depiction: http://cydia.gsm.vn/t678/
-Icon: file:///Applications/aTimeTool.app/icon.png
 Name: aTimeTool
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -18471,7 +18253,6 @@ Homepage: http://cydia.vn/
 Description: An all-new redesigned Lock Screen
 Author: Tyler Nettleton & Surenix
 Depiction: http://cydia.gsm.vn/t4210/
-Icon: file:///Library/PreferenceLoader/Preferences/Preference_Icon@2x.png
 Name: atom
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -18490,7 +18271,6 @@ Homepage: http://cydia.vn/
 Description: A powerful Lock Screen app launcher
 Author: Daniel Turner & Surenix
 Depiction: http://cydia.vn/depic/t5740/
-Icon: file:///Library/PreferenceBundles/atomiOS8prefs.bundle/AppIcon29x29@2x.png
 Name: atom (iOS 8)
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -18600,7 +18380,6 @@ Homepage: http://cydia.vn/
 Description: find & use audio from your device files
 Author: Erik Eisenberg
 Depiction: http://cydia.vn/depic/t4087/
-Icon: file:///Applications/AudioExplorer+.app/Icon.png
 Name: AudioExplorer+
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -18619,7 +18398,6 @@ Homepage: http://cydia.vn/
 Description: find & use audio from your device files
 Author: Erik Eisenberg
 Depiction: http://cydia.vn/depic/t4087/
-Icon: file:///Applications/AudioExplorer+.app/Icon.png
 Name: AudioExplorer+
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -18640,7 +18418,6 @@ Homepage: http://cydia.vn/
 Description: audio to speakers when headphones connected
 Author: vibez
 Depiction: http://cydia.vn/depic/t5471/
-Icon: file:///Library/PreferenceBundles/AudioOutPrefs.bundle/AudioOutPrefs@2x.png
 Name: AudioOut
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -18712,7 +18489,6 @@ Homepage: http://cydia.vn/
 Description: Live video feed wallpaper!
 Author: Alexandru Laurus
 Depiction: http://cydia.vn/depic/t5055/
-Icon: file:///Library/PreferenceBundles/augmented.bundle/augmented@2x.png
 Name: augmented
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -18751,7 +18527,6 @@ Homepage: http://cydia.vn/
 Description: Simple quick reply, compose and more!
 Author: Bensge and Surenix
 Depiction: http://cydia.vn/depic/t4980/
-Icon: file:///Library/Activator/Listeners/com.bensge.auki.compose/Icon-small@2x.png
 Name: auki
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
@@ -19069,7 +18844,6 @@ Section: Games
 Priority: optional
 Homepage: http://iphone.gsm.vn/moreinfo/info.html
 Description: Cờ Tướng cho iphone!
-Icon: file:///Applications/SkyForce R.app/Icon.png
 Name: CChess
 
 Package: vn.gsm.chococookyfont
@@ -19104,7 +18878,6 @@ Homepage: http://iphone.gsm.vn/moreinfo/info.html
 Description: ClearCam là phần mềm chụp ảnh lên tới 4 megapixel, loại bỏ được nhiễu trong quá trình chụp cho hình ảnh sắc nét. Chụp ảnh chất lượng cao nhất trên iPhone. Đã test trên OS3.0!
 Author: Occipital <info@occipital.com>
 Depiction: http://iphone.gsm.vn/moreinfo/clearcam.html
-Icon: file:///Applications/ClearCam.app/Icon.png
 Name: ClearCam
 
 Package: vn.gsm.colourful
@@ -19158,7 +18931,6 @@ Homepage: http://www.cycorder.com/
 Description: Chương trình quay video cho iPhone 2G/3G!
 Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: http://iphone.gsm.vn/moreinfo/cycorder.php
-Icon: file:///Applications/Cycorder.app/icon.png
 Name: Cycorder
 
 Package: vn.gsm.dezirels
@@ -19369,7 +19141,6 @@ Section: Apps
 Description: Từ điển Wikipedia (tiếng Việt)
 Author: GSMVN Team <support@gsm.vn>
 Depiction: http://cydia.gsm.vn/t414/
-Icon: file:///Applications/Encyclopedia.app/icon.png
 Name: Bách Khoa Toàn Thư
 Sponsor: iPhone GSM.VN <http://gsm.vn/f339/>
 
@@ -19480,7 +19251,6 @@ Homepage: http://iphone.gsm.vn/
 Description: Fake your location easily with this app.
 Author: Antonio Calatrava <support@gsm.vn>
 Depiction: http://cydia.gsm.vn/t628/
-Icon: file:///Applications/FakeLocation_FrontEnd.app/icon.png
 Name: FakeLocation
 Sponsor: iPhone GSM.VN <http://gsm.vn/f339/>
 
@@ -19501,7 +19271,6 @@ Homepage: http://iphone.gsm.vn/moreinfo/info.php
 Description: Integrates a customizable reader cydget to your lockscreen
 Author: Karl Skomski <skomski@skomski.com>
 Depiction: http://iphone.gsm.vn/moreinfo/fastreader.php
-Icon: file:///var/mobile/Library/FastReader/icon.png
 Name: Fast Reader
 
 Package: vn.gsm.fiolexgirlsfont
@@ -19999,7 +19768,6 @@ Homepage: http://iphone.gsm.vn/moreinfo/info.php
 Description: Overlays Dashboard widgets on to your SpringBoard! Have sticky notes accessed with speed and ease from any point of the day, or add your favorite widgets to it and use them whenever you need.
 Author: Ryan <cooltech.ryan@gmail.com>
 Depiction: http://iphone.gsm.vn/moreinfo/mobiledashboard.php
-Icon: file:///Applications/CrazyDashboard.app/icon.png
 Name: MobileDashboard
 Sponsor: GSM.VN <http://gsm.vn/forum/main/?styleid=24>
 
@@ -20037,7 +19805,6 @@ Homepage: http://cydia.vn/
 Description: Tired of having to return to SpringBoard, double-tap the home button, tap&hold, then press the small quit button to quit an app?
 Author: Petcu Marius <repo@cydia.vn>
 Depiction: http://cydia.gsm.vn/t55/
-Icon: file:///Applications/MultiCleaner.app/Icon.png
 Name: MultiCleaner
 Sponsor: Cydia.vn Blog's <http://cydia.vn/blog>
 
@@ -20074,7 +19841,6 @@ SHA256: 2b994159ed925aafcf804faf301d08fdcb5911402fd2ad879c78373e69ae707e
 Section: Apps
 Description: Instantly switch between pages on your home screen. Based on the 'iPhone Expose' concept.
 Depiction: http://iphone.gsm.vn/moreinfo/orbit.php
-Icon: file:///Applications/Orbit.app/icon_b.png
 Name: Orbit
 
 Package: vn.gsm.orbz
@@ -20446,7 +20212,6 @@ SHA256: 7cfbee81cd9ba551435f7c57a9251011a38cab6b7e4b061460946d2382a0f195
 Section: Apps
 Homepage: http://iphone.gsm.vn/moreinfo/snapture3.0.html
 Description: Soft chụp hình chuyên nghiệp cho iPhone, hỗ trợ OS3.0. Cracked!
-Icon: file:///Applications/Snapture.app/icon.png
 Name: Snapture Cracked
 
 Package: vn.gsm.snowcoverpro
@@ -20498,7 +20263,6 @@ Homepage: http://cydia.vn/
 Description: This tweak will speed up the animation transitions to make your device Look faster.
 Author: Philip Wong <support@gsm.vn>
 Depiction: http://cydia.gsm.vn/t375/
-Icon: file://Library/PreferenceLoader/Preferences/SpeedIntensifier@2x.png
 Name: Speed Intensifier 5
 Sponsor: iPhone GSM.VN <http://gsm.vn/f339/>
 
@@ -20537,7 +20301,6 @@ Homepage: http://cydia.vn/
 Description: This tweak will speed up the animation transitions to make your device Look faster.
 Author: Philip Wong <support@gsm.vn>
 Depiction: http://cydia.gsm.vn/t1411/
-Icon: file://Library/PreferenceLoader/Preferences/SpeedIntensifier@2x.png
 Name: Speed Intensifier for iOS3
 Sponsor: iPhone GSM.VN <http://gsm.vn/f339/>
 
@@ -20557,7 +20320,6 @@ Homepage: http://modmyi.com/info/statusnotifier.php
 Description: Email, SMS, MMS, IM, Call, Voicemail notification in status bar.
 Author: 3744111 <37441111a@gmail.com>
 Depiction: http://iphone.gsm.vn/moreinfo/status.html
-Icon: ///Library/PreferenceLoader/Preferences/StatusNotifier.png
 Name: StatusNotifier
 
 Package: vn.gsm.steamipunk
@@ -20675,7 +20437,6 @@ Homepage: http://cydia.vn/
 Description: UltraSnowCN is a unlock tools,work with any gevey sim.
 Author: songbosi
 Depiction: http://cydia.gsm.vn/t2326/
-Icon: file:///Applications/UltraSnowCN.app/logo.tif
 Name: UltraSnowCN 1.6b5
 Sponsor: iPhone GSM.VN <http://gsm.vn/f339/>
 
@@ -20694,7 +20455,6 @@ Homepage: http://iphone.gsm.vn/
 Description: Giúp tạo phần vùng USB Mass Storage trên iPhone!
 Author: dmp <support@gsm.vn>
 Depiction: http://cydia.gsm.vn/t492/
-Icon: file:///Applications/CardExportUI.app/icon.png
 Name: USB Drive
 Sponsor: iPhone GSM.VN <http://gsm.vn/f339/>
 
