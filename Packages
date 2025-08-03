@@ -2990,7 +2990,7 @@ SHA256: 7d8d484d669ba4e3c6e71b1a1f10cde4f9a9eed48d1103ec0acbda96f0016362
 Section: Utilities
 Description: This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps
 Author: TIGI Software
-Name: Apps Manager
+Name: Applications Manager
 
 Package: com.tigisoftware.filza
 Version: 3.9.7-2
@@ -7964,7 +7964,7 @@ Size: 5088
 MD5sum: 442ca09444b201151d8cf5c08887820c
 SHA1: 3e9d0b5b81c3538649e9d98f75a163c130fabe86
 SHA256: 0dcaca913d878a4e1e6187bc4f8709754bd6b7d12d8457bc1f5b3073bf7eb52e
-Section: Apps
+Section: Applications
 Homepage: https://neutronfile.org
 Description: VPN 360 - Unlimited VPN Proxy Premium Subscribtion
 Author: pxcex
@@ -7986,7 +7986,7 @@ Size: 9298
 MD5sum: f2c3cf2909ca6b825f5331dd24eef6cc
 SHA1: cc0c7fafd479735733337bc8f47bcef00a40189b
 SHA256: 158c49f6a9754f6739e6dab4c01f5f660e7232692dad36ba595a6f2b0eca80ec
-Section: Apps
+Section: Applications
 Homepage: https://neutronfile.org
 Description: Download Lagu, Playlist dan Semua lagu yang dilike, mainkan secara offline mode untuk menghemat data, No Ads dan Menu Developer Mode.
 Author: pxcex
@@ -8008,7 +8008,7 @@ Size: 113768
 MD5sum: 8b89657199d75aefb4f3ddb87ef798b7
 SHA1: 4ac0c2bd14918df77d8f650cd8acc216366ad10c
 SHA256: d1decbdefddf294aedca0f2ee13b6cd16bbfa903e063e815dd039746317fab55
-Section: Apps
+Section: Applications
 Homepage: https://neutronfile.org
 Description: AdGuard — adblock&privacy Premium!
 Author: pxcex
@@ -8030,7 +8030,7 @@ Size: 82098
 MD5sum: a9d0d66280f3b7bd27b5d64fb74e92af
 SHA1: 7277dd93d49d80f784860c91b68560522df61036
 SHA256: 996d81388e7e9ff82c1835589d2646eacc263bf637719ff94e5787ccf0b21fd8
-Section: Apps
+Section: Applications
 Homepage: https://neutronfile.org
 Description: Subscription Export Unlimited!
 Author: pxcex
@@ -8052,7 +8052,7 @@ Size: 114276
 MD5sum: 98c4fded445ce9edc5da67e5fe311951
 SHA1: af70fb4cd1ed4ec33e715a1027230e921d389499
 SHA256: b2f66fbc4aa69a0a14d87617a13bae39978cfaa139b1f017283a3493db36a328
-Section: Apps
+Section: Applications
 Homepage: https://neutronfile.org
 Description: Adobe Spark Page Subscription. Remove Adobe Branding from your project. Enjoy!
 Author: pxcex
@@ -8074,7 +8074,7 @@ Size: 116602
 MD5sum: 515445a4b3e4b5efceb8c8817285cc2c
 SHA1: 33e3e888a5b5a1827ebe100f090b3e419ecf470e
 SHA256: e4c71b598882ee194dc5f5a1ae60bd7e0bf62cda0646054c216f789547efedcf
-Section: Apps
+Section: Applications
 Homepage: https://neutronfile.org
 Description: Adobe Spark Post Spark Subscription.
 Author: pxcex
@@ -8096,7 +8096,7 @@ Size: 116198
 MD5sum: ef6d24a94840ab261466dc04a9ec692a
 SHA1: 9f9e1e5627dae1a505e5111991de3286834e1fc9
 SHA256: 020d9debcef5290e67d3465bb1185a7a2bea47619e3645a33f7a655d14253466
-Section: Apps
+Section: Applications
 Homepage: https://neutronfile.org
 Description: Adobe Spark Video Spark Subscription.
 Author: pxcex
@@ -8162,7 +8162,7 @@ Size: 81728
 MD5sum: 1a4aa31432dab4ece4a5d38aea97e597
 SHA1: 4e35f816d491c51de68f45b33511aff0bfe40e2b
 SHA256: 3629f1141429116fe7835d16e1242dfed1643bd74386666b40c9b75d32d5df46
-Section: Apps
+Section: Applications
 Homepage: https://neutronfile.org
 Description: Subscription Life Time!
 Author: pxcex
@@ -8184,7 +8184,7 @@ Size: 117362
 MD5sum: 4920654fb51943dd5ee9fd05f7889713
 SHA1: 2e44fe76b8d3e0a6c31a01519bce4805e7258d6b
 SHA256: edd5158fbe3df406294426cdc6c0d660711f691446d4212b75bd17df626c3dea
-Section: Apps
+Section: Applications
 Homepage: https://neutronfile.org
 Description: VIP Lifetime!
 Author: pxcex
@@ -8290,7 +8290,7 @@ Size: 121604
 MD5sum: 3968d71676d742bb97d44b9616190938
 SHA1: 912a086d6fe7be292cd066bef36adc35f0d96b5a
 SHA256: 429bd525ca2049a8f5d7cbdc10221a09204080947b43f316aaedfbc126c3b528
-Section: Apps
+Section: Applications
 Homepage: https://neutronfile.org
 Description: Premium Lifetime.
 Author: pxcex
@@ -8312,7 +8312,7 @@ Size: 114522
 MD5sum: 050e3789c544284b4356d469f61fb126
 SHA1: 100a879b7c4a0d7dd072178a008020b862acb2fa
 SHA256: f7dda7abf77810eb23fe243a674234b40fe2467284af55af4175e7759c7f662f
-Section: Apps
+Section: Applications
 Homepage: https://neutronfile.org
 Description: Lifetime unlimited access.
 Author: pxcex
@@ -8437,7 +8437,7 @@ Size: 120164
 MD5sum: dc79e3137f5c7cb4ebcb72ad67523950
 SHA1: 9ee1ebef3c0fe56fea21b7853fd491ed45add0c9
 SHA256: af4d5c11cfae62d6dc62ef78f9c784c46b81ffe5efc094330626cb0f3180f5ec
-Section: Apps
+Section: Applications
 Homepage: https://neutronfile.org
 Description: InShot Pro lifetime.
 Author: pxcex
@@ -8501,7 +8501,7 @@ Size: 115168
 MD5sum: 465fec9e4b62c438f4b2fa4c75e35505
 SHA1: 49749ae6a841fce31394bb4edb17297c4c7dfab5
 SHA256: 075baa8ee104edffe640356a77642b1c7c83665c03bb4a7da0cefcc2b59567e1
-Section: Apps
+Section: Applications
 Homepage: https://neutronfile.org
 Description: Subscription Lifetime.
 Tag: purpose::extension, compatible_max::ios15.x
@@ -8652,7 +8652,7 @@ Size: 116096
 MD5sum: 7a29de31bf1762db82a843ff2e5b86cf
 SHA1: 1df16fb511132db508b49d19286ee049a2d9fc07
 SHA256: 1e5a62d1b6858e725b3f9c8c1980980778f73d685cab239a72db63d17fc2726d
-Section: Apps
+Section: Applications
 Homepage: https://neutronfile.org
 Description: OfficeSuite & PDF editor
 Author: pxcex
@@ -8674,7 +8674,7 @@ Size: 82198
 MD5sum: 80bb10dd77af5e7b70d2d7b35878ae36
 SHA1: 548423f415066cccddbdb259006dd0debde8259a
 SHA256: fe3bae7bf20b7ea06d8b36a3e22bf5263d1dc6421bdc1cbb20763ee06b95f2bb
-Section: Apps
+Section: Applications
 Homepage: https://neutronfile.org
 Description: PicsArt Gold.
 Tag: purpose::extension, compatible_max::ios15.x
@@ -8697,7 +8697,7 @@ Size: 115874
 MD5sum: 6109c2b98998ac20f218e85df87709d0
 SHA1: 7b67036c69173cfa6a3241cdbf9626d1368500ca
 SHA256: cba20e3082cc7294ba4393e2223371bb62508474566ef8b63ade0599d95dd795
-Section: Apps
+Section: Applications
 Homepage: https://neutronfile.org
 Description: Polaris Office - PDF & Docs Premium Service.
 Author: pxcex
@@ -8719,7 +8719,7 @@ Size: 9844
 MD5sum: bfa89c01632b5703b7abcb70bfa11fd2
 SHA1: 08b5aad1ff64061ea8c9e335e0ed4ea4936cf2e9
 SHA256: 40cee9b4e519cb93633948ec813e59b75f20c27fdc2f5d1b24b9650df3b7cb71
-Section: Apps
+Section: Applications
 Homepage: https://neutronfile.org
 Author: NeutronFile
 Depiction: https://apt.neutronfile.org/description.html?id=org.neutronfile.psiphonpro
@@ -8785,7 +8785,7 @@ Size: 113888
 MD5sum: 532c4b7beae921f1d2c443eab840e992
 SHA1: f18e0bfd4451a19e03dcec9ccc01f50cc9ee6b50
 SHA256: 927b6e3d46f83d6bdd188241f0ca95c795c2bf4c0ce1078be05a16c26a3db305
-Section: Apps
+Section: Applications
 Homepage: https://neutronfile.org
 Description: Star VPN: Unlimited WiFi Proxy Premium!
 Author: pxcex
@@ -8807,7 +8807,7 @@ Size: 125364
 MD5sum: ae44b8a6cc993d2d43e78f612943481e
 SHA1: a45aceca58acd8e999a21cd6bec6750674d168a7
 SHA256: a1c0a2125cdcbbf02affab20a7d86161d4972e97a4f6aee0ff86786fc95633d6
-Section: Apps
+Section: Applications
 Homepage: https://neutronfile.org
 Description: Download TikTok videos without watermark.
 Author: pxcex
@@ -8829,7 +8829,7 @@ Size: 113604
 MD5sum: cf65c2c4ee247a5490489aedd2370bd7
 SHA1: 5cbbbe2abd747a61cf631ad8e95c8c68c1fff553
 SHA256: 60a4661275d191f1491ecfc053bf09cb6ca23d49820fa76d2d07217faf163059
-Section: Apps
+Section: Applications
 Homepage: https://neutronfile.org
 Description: Touch VPN — Unlimited Proxy Premium!
 Author: pxcex
@@ -8851,7 +8851,7 @@ Size: 5792
 MD5sum: d51bfcdeffb9b8986802c484c12e44e2
 SHA1: 7fa83c1ce8ae07bc251ff4dbf26f55cbebf3cfb9
 SHA256: 4dbab8ccafcd4e7606abc764ed2ac3caae2bb24449fcd6aaec0ee489101ddc3e
-Section: Apps
+Section: Applications
 Homepage: https://neutronfile.org
 Description: VIP Plan Lifetime.
 Author: pxcex
@@ -8873,7 +8873,7 @@ Size: 114036
 MD5sum: 5c5952d015f69141e2a4a38014272ff0
 SHA1: cd48fbee887a5ac31bc77426d3dc1777d20b9778
 SHA256: dcb029bcd0c8546e072a49f16f7c147809a4eecd800b0729f7152236dbe2ef70
-Section: Apps
+Section: Applications
 Homepage: https://neutronfile.org
 Description: Video Star Gold Pass (All Access Pass)
 Author: pxcex
@@ -8915,7 +8915,7 @@ Size: 88860
 MD5sum: db20a37cd42a016ac008cba6bbf289cf
 SHA1: 8ed87c740512b8b7098fe52292d9dd944a389360
 SHA256: 77bac7cbf3551bee5b484bfc43bec88fbf53174db608129b2659fe90b996a177
-Section: Apps
+Section: Applications
 Homepage: https://neutronfile.org
 Description: VivaVideo VIP for Free!
 Author: pxcex
@@ -8937,7 +8937,7 @@ Size: 113568
 MD5sum: d435f89677572c7c7d9847d174cceeb1
 SHA1: c34e3d8bec68f86f8fb6837a66c803e0bd2e3e9d
 SHA256: 29af3734645aef74b82246cb5b2d64e22d94f7531d2a9c71facbb4c7f793fce3
-Section: Apps
+Section: Applications
 Homepage: https://neutronfile.org
 Description: VPN Aegis Unlimited VPN Proxy Premium!
 Author: pxcex
@@ -8959,7 +8959,7 @@ Size: 124304
 MD5sum: a87323284f3e99be50da19ee373402f8
 SHA1: 4206c69c0932f2509151dd81611356a2af0d47b1
 SHA256: 15f010e845ba4e87259b43e9300f566891d35cfb54fc6a750316ddf01c7b706a
-Section: Apps
+Section: Applications
 Homepage: https://neutronfile.org
 Description: Unlimited VPN VIP!
 Author: pxcex
@@ -8981,7 +8981,7 @@ Size: 79436
 MD5sum: e34f00aac35f43916f11bb91dcabb822
 SHA1: cce5aab6905995e27ae84f8220f6c57df883d438
 SHA256: c95e9d064d3a02736674f8b1a23f68db3e33116f0e9a511784e545e57f0222d5
-Section: Apps
+Section: Applications
 Homepage: https://neutronfile.org
 Description: VSCO X permanent, Path from tweak LocallAPStore.
 Author: pxcex
@@ -9003,7 +9003,7 @@ Size: 6654
 MD5sum: 4d4e63c2e84e88b52838235bf1e9f2a8
 SHA1: ec821ee730b1cd4168e449c467f33c9344225814
 SHA256: 60f0349cc55c1b6bffea7f607d928e93662c1d0694e59186ec4b93c1c846e18d
-Section: Apps
+Section: Applications
 Homepage: https://neutronfile.org
 Description: Super VIP Lifetime.
 Author: pxcex
@@ -10970,7 +10970,7 @@ Size: 643482
 MD5sum: cfae09b642be12db235eb37e1e530077
 SHA1: ba0fb0dbae43ec4a16c0a1e13ffed1b4576d7187
 SHA256: 4bd2efca11aecc833ed2853da0e22587ae2b80cf3946616582d9429a0d218570
-Section: Apps
+Section: Applications
 Homepage: http://cydia.vn/
 Description: App Store of Vietnamese - AppStoreVn.
 Author: Thieu.Bocap <support@gsm.vn>
@@ -11160,7 +11160,7 @@ Size: 338744
 MD5sum: 25abff5262213adb1e5a2cbdffd542d5
 SHA1: d39cd207d4b820bfd192797affeb0fc006fa4bf6
 SHA256: 035a047dd77ebb44a93df718d7cb7e92638d06f629d67964a106a926a82c8c9d
-Section: Apps
+Section: Applications
 Homepage: http://iphone.gsm.vn/moreinfo/info.html
 Description: Giao diện tiếng Việt cho iPhone OS 3.1
 Author: Ly Hoai Nam <quyduc84@yahoo.com>
@@ -11646,7 +11646,7 @@ Size: 37064420
 MD5sum: fa3a17e13e91f0fab09a4032898ee8cb
 SHA1: e3abd7bbec01d84af6c61ddfc34e9b70e0849b33
 SHA256: 49f453ab572d5e96d0d62f76b83790f1e80a9efcc8aa5ec12df361be00e5051e
-Section: Apps
+Section: Applications
 Homepage: http://cydia.vn/
 Description: Kho tải ứng dụng, nhạc chuông, hình nền, ebook lớn nhất Việt Nam cho iDevices.
 Author: Cydia.vn <repo@cydia.vn>
@@ -11666,7 +11666,7 @@ Size: 27418060
 MD5sum: 9e79fbbb378d20669553ed047cb791ab
 SHA1: 7436d9b9076ece3f07d50f02c574f5907e04d9ef
 SHA256: 7c51d4008862dbf6aef585a401df8621d83e22d037ab7292732a14fa41cdb70a
-Section: Apps
+Section: Applications
 Homepage: http://cydia.vn/
 Description: Appvn phiên bản cho iOS 5 - kho tải lớn nhất Việt Nam.
 Author: Cydia.vn <repo@cydia.vn>
@@ -11812,7 +11812,7 @@ Size: 738708
 MD5sum: 34aa7da00f045b23a20413bf491000f8
 SHA1: 14482a9ad79c35cd6d9323f1d54b9b4f62ea19fb
 SHA256: aeca59995ce1db7906a2c6eaabf796306bf7c127ce7b9cb271fb74ee42a32909
-Section: Apps
+Section: Applications
 Description: Xem ngày tốt xấu, hướng xuất hành...
  Các tính năng chính của chương trình:
   Giao diện đồ hoạ (khá giống với giao diện Lịch Phù Đổng trên PPC)
@@ -12669,7 +12669,7 @@ Size: 190408
 MD5sum: 93f46d57334c0ef3ea95d36a8094f711
 SHA1: 10e2e77a56acf5c79cb6e2c057c93e6812aa31ec
 SHA256: 9be9c677afda386f94ddd5b7969d7156eff18bd2be5c589b061e47c5b4d1ca97
-Section: Apps
+Section: Applications
 Homepage: http://www.ixtension.com
 Description: Quản lý cuộc gọi, tin nhắn cho iPhone. Chỉ hoạt động trên FW3.0!
 Author: iXtension k.s.
@@ -13347,7 +13347,7 @@ Size: 361524
 MD5sum: fc80900eb4ce65a9cc39cc2172689e22
 SHA1: 4362e7e859467d7b0cc8bdabe9a622c0d54d4d99
 SHA256: 3532fb623d597d9291caa97a41df96c38c118f9abf728e79b2dc16c0d1faad02
-Section: Apps
+Section: Applications
 Priority: optional
 Homepage: http://iphone.gsm.vn/
 Description: AdBlock chặn quảng cáo trong Safari
@@ -14161,7 +14161,7 @@ Size: 57742
 MD5sum: 186ad63829e6a7ef98f973e57504bf05
 SHA1: bb41c613e813d6d1f3f0af2bc1f0014984f6a846
 SHA256: 51b16f6a2add1c10c003a8ba0997cc6b95c4b11c01a5fe7cd0308dddd2ae6ff9
-Section: Apps
+Section: Applications
 Homepage: http://cydia.vn/
 Description: upload any system file with Box app
 Author: Andrea Silvi
@@ -14936,7 +14936,7 @@ Size: 79652
 MD5sum: f7d0415091df7eeb79542c0968510bd3
 SHA1: 48144e33e15db63f965285827a88123afb7ced60
 SHA256: 581c00e1c45ce289aacc5e64d372248b9fe6c5e59023b2b931b90157dd6b3603
-Section: Apps
+Section: Applications
 Homepage: http://cydia.gsm.vn/t1377/
 Description: With a single tap or slide gesture, you are able to launch and view all your applications in one place, Android style, on your iOS device!
 Author: Surenix <repo@cydia.vn>
@@ -16256,7 +16256,7 @@ Size: 1078582
 MD5sum: 030af829003de13a0b05a9b4e73333a1
 SHA1: 5b1b946ae9009307fc0219709983d1ff2924fdc4
 SHA256: 738b6258d4e63a2303ae9c2c94b8ef10007d9483e9a7e6eafadd38c9897f67d2
-Section: Apps
+Section: Applications
 Homepage: http://cydia.vn/
 Description: track & report time spent in apps
 Author: zccapp <repo@cydia.vn>
@@ -16352,7 +16352,7 @@ Size: 1034738
 MD5sum: a691d82a22f1776480e6abf8b8e03508
 SHA1: bfb5e90b76f266782d6cf1b267719db77379a9ca
 SHA256: 91d983ba5c2a7e1e007c9935eae4ea4fa098ce901d20b3dc6c6ae10245baa548
-Section: Apps
+Section: Applications
 Homepage: http://iphone.gsm.vn/
 Description: Ứng dụng giúp cài đặt các IPA trực tiếp trên iPhone!
 Author: hotsjf <support@gsm.vn>
@@ -16559,7 +16559,7 @@ Size: 324658
 MD5sum: 1d5f91064eb5cbd09f0f2580f14be553
 SHA1: 67766c51e58c529f1c809bff5f16b8ab07d68049
 SHA256: 09f18f3cda5bfc85276035d32d8006d91c1b12d9b91658c06c3af0c708304c2a
-Section: Apps
+Section: Applications
 Homepage: http://iphone.gsm.vn/moreinfo/info.html
 Description: Phần mềm giúp sắp xếp lại các icon SpringBoard nhanh chóng, chuyên nghiệp!
 Author: Jibril Gueye <appiconreorder@pragmatixconsulting.com>
@@ -16814,7 +16814,7 @@ Homepage: http://cydia.vn/
 Description: shows your Apps in the Notification Center
 Author: FilippoBiga
 Depiction: http://cydia.gsm.vn/t2089/
-Name: AppsCenter for NotificationCenter
+Name: ApplicationsCenter for NotificationCenter
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
 Package: vn.gsm.appstorevn
@@ -16830,7 +16830,7 @@ Size: 466394
 MD5sum: bef0fe2d8236499b59e17a7f8878758b
 SHA1: d621fd418b0aeed8e5d14084b6a976c9c96792b4
 SHA256: 722edba75f2244de79cfa8bbdfd4533b1b15059308a33f7786070dd34a320605
-Section: Apps
+Section: Applications
 Homepage: http://cydia.vn/
 Description: App Store of Vietnamese - AppStoreVn for iOS << 4.3.
 Author: Cydia.vn <repo@cydia.vn>
@@ -17710,7 +17710,7 @@ Size: 2281394
 MD5sum: 03ea3241e0a542ab1b13ee778d3e3563
 SHA1: 7152760525431b6568a382eb30de3a6fd88a28d8
 SHA256: f5d6e9c2963770e62979b0ed602580fe1d45434e680efbdee7fb544ccb9a8376
-Section: Apps
+Section: Applications
 Homepage: http://iphone.gsm.vn/
 Description: Asian Hots fans, we are back!!
 Author: Thieu.Bocap <support@gsm.vn>
@@ -18228,7 +18228,7 @@ Size: 896966
 MD5sum: b97936d7b87c8676e5201c32564bb56d
 SHA1: 1bb1eeb71c108dec9ba7842aa9dd54fb4db244dd
 SHA256: 6ad2c52417d3648c1c25d9dd11b05b442662e1e646b69c161fe4c5fc2c0d23f6
-Section: Apps
+Section: Applications
 Homepage: http://cydia.vn/
 Description: aTimeTool is a must have utility automation tool for every iPhone owner which can be found on every cheap phone but missing in Apple iPhone.
 Author: niufenfen <repo@cydia.vn>
@@ -18306,7 +18306,7 @@ Size: 64866
 MD5sum: e63df642ad15e59dad7d90ffb126802e
 SHA1: e82e4f3d77761d73f296cae8260a0983c58b1406
 SHA256: 8f0d1e87ade66fa95717961db1d65ccf2c0d538286ac3400a50332366e928b1b
-Section: Apps
+Section: Applications
 Priority: Standard
 Homepage: http://iphone.gsm.vn/moreinfo/info.html
 Description: Add-on cho Mail mặc định của iPhone, giúp download attachment về iPhone!
@@ -18375,7 +18375,7 @@ Size: 1146424
 MD5sum: 3de2a499bf356832df9a2d6e0874d570
 SHA1: 0c63db796c024faafec4e3ae9de33b4e50fb3c67
 SHA256: 26a20f3766d211983d4a3acc348568c21c35ec7eeab09f642c5edd04eccd1e7f
-Section: Apps
+Section: Applications
 Homepage: http://cydia.vn/
 Description: find & use audio from your device files
 Author: Erik Eisenberg
@@ -18393,7 +18393,7 @@ Size: 1249282
 MD5sum: fe5b6118895c0441fae9613047a89d15
 SHA1: 129a72b30dc658fd501bf87a88044b473f51c68d
 SHA256: ab58b0881a611f7425ae9fcdc5c445cbd81ce6dd6aeb7356b44ab143abdd46b8
-Section: Apps
+Section: Applications
 Homepage: http://cydia.vn/
 Description: find & use audio from your device files
 Author: Erik Eisenberg
@@ -18873,7 +18873,7 @@ Size: 624632
 MD5sum: 83d270581d819f2c8c720fb2c4a66b47
 SHA1: 91cce1de0afe0d8d8a5f6f6c6121b9c1c1853c11
 SHA256: 649f1ee642c823ed0b555a68ba03ca1f4806bc55eb04b9ec52700e9d907bb403
-Section: Apps
+Section: Applications
 Homepage: http://iphone.gsm.vn/moreinfo/info.html
 Description: ClearCam là phần mềm chụp ảnh lên tới 4 megapixel, loại bỏ được nhiễu trong quá trình chụp cho hình ảnh sắc nét. Chụp ảnh chất lượng cao nhất trên iPhone. Đã test trên OS3.0!
 Author: Occipital <info@occipital.com>
@@ -18925,7 +18925,7 @@ Size: 792790
 MD5sum: bbe57da90d54d83da1c6a4f25114d682
 SHA1: ee86f441c61c77e303fcaf1593708ccf1418a1f9
 SHA256: a7fc85666a879f16cfeabd6e9313293feb03238098961f1b1480ea235c8944e1
-Section: Apps
+Section: Applications
 Priority: optional
 Homepage: http://www.cycorder.com/
 Description: Chương trình quay video cho iPhone 2G/3G!
@@ -19137,7 +19137,7 @@ Size: 142068
 MD5sum: 186539c7fa6091df1182ad3d25c53150
 SHA1: feaa14edb2460a13192b8ffba61da3fb38126c3e
 SHA256: 0a82e306c5cc14b3c5da588c45385c4bc8d661062c1280f54311fb98f3c13644
-Section: Apps
+Section: Applications
 Description: Từ điển Wikipedia (tiếng Việt)
 Author: GSMVN Team <support@gsm.vn>
 Depiction: http://cydia.gsm.vn/t414/
@@ -19245,7 +19245,7 @@ Size: 76970
 MD5sum: 6fb320062a195143f190b0855c60be74
 SHA1: f5cee5be1afd3466a2f5aa5900f48f0fd3db76d0
 SHA256: 21ce3c2614cc2674ec1c11a6aa27a5924fc0d70b38b86a2cfe1d3508819d7ff3
-Section: Apps
+Section: Applications
 Priority: extra
 Homepage: http://iphone.gsm.vn/
 Description: Fake your location easily with this app.
@@ -19265,7 +19265,7 @@ Size: 66404
 MD5sum: 22c6cf7f77683473445ff6ef2b344c4f
 SHA1: d19a7fcb1383b3611bd9f5cd9692cb53f3ee64a5
 SHA256: a5f9688bf20ffac8249d984cf0b1d0ea9dd9cfb60a4383bb57f43f812e365c47
-Section: Apps
+Section: Applications
 Priority: optional
 Homepage: http://iphone.gsm.vn/moreinfo/info.php
 Description: Integrates a customizable reader cydget to your lockscreen
@@ -19306,7 +19306,7 @@ Homepage: http://cydia.vn/
 Description: Fix mất toàn bộ ứng dụng cài từ App Store sau khi gỡ hay AppSync bản cũ!
 Author: Cydia.vn
 Depiction: http://cydia.gsm.vn/t4681/
-Name: Apps Fix iOS 7
+Name: Applications Fix iOS 7
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
 Package: vn.gsm.fluorescencehd
@@ -19692,7 +19692,7 @@ Size: 409564
 MD5sum: b995332546f4817226961e524ac384f0
 SHA1: 60f80c5f7d091b01810ef281d510ad3f0efabf2c
 SHA256: 0ed47a99846257b8806ce2515e5a69944fdccc0a6100813bee832ffd33efc770
-Section: Apps
+Section: Applications
 Homepage: http://iphone.gsm.vn/moreinfo/info.html
 Description: MCleaner là phần mềm chặn cuộc gọi, tin nhắn tuyệt vời. Phiên bạn chạy trên FW 2.x/3.0
 Author: MCleaner Team <iphone@mcleaner.com>
@@ -19763,7 +19763,7 @@ Size: 1145842
 MD5sum: 5b49fb06efdba9b921f230ab8acf6299
 SHA1: cc777c7e37a416e8bd6e2f1b376e9ce0ac2cb6a3
 SHA256: 8aa325efee1a91d4218493cfe53fbe4234284a6cf19b7de90f6f04fad60b67a1
-Section: Apps
+Section: Applications
 Homepage: http://iphone.gsm.vn/moreinfo/info.php
 Description: Overlays Dashboard widgets on to your SpringBoard! Have sticky notes accessed with speed and ease from any point of the day, or add your favorite widgets to it and use them whenever you need.
 Author: Ryan <cooltech.ryan@gmail.com>
@@ -19838,7 +19838,7 @@ Size: 379914
 MD5sum: 8897eb23b9ca6a0f7a97867611f862fe
 SHA1: 21218c7818a57d681ad3cd5252b67af13a7a8722
 SHA256: 2b994159ed925aafcf804faf301d08fdcb5911402fd2ad879c78373e69ae707e
-Section: Apps
+Section: Applications
 Description: Instantly switch between pages on your home screen. Based on the 'iPhone Expose' concept.
 Depiction: http://iphone.gsm.vn/moreinfo/orbit.php
 Name: Orbit
@@ -19938,7 +19938,7 @@ Size: 233208
 MD5sum: 6f43754554486b1a9145ca972191586d
 SHA1: 1e045b5b7efe78b51239be886460ad9743d4aea4
 SHA256: bd648b73f6c505b8760e1b55574b22f33f6247b4921802cdfa6c049d5bcf8864
-Section: Apps
+Section: Applications
 Homepage: http://cydia.vn/
 Description: This a port of Photo Booth on your iPhone/ipod Touch running on iOS 7
 Author: Jailbreakstyle
@@ -20209,7 +20209,7 @@ Size: 1407104
 MD5sum: 421b1cad27ffbfedd1ab50401644146a
 SHA1: 9a009c15348b979cb98b0403c82c4c745a99601c
 SHA256: 7cfbee81cd9ba551435f7c57a9251011a38cab6b7e4b061460946d2382a0f195
-Section: Apps
+Section: Applications
 Homepage: http://iphone.gsm.vn/moreinfo/snapture3.0.html
 Description: Soft chụp hình chuyên nghiệp cho iPhone, hỗ trợ OS3.0. Cracked!
 Name: Snapture Cracked
@@ -20224,7 +20224,7 @@ Size: 1919438
 MD5sum: c6e4d546b544cbac2d102bde7ab12d7d
 SHA1: 711eebaac68c2af59ca6b99eceaa961309ec2a82
 SHA256: dbe8380ead99ab331a3449a97dc21657b2b100b8d82ab5734baf684591219e9c
-Section: Apps
+Section: Applications
 Description: Phần mềm giúp bạn điều khiển chơi nhạc trực tiếp ngoài Lockscreen. Sử dụng đơn giản bằng cách vuốt sang trái, sang phải để chuyển bài, tap đúp để tạm dừng/tiếp tục!...
 Author: EyeDevs <EyeDevs@gmail.com>
 Depiction: http://iphone.gsm.vn/moreinfo/snowcoverpro.php
@@ -20314,7 +20314,7 @@ Size: 55940
 MD5sum: 5a2ca77ce044fcdb0d2734507e0f1c29
 SHA1: 9df110bf8479374a4fb37bca4f3e0734611038cf
 SHA256: 6c8b7da1a2146f725ec97323bb5480d3a27d7df79ba0fa80802ae6c369a5ff26
-Section: Apps
+Section: Applications
 Priority: optional
 Homepage: http://modmyi.com/info/statusnotifier.php
 Description: Email, SMS, MMS, IM, Call, Voicemail notification in status bar.
@@ -20450,7 +20450,7 @@ Size: 623534
 MD5sum: 417cee17d7d9848951bccf786e628326
 SHA1: 7bc957bdd2e6ee0a699e38f3fed232330d7501be
 SHA256: 4fa8d9e73703ed97a5f09e5c23628ca41d2819c1d4040eb4d0e2d8f962663bc9
-Section: Apps
+Section: Applications
 Homepage: http://iphone.gsm.vn/
 Description: Giúp tạo phần vùng USB Mass Storage trên iPhone!
 Author: dmp <support@gsm.vn>
