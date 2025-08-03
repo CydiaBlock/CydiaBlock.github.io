@@ -17484,10 +17484,11 @@ Architecture: iphoneos-arm
 Installed-Size: 241
 Depends: dpkg, p7zip, unzip, firmware (>= 3.0)
 Filename: package_debian_A2/archtodeb_1.0.deb
-Size: 182600
-MD5sum: 351c7ae46655ac3568499394f1324ec1
-SHA1: 134aa5d271ddf85e2826ea6d6a037a2040b7da10
-SHA256: 707d795079f56ab03f3ed0fb5e7b8b335e089c19e7cce25a4b1c445a7c29e599
+Size: 147474
+MD5sum: 4a107f7c3d036d9d0b6dbff2ae41527b
+SHA1: ce65ecf28acd642d5dd76ab736d5e29770090c49
+SHA256: 64629ba96b2b2e7d64ff9275e3d63716c56597a8875129258c732135b42fb34a
+Section: Tools
 Priority: optional
 Homepage: http://cydia.vn/
 Description: Convert an archive to .deb file!
