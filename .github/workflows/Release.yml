@@ -23,6 +23,7 @@ jobs:
 
       - name: Clone and Build Cluster Packages
         run: |
+          rm -rf Packages Packages.bz2
           for i in $(seq 1 $REPO_COUNT); do
             git clone --depth=1 https://github.com/CydiaBlock/package_debian_A$i.git
             dpkg-scanpackages -m package_debian_A$i /dev/null >> Packages
@@ -35,7 +36,12 @@ jobs:
             sed -i 's|Filename: \./|Filename: |' Packages
             sed -i 's/!CydiaVn-//g' Packages
             sed -i 's/!GSMVN-//g' Packages
+            sed -i 's/!GSMVN For OS3.0/Tools/g' Packages
+            sed -i 's/HiPhone-Tools/Tools/g' Packages
+            sed -i 's/iSystem/System/g' Packages
+            sed -i 's/: iOS4/Tweaks/g' Packages
             sed -i 's/GSMVN-//g' Packages
+            sed -i 's/: VietHoa/Packaging/g' Packages
 
       - name: Compress
         run: bzip2 -fks Packages
