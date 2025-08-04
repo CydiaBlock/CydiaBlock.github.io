@@ -10811,6 +10811,3198 @@ Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: http://cydia.saurik.com/info/uikittools/
 Name: UIKit Tools
 
+Package: uk.invoxiplaygames.tubefixer
+Version: 2.0-152+debug
+Architecture: iphoneos-arm
+Maintainer: InvoxiPlayGames <webmaster@invoxiplaygames.uk>
+Installed-Size: 136
+Pre-Depends: dpkg (>= 1.13.25-5)
+Depends: mobilesubstrate, firmware (>= 2.0)
+Filename: package_debian_A1/tubefixer-2.0-152-RC1.deb
+Size: 27972
+MD5sum: 3099d5610e8e73426a947fcf646fffcf
+SHA1: 8971219e0b2c4dee1632631a72507d387689deb6
+SHA256: 7912801feec7ec8062a39a0187976647da05cfe16026147a65ec2ecd58dd7c00
+Section: Tweaks
+Homepage: http://tubefixer.ovh/
+Description: Package to fix YouTube on iOS 3-5
+Author: InvoxiPlayGames <webmaster@invoxiplaygames.uk>
+Depiction: http://cydia.invoxiplaygames.uk/dp/tubefixer.php
+Name: TubeFixer for iOS
+
+Package: uk.qmole.antlr
+Version: 3.5.2
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: jamvm
+Filename: package_debian_A1/uk.qmole.antlr_3.5.2_iphoneos-arm.deb
+Size: 2289330
+MD5sum: ca3ef985530571f09cd0f33ce00c57c5
+SHA1: 9bf8e6954030dea50b005fd23654b00c7bc70eb4
+SHA256: e98bcf2562bfcb89b060fbbb940f92472e15c06758b619c6d6a70d501d498777
+Section: Development
+Homepage: http://www.qmole.uk
+Description: A grammar parser generator for Java
+Tag: purpose::console, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/antlr
+Name: AnTLR Parser
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.apacheant
+Version: 1.7.1
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: jamvm, uk.qmole.classpath
+Filename: package_debian_A1/uk.qmole.apacheant_1.7.1_iphoneos-arm.deb
+Size: 9134548
+MD5sum: ae8ab920f1563899eb16e1fe71d01d8c
+SHA1: ab5c8751359be7a4ed167e6599fc51c24d759e20
+SHA256: f76eb307d7ba324cd8f43066e0c51e2bc19390f9a1ab844d3563e855d6af43e6
+Section: Development
+Homepage: http://www.qmole.uk
+Description: Apache ANT Java Build Tool for IOS
+Tag: purpose::console, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/apacheant
+Name: Apache ANT
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.aplus
+Version: 4.22
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: ncurses, readline, x11, xcb
+Filename: package_debian_A1/uk.qmole.aplus_4.22_iphoneos-arm.deb
+Size: 6068234
+MD5sum: 49b8f4286ea929293a663be5f784311e
+SHA1: d90624faf8ec9def27c019c1f7eb31a18b6e706d
+SHA256: be156b5f8510734e04c189427661b265bed3824e3cb27f83b5cf675e911b3269
+Section: Development
+Homepage: http://www.qmole.uk
+Description: A+ APL port to IOS
+Tag: purpose::console, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/aplus
+Name: A+ APL
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.appres
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.appres_1.0.1_iphoneos-arm.deb
+Size: 22908
+MD5sum: bcd920a775e01df5957cedb43eb5e95b
+SHA1: 37a9c44ae534932fd35e8738c2b9b8574decb6a7
+SHA256: 2516cd256a5d60310d35c3ddb7a14280bda798097ecc10874a911aa1e1cc1034
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG appres for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG appres
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.atk
+Version: 2.2.0
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.atk_2.2.0_iphoneos-arm.deb
+Size: 352172
+MD5sum: 99f057efbad6af8aa9e54e7502911499
+SHA1: a0fd0f233d58c77b84786b444224202ec6573df9
+SHA256: 853022c817252d359151b273abecd290b07df811e637d4780ff585ae6ead9661
+Section: Window_Toolkits
+Homepage: http://www.qmole.uk
+Description: GTK Accessibility Toolkit for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: GTK Accessibility Toolkit
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.avian
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: jamvm, uk.qmole.classpath
+Filename: package_debian_A1/uk.qmole.avian_1.1.0_iphoneos-arm.deb
+Size: 1916154
+MD5sum: 79a80a061469d49d2535d3c819d3bb16
+SHA1: 920598e228b02a969aaeae3b01c84921d6eccf95
+SHA256: c2c995d7843f7f0768ad97569b0c66dde41e11421455a72cebbc89a0f0a089a7
+Section: Development
+Homepage: http://www.qmole.uk
+Description: Avian JIT Java VM for IOS
+Tag: purpose::console, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/avian
+Name: Avian Java VM
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.bdftopcf
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.libxfont
+Filename: package_debian_A1/uk.qmole.bdftopcf_1.0.3_iphoneos-arm.deb
+Size: 26950
+MD5sum: 09d311aa76e2ec8ac7767e5aa1ff37a8
+SHA1: 0594bf70c852a37d9c6f45608d3c34d8bc83a171
+SHA256: 736ea90f4a3c7af35715cea25f6e7e31bf3248d4660533f8edd462fc9ede18fe
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: X server font compiler for IOS
+Tag: purpose::library, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/x11
+Name: X11 bdftopcf
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.bitmap
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.libx11, uk.qmole.xserver, uk.qmole.libxi
+Filename: package_debian_A1/uk.qmole.bitmap_1.0.3_iphoneos-arm.deb
+Size: 154296
+MD5sum: b204a986c8e8b62eba8a895f64c8bdb1
+SHA1: b13ad665b36b8d48edca5f53ab224ee34e647490
+SHA256: 6e172f1b7e0c93175d3a11a31048c07db947d9facbe55b015c69676f68e285f1
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG bitmap for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG bitmap
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.bmpanel2
+Version: 2-2.1pre1
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.bmpanel2_2-2.1pre1_iphoneos-arm.deb
+Size: 1918970
+MD5sum: 6b26cf4203d86bc01ae3a9eb3c1971da
+SHA1: 6403a4f03ac21ffe3a71a41e26da1106f48a2f15
+SHA256: 07e29e8d212168166424c24b89f1426622d5a85172d7234f7f9262359b1893bc
+Section: Desktop
+Homepage: http://www.qmole.uk
+Description: Bmpanel2 taskbar for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: Bmpanel2 Taskbar
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.boehmgc
+Version: 7.2
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.boehmgc_7.2_iphoneos-arm.deb
+Size: 293368
+MD5sum: 271b73cee232ff2f34ce3d2d6021e8d8
+SHA1: 8dc471f2366e0656d0159530c73a84ed15ac067b
+SHA256: 8d682e5fcbcec886697f1023a5a90fcfab48e0618ae2cae358d69e84d305cb57
+Section: Development
+Homepage: http://www.qmole.uk
+Description: Boehm Garbage Collector port to iOS
+Tag: purpose::console, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/boehmgc
+Name: Boehm GC
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.cairo
+Version: 1.10.2
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.cairo_1.10.2_iphoneos-arm.deb
+Size: 1095812
+MD5sum: 2df07e2713f6c074087549e1ccc980b3
+SHA1: 25609f282146e39e59eb2068fe1bed2a72f640c6
+SHA256: d22f31c3270ebb243c5e2bf941f3f70ebfbe8cfff8cd6f3329b6ff41292abca3
+Section: Window_Toolkits
+Homepage: http://www.qmole.uk
+Description: Cairo is a 2D graphics library for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: Cairo 2D Graphics
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.camlp5
+Version: 6.14
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.ocaml
+Filename: package_debian_A1/uk.qmole.camlp5_6.14_iphoneos-arm.deb
+Size: 4608504
+MD5sum: 85cbda7a675ab1e98365a59a68e70fb2
+SHA1: 0af432465dc30e5a004e65d15f21d50d788271cb
+SHA256: d07f7f06b703de1a515ddde1f53c6bc111cc0e13c09776d2d36a22783d00b9c0
+Section: Development
+Homepage: http://www.qmole.uk
+Description: Camlp5 port to IOS
+Tag: purpose::console, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/ocaml
+Name: Camlp5
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.cgdb
+Version: 0.6.6
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: gdb, ncurses
+Filename: package_debian_A1/uk.qmole.cgdb_0.6.6_iphoneos-arm.deb
+Size: 249048
+MD5sum: 01d5ee6d965ec740ceb07645e5a58dee
+SHA1: d1e00da0f78e7516e24a1b8659614a294d4dc17a
+SHA256: cbc0788d082fb7f9c787a1b69b0d0c17573383c8c55763058533678a61903ba7
+Section: Applications
+Homepage: http://www.qmole.uk
+Description: Curses GNU Debugger for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: CGDB
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.classpath
+Version: 0.99
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.classpath_0.99_iphoneos-arm.deb
+Size: 10870328
+MD5sum: b9144eb1f7e16b42a0b6d309ce1e7db6
+SHA1: 69c78c6d1b19b8c0fbe4d807a97dfa50a5edf059
+SHA256: fe04622359eeb9820caca18538bd208caa3c6efe06831c0396f4c06b2f626bc8
+Section: Development
+Homepage: http://www.qmole.uk
+Description: GNU Classpath, Essential Libraries for Java for IOS with Swing
+Tag: purpose::console, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/classpath
+Name: Java Classpath Library
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.clawsmail
+Version: 3.9.0
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.clawsmail_3.9.0_iphoneos-arm.deb
+Size: 3889290
+MD5sum: a5f3f837106b09f64d07c2ae8bab04c7
+SHA1: d5f4cc4a0502a3f497383042ad22d7ad33fa0120
+SHA256: 2c52ee1207d738d3d62e2632a4cdbb18cf8e1bc3a69bc885455c80c7b78011f1
+Section: Applications
+Homepage: http://www.qmole.uk
+Description: Claws Mail from claws-mail.org for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: Claws Mail
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.clojure
+Version: 1.5.1
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: ncurses, readline, jamvm
+Filename: package_debian_A1/uk.qmole.clojure_1.5.1_iphoneos-arm.deb
+Size: 4614420
+MD5sum: 9777dcf6b0df4bf404166c52db11a1aa
+SHA1: 765014a485a7b3d4d6210b2670e6286de49d94be
+SHA256: 67d754a50c494f39202aaab98712dc43d8ce6969a61dcd699cd67cef6c761848
+Section: Development
+Homepage: http://www.qmole.uk
+Description: Clojure distribution for IOS
+Tag: purpose::console, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/clojure
+Name: Clojure
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.cmake
+Version: 2.8.10.2
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.cmake_2.8.10.2_iphoneos-arm.deb
+Size: 6872802
+MD5sum: 291a98638dd042bbe123a2b869c55c4a
+SHA1: ffd5c0f9a877d0b6e30c4f82010ea9d9840ed7cb
+SHA256: 1f78df74cd49205eaa21e4a7aa4de4052de3439a5d95cb1d06b5007ad163f8c5
+Section: Development
+Homepage: http://www.qmole.uk
+Description: CMake port to iOS
+Tag: purpose::console, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/cmake
+Name: cmake
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.coq
+Version: 8.4
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: firmware (>= 7.0), uk.qmole.ocaml, uk.qmole.qmole, uk.qmole.herbstluft
+Filename: package_debian_A1/uk.qmole.coq_8.4_iphoneos-arm.deb
+Size: 21006188
+MD5sum: 24ceaf7861b1d83ffabbff3987ec83c4
+SHA1: a8e18fa1e10b0ac1c5dd41fe9fd15961002e8030
+SHA256: 08f5fcd380946f8f1c534b90099e2af59f129e5195d5e20676f369537b9bb5ca
+Section: Development
+Homepage: http://www.qmole.uk
+Description: The Coq Theorem Prover for IOS
+Tag: purpose::console, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/ocaml
+Name: Coq
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.curl
+Version: 7.45
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: openssl
+Filename: package_debian_A1/uk.qmole.curl_7.45_iphoneos-arm.deb
+Size: 831108
+MD5sum: e6446acf7aa94f574cced9be4218fe84
+SHA1: f5e49e965176d2afaa8017872811f6dfe7649d52
+SHA256: 47cb5f154f07bd6dbd64a31728c98b77abeb526aedf1ed09f1449a2f990ebe3c
+Section: Development
+Homepage: http://www.qmole.uk
+Description: Curl port to IOS
+Tag: purpose::console, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/curl
+Name: Curl
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.deviceid
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.deviceid_1.0_iphoneos-arm.deb
+Size: 6268
+MD5sum: 496ef059bff6e06e021de9698eb839e5
+SHA1: 78e743112428312bb5345e4b414884e7a78f163a
+SHA256: 2b3d45b0632cb6404274d407011fd5e022e3a85beac58ab567fceb3b7808a1e3
+Section: Core_System
+Homepage: http://www.qmole.uk
+Description: QMole DeviceId for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: QMole DeviceId
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.dzen
+Version: 2
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.dzen_2_iphoneos-arm.deb
+Size: 18910
+MD5sum: 0def6fa7584d8f86d0320afa9570057b
+SHA1: bff049d9913e2eecd6c3f96b0b5911be16f769f1
+SHA256: e4686a7d989d595c04795a97aa9de862ff92181d4e516c55d2e735a2a1ddbd6c
+Section: Desktop
+Homepage: http://www.qmole.uk
+Description: Dzen Notification Program for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: Dzen Notification Program
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.ecj
+Version: 3.2.0
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: jamvm, readline
+Filename: package_debian_A1/uk.qmole.ecj_3.2.0_iphoneos-arm.deb
+Size: 1259828
+MD5sum: ae40aac63ae70a03338dec1f3cbbd41d
+SHA1: 3daf50d4c32f0bb31af9b7cf6a5ced5ff65af171
+SHA256: cd4e050c190af616866da70737d6f26876d325c0f01806da01f429decf394797
+Section: Development
+Homepage: http://www.qmole.uk
+Description: Eclipse Java Compiler for IOS
+Tag: purpose::console, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/ecj
+Name: Eclipse Java Compiler
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.ecl
+Version: 12.2.1
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: ncurses, readline, libffi, uk.qmole.boehmgc
+Filename: package_debian_A1/uk.qmole.ecl_12.2.1_iphoneos-arm.deb
+Size: 3359346
+MD5sum: c8ea262e6939bcfefe89fa26deec8539
+SHA1: 879cfd63f4187be31dc517931ae72a2538b939c6
+SHA256: 32c07b33e98d55f56ce7b215628bd116ad308ea2d5c1f4bf2a1200a79686ad60
+Section: Development
+Homepage: http://www.qmole.uk
+Description: Embeddable Common-Lisp port to IOS
+Tag: purpose::console, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/ecl
+Name: Embeddable Common-Lisp
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.emacs
+Version: 24
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.emacs_24_iphoneos-arm.deb
+Size: 39730750
+MD5sum: 458a1f44980181644430081fea3b6248
+SHA1: 4351f842bdc602c3af538dcd81200203473f6588
+SHA256: fe17ebdccca2d659d5df9eef172942f68ac321a4affa471463b0ec8562c8ab78
+Section: Applications
+Homepage: http://www.qmole.uk
+Description: Emacs editor for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: Emacs
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.enchant
+Version: 1.6.0
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.enchant_1.6.0_iphoneos-arm.deb
+Size: 480396
+MD5sum: f96844cf11c1ee35d42dcb550559abba
+SHA1: 0544631165b4097810c95f48861797b7ba3f713b
+SHA256: ed9b31577a60daa7f7f1e132f438732d5fcbf4ba23ab0164eb27e674d17ef5af
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG enchant for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG enchant
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.encodings
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.mkfontdir
+Filename: package_debian_A1/uk.qmole.encodings_1.0.4_iphoneos-arm.deb
+Size: 1215740
+MD5sum: 309c3dcd9fe428993cb1db18fd3a0708
+SHA1: 1b29f6dbcb50003013920f28a5bd0876542c5b8d
+SHA256: 545314e6a3f1ea3457026a193d48caf02d382fab12f05b9d33b72abb204db144
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: X11 encodings for IOS
+Tag: purpose::library, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/x11
+Name: X11 encodings
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.escher
+Version: 1.9.90
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: jamvm
+Filename: package_debian_A1/uk.qmole.escher_1.9.90_iphoneos-arm.deb
+Size: 385938
+MD5sum: d56a5272dfc81030f8c20cf2fed2fb85
+SHA1: 4c299b615696c1b9baac2b822f56abccab1f00b3
+SHA256: b2221a4b0c8047afa0bde6dee1675a7f5211a3032f65106df7a9910b06d6891c
+Section: Development
+Homepage: http://www.qmole.uk
+Description: Java X11 Library
+Tag: purpose::console, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/escher
+Name: escher
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.eterm
+Version: 0.9.6
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.libast, uk.qmole.imlib2
+Filename: package_debian_A1/uk.qmole.eterm_0.9.6_iphoneos-arm.deb
+Size: 432508
+MD5sum: 9eac4e9742387cd4454b880154b67ef8
+SHA1: ba43eb1d08eb0fce703843196bcbd7e45a9bd4cf
+SHA256: b0337cfc4e5a993e1414e4a1153dffcf0af543f99d995c0fe81f691ff3c09044
+Section: Terminals
+Homepage: http://www.qmole.uk
+Description: Eterm.org color terminal emulator  for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: Eterm.org  Terminal emulator
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.evieext
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.libx11, uk.qmole.xserver, uk.qmole.libxi
+Filename: package_debian_A1/uk.qmole.evieext_1.0.2_iphoneos-arm.deb
+Size: 2636
+MD5sum: 9603e43aab98748f9ac9e0ecc98c1ff0
+SHA1: e7dbd1ce974f8800e0ed4295c0ee9b5701abf2e9
+SHA256: 5e2a025dcebe52cd9a782f95f880a42af90c07132ca0a4a72ca5df2186075c55
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG evieext protocol extension for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG evieext
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.feh
+Version: 1.3.4
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: jpeg
+Filename: package_debian_A1/uk.qmole.feh_1.3.4_iphoneos-arm.deb
+Size: 410848
+MD5sum: 88f4ef82513f36b8e42b84935ec2a003
+SHA1: f2cbe192b1d0e8a9723a1918c213a83002d241dd
+SHA256: 89e5631800ff600b7bd5b87ee8ea9718422184d8e3c5ed8a83177ff0e4cbc46d
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG feh for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG feh
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.fontconfig
+Version: 2.8.0
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.freetype
+Filename: package_debian_A1/uk.qmole.fontconfig_2.8.0_iphoneos-arm.deb
+Size: 846498
+MD5sum: f8d9318d9477ec018fd8596d5f512455
+SHA1: ebc4699b9c49994f672d16b74a026a604a079ccd
+SHA256: 8e59345cce5779c10fdddd68206f54f1c3593fbf60ed7df78f289aef1350105f
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: X11 fontconfig for IOS
+Tag: purpose::library, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/x11
+Name: X11 fontconfig
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.fontutil
+Version: 1.2.0
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.bdftopcf, uk.qmole.mkfontdir, uk.qmole.libxfont
+Filename: package_debian_A1/uk.qmole.fontutil_1.2.0_iphoneos-arm.deb
+Size: 50424
+MD5sum: bc9e6da395686889e5348d722b68ee5c
+SHA1: e62bc4982941851cdc768655e5e94ee4f96c8c0b
+SHA256: 4dc634eeb27e332fc6f55a9aac0facfb5a2dff0687d98b3e9e4f51500ea1cb3a
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: X11 font utils for IOS
+Tag: purpose::library, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/x11
+Name: X11 Font Utils
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.fox
+Version: 1.6.49
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.fox_1.6.49_iphoneos-arm.deb
+Size: 3865498
+MD5sum: ca20fb986f15ee1591c23637e50f5c9d
+SHA1: 3afa8edc4d21d5506fc5422430dd12331da2a0d4
+SHA256: 1fa8279c44f28a40b91b6e72bd6b91d367feed15e7c46545eaa358fddc5ae200
+Section: Window_Toolkits
+Homepage: http://www.qmole.uk
+Description: FOX widget toolkit for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: FOX Widget Toolkit
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.freetype
+Version: 2.4.7
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.freetype_2.4.7_iphoneos-arm.deb
+Size: 916906
+MD5sum: a589fc84cfe8e7ce589666dd20566996
+SHA1: 2ed5617187b2ef621a9c8571ea4957e399c40d09
+SHA256: 65a14f4726b4ecf452347ede49d12a5b1f3c81402f191a429b0f642dd566c954
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: X11 Freetype for IOS
+Tag: purpose::library, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/x11
+Name: X11 Freetype
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.galculator
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.galculator_2.1_iphoneos-arm.deb
+Size: 295466
+MD5sum: da95db5e3efb663209f47ae68822f53a
+SHA1: d83ba91734f4f4284a458b92184277c464f4a3d5
+SHA256: a30007be50dc066145f145799a721c638ce9f375237cd5dbe35d9421c1329374
+Section: Applications
+Homepage: http://www.qmole.uk
+Description: Galculator a GTK calculator for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: Galculator
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.gambit
+Version: 4.6.4
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: ncurses, readline
+Filename: package_debian_A1/uk.qmole.gambit_4.6.4_iphoneos-arm.deb
+Size: 9262432
+MD5sum: 98436bc7ea91b3408ce5ae55e0ea7c60
+SHA1: a1147d76ded1117c9529703e1f5af0c8131899db
+SHA256: ce6c12c6c0e8a3c5ac342a7f27af60d6aeda0b35d45fee4c2cdd543e1bef0c29
+Section: Development
+Homepage: http://www.qmole.uk
+Description: Gambit Scheme port to IOS
+Tag: purpose::console, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/gambit
+Name: Gambit Scheme
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.gdkpixbuf
+Version: 2.24.0
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.gdkpixbuf_2.24.0_iphoneos-arm.deb
+Size: 1795032
+MD5sum: 3e5f09415cd568f99a1326a3129c931a
+SHA1: 9f3fa99d171212fdbb3fc8efeba9e2006d82679b
+SHA256: ae1b9ee0ce6f1c95b177fd24ab486e2aa01e120e1835fc86825a84fadf56c43c
+Section: Window_Toolkits
+Homepage: http://www.qmole.uk
+Description: GdkPixbuf image library for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: GdkPixbuf Image Library
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.geany
+Version: 0.21
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.herbstluft
+Filename: package_debian_A1/uk.qmole.geany_0.21_iphoneos-arm.deb
+Size: 3073118
+MD5sum: 28140399298efd1f81de709d733b454d
+SHA1: 11333e83d5d601811b8858917d35b0240c149d54
+SHA256: 5080009223d30e3cce147282f8b933418ad797f524fef75c83bcb33d63f5a89c
+Section: Applications
+Homepage: http://www.qmole.uk
+Description: Geany IDE for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: Geany
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.giflib
+Version: 4.1.6
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.giflib_4.1.6_iphoneos-arm.deb
+Size: 245084
+MD5sum: 7ba8676749c15c9188f9804cb04d2bc3
+SHA1: 463a9a7d3ded0bca5a3acc956519b1352d9252fa
+SHA256: 062fb23a9e5109d454dff9b6890d69a2d57346b10061ba2dd6a5c914970ae9be
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: X11 giflib for IOS
+Tag: purpose::library, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/x11
+Name: X11 giflib
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.glib
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.glib_2.0_iphoneos-arm.deb
+Size: 5789990
+MD5sum: 6bbdba5955ff7d3ebef7a2da855c1442
+SHA1: 63c5183ac0db4ea4ff5c351cd870e74908b45bc2
+SHA256: c30d0db96a3f7ee76d19387bca6a243ca3d51de9bf917e1a84e0a6ed4b3be636
+Section: Window_Toolkits
+Homepage: http://www.qmole.uk
+Description: Glib core Gnome library for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: GLib Gnome Library
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.gnomeicontheme
+Version: 2.17.4
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.gnomeicontheme_2.17.4_iphoneos-arm.deb
+Size: 2582636
+MD5sum: 0ca6dbd3c827a3c76e00e92a8b0e7d1c
+SHA1: 3cdbe19d8f5237db520378d580040f9425200846
+SHA256: f9622285c7b23fab034c35805932ba7bc6f02c62ecae7e0af90ec6ca1c5e6c5a
+Section: Window_Toolkits
+Homepage: http://www.qmole.uk
+Description: Gnome Icon Themes for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: Gnome Icon Themes
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.gnomepaint
+Version: 0.3
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.gnomepaint_0.3_iphoneos-arm.deb
+Size: 242140
+MD5sum: d4a1c68c3374cba16cfa487ab90606be
+SHA1: 707dc837387e0d3719801bbb63ed4488bf017e20
+SHA256: 58f94af524dc80cc471c631e41b0eb2e0a308da722d14f7863ef54cf65e824a0
+Section: Applications
+Homepage: http://www.qmole.uk
+Description: Gnome paint program for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: Gnome Paint
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.gnutls
+Version: 2.12.7
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.gnutls_2.12.7_iphoneos-arm.deb
+Size: 808428
+MD5sum: a23dcab68e32fbb5ff1ef0ee0161529a
+SHA1: 10dd0233a35be7a50ae3369aa91cc0c3148ff167
+SHA256: c24e3191bf84aee74294e8d3cae6d0bff0b70ae686caf818f3288f2266fe8ce0
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG gnutls for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG gnutls
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.gtk2
+Version: 2.24.17
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.gtk2_2.24.17_iphoneos-arm.deb
+Size: 13813174
+MD5sum: d097ed8018d1992019fb888cf21ccd91
+SHA1: 0237941ccd867d7fb153ba243317ae5f9136d9d6
+SHA256: 347305e9ae0b9113ebef0334bdd1510f76f70068277ef23305c1acfbb5ad170b
+Section: Window_Toolkits
+Homepage: http://www.qmole.uk
+Description: GTK2+ GIMP Toolkit for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: GTK2+ GIMP Toolkit
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.gtk3
+Version: 3.2.1
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.gtk3_3.2.1_iphoneos-arm.deb
+Size: 12646724
+MD5sum: 19dfd986c1daa2aba0430caec120e427
+SHA1: c987ee59b704ff451cd46b616e6125a8031abe12
+SHA256: 86c8f8ea23f08fe48187f572d988c355ef95e13b6afa1b9a65b9281c29e66d89
+Section: Window_Toolkits
+Homepage: http://www.qmole.uk
+Description: GTK3+ GIMP Toolkit for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: GTK3+ GIMP Toolkit
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.herbstluft
+Version: 0.2.1
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.glib, uk.qmole.gdkpixbuf, uk.qmole.pango, uk.qmole.cairo, uk.qmole.fox, uk.qmole.libglade, uk.qmole.libgnomecanvas, uk.qmole.libxinerama, uk.qmole.gnomeicontheme, uk.qmole.atk, uk.qmole.libintl, uk.qmole.libiconv, uk.qmole.xrandr, uk.qmole.libetpan, uk.qmole.libpng, uk.qmole.xcursorthemes, uk.qmole.xbitmaps, uk.qmole.bitmap, uk.qmole.appres, uk.qmole.libgiblib, uk.qmole.libxdmcp, uk.qmole.libwindowswm, uk.qmole.enchant, uk.qmole.librsvg, uk.qmole.libxml2, uk.qmole.libsm, uk.qmole.vte, uk.qmole.startupnotification, uk.qmole.gnomepaint, uk.qmole.libart, uk.qmole.evieext, uk.qmole.iceauth, uk.qmole.libice, uk.qmole.libxtst, uk.qmole.libxft, uk.qmole.libxcomposite, uk.qmole.libxdamage, uk.qmole.libxext, uk.qmole.libxfixes, uk.qmole.libxcb, uk.qmole.libxres, uk.qmole.gnutls, uk.qmole.galculator, uk.qmole.libxt, uk.qmole.libxxf86dga, uk.qmole.libxxf86misc, uk.qmole.libxv, xcb, expat, uuid, adv-cmds, libffi, gmp, pcre, tiff, png, jpeg, coreutils, coreutils-bin, system-cmds
+Filename: package_debian_A1/uk.qmole.herbstluft_0.2.1_iphoneos-arm.deb
+Size: 1505400
+MD5sum: 4d00263c890ba7f9c754d104535b5331
+SHA1: 823a24cda20982b4d82880b25dc6f8d601a4c2e0
+SHA256: ef0e1f7269b8184a3e53e777746ddcd2b2e64d92c5ea7563a5430879b7fa7502
+Section: Desktop
+Homepage: http://www.qmole.uk
+Description: Herbstluft Window Manager for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: Herbstluft Window Manager
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.herbstluft
+Version: 0.2.2
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.glib, uk.qmole.gdkpixbuf, uk.qmole.pango, uk.qmole.cairo, uk.qmole.fox, uk.qmole.libglade, uk.qmole.libgnomecanvas, uk.qmole.libxinerama, uk.qmole.gnomeicontheme, uk.qmole.atk, uk.qmole.libintl, uk.qmole.libiconv, uk.qmole.xrandr, uk.qmole.libetpan, uk.qmole.libpng, uk.qmole.xcursorthemes, uk.qmole.xbitmaps, uk.qmole.bitmap, uk.qmole.appres, uk.qmole.libgiblib, uk.qmole.libxdmcp, uk.qmole.libwindowswm, uk.qmole.enchant, uk.qmole.librsvg, uk.qmole.libxml2, uk.qmole.libsm, uk.qmole.vte, uk.qmole.startupnotification, uk.qmole.gnomepaint, uk.qmole.libart, uk.qmole.evieext, uk.qmole.iceauth, uk.qmole.libice, uk.qmole.libxtst, uk.qmole.libxft, uk.qmole.libxcomposite, uk.qmole.libxdamage, uk.qmole.libxext, uk.qmole.libxfixes, uk.qmole.libxcb, uk.qmole.libxres, uk.qmole.gnutls, uk.qmole.galculator, uk.qmole.libxt, uk.qmole.libxxf86dga, uk.qmole.libxxf86misc, uk.qmole.libxv, xcb, expat, uuid, adv-cmds, libffi, gmp, pcre, tiff, png, jpeg, coreutils, coreutils-bin, system-cmds
+Filename: package_debian_A1/uk.qmole.herbstluft_0.2.2_iphoneos-arm.deb
+Size: 1505396
+MD5sum: e2de2903b4ee1005d9157255f74249a7
+SHA1: 037dd86c3382ebda29ef1031adfeb542712d3eb8
+SHA256: ef2daf98c8a0dd0b44499cbec4d3795a5a5c1ce2b0efbf9f6a9f1bdefe6bbab2
+Section: Desktop
+Homepage: http://www.qmole.uk
+Description: Herbstluft Window Manager for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: Herbstluft Window Manager
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.hping2
+Version: 2.0.0
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: firmware (>= 7.0), uk.qmole.libpcap, uk.qmole.qmole, uk.qmole.herbstluft
+Filename: package_debian_A1/uk.qmole.hping2_2.0.0_iphoneos-arm.deb
+Size: 117220
+MD5sum: b844b54ac1628f402837ec9566733121
+SHA1: 05b0879384c13ba6d923a11b52c7eb5a28389cb0
+SHA256: 1324edd3a6c4d05b4ee08f681c206cc2c423537bc1311ce477fca434ca24d8cb
+Section: Security
+Homepage: http://www.qmole.uk
+Description: Active Network Security Tool
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: hping
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.ical
+Version: 3.0.2
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.tk, uk.qmole.herbstluft
+Filename: package_debian_A1/uk.qmole.ical_3.0.2_iphoneos-arm.deb
+Size: 1388080
+MD5sum: 9ca162f5e8f915cee4b3bf8681a4a6d3
+SHA1: 308396171fadca18718be1bef86379bd0e21c025
+SHA256: 57c88ba67a66f243dfbe3d76abe445776be6ab8a7865e3578cbb9f781b0910b2
+Section: Applications
+Homepage: http://www.qmole.uk
+Description: Ical Calendar for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: Ical
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.iceauth
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.libice
+Filename: package_debian_A1/uk.qmole.iceauth_1.0.2_iphoneos-arm.deb
+Size: 13824
+MD5sum: 96c924b86fb066901cf8ce9fc7fcb37c
+SHA1: 201629021858deb1c80dbb4c0ab9a57e870ec16b
+SHA256: f20dc58e93699b1e0b1844ffb7adfd2e2ea04075a67f2c8b16dc5206788d7ffa
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG iceauth for IOS
+Tag: purpose::library, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG ICEauth
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.imagemagick
+Version: 4.2.9
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.libcroco, uk.qmole.curl, uk.qmole.herbstluft
+Filename: package_debian_A1/uk.qmole.imagemagick_4.2.9_iphoneos-arm.deb
+Size: 5043660
+MD5sum: 4f8e103ef36612158dd3e4126f09bc88
+SHA1: a3e628439a9d0c474001e7a6f7ba65425340a64e
+SHA256: 4266cfa87e392b6b4f0dc6308eeb634f21ff869eb08b81e3a7a9abde81cf9df4
+Section: Applications
+Homepage: http://www.qmole.uk
+Description: imagemagick for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: imagemagick
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.imlib2
+Version: 1.4.4
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.libast
+Filename: package_debian_A1/uk.qmole.imlib2_1.4.4_iphoneos-arm.deb
+Size: 983964
+MD5sum: 1b09da368d51746726c0a9eea25e2a6f
+SHA1: 9108f0903d25247093f648e773bcab0f6ecebc4b
+SHA256: 13bfb852cb9ddf6c34658d52383a7e8a5a10281503d3911a45460bf92ad68c34
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG libimlib2 for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG imlib2
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.ipython
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: python, readline, uk.qmole.zmq, uk.qmole.qmole, uk.qmole.xserver, uk.qmole.herbstluft
+Filename: package_debian_A1/uk.qmole.ipython_1.1.1_iphoneos-arm.deb
+Size: 5456870
+MD5sum: e86945e61247e4cb1cf7c3b3f652025b
+SHA1: 4b78cff523f24a6b28f881f80b940af38cd14033
+SHA256: 54238c412c9c8e815ab8a165bee1d70c03b6e9ddf4662e7f4ad5648a969a785f
+Section: Development
+Homepage: http://www.qmole.uk
+Description: iPython Notebook for iOS
+Tag: purpose::console, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/ipython
+Name: iPython
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.ipythonnotebook
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: python, readline, uk.qmole.zmq, uk.qmole.qmole, uk.qmole.xserver, uk.qmole.herbstluft, uk.qmole.ipython
+Filename: package_debian_A1/uk.qmole.ipythonnotebook_1.1.1_iphoneos-arm.deb
+Size: 1110
+MD5sum: 14e3aafcfbbae95d1a26edb0d0feee96
+SHA1: 4d1e3a47db947fd30f89597e89be39de2ac3db84
+SHA256: 34220267bdafc4ac623f670ab5d394bcf4a3232bd89d55347554ef6f1661ed6e
+Section: Applications
+Homepage: http://www.qmole.uk
+Description: iPython Notebook Server for iOS
+Tag: purpose::console, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/ipython
+Name: iPython Notebook
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.ivte
+Version: 0.5.1
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.ivte_0.5.1_iphoneos-arm.deb
+Size: 41746
+MD5sum: dd111aec169c00944087b740b8c5f2b2
+SHA1: 2f5993bebdd9675fdc39b04d18d8a1684b8e4bfb
+SHA256: e5657d7fa1cc715deb94bda727da036a87b4b785f1744e164b74162ba210eb16
+Section: Terminals
+Homepage: http://www.qmole.uk
+Description: VTE based terminal emulator for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: Ivte Terminal Emulator
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.jasmin
+Version: 2.4
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.jasmin_2.4_iphoneos-arm.deb
+Size: 122030
+MD5sum: 0ff3dea7adfc832d5f3aefcf8ab38948
+SHA1: 59aa7d81377117eb5a87a63c29cce7cb75c7566e
+SHA256: de868196da72305b8930b188b39831cf037bd9dd6e220862da4420c31a4026f8
+Section: Development
+Homepage: http://www.qmole.uk
+Description: Jasmin is an assembler for the Java Virtual Machine
+Tag: purpose::console, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/jasmin
+Name: Jasmin Java Assembler
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.junit4
+Version: 4
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: jamvm
+Filename: package_debian_A1/uk.qmole.junit4_4_iphoneos-arm.deb
+Size: 94478
+MD5sum: c97f43b72396dae7bfd23b9637d00736
+SHA1: 97101aaf2e0352ddd42b7910768fa74d77c76db2
+SHA256: 5518ba23df8230355c28874dae325af500c8c7b1f075204ee5e777884bf5fe42
+Section: Development
+Homepage: http://www.qmole.uk
+Description: Java Unit Testing frameworkd
+Tag: purpose::console, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/junit
+Name: junit4
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.leafpad
+Version: 0.8.17
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.leafpad_0.8.17_iphoneos-arm.deb
+Size: 245500
+MD5sum: 4382e1c6d73ca972117ab4a4cf4f5282
+SHA1: 267248e02b082c28c5b641fc895be059863915b3
+SHA256: fc2bb5aba82614cb01262aac2132bdbff2385fa79e9deb53fb8e6cc9a4f2e78d
+Section: Applications
+Homepage: http://www.qmole.uk
+Description: Leafpad GTK+ editor for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: Leafpad Editor
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.libart
+Version: 2.3.20
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.libart_2.3.20_iphoneos-arm.deb
+Size: 78772
+MD5sum: 2b37982472d574662bb696c9e3660d86
+SHA1: 139a63055525e7ecbe08449ad49f0353dfc76063
+SHA256: fa7d325667ef3b71fae93a3f23b87ccdb76f281150dd9e5817f3a8d38ae75455
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG libart for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG libart
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.libast
+Version: 0.7
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.libast_0.7_iphoneos-arm.deb
+Size: 147944
+MD5sum: 4ae744e5e5ddeafc844bd2923603ae29
+SHA1: 2ed8d65a6be582a845b65b96fe02fd3c480897c2
+SHA256: 0ecdef394ad7ee50b49276b4f7c742a588163fd06731caf7a67fca4e48969f3e
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG libast for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG libast
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.libcroco
+Version: 0.6.2
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.libcroco_0.6.2_iphoneos-arm.deb
+Size: 161398
+MD5sum: 1a402e2f0551b1662f2539c97332049f
+SHA1: 9f3616d7793608ce642b10c786496e2c3214d26b
+SHA256: dfde56b8c49d340f98e4716a7cfab6ab7256f6e8059e3b74f8ab3c718a2f6d2e
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG libcroco for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG libcroco
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.libdaq
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.libdaq_2.0_iphoneos-arm.deb
+Size: 493640
+MD5sum: 67ca27e7f1d41fa2a0cf2d5a6d139ffb
+SHA1: e74bb5d34dd853116a96547fc9e747e65bf97de8
+SHA256: f79fd1ba3dedd0d611fc2ccd57fb64b2e68fbadeaee711c4adbefb802ab6053a
+Section: Development
+Homepage: http://www.qmole.uk
+Description: Libdaq for Snort
+Tag: purpose::console, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/zmq
+Name: libdaq
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.libdmx
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.libx11, uk.qmole.libxext
+Filename: package_debian_A1/uk.qmole.libdmx_1.0.2_iphoneos-arm.deb
+Size: 16156
+MD5sum: a9380f6a0d61c278248c250ec9ac2114
+SHA1: fc55dcc67b6e53b7a45d177cfd8d52f843fa14f5
+SHA256: 8695bea1649739c0d8bd0ed1cce862bb68f798162277d49b1a91c2ed575d889b
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG libdmx for IOS
+Tag: purpose::library, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG libdmx
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.libdnet
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.libdnet_1.0_iphoneos-arm.deb
+Size: 193838
+MD5sum: 71f970e09f4f78d13e97cc594956b9b5
+SHA1: 8f9be7448888bfad13c8233109032e9aaa589d58
+SHA256: 40632d0ee6d99f6fa9d1cac31401c442b7490eddbe51b5b721d844840d3e9610
+Section: Development
+Homepage: http://www.qmole.uk
+Description: libdnet for NMap and Snort
+Tag: purpose::console, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/tree
+Name: libdnet
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.libetpan
+Version: 0.57
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: curl
+Filename: package_debian_A1/uk.qmole.libetpan_0.57_iphoneos-arm.deb
+Size: 307702
+MD5sum: 99f984299b8b8d994b677b0e3f66b25a
+SHA1: fabe848014c013bb267da707f8cfcc5be5566aff
+SHA256: 1e95103b7a3f1bbc56e6dab54f0974ef9fee029125b8c8683b497b2165f819aa
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG libetpan for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG libetpan
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.libfontenc
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.libfontenc_1.1.0_iphoneos-arm.deb
+Size: 54528
+MD5sum: 23468e95a68fc63377644db583a66e51
+SHA1: f15a9234d333cabad4c30ace4fcf4ec4dd2cf8fb
+SHA256: 4eb659f09641b19a8616ca9a17207d43e2bac288a84ecb5e39c0bfdbc5fdff7a
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: X11 libfontenc for IOS
+Tag: purpose::library, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/x11
+Name: X11 libfontenc
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.libfs
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.libfs_1.0.1_iphoneos-arm.deb
+Size: 27322
+MD5sum: 0b0b79083a16083b2f150725c2731cc8
+SHA1: b3ff26ba5778524c9b01678ca5b5b029330adba2
+SHA256: 545a93fdcd76fded52080d5c002766ccb090e2cdcab977502670fc3dde6427ee
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG libFS for IOS
+Tag: purpose::library, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG libFS
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.libgiblib
+Version: 1.2.4
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.libgiblib_1.2.4_iphoneos-arm.deb
+Size: 19666
+MD5sum: 6b7df2b927c60b00bf40334163717970
+SHA1: e8a25b2470045f3413b2c28ef5d7f1060eba5b7b
+SHA256: 9419bb09ccd8a3cf4d737817abf42b4b7663f6f2bbabdc8200c786066e45b730
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG libgiblib for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG libgiblib
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.libglade
+Version: 2.6.4
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.libglade_2.6.4_iphoneos-arm.deb
+Size: 84056
+MD5sum: 2e571eba4fd217afbed11520e08817c4
+SHA1: a9804eac759f32dae29171beac682054e7858af7
+SHA256: 7de47dc6451d8b192e83b270ed1579fd124eb4217f9e227d2dffdfbc915d1d87
+Section: Window_Toolkits
+Homepage: http://www.qmole.uk
+Description: Libglade Gnome library for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: Libglade Gnome Library
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.libgnomecanvas
+Version: 2.30.3
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.libgnomecanvas_2.30.3_iphoneos-arm.deb
+Size: 299354
+MD5sum: b51038b1e41691c612443d0122a23aad
+SHA1: 1f8ab8c5acffa26f1e0b077cfe5f7acf1204ed7a
+SHA256: ac05768fa96099a0044352f776ddf3b6d8ae69772dea48529fb34bf2f955382e
+Section: Window_Toolkits
+Homepage: http://www.qmole.uk
+Description: libgnomecanvas Gnome Canvas Library for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: Gnome Canvas Library
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.libice
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.libice_1.0.4_iphoneos-arm.deb
+Size: 54094
+MD5sum: a732574fbb4a6ad06945f8412181016f
+SHA1: fb2564f6e91ade23c1a0db6bad61a91d94fdbf70
+SHA256: f2265d8d24eeb22724e37f0907757d0c9c036dc5b834769ad8fcebbe921f2c3c
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG Inter-Client Exchange library for IOS
+Tag: purpose::library, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG libICE
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.libiconv
+Version: 1.14
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.libiconv_1.14_iphoneos-arm.deb
+Size: 724506
+MD5sum: 4eb889fc9f47789889f32bcbf764dcf1
+SHA1: 00aa68f79dab776e1346c6e1a7337b0cfbb72238
+SHA256: 0e497daffcf88bbebe8693bbf23cc793468cea25611e6d3535a6e3c5bfcbaa6d
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG libiconv for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG libiconv
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.libintl
+Version: 0.8
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.libintl_0.8_iphoneos-arm.deb
+Size: 25444
+MD5sum: 5281b943dd3e763248d97cd71a757652
+SHA1: 7e3548924f9f6fe3e6e17ecd013c27be5740f8e3
+SHA256: 7c07cc41901ec22e12db794c8da501da9d9747b7ef21b164c20f45bd89c9407d
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG libintl for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG libintl
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.libpcap
+Version: 1.7.4
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.libpcap_1.7.4_iphoneos-arm.deb
+Size: 569886
+MD5sum: c113bd03de575265a94a33979a6ab2c1
+SHA1: a502e531683ca67bbb7070f3b0bb50579f2d74c6
+SHA256: d19a74b4c914be51afb7ac34c436a17908c0f7d6c5bcc23b62500baf12897ba1
+Section: Development
+Homepage: http://www.qmole.uk
+Description: User level packet capture library
+Tag: purpose::console, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/tree
+Name: libpcap
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.libpng
+Version: 1.4.8
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.libpng_1.4.8_iphoneos-arm.deb
+Size: 201202
+MD5sum: 8f99b001e1a8755ae9c3fad9b92ed30a
+SHA1: 3c964fb473ea4ae6b07b93d5bca7527f0adf3d52
+SHA256: 8ccec4721a606d940ad5d80d7028de47b1c89c09311a253d1fcb550585e11c53
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG libng for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG libpng
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.librsvg
+Version: 2.32.1
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.librsvg_2.32.1_iphoneos-arm.deb
+Size: 575890
+MD5sum: 0d1d8e2af874a5f904445ed3c53b4e11
+SHA1: 3312d9053932db63f241d2261e45bf969a5033b2
+SHA256: 2368bd3957882c2f9b0fab3bce47e0f0b4e58b7c282bb7b37c0616c1e1835fd5
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG librsvg for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG librsvg
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.libsm
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.libice
+Filename: package_debian_A1/uk.qmole.libsm_1.0.1_iphoneos-arm.deb
+Size: 19866
+MD5sum: be2b02ecd5e57ad2064c70303adc2f1c
+SHA1: feafb439ba78e6c5afd6ae13e9ac754ef5a8ddbd
+SHA256: 0129d1ece2af5a350443eb4c7315bbbb35fee2de78244b19c6305907d29e99c1
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG Session Management for IOS
+Tag: purpose::library, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG libSM
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.libwindowswm
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.libx11, uk.qmole.libxext
+Filename: package_debian_A1/uk.qmole.libwindowswm_1.0.0_iphoneos-arm.deb
+Size: 8962
+MD5sum: a19204d71aeb31fd74f96d3d76b36d34
+SHA1: dc3477ab10b29e31cbbff359a97ce3096ca4ec58
+SHA256: 2883d33a377b8189e04ef48b67b9c8fbc9b35655291877275bcae973fce60ac2
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG libWindowsWM for IOS
+Tag: purpose::library, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG libWindowsWM
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.libx11
+Version: 1.1.5
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.libx11_1.1.5_iphoneos-arm.deb
+Size: 1064940
+MD5sum: 72cdd8f4aae994bb31dd458efe3b8ac7
+SHA1: c4cc83322c0ce621026a899aa2b6ecb1c74ed85f
+SHA256: 5cbfe33ff7012752c79c686d3b2a47f7bcba41c99b9e3cbe3489413a646b6899
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG Core X11 protocol for IOS
+Tag: purpose::library, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG libX11
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.libxau
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.libxau_1.0.4_iphoneos-arm.deb
+Size: 8788
+MD5sum: e5e9efa02f58178e073b53cc8a77990b
+SHA1: 05779cbe69e1388f67a7530d2335a6602ba38f4b
+SHA256: cee616443f3f2f27fdaa586cf0611b20997572a884c520b9039fa017ee4c9981
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG authentication library for IOS
+Tag: purpose::library, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG libXau
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.libxaw
+Version: 1.0.9
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.libxpm
+Filename: package_debian_A1/uk.qmole.libxaw_1.0.9_iphoneos-arm.deb
+Size: 764612
+MD5sum: 4d6c8480b0612075c1c435abd8733c56
+SHA1: 7c07e4dbf784c59da2925c9dbba11a27e221a1ba
+SHA256: 4b0640b0a60a8b1b7fe159d967001d6b112f62d8e07687e7e6833173539b28fe
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: X11 libxaw for IOS
+Tag: purpose::library, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/x11
+Name: X11 libxaw
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.libxcb
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.libxau
+Filename: package_debian_A1/uk.qmole.libxcb_1.4_iphoneos-arm.deb
+Size: 324586
+MD5sum: ab82333ca91a29282cc51ef0c977553a
+SHA1: ee1488733edc22f83254b11789e7bb678cd589aa
+SHA256: 9984e271b7c9c8db9a71506754900fa20fbeaad7ce7fcf8884f3e160172f2b2a
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG X protocol C-language Binding for IOS
+Tag: purpose::library, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG libXCB
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.libxcomposite
+Version: 0.4.0
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.libx11
+Filename: package_debian_A1/uk.qmole.libxcomposite_0.4.0_iphoneos-arm.deb
+Size: 9138
+MD5sum: a76815811fbfbf23e2337ccb30dc51be
+SHA1: 6840c92fd545eb62a331ed27600230fe8b036ee8
+SHA256: d34cde8157508691d39dc74770f4275bc223e1c8cb9a2e32bd5a010bf31da66e
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG X Composite Extension library for IOS
+Tag: purpose::library, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG libXcomposite
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.libxcursor
+Version: 1.1.9
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.libx11, uk.qmole.libxrender, uk.qmole.libxfixes
+Filename: package_debian_A1/uk.qmole.libxcursor_1.1.9_iphoneos-arm.deb
+Size: 28934
+MD5sum: 604e3c19f5584bf8bd22b30b0f1f86ca
+SHA1: 5c469fafef2bf1a2819d6104e29db68a8b3d0d88
+SHA256: 66d371d6b5a3d056acfc79bf360c6b8999b4724581324e895c91a1cb50dab376
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG library to help locate and load cursors for IOS
+Tag: purpose::library, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG libXcursor
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.libxdamage
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.libxfixes, uk.qmole.libx11
+Filename: package_debian_A1/uk.qmole.libxdamage_1.1.1_iphoneos-arm.deb
+Size: 5546
+MD5sum: cfc084b84947b664bd1e99ca4937c9c7
+SHA1: 89f1facb1822b16441ea8a262521fd688940ac56
+SHA256: 1f301795f85bb839fb47bf92c96041180a5d8b855055d36a7cdc522beaaf277a
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG libXdamage runtime for IOS
+Tag: purpose::library, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG libXdamage
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.libxdmcp
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.libxdmcp_1.0.2_iphoneos-arm.deb
+Size: 11242
+MD5sum: a9b28485912fae1bfe47f4f0c5315894
+SHA1: 705cdc468111f4d61ef7cc2be36cd0eb1c729bcd
+SHA256: b18363b87a5fe7e82edb56043e822612cbdbc5394e6b7d20a0545557ef8e0413
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG X Display Manager Control Protoco for IOS
+Tag: purpose::library, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG libXdmcp
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.libxext
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.libx11
+Filename: package_debian_A1/uk.qmole.libxext_1.0.4_iphoneos-arm.deb
+Size: 54424
+MD5sum: e44276f10ab6b49f8630fc4e811fa8f6
+SHA1: 9995157efa665d5b14080c0d4ca0bd1d914dad71
+SHA256: 433339348acd4a00439a07ebc93a108969b96e023f938c0d68be3ff3f63778dd
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG libXext runtime library for IOS
+Tag: purpose::library, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG libXext
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.libxfixes
+Version: 4.0.3
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.libx11
+Filename: package_debian_A1/uk.qmole.libxfixes_4.0.3_iphoneos-arm.deb
+Size: 10226
+MD5sum: b9625ce07c617309b25d4df802e94c4d
+SHA1: 2653f962c69ae041905ee6ee3016abc527995357
+SHA256: cb684ae7ebad67ee491bd7be9a6fff50f81046a1fcf1a87865b742daf8fa7577
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG libXfixes for IOS
+Tag: purpose::library, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG libXfixes
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.libxfont
+Version: 1.4.2
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.libfontenc, uk.qmole.freetype
+Filename: package_debian_A1/uk.qmole.libxfont_1.4.2_iphoneos-arm.deb
+Size: 294378
+MD5sum: 8a907334bec6ba616c81214f5d942151
+SHA1: 97a43c6316c5631299b110613a32ae33ca13043a
+SHA256: 5946db93866de7b743f4a2eca87c20b819d2d4a950ef31bdf479342188f328f4
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: X11 libXfont for IOS
+Tag: purpose::library, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/x11
+Name: X11 libXfont
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.libxfontcache
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.libxfontcache_1.0.4_iphoneos-arm.deb
+Size: 5558
+MD5sum: ae3aacf33771b12d93d54a774676db79
+SHA1: e919f2ba2aac7c0a8e9705d9f1c2946ecb0c4671
+SHA256: 4ecc525e9e0046621ee11dc7f5d7016b524587051805b9d1e45e8236e6772106
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG libXfontcache for IOS
+Tag: purpose::library, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG libXfontcache
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.libxft
+Version: 2.1.13
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.fontconfig, uk.qmole.freetype, uk.qmole.libxrender
+Filename: package_debian_A1/uk.qmole.libxft_2.1.13_iphoneos-arm.deb
+Size: 133002
+MD5sum: 48a0a303a9c94f6ebcca66d35121eed7
+SHA1: 1de8673e417ca37045f9cafd59ead7e8b90d4663
+SHA256: d0491eb86461284f1ab587cf53d849bff21a17f3ae3d219086bf5863aab16974
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: X11 libxft for IOS
+Tag: purpose::library, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/x11
+Name: X11 libxft
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.libxi
+Version: 1.1.3
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.libx11, uk.qmole.libxext
+Filename: package_debian_A1/uk.qmole.libxi_1.1.3_iphoneos-arm.deb
+Size: 36164
+MD5sum: 93e1f37ff7b9edcf5ec3e5660d5fbcde
+SHA1: 778fb1670d08b959247f85d22da7da00b22077b2
+SHA256: 74effeeee8ae4ee9b08af795a20efc817099b66a6e4abde23fa53f086131b05a
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG libXi runtime library for IOS
+Tag: purpose::library, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG libXi
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.libxinerama
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.libx11, uk.qmole.libxext
+Filename: package_debian_A1/uk.qmole.libxinerama_1.0.3_iphoneos-arm.deb
+Size: 6372
+MD5sum: bce1ec4ed5b6b373e44609537b27f5d3
+SHA1: b8daf0a2d5be742773f43e1e74014e049f780d18
+SHA256: 8aa087868596b5e4ca24d3e222bb039b8dffea5908a30d31bf9343424fb1ba91
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG libXinerama for IOS
+Tag: purpose::library, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG libXinerama
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.libxkbfile
+Version: 1.0.5
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.libx11
+Filename: package_debian_A1/uk.qmole.libxkbfile_1.0.5_iphoneos-arm.deb
+Size: 83894
+MD5sum: 251484a9ae0e222d820528e57ce57a7a
+SHA1: 3926314e416c6d26bb06714b8ecf112cb7ec7c46
+SHA256: f01407dd5cc69e9c61376827b6f74f0e749c6499b5f799d3630be1a9f0892953
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG libXkbfile for IOS
+Tag: purpose::library, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG libXkbfile
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.libxml2
+Version: 2.7.8
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.libxml2_2.7.8_iphoneos-arm.deb
+Size: 1864836
+MD5sum: 6487001028f4e0c399cd57f6f58f5750
+SHA1: f9e18ce940fcd9e071bcd7a8f6fe11968c04c96c
+SHA256: c22c9ac8537e0cf4718c6f2615db21539adcca3d314fb2f567cb7e4eff17d7b1
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG libxml2 for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG libxml2
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.libxmu
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.libx11, uk.qmole.libxext
+Filename: package_debian_A1/uk.qmole.libxmu_1.0.4_iphoneos-arm.deb
+Size: 65578
+MD5sum: d351d795f95cbf587d0e9e82d67583eb
+SHA1: 3903d6484aa95c96a10697ec1502e374f2327224
+SHA256: 1ac6a99858c01dd772bb43f20ccceb93041d72457ad9a7236f253fa2581eb51b
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG X miscellaneous utility library for IOS
+Tag: purpose::library, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG libXmu
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.libxpm
+Version: 3.5.9
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.libxpm_3.5.9_iphoneos-arm.deb
+Size: 152748
+MD5sum: 8f13496530b3c1379e7659dbf11648f8
+SHA1: cbe72a3fd953d2b511d1465d57119a1f9f5a8551
+SHA256: e16b4503fd57951c3433e787e615fdb1c96068bc10617ef688c93da53b2da6ac
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: X11 libxpm for IOS
+Tag: purpose::library, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/x11
+Name: X11 libxpm
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.libxrandr
+Version: 1.2.3
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.libx11, uk.qmole.libxext, uk.qmole.libxrender
+Filename: package_debian_A1/uk.qmole.libxrandr_1.2.3_iphoneos-arm.deb
+Size: 19954
+MD5sum: bad0729325f32919adba2299520564c7
+SHA1: fbd0dfdbea5ae525242487e5dbe46d74309db445
+SHA256: cb6f29bad6b0a9d22424606312641cb98f8ff72d95fec09a835bcc0c735b6580
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG libXrandr for IOS
+Tag: purpose::library, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG libXrandr
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.libxrender
+Version: 0.9.6
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.libxrender_0.9.6_iphoneos-arm.deb
+Size: 89594
+MD5sum: 7a81d51887ad9a439e4a5ae7da7fedcc
+SHA1: 8204e71fe8eec9f6f3b8cbf65a605291349830d4
+SHA256: 44915ba473c2566e0a278203a084bbf4e8255895a13f9f4644651c16dc6eb0a9
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: X11 libXrender for IOS
+Tag: purpose::library, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/x11
+Name: X11 libXrender
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.libxres
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.libx11, uk.qmole.libxext
+Filename: package_debian_A1/uk.qmole.libxres_1.0.3_iphoneos-arm.deb
+Size: 6286
+MD5sum: ae31a94ec3aba2252797a5f97a7d5af8
+SHA1: cca03dcc495e097bfd645cdd02e2b4effe36e548
+SHA256: a3ae2e4256c4bb3533474a215b544711e03e07db8e7f70c1d7de1a4ecde6135a
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG libXres for IOS
+Tag: purpose::library, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG libXres
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.libxscrnsaver
+Version: 1.1.3
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.libx11, uk.qmole.libxext
+Filename: package_debian_A1/uk.qmole.libxscrnsaver_1.1.3_iphoneos-arm.deb
+Size: 10622
+MD5sum: 7cb6717b370c23d4dce97c1ac3bcc6af
+SHA1: 588388f3c9c25a86ff2fb3d8528791c8bdcb911b
+SHA256: 38a9979d00f8bc63e958001ad632ec6f5124220da21b3c40febf30705a141738
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG libXScrnSaver for IOS
+Tag: purpose::library, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG libXScrnSaver
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.libxt
+Version: 1.0.5
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.libx11, uk.qmole.libice
+Filename: package_debian_A1/uk.qmole.libxt_1.0.5_iphoneos-arm.deb
+Size: 302890
+MD5sum: 911fb9509aa1b0fded004104d14e9c5c
+SHA1: f5adf71a9b1bf5aabad27a6d40197688788f9392
+SHA256: c893fc62a8cbbded138cfcdafce678a5d9f0fcd8b8b0f243ba49bd7b29c02beb
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG libXt for IOS
+Tag: purpose::library, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG libXt
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.libxtst
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.libx11, uk.qmole.libxext, uk.qmole.libxi
+Filename: package_debian_A1/uk.qmole.libxtst_1.0.3_iphoneos-arm.deb
+Size: 12750
+MD5sum: af83ebe9066c15fee72a67ec09f67116
+SHA1: 67fbb87f366a35d4e08b6786d74b73f43a667833
+SHA256: 3b0a4a34f7bb80fa23e9bbb63b1a737c51632e451d072de81af04b0c78a8cc39
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG libXtst for IOS
+Tag: purpose::library, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG libXtst
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.libxv
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.libx11, uk.qmole.libxext
+Filename: package_debian_A1/uk.qmole.libxv_1.0.4_iphoneos-arm.deb
+Size: 17944
+MD5sum: 390c0bd140d312c1a20a3ff31b3e6dcc
+SHA1: db54df9d44d5cf8ce8ccf86a0d7ebef184715705
+SHA256: 6ce5860519c27e1a7d79039b352fba2cad1bfb195785ef0ba59e78a01ec74615
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG libXv for IOS
+Tag: purpose::library, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG libXv
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.libxvmc
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.libx11, uk.qmole.libxext
+Filename: package_debian_A1/uk.qmole.libxvmc_1.0.4_iphoneos-arm.deb
+Size: 13464
+MD5sum: 6ce91e0104898afe48698c8ddf3feb7a
+SHA1: 5635bd7ea32139f74047d9b2ae02ba80cf1c8171
+SHA256: e11cd1f894ed83cc60211b18a56072b757a65ffe6c39b0e5e5ca4652b8a417ab
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG libXvMC for IOS
+Tag: purpose::library, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG libXvMC
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.libxxf86dga
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.libx11, uk.qmole.libxext
+Filename: package_debian_A1/uk.qmole.libxxf86dga_1.0.2_iphoneos-arm.deb
+Size: 14330
+MD5sum: 2ae9a4606752fcbca9e34dda3b7cc351
+SHA1: 355faa552bbcd1b81285714220fb3418d1210ea8
+SHA256: 3a445727989bf4ea52ce8ce56fd8bb9abe36c119bd06dc9614201d447deb47ad
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG libXxf86dga for IOS
+Tag: purpose::library, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG libXxf86dga
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.libxxf86misc
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.libx11, uk.qmole.libxext
+Filename: package_debian_A1/uk.qmole.libxxf86misc_1.0.1_iphoneos-arm.deb
+Size: 7926
+MD5sum: e3297c96d41c3cf232b1ba94ba0d4474
+SHA1: 43007056f24c089fcb252a6d6d58ad1d9fb4611c
+SHA256: 981e5d096aab145e77caa28564af68c1c2e09a7985cc838a328a35ce51f3a82b
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG libXxf86misc for IOS
+Tag: purpose::library, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG libXxf86misc
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.libxxf86misc
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.libx11, uk.qmole.libxext
+Filename: package_debian_A1/uk.qmole.libXxf86misc_1.0.1_iphoneos-arm.deb
+Size: 7926
+MD5sum: e3297c96d41c3cf232b1ba94ba0d4474
+SHA1: 43007056f24c089fcb252a6d6d58ad1d9fb4611c
+SHA256: 981e5d096aab145e77caa28564af68c1c2e09a7985cc838a328a35ce51f3a82b
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG libXxf86misc for IOS
+Tag: purpose::library, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG libXxf86misc
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.libxxf86vm
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.libx11, uk.qmole.libxext
+Filename: package_debian_A1/uk.qmole.libxxf86vm_1.0.2_iphoneos-arm.deb
+Size: 12476
+MD5sum: 854cde5a96aadb134e473ececfbe4423
+SHA1: a900e8e85abc0b7dee1e1a8c0c92ac560142a978
+SHA256: 2c4643b65b526166884b663305be5f6ab1c5fc997fdc30601f7e9acf2b511712
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG libXxf86vm for IOS
+Tag: purpose::library, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG libXxf86vm
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.lua
+Version: 5.3.0
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: ncurses, readline
+Filename: package_debian_A1/uk.qmole.lua_5.3.0_iphoneos-arm.deb
+Size: 760440
+MD5sum: 74b94a70d930c6082646888fdf6365f2
+SHA1: ea6d15a16e095f17061c3a70e85508be16407125
+SHA256: 5c2048548215271382c024bf853124804f663a4d7b15ca498aec036cea993138
+Section: Development
+Homepage: http://www.qmole.uk
+Description: Lua & LuaJIT port to IOS
+Tag: purpose::console, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/lua
+Name: Lua & LuaJIT
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.makedepend
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.makedepend_1.0.1_iphoneos-arm.deb
+Size: 43038
+MD5sum: c1f22c3fbe59eff9d572017f3fea6308
+SHA1: 6938249f9951de98a9b46b18c5d5c41f403c3ec5
+SHA256: d60d3543c45cc2e1df7d1a8517041cf70f4f5eb9a641c46c539871b0df93e05b
+Section: Development
+Homepage: http://www.qmole.uk
+Description: Makedepend port to iOS
+Tag: purpose::console, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/makedepend
+Name: Makedepend
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.maxima
+Version: 5.29.1
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.tk, uk.qmole.herbstluft, uk.qmole.ecl
+Filename: package_debian_A1/uk.qmole.maxima_5.29.1_iphoneos-arm.deb
+Size: 16403066
+MD5sum: 51374fcd11331afac64b916484665b38
+SHA1: 05a0b98661b4e91e6ad6cdd5056148bd971cda0c
+SHA256: 244e8727826a45d15d7e8bab260052bc5da1421a7db7dba7b06c6d1e930f9c57
+Section: Applications
+Homepage: http://www.qmole.uk
+Description: Maxima Symbolic Computation Programm  for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: Maxima
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.mkfontdir
+Version: 1.0.6
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.fontconfig, uk.qmole.libxfont, uk.qmole.libxpm, uk.qmole.libxrender
+Filename: package_debian_A1/uk.qmole.mkfontdir_1.0.6_iphoneos-arm.deb
+Size: 3716
+MD5sum: cbd8a6d98774a088bc7413a873387b78
+SHA1: 18fdbd93eb0bc7f7b8a47efc5ce2b1ca8f4d8f7f
+SHA256: a327f82147a777bdd2e32216cd008ef89df99b0d82e7ffaf79df1be98b39570e
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: X11 makefontdir for IOS
+Tag: purpose::library, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/x11
+Name: X11 Makefontdir
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.mkfontscale
+Version: 1.0.9
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.libfontenc, uk.qmole.freetype
+Filename: package_debian_A1/uk.qmole.mkfontscale_1.0.9_iphoneos-arm.deb
+Size: 53838
+MD5sum: e1659d7152ead90b588c7f8328280812
+SHA1: 84c9321b40a8a9c333c7b5f6bfd3d26a7bbd067c
+SHA256: bce5fab3578a2d5da6d8e3adab141de3b956e73e53d5eb68460273a23b668614
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: X11 mkfontscale for IOS
+Tag: purpose::library, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/x11
+Name: X11 mkfontscale
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.netcat
+Version: 1.10
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.libpcap, uk.qmole.qmole, uk.qmole.herbstluft
+Filename: package_debian_A1/uk.qmole.netcat_1.10_iphoneos-arm.deb
+Size: 49452
+MD5sum: b486912c1549b41a7ac9cd7bc49764b9
+SHA1: e6b239499d3af1cd2bb6349346b6245a5281cc41
+SHA256: 1d765c2d39f41a8f1949392c4eb5fcb1beda15fccc3f32ead84bbe65475f6b29
+Section: Security
+Homepage: http://www.qmole.uk
+Description: TCPIP Swiss Army Knife
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: netcat
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.netsurf
+Version: 2.9
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.libcroco
+Filename: package_debian_A1/uk.qmole.netsurf_2.9_iphoneos-arm.deb
+Size: 3172792
+MD5sum: 72815e87e63de50f789bb78defe85a0f
+SHA1: 45b9fa9358e52ce2e71d86bf8803dc51fe242091
+SHA256: 5425cfe8573969d09c555445ded4f5288c4c2017668fc626d52bf8cd76fb5827
+Section: Applications
+Homepage: http://www.qmole.uk
+Description: Netsurf web browser for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: Netsurf
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.netsurf
+Version: 3.3
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.libcroco, uk.qmole.curl, uk.qmole.herbstluft
+Filename: package_debian_A1/uk.qmole.netsurf_3.3_iphoneos-arm.deb
+Size: 2673616
+MD5sum: 586062b988fffd7b9d5a58648f66a671
+SHA1: 99c5800bef56a59308e4fd8734af7b37a786f36b
+SHA256: 4dc8bdc0b14f3dd9e4599b05123971b0c6bd4372a4883d6e051111f8852e30d4
+Section: Applications
+Homepage: http://www.qmole.uk
+Description: Netsurf web browser for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: Netsurf
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.nmap
+Version: 4.76
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: firmware (>= 7.0), uk.qmole.libpcap, uk.qmole.qmole, uk.qmole.libdnet, uk.qmole.herbstluft
+Filename: package_debian_A1/uk.qmole.nmap_4.76_iphoneos-arm.deb
+Size: 1823198
+MD5sum: d1f29ff0c6f243c0e44e985422271fb1
+SHA1: 95870a946f175cc72a5b4417558f61835d4a1eb8
+SHA256: 2349cc18d1286ae9b5da1a33af6d5e26fa8709f3f559c4e70e56991eb776a173
+Section: Security
+Homepage: http://www.qmole.uk
+Description: Nmap (Network Mapper) Security Scanner
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: nmap
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.nodejs
+Version: 0.4.8
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: ncurses, readline
+Filename: package_debian_A1/uk.qmole.nodejs_0.4.8_iphoneos-arm.deb
+Size: 4724562
+MD5sum: 9a04fc914f10f297884ad0af20f96f54
+SHA1: adb0669c49f56976037bb9f6a73b09eef9b2e0d9
+SHA256: 4b6b2e69235016f55629f13913d03c79ae9f4750ec81add255b253ebe1bfd848
+Section: Development
+Homepage: http://www.qmole.uk
+Description: Nodejs Java Script
+Tag: purpose::console, role::developer
+Author: Chris Kohlhepp
+Depiction: http://www.qmole.uk/nodejs
+Name: Nodejs
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.npm
+Version: 0.3.18
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.nodejs
+Filename: package_debian_A1/uk.qmole.npm_0.3.18_iphoneos-arm.deb
+Size: 2058150
+MD5sum: 6796357f051c169b7a048720ee158db0
+SHA1: af870a8edf0f6939d8066dd49a50ce3e6aa69150
+SHA256: 743d892011698d33f0c603120d4f6a24263584726cb09dba01ef8bf1db1e621b
+Section: Development
+Homepage: http://www.qmole.uk
+Description: JavaScript Package manager NPM for IOS
+Tag: purpose::console, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/npm
+Name: NPM
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.ocaml
+Version: 3.12.0
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: ncurses, readline
+Filename: package_debian_A1/uk.qmole.ocaml_3.12.0_iphoneos-arm.deb
+Size: 36304978
+MD5sum: 398dc5941904ee05dd8a69bc073acd58
+SHA1: 6ce67f76c9225449c0507cf24b33da39885b41da
+SHA256: ee2fc19ad49f99005df57330adb42b401e9fcf8550a1e610884a8049c1273a9c
+Section: Development
+Homepage: http://www.qmole.uk
+Description: OCaml port to IOS
+Tag: purpose::console, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/ocaml
+Name: OCaml
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.pango
+Version: 1.29.1
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.cairo
+Filename: package_debian_A1/uk.qmole.pango_1.29.1_iphoneos-arm.deb
+Size: 973434
+MD5sum: 1351aff8f0fde1f7d33cdde148bbdb18
+SHA1: a86ff27b856fd10e89e2fe60d5c5f68862946dbf
+SHA256: 15de9a414bbedc168818b6565976dab77da78c3a27569ee9dc4509b58b950119
+Section: Window_Toolkits
+Homepage: http://www.qmole.uk
+Description: Pango text layout library for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: Pango Text Layout Library
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.pixman
+Version: 0.22.2
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.pixman_0.22.2_iphoneos-arm.deb
+Size: 477274
+MD5sum: 0638cf91f16860f043055b18a48c21d5
+SHA1: 4388cb9a8d03abbd91d5ccf325221b899a19988b
+SHA256: ff59b34491fe615808915057190d49c9d5b918cc2a9469a4c748a65b4a39ebc3
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: X11 pixman for IOS
+Tag: purpose::library, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/x11
+Name: X11 pixman
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.poppler
+Version: 0.13.4
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.poppler_0.13.4_iphoneos-arm.deb
+Size: 1038962
+MD5sum: 79fef438e8b6166cc725a2e0349f19ce
+SHA1: 8a5dd64d0c55c6b4f49c5d6d057f79a9feeb8500
+SHA256: 24c677b409d669b40f63e582f6201312ede642f14e8601d075ebe81513fde05d
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG poppler for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG poppler
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.powerloom
+Version: 4.0.9
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: firmware (>= 7.0), uk.qmole.qmole, uk.qmole.herbstluft
+Filename: package_debian_A1/uk.qmole.powerloom_4.0.9_iphoneos-arm.deb
+Size: 44648960
+MD5sum: c837c736cc2f03eed338e1f1227b4ced
+SHA1: 39b3e17708f36e5a7ee0ba1cc5667bd548b08984
+SHA256: 6d333f01d36597c25ea5bc0323127eabecd631c682fb19d30937af67037f52a8
+Section: Development
+Homepage: http://www.qmole.uk
+Description: The Powerloom Ontology KB R System
+Tag: purpose::console, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/ocaml
+Name: Powerloom
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.qmole
+Version: 0.6
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: firmware (< 9.0), uk.qmole.usrlocal, uk.qmole.xserver, uk.qmole.deviceid, uk.qmole.xset, uk.qmole.herbstluft, uk.qmole.gtk3, uk.qmole.gtk2, uk.qmole.xauth, uk.qmole.xrdb, uk.qmole.xsetroot, uk.qmole.roxfiler, uk.qmole.ivte, uk.qmole.fox, uk.qmole.dzen, uk.qmole.bmpanel2, uk.qmole.cairo, uk.qmole.clawsmail, uk.qmole.eterm, uk.qmole.leafpad, uk.qmole.poppler, uk.qmole.xournal, uk.qmole.xwininfo, uk.qmole.xhost
+Filename: package_debian_A1/uk.qmole.qmole_0.6_iphoneos-arm.deb
+Size: 8135118
+MD5sum: 74a1ce670518089277ca27a9443817cf
+SHA1: 8d0080097320566d112be3033460b12aa4e42200
+SHA256: bd4219bbb618cdef2cc2669d4d9e0288e2e576a8b82542c739074ebaea35b2b9
+Section: Core_System
+Homepage: http://www.qmole.uk
+Description: The QMole Master Package
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: QMole Desktop
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.qmole
+Version: 0.7
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: firmware (< 9.0), uk.qmole.usrlocal, uk.qmole.xserver, uk.qmole.deviceid, uk.qmole.xset, uk.qmole.herbstluft, uk.qmole.gtk3, uk.qmole.gtk2, uk.qmole.xauth, uk.qmole.xrdb, uk.qmole.xsetroot, uk.qmole.roxfiler, uk.qmole.ivte, uk.qmole.fox, uk.qmole.dzen, uk.qmole.bmpanel2, uk.qmole.cairo, uk.qmole.clawsmail, uk.qmole.eterm, uk.qmole.leafpad, uk.qmole.poppler, uk.qmole.xournal, uk.qmole.xwininfo, uk.qmole.xhost
+Filename: package_debian_A1/uk.qmole.qmole_0.7_iphoneos-arm.deb
+Size: 8135138
+MD5sum: aeece989d3a37910a5e2d6e32057470d
+SHA1: fcc6a2654d77a45a0ac485770f983c26f62be5eb
+SHA256: 64cb2b304f4689f5ff5ac1543e976ce5f334924eb375faaf1b5e59c1be078eb2
+Section: Core_System
+Homepage: http://www.qmole.uk
+Description: The QMole Master Package
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: QMole Desktop
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.renderproto
+Version: 0.11.1
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.renderproto_0.11.1_iphoneos-arm.deb
+Size: 17048
+MD5sum: 8a572adaf6ee8b2e617ebaa5ac9052aa
+SHA1: 8b85cf6ef4a58e69d142094132ce35c36801fcab
+SHA256: aa2d0b67c34713877e68acbfb6edcd3d32a24cc6e9460277fc89127927354252
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: X11 renderproto for IOS
+Tag: purpose::library, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/x11
+Name: X11 renderproto
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.roxfiler
+Version: 2.11.2
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.roxfiler_2.11.2_iphoneos-arm.deb
+Size: 1699248
+MD5sum: 72662548cb0afeb748d0b37e8b4aaa92
+SHA1: a635bf1aab7fdb0f83498dde84c0a041bcc99487
+SHA256: dbce4a5f24fb4ac25f096476169e56c0d0e9b41a5d4ab023d3b3d8a6148d6c1c
+Section: Desktop
+Homepage: http://www.qmole.uk
+Description: ROX-Filer file manager for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: ROX-Filer File Manager
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.scala
+Version: 2.6.1
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: ncurses, readline, jamvm
+Filename: package_debian_A1/uk.qmole.scala_2.6.1_iphoneos-arm.deb
+Size: 14563106
+MD5sum: ec1369c03ffc8bf9c5d37e04c4a3252b
+SHA1: 8f0ae11c378a311997cc4b2bfbf39742187f3309
+SHA256: 26583ec7e073dae9e4f9cf2fc906b6bffd0a137aab3290ee66d806f765808aab
+Section: Development
+Homepage: http://www.qmole.uk
+Description: Scala port to IOS
+Tag: purpose::console, role::developer
+Author: Chris Kohlhepp
+Depiction: http://www.qmole.uk/scala
+Name: Scala
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.setxkbmap
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.setxkbmap_1.0.4_iphoneos-arm.deb
+Size: 11856
+MD5sum: f8a7ea950fef1d8172c86c37fcba4af8
+SHA1: 68fa56d59806a1cc087414cb580b425d78aab622
+SHA256: e82da81883411bd4a593d89280f87418efac4a1f7d4b5d37b40bf4a28733834e
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG setxkbmap for IOS
+Tag: purpose::library, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG setxkbmap
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.showfont
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.freetype
+Filename: package_debian_A1/uk.qmole.showfont_1.0.3_iphoneos-arm.deb
+Size: 19902
+MD5sum: d091bfe4681a7b4aa59d2fe59eded2a4
+SHA1: d3120767050d1e9b1594159eee147b0e6280a1a4
+SHA256: c3617538c9f3137c558eb53221c9abeb25ced23ff09bf2401f4b3df6a35bec49
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: X11 shofont for IOS
+Tag: purpose::library, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/x11
+Name: X11 showfont
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.smproxy
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.libx11, uk.qmole.xserver
+Filename: package_debian_A1/uk.qmole.smproxy_1.0.2_iphoneos-arm.deb
+Size: 38008
+MD5sum: eb2a7fc6d44fb564e75089ba8ee53156
+SHA1: c1900473ef6f77584ef4f994445f4289808406f3
+SHA256: e6af3352bff8bf24c2a804eb5716f0747c1c1231d3780c328b2c9f8f46f749e2
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG smproxy for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG smproxy
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.snort
+Version: 2.9.7.6
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: firmware (>= 7.0), uk.qmole.libpcap, uk.qmole.libdaq, uk.qmole.nmap, uk.qmole.qmole, uk.qmole.libdnet, uk.qmole.herbstluft
+Filename: package_debian_A1/uk.qmole.snort_2.9.7.6_iphoneos-arm.deb
+Size: 10589254
+MD5sum: 075f2079292a306bbb1073802a0c059a
+SHA1: 3c23645e11ae25c88e58e13090929f4be328cd4a
+SHA256: 83ce3014f7a27fc3c73d690ffadedbcb3fc65d29554a75f0e26c86a00d4e2bdf
+Section: Security
+Homepage: http://www.qmole.uk
+Description: Snort Network Intrusion Prevention System
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: snort
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.startupnotification
+Version: 0.10
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.libx11, uk.qmole.xserver, uk.qmole.libxi, uk.qmole.libxcb
+Filename: package_debian_A1/uk.qmole.startupnotification_0.10_iphoneos-arm.deb
+Size: 28452
+MD5sum: 71f1b783f73dbb8c66eb351a9602220b
+SHA1: 24742c145bcad906ce06f3d4f9b510a0a08ad633
+SHA256: 8e89f192514764c815185699d5ff9e3f097234c6fffa85ce24aec89b812bd210
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG startup-notification for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG startup-notification
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.stunnel
+Version: 5.24
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.herbstluft
+Filename: package_debian_A1/uk.qmole.stunnel_5.24_iphoneos-arm.deb
+Size: 265642
+MD5sum: 106404e10887ed4f5257f3aea75befea
+SHA1: 969d6a229649e30f9df0ee11f879de57ee2bf717
+SHA256: 33a267565794f3a83aafee97a875b96db69bab0692d0dc92d095085de5126f5e
+Section: Applications
+Homepage: http://www.qmole.uk
+Description: stunnel for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: Stunnel
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.tcl
+Version: 8.5.19
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.xserver, ncurses, uk.qmole.herbstluft
+Filename: package_debian_A1/uk.qmole.tcl_8.5.19_iphoneos-arm.deb
+Size: 2190570
+MD5sum: 9861258380312c7db41065252b484b98
+SHA1: 7a91d02e7a08d1772f216c1a98cb9307fb9323b1
+SHA256: 2dc6851c6aeb3fa107a3e357c5e3be4948a2abc67695682329a8a9d8bd16395e
+Section: Development
+Homepage: http://www.qmole.uk
+Description: TCL scripting language port to IOS
+Tag: purpose::console, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: TCL
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.tcpdump
+Version: 4.7.4
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: firmware (>= 7.0), uk.qmole.libpcap, uk.qmole.qmole, uk.qmole.libdnet, uk.qmole.herbstluft
+Filename: package_debian_A1/uk.qmole.tcpdump_4.7.4_iphoneos-arm.deb
+Size: 1007274
+MD5sum: 868bdebf82a4a6cf566292ac42d696be
+SHA1: 495aa6a19e7fb27279c92f15bd8c40f4e45ca3a2
+SHA256: a1bdf4c0f4e5364bd255b3200c3e7c85e0e9f292cee3bdd38c9c9ef540857b33
+Section: Security
+Homepage: http://www.qmole.uk
+Description: Tcpdump network sniffer for iOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: tcpdump
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.tk
+Version: 8.5.19
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.xserver, ncurses, uk.qmole.herbstluft, uk.qmole.tcl
+Filename: package_debian_A1/uk.qmole.tk_8.5.19_iphoneos-arm.deb
+Size: 2429248
+MD5sum: d13dafe349716b900c2cc6a609db4949
+SHA1: 22a39c98df1f5e477b6ba24c1fd969c9261460fd
+SHA256: 45d9317b867f1c4497dd5f504dff95770b188c661d70aa93bbca6ec7978a6e23
+Section: Development
+Homepage: http://www.qmole.uk
+Description: TCLTK scripting language port to IOS
+Tag: purpose::console, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: TK
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.tkdiff
+Version: 4.2
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.tk, uk.qmole.herbstluft
+Filename: package_debian_A1/uk.qmole.tkdiff_4.2_iphoneos-arm.deb
+Size: 92632
+MD5sum: 468ff6b25b05fd3d83e6842cd243cd8b
+SHA1: 184a6dd4d4fd3cb1c146f1cc4b3e11f9004e77af
+SHA256: 6ce5629e69bb70e1003f8cddf7c5fd7db8bfd890ec819c1560e357f1b9c5289e
+Section: Applications
+Homepage: http://www.qmole.uk
+Description: Tkdiff for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: Tkdiff
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.tree
+Version: 1.5.3
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.tree_1.5.3_iphoneos-arm.deb
+Size: 23812
+MD5sum: 99670d8b91d9be3a83dd8f689156ae6f
+SHA1: 4fdc043b205f9be594a14731bc0efefbe8dc2853
+SHA256: 01e3f489113316a62dbd928427a9c839f617cbf2ce624936c7f621c576175b66
+Section: Development
+Homepage: http://www.qmole.uk
+Description: Recursive directory lister
+Tag: purpose::console, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/tree
+Name: tree
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.usrlocal
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: adv-cmds, basic-cmds, berkeleydb, bzip2, coreutils, csu, developer-cmds, diffutils, diskdev-cmds, file-cmds, findutils, flex, bison, gawk, gettext, glib, grep, gzip, inetutils, less, libffi, jpeg, libxml2, lsof, make, pcre, png, readline, rsync, sed, shell-cmds, sudo, system-cmds, tar, tiff, top, unrar, unzip, wget, whois, xml2, xmu, zip
+Filename: package_debian_A1/uk.qmole.usrlocal_1.0_iphoneos-arm.deb
+Size: 1432
+MD5sum: b1d9ad58bbeaa6d5a5ebbfc800f794b6
+SHA1: 3975ca0b0342cc95e6439a7a6dca3cde2ecfb47f
+SHA256: a823af8397fe437cb1a17b6b4da99758cb87e6bb73add32e66ee398018970c74
+Section: Core_System
+Homepage: http://www.qmole.uk
+Description: Move usr local to private partition
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: QMole Usr Local Switch
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.utilmacros
+Version: 1.6.0
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.utilmacros_1.6.0_iphoneos-arm.deb
+Size: 9312
+MD5sum: f8d66cf32ef7e78ea1d78c4c0c52c9f5
+SHA1: 416de6710afc3129872b654edf3852987162de3f
+SHA256: dc1c1d878742d671a413073ae7bf100343686bc1468da158d3f39a50c45bc496
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: X11 utilmacros for IOS
+Tag: purpose::library, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/x11
+Name: X11 utilmacros
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.vtcl
+Version: 8.6
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.xserver, ncurses, uk.qmole.herbstluft, uk.qmole.tk
+Filename: package_debian_A1/uk.qmole.vtcl_8.6_iphoneos-arm.deb
+Size: 2142102
+MD5sum: 9e2532bb995fa600dad34e3347cf962f
+SHA1: c91c06d25667ffbced32818cb0c91bdb4435199f
+SHA256: da3db4b48c0e6e66795e7835352afe8d380aa23fb24967ab9bc9d8c81b734671
+Section: Development
+Homepage: http://www.qmole.uk
+Description: Visual TCL TK for IOS
+Tag: purpose::console, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: VTCL
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.vte
+Version: 0.29.1
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.vte_0.29.1_iphoneos-arm.deb
+Size: 972340
+MD5sum: 9b23d2234be0709c258382ecd4e52d20
+SHA1: fcfe0ab1b1ba8dc09d9f7903e59f1f12599cba86
+SHA256: 5edfacdab75151c14dfcd6034bdc6427f64e4a5770c9cdde4f645d045720c838
+Section: Terminals
+Homepage: http://www.qmole.uk
+Description: GTK+ terminal library for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: Gnome libvte
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.wv
+Version: 1.2.9
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.wv_1.2.9_iphoneos-arm.deb
+Size: 5228532
+MD5sum: 02cec744a7de313ad0033559df539753
+SHA1: 3d65f1c63de9e4c693fa447838c69eb321f2f3ed
+SHA256: d9432a8f936aea41b5aa2dee24ada96fe398023145f24305c6e32988f87a2c1f
+Section: Applications
+Homepage: http://www.qmole.uk
+Description: Word Viewer for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: WordView
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.x11fonts
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.freetype, uk.qmole.x11fontsTTF, uk.qmole.x11fonts75dpi
+Filename: package_debian_A1/uk.qmole.x11fonts_1.0_iphoneos-arm.deb
+Size: 22838484
+MD5sum: d8848f1f97e2e4231b22daba51938d35
+SHA1: 4b956246f6bcfe1a8066c543c546adf8a8c54ec6
+SHA256: b5a2a2fcd3062550bc06ff1167644da94d12d9350a4a0866f6c847b710d56c42
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: X11 and TrueType Fonts for IOS
+Tag: purpose::library, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/x11
+Name: X11 and TrueType Fonts
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.x11fonts75dpi
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.freetype
+Filename: package_debian_A1/uk.qmole.x11fonts75dpi_1.0_iphoneos-arm.deb
+Size: 11046870
+MD5sum: 241e74fcbadf22521096af0c717c7194
+SHA1: 286d8f9933411cc4c1b2021d8f019044798c5f23
+SHA256: e1e6bc627504f57ea607ba3072aa10f781fc39a4ed4bab0131853e8fef40636f
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: X11 and TrueType Fonts for IOS
+Tag: purpose::library, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/x11
+Name: X11 75DPI Fonts
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.x11fontsTTF
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.freetype
+Filename: package_debian_A1/uk.qmole.x11fontsTTF_1.0_iphoneos-arm.deb
+Size: 11471348
+MD5sum: 01833510b3a526339eaa3e50e681129e
+SHA1: be883a4002753eb7587265fc171dd08bc67f7e71
+SHA256: 1cc85e1f7569c99854646df6bd5accf2254520e85cb706dee99bb5275b0b0d42
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: TrueType Fonts for IOS
+Tag: purpose::library, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/x11
+Name: TrueType Fonts
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.x11perf
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.libx11, uk.qmole.xserver
+Filename: package_debian_A1/uk.qmole.x11perf_1.5_iphoneos-arm.deb
+Size: 140506
+MD5sum: a14fbb02bfad285821271d5c7c5a46bc
+SHA1: 4b985573e9bcd7bde09aa94883b035d4a89ec619
+SHA256: 8fea4de91cceddd9aabe8a5cc16834227b451d08bb1283b386b1b50cad877daa
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG x11perf for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG x11perf
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.x11r6
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.x11fonts
+Filename: package_debian_A1/uk.qmole.x11r6_1.1.0_iphoneos-arm.deb
+Size: 5872
+MD5sum: 4d206bb46c93d0bb9806c686f66fc906
+SHA1: e98e87ae77aca2b17a139e2b79831c6720126ca2
+SHA256: 740ddc7826c9055d0f870df2b933cd54cef0554fc753f4ab460556d4bfc0de3a
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: X11R6 compatibility for IOS
+Tag: purpose::library, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/x11
+Name: X11R6 Compatibility
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.xauth
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.libx11, uk.qmole.xserver, uk.qmole.libxi, uk.qmole.libxext, uk.qmole.libxau
+Filename: package_debian_A1/uk.qmole.xauth_1.0.3_iphoneos-arm.deb
+Size: 56522
+MD5sum: daa420d52a73d58d8dc066220dc3c37d
+SHA1: 70463aa066859b3347888e7443e88298a837487b
+SHA256: 72da5619ac1e05a216f4b811b9d73757f39d26d1ad52e55ec1ff675676a148ef
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG xauth for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG xauth
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.xbitmaps
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.libx11, uk.qmole.xserver
+Filename: package_debian_A1/uk.qmole.xbitmaps_1.0.1_iphoneos-arm.deb
+Size: 23188
+MD5sum: 76b89ee29e16ec7ec0c72cb95840f865
+SHA1: 51f915bf98a324e774c061cf521875ad44af7375
+SHA256: 8422077fad3edf4e69a3fc3e1d1984e4b7ae747e740a23b50f11faaf9f678162
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG xbitmaps for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG xbitmaps
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.xcursorgen
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.libx11, uk.qmole.xserver, uk.qmole.libxi
+Filename: package_debian_A1/uk.qmole.xcursorgen_1.0.2_iphoneos-arm.deb
+Size: 28738
+MD5sum: 10fdadf2308c460a7a3a92d78ddb1698
+SHA1: 40ac21807efbb3f66fba07fedfa85c986a94d9e3
+SHA256: df27528d70462eaa88b0f8b5cd3af923b2fe178dd0c441bddb39516182f09814
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG xcursorgen for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG xcursorgen
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.xcursorthemes
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.xcursorthemes_1.0.3_iphoneos-arm.deb
+Size: 449126
+MD5sum: b2bbdd14b4ef7c792b76a7ac55be4db6
+SHA1: 08471c8a464639c65cfd7fffd2581b4917364d02
+SHA256: 9126006a78ab13cdafcd44837302eb6bd1e11eec1970d331faa46c552125cfe6
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG xcursor themes for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG xcursor themes
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.xdpyinfo
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.libx11, uk.qmole.xserver
+Filename: package_debian_A1/uk.qmole.xdpyinfo_1.0.3_iphoneos-arm.deb
+Size: 65396
+MD5sum: 4883dbf5769a60bbb4278ede4fdf01f5
+SHA1: cc8c11fdac40900b615bc95b4aa4ca5f2c35003a
+SHA256: 422208d1302fcc0103c44aab3bc04ba2df12fbeb027645d41b79647a84da4d61
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG xdpyinfo for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG xdpyinfo
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.xev
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.libx11, uk.qmole.xserver, uk.qmole.libxi, uk.qmole.libxext, uk.qmole.libxrender, uk.qmole.libxaw
+Filename: package_debian_A1/uk.qmole.xev_1.0.3_iphoneos-arm.deb
+Size: 38966
+MD5sum: 9ffef4171b86d10977cc7a5abbd038d9
+SHA1: 6a750d7443cd53c290c03c7490653be467fc7aba
+SHA256: 73c21f14c9db461e37dd0e673481f5f19af43b2a47248eb2a818c7c02472a503
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG xev for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG xev
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.xf86dga
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.libx11, uk.qmole.xserver
+Filename: package_debian_A1/uk.qmole.xf86dga_1.0.2_iphoneos-arm.deb
+Size: 30328
+MD5sum: 2ab17fc226568780079d6bea92a2156b
+SHA1: ee66f74dfff7d2f2509b10c8660c3e0b69ca9a66
+SHA256: 375c1d7b9b3b102c4c691519f27165b84367aeb01587a3273b653b7b0d32140c
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG xf86dga for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG xf86dga
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.xfe
+Version: 1.34
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.xfe_1.34_iphoneos-arm.deb
+Size: 3180730
+MD5sum: e24f6f0e66075c283bcdf79db35bfef2
+SHA1: 1727dbc64f57b3679dacc1dabc7db8102e2b7c7c
+SHA256: 97437d81564de42c2f246d83f06446438ef2470ea1a78bf3de3fd6c2707b1bd2
+Section: Desktop
+Homepage: http://www.qmole.uk
+Description: XFE File Manager for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: X File Explorer
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.xhost
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.libx11, uk.qmole.xserver, uk.qmole.libxi, uk.qmole.libxmu
+Filename: package_debian_A1/uk.qmole.xhost_1.0.2_iphoneos-arm.deb
+Size: 35778
+MD5sum: e958a69a0750e9f5251fc00299d561fa
+SHA1: b5e303a056ccdfd2fb83b6cac6b783a6a0dda9b0
+SHA256: 7685a4487b607792a8655c9cbf8fa7f5fc47e2b79d237874172ba20913137645
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG xhost for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG xhost
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.xkill
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.libx11, uk.qmole.xserver, uk.qmole.libxi
+Filename: package_debian_A1/uk.qmole.xkill_1.0.1_iphoneos-arm.deb
+Size: 33886
+MD5sum: 5b36594f2fb9d5b051c7bacad2e19fd3
+SHA1: 8ec061d96fa6d349da6574a53001796e64300970
+SHA256: ba6caa2447b13fd372c5ded66f7e8718b179e1920731dd34d25a7d0acef3a7ce
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG xkill for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG xkill
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.xmodmap
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.libx11, uk.qmole.xserver, uk.qmole.libxi
+Filename: package_debian_A1/uk.qmole.xmodmap_1.0.3_iphoneos-arm.deb
+Size: 44532
+MD5sum: 330c55befc296c641763109a44432b80
+SHA1: a550d32b069c62a131b148115ba5af511867ec21
+SHA256: a97d8f00d3ac3738a795c83893cafcd46bb173be0fbd842585b7616afa8b4fbc
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG xmodmap for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG xmodmap
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.xournal
+Version: 0.4.5
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.xournal_0.4.5_iphoneos-arm.deb
+Size: 285962
+MD5sum: c34da1f90f501b634effd22a111dc6f3
+SHA1: 1ff3c8e3fb1cf3d44a23d2a7659fb933b136026f
+SHA256: 2ae67559fcf3b0c6c348a3c3b947699746aa25139e6a05c360b51dc17631beb3
+Section: Applications
+Homepage: http://www.qmole.uk
+Description: Xournal notetaking sketching and PDF editor for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: Xournal Notetaking
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.xprop
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.libx11, uk.qmole.xserver, uk.qmole.libxi
+Filename: package_debian_A1/uk.qmole.xprop_1.0.4_iphoneos-arm.deb
+Size: 49794
+MD5sum: e7eaf3f9f6600d1a3fc30345e4ea6bb3
+SHA1: b2252f044517d1b15293868cda40aad688339391
+SHA256: 17a54e5db854c9ef857538c0bba07cb206d5823762eed5d70066dcdaef38c9e9
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG xprop for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG xprop
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.xproto
+Version: 7.0.17
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.xproto_7.0.17_iphoneos-arm.deb
+Size: 75584
+MD5sum: 370c6263876a342ef4f566a8e9aea544
+SHA1: 66397c890cc8335e3ead16530c166ef5e83f78c1
+SHA256: 4c849d472b06e09f6227bf9b830506cf195d6d0c0f916c036bc641db5002bcd9
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: X11 xproto for IOS
+Tag: purpose::library, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/x11
+Name: X11 xproto
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.xprotometa
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.xprotometa_1.0_iphoneos-arm.deb
+Size: 179868
+MD5sum: cd019972bcf49bd7e08e392f3bcc3f3f
+SHA1: ef7edfec55044ed2ba888a1e7111ab94e7789c7d
+SHA256: b3aeac4f0078de62a259d92c0fbd9b2a77926a952e1c9393826cfa3a906f736d
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG X11 protocol collection for IOS
+Tag: purpose::library, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG XProto Meta Package
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.xrandr
+Version: 1.2.3
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.libx11, uk.qmole.xserver, uk.qmole.libxi
+Filename: package_debian_A1/uk.qmole.xrandr_1.2.3_iphoneos-arm.deb
+Size: 66104
+MD5sum: 2610dd44f058956acbd5eb653b00e2f7
+SHA1: c82d93d7974a498438ce8e972f4aa973bc1f5b31
+SHA256: 966226969629996fc106c3510eef59f369ba11ecab37e6cb47059d53e3fb1bd0
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG xrandr for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG xrandr
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.xrdb
+Version: 1.0.5
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.libx11, uk.qmole.xserver, uk.qmole.libxi
+Filename: package_debian_A1/uk.qmole.xrdb_1.0.5_iphoneos-arm.deb
+Size: 40640
+MD5sum: 36dc76c3a06af45d06595ecff98ff42c
+SHA1: 7032cf85e1f71ab0155305ea2b6d5c47e097137d
+SHA256: bcb9a8d3e114399e6270453963f576d17b48bdbcebddc8c7a8c618bd9b3930d4
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG xrdb for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG xrdb
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.xserver
+Version: 4.1.3
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.usrlocal, uk.qmole.x11r6, uk.qmole.xset, uk.qmole.bdftopcf, uk.qmole.encodings, uk.qmole.fontconfig, uk.qmole.fontutil, uk.qmole.freetype, uk.qmole.giflib, uk.qmole.libxaw, uk.qmole.libxfont, uk.qmole.libxft, uk.qmole.libxpm, uk.qmole.libxrender, uk.qmole.mkfontdir, uk.qmole.mkfontscale, uk.qmole.pixman, uk.qmole.renderproto, uk.qmole.showfont, uk.qmole.utilmacros, uk.qmole.x11fonts, uk.qmole.xproto, uk.qmole.libx11, uk.qmole.libxdamage, uk.qmole.libxfixes, uk.qmole.libxfontcache, uk.qmole.libxrandr, uk.qmole.libxi, uk.qmole.eterm
+Filename: package_debian_A1/uk.qmole.xserver_4.1.3_iphoneos-arm.deb
+Size: 1169224
+MD5sum: 5eccbe0471adcf5bd660a998b4ad9827
+SHA1: 27f68408ed23528fb5cd4fe1f1b8dac9cc277822
+SHA256: 76d997f88e9ba1cbf8ab6ab9d09f0a75ae0154e1030a144c8eb695dafe6f5f0c
+Section: Core_System
+Homepage: http://www.qmole.uk
+Description: QMole Embedded X Daemon for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: QMole Embedded X Daemon
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.xset
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.libx11, uk.qmole.xserver, uk.qmole.libxi, uk.qmole.x11r6
+Filename: package_debian_A1/uk.qmole.xset_1.0.4_iphoneos-arm.deb
+Size: 42904
+MD5sum: 0290634dbf8b360b9b06648e040f3abf
+SHA1: 9d26f94fec036aca1b598152f287480eefc9b29d
+SHA256: 3ded442af978cb2a5df684f6dccd6038655930729306ba8c722954332bbec6ff
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG xset for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG xset
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.xsetroot
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.libx11, uk.qmole.xserver, uk.qmole.libxi, uk.qmole.libxcursor, uk.qmole.libxmu
+Filename: package_debian_A1/uk.qmole.xsetroot_1.0.2_iphoneos-arm.deb
+Size: 55486
+MD5sum: 1bea0b1a7da2739889c52c1ddcdf904b
+SHA1: f94fd1ae76109e3980cef5ee959ba83d8a0cb51c
+SHA256: 000a9de77f33ce4d6b38d5bb8cf7bdd3267d83492ba9ccb293364a942cfd0351
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG xsetroot for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG xsetroot
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.xterm
+Version: 279
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.xterm_279_iphoneos-arm.deb
+Size: 477844
+MD5sum: cf2b5982547818231b51a4876a214cd7
+SHA1: f692b70ae5e8d47906d7f5369ebba185f86c0521
+SHA256: 2389e1f38e3baea77b5d1e41ec654bcf66cf67b80070062e512f2571d487e805
+Section: Terminals
+Homepage: http://www.qmole.uk
+Description: The venerable Linux xterm for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: xterm terminal emulator
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.xwininfo
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Depends: uk.qmole.libxcb, uk.qmole.libx11, uk.qmole.xserver
+Filename: package_debian_A1/uk.qmole.xwininfo_1.0.4_iphoneos-arm.deb
+Size: 42214
+MD5sum: 605f07643144104ea270c4e6eec72368
+SHA1: c9cc7010630efe990438228a5f370714d202d476
+SHA256: 4f6dcc7e58447d4a74262e1463685968d8efee4ecee7453627d5be2dd7eea345
+Section: X_Window
+Homepage: http://www.qmole.uk
+Description: XORG xwininfo for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: XORG xwininfo
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.zmq
+Version: 2.2.0
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.zmq_2.2.0_iphoneos-arm.deb
+Size: 159724
+MD5sum: 243212cc4bfd32cc151e48eae7863480
+SHA1: 2045a71037e8e8241038b5a795dd4d5573590754
+SHA256: 04f8e17a28cc05696749a8bc03527351bd5ae4dfcb55763e6d92d782273e0631
+Section: Development
+Homepage: http://www.qmole.uk
+Description: ZeroMQ message queue for IOS
+Tag: purpose::console, role::developer
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/zmq
+Name: ZeroMQ
+Sponsor: QMole Ltd.
+
+Package: uk.qmole.zsh
+Version: 5.0.0
+Architecture: iphoneos-arm
+Maintainer: Chris Kohlhepp <chrisk@manx.net>
+Filename: package_debian_A1/uk.qmole.zsh_5.0.0_iphoneos-arm.deb
+Size: 2340302
+MD5sum: 437ce781bdf28b02880ff6611aa8ba8f
+SHA1: 41bedc7cc4e4ae0639861f6b3549be4e4220ef9e
+SHA256: 316625103b8f29abad090cf3d5daa390a8ef5b8bfdb46057a8e7c947809d3179
+Section: Applications
+Homepage: http://www.qmole.uk
+Description: Z-Shell for IOS
+Author: Chris Kohlhepp <chrisk@manx.net>
+Depiction: http://www.qmole.uk/xorg
+Name: ZSH
+Sponsor: QMole Ltd.
+
 Package: ultrasn0w
 Version: 1.2.7
 Architecture: iphoneos-arm
