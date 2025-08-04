@@ -9214,10 +9214,10 @@ Maintainer: dopaemon <polarisdp@gmail.com>
 Pre-Depends: firmware (>= 5.1), firmware (<= 5.1.1)
 Depends: mobilesubstrate
 Filename: package_debian_A1/PhoneItiPad_5.1.x_1.0-Crack.deb
-Size: 2092520
-MD5sum: 17d3d0849a548bb3fd1df2457c668f49
-SHA1: 352422bbe1e9cf537945882d47441184afbc3ea8
-SHA256: 7a0296621f95738f8bec5199b1925e835f812e94c928da35565d3e835d3bfac8
+Size: 2611194
+MD5sum: 5c987764d062cc58e705287c2d3af450
+SHA1: b642d7144c4c8d737948b879b76c7a3eb93bbe84
+SHA256: dd048a56125047dd0d5126712c9c40832559104e73e36c7bafc7fb232b6f3a26
 Section: Tweaks
 Priority: standard
 Homepage: https://dopaemon.github.io/Cydia
