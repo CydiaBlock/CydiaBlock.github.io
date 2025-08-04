@@ -45,6 +45,7 @@ jobs:
             sed -i 's/: Apps/: Applications/g' Packages
             sed -i 's/: Emulators/: System/g' Packages
             sed -i 's/: !Cydia-/: /g' Packages
+            sed -i 's/: Applicationstore/: Applications/g' Packages
             sed -i '/^Icon:/d' Packages
 
       - name: Compress
