@@ -34667,7 +34667,7 @@ Section: Hacks
 Priority: Standard
 Homepage: http://cydia.vn/
 Description: Unlock Everything!
-Author: Applicationstore <repo@cydia.vn>
+Author: Applications <repo@cydia.vn>
 Depiction: http://cydia.gsm.vn/t1858/
 Name: Cut.The.Rope Experiments Hack
 Sponsor: iPhone GSM.VN <http://gsm.vn/f339/>
@@ -39072,7 +39072,7 @@ Section: Hacks
 Priority: Standard
 Homepage: http://cydia.vn/
 Description: Eternity Warriors DLC - Adding Gems & Coins...
-Author: Applicationstore <repo@cydia.vn>
+Author: Applications <repo@cydia.vn>
 Depiction: http://cydia.gsm.vn/t1851/
 Name: Eternity Warriors DLC
 Sponsor: iPhone GSM.VN <http://gsm.vn/f339/>
@@ -40407,7 +40407,7 @@ SHA256: 6270715e5f1d3e0e67ce3556e8b2744ca383ace9d09bfe5f644f3fd6fe8f697f
 Section: Hacks
 Homepage: http://cydia.vn/
 Description: FieldRunners DLC Maps Unlocker
-Author: Applicationstore <repo@cydia.vn>
+Author: Applications <repo@cydia.vn>
 Depiction: http://cydia.gsm.vn/t1837/
 Name: Fieldrunners DLC
 Sponsor: iPhone GSM.VN <http://gsm.vn/f339/>
@@ -44139,7 +44139,7 @@ Section: Hacks
 Priority: Standard
 Homepage: http://cydia.vn/
 Description: Gun Bros DLC - Adding War Bucks & Coins...
-Author: Applicationstore <repo@cydia.vn>
+Author: Applications <repo@cydia.vn>
 Depiction: http://cydia.gsm.vn/t1850/
 Name: Gun Bros DLC
 Sponsor: iPhone GSM.VN <http://gsm.vn/f339/>
@@ -44543,7 +44543,7 @@ Size: 2566442
 MD5sum: d41225e07eeae7c12518baadead24d53
 SHA1: 5813c12c476acf9d72a767eee0b84de46ef3ee90
 SHA256: 657c8426882f67e3e8425069b713412d5e6d1b3df93b902ac4ab4b0f986e1184
-Section: Applicationstore
+Section: Applications
 Homepage: http://iphone.gsm.vn/moreinfo/info.html
 Description: Bản đồ du lịch thủ đô Hà Nội!
 Depiction: http://iphone.gsm.vn/moreinfo/hanoi.php
@@ -45454,7 +45454,7 @@ SHA256: 9a47f6edbefde5a0bfafa591e24116bf6b03cda8a941f9af4753159b1c54a375
 Section: Hacks
 Homepage: http://cydia.vn/
 Description: Hipstamatic DLC Unlocker
-Author: Applicationstore <repo@cydia.vn>
+Author: Applications <repo@cydia.vn>
 Depiction: http://cydia.gsm.vn/t1838/
 Name: Hipstamatic DLC
 Sponsor: iPhone GSM.VN <http://gsm.vn/f339/>
@@ -46674,7 +46674,7 @@ SHA256: 7acfc7cc361d804f9420b120e7a6e82769cf82a460c1882df2436d3c06090ca4
 Section: Hacks
 Homepage: http://cydia.vn/
 Description: Free inapp purchases
-Author: Applicationstore <repo@cydia.vn>
+Author: Applications <repo@cydia.vn>
 Depiction: http://cydia.gsm.vn/t1982/
 Name: iAP Cracker
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
@@ -46784,7 +46784,7 @@ Size: 1202506
 MD5sum: 0e0bcb4037713569854fba7c1a59e1fa
 SHA1: 6681577412ded053be0ff15a35dc22ee710da1ea
 SHA256: f743b69d6e008a05f5f00be17d697b996ff215c1901f399738ed223fc3c44885
-Section: Applicationstore
+Section: Applications
 Homepage: http://iphone.gsm.vn/moreinfo/info.html
 Description: Phần mềm tra cứu các điểm rút tiền từ hệ thống ATM của các ngân hàng!
 Depiction: http://iphone.gsm.vn/moreinfo/iatm.php
@@ -47291,7 +47291,7 @@ Section: Hacks
 Priority: Standard
 Homepage: http://cydia.vn/
 Description: Ice Age Village DLC Unlocker
-Author: Applicationstore <repo@cydia.vn>
+Author: Applications <repo@cydia.vn>
 Depiction: http://cydia.gsm.vn/t2619/
 Name: Ice Age Village DLC
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
@@ -53991,7 +53991,7 @@ Section: Hacks
 Priority: Standard
 Homepage: http://cydia.vn/
 Description: KungFu Warrior DLC Unlocker
-Author: Applicationstore <repo@cydia.vn>
+Author: Applications <repo@cydia.vn>
 Depiction: http://cydia.gsm.vn/t1852/
 Name: Cut.The.Rope Experiments Hack
 Sponsor: iPhone GSM.VN <http://gsm.vn/f339/>
@@ -56887,7 +56887,7 @@ Size: 1698314
 MD5sum: b3bca47e17aa36ea7f2d884d4aa95d0e
 SHA1: ab6989e5fab713341b5016c95da40fb1c78e3c4d
 SHA256: e0385a88f9d6c6e521ea1841903d9f8cf99198179111ae75ff121e52cab31815
-Section: Applicationstore
+Section: Applications
 Homepage: http://iphone.gsm.vn/moreinfo/info.html
 Description: - Xem lịch âm, dương - Xem can, chi của ngày tháng năm âm.
 Depiction: http://iphone.gsm.vn/moreinfo/lichvannien.html
@@ -58568,7 +58568,7 @@ Size: 1647210
 MD5sum: 54d1dbd767ae117fc4a3a6d3a0dfbf53
 SHA1: 77f973b18402deed6a362ec9b436b11ed3611efb
 SHA256: b0b8016d2291bab728240e1e4c8245d756429fff1d89f36d248b28bf512d776b
-Section: Applicationstore
+Section: Applications
 Homepage: http://iphone.gsm.vn/moreinfo/info.html
 Description: Điều khiển máy tính từ xa, phần mềm đã quá nổi tiếng trên PC!
 Depiction: http://iphone.gsm.vn/moreinfo/logmein.php
@@ -68010,7 +68010,7 @@ Section: Hacks
 Priority: Standard
 Homepage: http://cydia.vn/
 Description: Adds 999,998 Coins & 9,9999 of Cash DLC Unlocker
-Author: Applicationstore <repo@cydia.vn>
+Author: Applications <repo@cydia.vn>
 Depiction: http://cydia.gsm.vn/t1942/
 Name: The Oregon Trail DLC
 Sponsor: iPhone GSM.VN <http://gsm.vn/f339/>
@@ -69056,7 +69056,7 @@ Section: Hacks
 Priority: Standard
 Homepage: http://cydia.vn/
 Description: PES 2012 DLC Unlocker
-Author: Applicationstore <repo@cydia.vn>
+Author: Applications <repo@cydia.vn>
 Depiction: http://cydia.gsm.vn/t2041/
 Name: PES 2012 DLC
 Sponsor: iPhone GSM.VN <http://gsm.vn/f339/>
@@ -76763,7 +76763,7 @@ Section: Hacks
 Priority: Standard
 Homepage: http://cydia.vn/
 Description: SHIFT 2 Unleashed DLC - Adding 1,000,000,000 of Money...
-Author: Applicationstore <repo@cydia.vn>
+Author: Applications <repo@cydia.vn>
 Depiction: http://cydia.gsm.vn/t1848/
 Name: SHIFT 2 Unleashed DLC
 Sponsor: iPhone GSM.VN <http://gsm.vn/f339/>
@@ -76783,7 +76783,7 @@ Section: Hacks
 Priority: Standard
 Homepage: http://cydia.vn/
 Description: SHIFT 2 Unleashed for iPad (World) - Adding 1,000,000,000 of Money...
-Author: Applicationstore <repo@cydia.vn>
+Author: Applications <repo@cydia.vn>
 Depiction: http://cydia.gsm.vn/t1849/
 Name: SHIFT 2 Unleashed For iPad (World) DLC
 Sponsor: iPhone GSM.VN <http://gsm.vn/f339/>
@@ -81491,7 +81491,7 @@ SHA256: 724ec74a4824b58ff474e864a6391ab42f1749a4b76ced1238eb6677687c52e7
 Section: Hacks
 Homepage: http://cydia.vn/
 Description: Talking Tom Cat 2 for iPad DLC Unlocker
-Author: Applicationstore <repo@cydia.vn>
+Author: Applications <repo@cydia.vn>
 Depiction: http://cydia.gsm.vn/t1836/
 Name: Talking Tom Cat 2 for iPad DLC
 Sponsor: iPhone GSM.VN <http://gsm.vn/f339/>
@@ -81510,7 +81510,7 @@ SHA256: 3509647ef7dd561923aef59337c44c45342d5ce24390d97fe43f0445fe96f9fd
 Section: Hacks
 Homepage: http://cydia.vn/
 Description: Talking Tom Cat for iPad DLC Unlocker
-Author: Applicationstore <repo@cydia.vn>
+Author: Applications <repo@cydia.vn>
 Depiction: http://cydia.gsm.vn/t1835/
 Name: Talking Tom Cat for iPad DLC
 Sponsor: iPhone GSM.VN <http://gsm.vn/f339/>
@@ -85691,7 +85691,7 @@ Size: 16826822
 MD5sum: 0e6a58de913367f0cec57e3d322673ba
 SHA1: 21f367631f2da69e58efa63f75505df7733a5e72
 SHA256: dc4b8705e2acc6e4da4beaefb227d9bf3bdb32afbbb7633a18623ce41388accd
-Section: Applicationstore
+Section: Applications
 Homepage: http://iphone.gsm.vn/moreinfo/info.html
 Description: Bản đồ du lịch TP Hồ Chí Minh!
 Depiction: http://iphone.gsm.vn/moreinfo/hcm-map.php
@@ -89082,7 +89082,7 @@ Section: Hacks
 Priority: Standard
 Homepage: http://cydia.vn/
 Description: VietKar 10000+ DLC Unlocker
-Author: Applicationstore <repo@cydia.vn>
+Author: Applications <repo@cydia.vn>
 Depiction: http://cydia.gsm.vn/t1919/
 Name: VietKar 10000+ DLC
 Sponsor: iPhone GSM.VN <http://gsm.vn/f339/>
