@@ -61272,7 +61272,7 @@ Size: 1131840
 MD5sum: 1df8c03ad434690f34efb06c0b4cf48e
 SHA1: cdc2d2b532b3708dd2a9e49721d80a5836849b50
 SHA256: 3935f74f7bfcd8e88d71fdf8c23298e1590d7333b0e519898a7a229533a1ac92
-Section: !Cydia-Tools
+Section: Tools
 Homepage: http://cydia.vn/
 Description: The standard terminal emulator with added awesome
 Author: HASHBANG Productions
