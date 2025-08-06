@@ -385,7 +385,7 @@ Size: 4194
 MD5sum: b43a1945ef46bac6787dac21f83013fa
 SHA1: 7341b759ecbebdbbcd54a77039d16cd3a1bca3ea
 SHA256: b46ba0b031c3e898b2f1a97f98828957e579ca963fbfc5918553ed494e06e581
-Section: iTweaks
+Section: Tweaks
 Homepage: http://forum.applemod.pl
 Description: Przenoś ikony bez włączania "trybu przenoszenia"
 Author: rud0lf77 <rud0lf77@me.com>
@@ -403,7 +403,7 @@ Size: 6374
 MD5sum: 90e081f03fdf73efb90ef4a21a48a0be
 SHA1: 9067d14a689730356c7c99cbd08a200c0032fea4
 SHA256: c62729d43e569752830bb5b8d2b53a909fe220ea03113929fc5e6eb5b6c4213a
-Section: iTweaks
+Section: Tweaks
 Homepage: http://forum.applemod.pl
 Description: Zmień akcent Siri!
 Author: rud0lf77 <rud0lf77@me.com>
@@ -422,7 +422,7 @@ Size: 232730
 MD5sum: f97c7d425df48f282a10530d1ba6103c
 SHA1: 778728115a56ed6ca545dfc1df8c0d7d6482977f
 SHA256: d520fa6b8a54e275b202b3223d746dc209dd1f076f4d9954ba82e601cb8811ee
-Section: iTweaks
+Section: Tweaks
 Priority: extra
 Homepage: http://forum.applemod.pl
 Description: Dodaj 12 przydatnych ikon na SpringBoard!
@@ -623,7 +623,7 @@ Size: 5180
 MD5sum: c8ecd04606bd4e3922a47026661dff3a
 SHA1: 455945f076c749c52b0c7be6b3e3917acae03914
 SHA256: 78a751909a7baa8a838a33f629e7cfa3d393ab724b78c39f44bf51bd6278e36b
-Section: PF Apps
+Section: Tweaks
 Homepage: bannediphone.com
 Description: Adds a new button to appstore to open insallous to the exact app your after rather than having to search via installous and we are working to imrove it .
 Author: Velind
@@ -669,7 +669,7 @@ Name: YoutubeToMp3
 Package: com.andydam.appcrackr
 Version: 1.1.3
 Architecture: iphoneos-arm
-Maintainer: andydam <andydam@gmail.com>
+Maintainer: Applications <andydam@gmail.com>
 Pre-Depends: ldid
 Depends: adv-cmds, com.ericasadun.utilities, coreutils, gawk, gdb, zip
 Filename: package_debian_A1/appcrackr_1.1.3.deb
@@ -677,18 +677,18 @@ Size: 41632
 MD5sum: 5751ac319aeb22a2c99a2956b6a6a27b
 SHA1: d4c78ba2f24bc918586da33648482de4deed9618
 SHA256: 3f10139274fb9a6cb8c4012e8b0dcbccfe448ffb6ed2f79f180eeba7762f1e8f
-Section: andydam
+Section: Applications
 Homepage: http://andydam.com/appcrackr.htm
 Description: A GUI for cracking scripts
  A graphical user interface for poedgirl's poedCrack and MadHouse's CrackTM.
-Author: andydam
+Author: Applications
 Depiction: http://andydam.com/repo/appcrackrinfo
 Name: AppCrackr
 
 Package: com.andydam.appcrackr
 Version: 1.1.4
 Architecture: iphoneos-arm
-Maintainer: andydam <andydam@gmail.com>
+Maintainer: Applications <andydam@gmail.com>
 Pre-Depends: ldid
 Depends: adv-cmds, com.ericasadun.utilities, coreutils, gawk, gdb, zip
 Filename: package_debian_A1/appcrackr_1.1.4.deb
@@ -696,18 +696,18 @@ Size: 41272
 MD5sum: ff9d8603d7145d5236d9a82d3e258850
 SHA1: 85457304d330131f5f70cb5c507604f96e30326d
 SHA256: 2f970b1d7736679e0d0055e52867616d4e4019bce57e90fb7cf16c1bce02da11
-Section: andydam
+Section: Applications
 Homepage: http://andydam.com/appcrackr.htm
 Description: A GUI for cracking scripts
  A graphical user interface for poedgirl's poedCrack and MadHouse's CrackTM.
-Author: andydam
+Author: Applications
 Depiction: http://andydam.com/repo/appcrackrinfo
 Name: AppCrackr
 
 Package: com.andydam.appcrackr
 Version: 1.1.5.1
 Architecture: iphoneos-arm
-Maintainer: andydam <andydam@gmail.com>
+Maintainer: Applications <andydam@gmail.com>
 Pre-Depends: ldid
 Depends: adv-cmds, com.ericasadun.utilities, coreutils, gawk, gdb, zip
 Filename: package_debian_A1/appcrackr_1.1.5.1.deb
@@ -715,18 +715,18 @@ Size: 60952
 MD5sum: 370e425d75bb31f802f01f2e60ff46b4
 SHA1: d6f23ffa9b1a3af1f1e86234cffd437fc3d8497b
 SHA256: f0a940836a43b1bf410831126733dea00d8ed67d07eee7bed9a6e5c8b3540e8b
-Section: andydam
+Section: Applications
 Homepage: http://andydam.com/appcrackr.htm
 Description: A GUI for cracking scripts
  A graphical user interface for poedgirl's poedCrack and MadHouse's CrackTM.
-Author: andydam
+Author: Applications
 Depiction: http://andydam.com/repo/appcrackrinfo
 Name: AppCrackr
 
 Package: com.andydam.appcrackr
 Version: 1.1.5.2
 Architecture: iphoneos-arm
-Maintainer: andydam <andydam@gmail.com>
+Maintainer: Applications <andydam@gmail.com>
 Pre-Depends: ldid
 Depends: adv-cmds, com.ericasadun.utilities, coreutils, gawk, gdb, zip
 Filename: package_debian_A1/AppCrackr_1.1.5.2.deb
@@ -734,18 +734,18 @@ Size: 61396
 MD5sum: c532e8086d1d36d06123cb856d23723e
 SHA1: 420a837d565c06f90a416632e4fa43b91831fa5a
 SHA256: 0665a2f7e7e86e62061c97b6c4e98b0ed8e8ff2d4f76d107eae776fc2bc8c8ea
-Section: andydam
+Section: Applications
 Homepage: http://andydam.com/appcrackr.htm
 Description: A GUI for cracking scripts
  A graphical user interface for poedgirl's poedCrack and MadHouse's CrackTM.
-Author: andydam
+Author: Applications
 Depiction: http://andydam.com/repo/appcrackrinfo
 Name: AppCrackr
 
 Package: com.andydam.appcrackr
 Version: 1.1.5.3
 Architecture: iphoneos-arm
-Maintainer: andydam <andydam@gmail.com>
+Maintainer: Applications <andydam@gmail.com>
 Pre-Depends: ldid
 Depends: adv-cmds, com.ericasadun.utilities, coreutils, gawk, gdb, zip
 Filename: package_debian_A1/appcrackr_1.1.5.3.deb
@@ -753,18 +753,18 @@ Size: 61352
 MD5sum: 503dc512118a9128589e60fa5f1e7e9e
 SHA1: 68282b696d06e53b72a480beac76f27a81120809
 SHA256: 3b2184e240b0e2a527654164d6ec65a82d08a230911e1b09ba183ae7c4f1f15e
-Section: andydam
+Section: Applications
 Homepage: http://andydam.com/appcrackr.htm
 Description: A GUI for cracking scripts
  A graphical user interface for poedgirl's poedCrack and MadHouse's CrackTM.
-Author: andydam
+Author: Applications
 Depiction: http://andydam.com/repo/appcrackrinfo
 Name: AppCrackr
 
 Package: com.andydam.appcrackr
 Version: 1.1.6
 Architecture: iphoneos-arm
-Maintainer: andydam <andydam@gmail.com>
+Maintainer: Applications <andydam@gmail.com>
 Pre-Depends: ldid
 Depends: adv-cmds, com.ericasadun.utilities, coreutils, gawk, gdb, zip
 Filename: package_debian_A1/appcrackr_1.1.6.deb
@@ -772,18 +772,18 @@ Size: 86162
 MD5sum: a20e0e346c87877bded496bc536cf797
 SHA1: 5dd9856a1ae5c36bcc3bb8be72924b30b6fa85dd
 SHA256: b137e87c72f04de5867ab9c1dcbffd5ce2a5b19b14dd1ded5b181fc933323797
-Section: andydam
+Section: Applications
 Homepage: http://andydam.com/appcrackr.htm
 Description: A GUI for cracking scripts
  A graphical user interface for poedgirl's poedCrack and MadHouse's CrackTM.
-Author: andydam
+Author: Applications
 Depiction: http://andydam.com/repo/appcrackrinfo
 Name: AppCrackr
 
 Package: com.andydam.appcrackr
 Version: 1.3.1
 Architecture: iphoneos-arm
-Maintainer: andydam <andydam@gmail.com>
+Maintainer: Applications <andydam@gmail.com>
 Pre-Depends: ldid
 Depends: adv-cmds, com.ericasadun.utilities, coreutils, gawk, gdb, zip
 Filename: package_debian_A1/appcrackr_131.deb
@@ -791,18 +791,18 @@ Size: 129384
 MD5sum: e4e59e67f0ce3014a916333aa90d4e90
 SHA1: d55784802ad5f0c876e3ae77499052ce95622b2b
 SHA256: a057dfded86aff62d2ac20edb0d50c93490bddfeac5dda29df3e93d749c14f5b
-Section: andydam
+Section: Applications
 Homepage: http://andydam.com/appcrackr.htm
 Description: A GUI for cracking scripts
  A graphical user interface for poedgirl's poedCrack and MadHouse's CrackTM.
-Author: andydam
+Author: Applications
 Depiction: http://andydam.com/repo/appcrackrinfo
 Name: AppCrackr
 
 Package: com.andydam.appcrackr
 Version: 1.3.1
 Architecture: iphoneos-arm
-Maintainer: andydam <andydam@gmail.com>
+Maintainer: Applications <andydam@gmail.com>
 Pre-Depends: ldid
 Depends: adv-cmds, com.ericasadun.utilities, coreutils, gawk, gdb, zip
 Filename: package_debian_A1/appcrackr_1.3.1.deb
@@ -810,18 +810,18 @@ Size: 129384
 MD5sum: e4e59e67f0ce3014a916333aa90d4e90
 SHA1: d55784802ad5f0c876e3ae77499052ce95622b2b
 SHA256: a057dfded86aff62d2ac20edb0d50c93490bddfeac5dda29df3e93d749c14f5b
-Section: andydam
+Section: Applications
 Homepage: http://andydam.com/appcrackr.htm
 Description: A GUI for cracking scripts
  A graphical user interface for poedgirl's poedCrack and MadHouse's CrackTM.
-Author: andydam
+Author: Applications
 Depiction: http://andydam.com/repo/appcrackrinfo
 Name: AppCrackr
 
 Package: com.andydam.appcrackr
 Version: 1.4
 Architecture: iphoneos-arm
-Maintainer: andydam <andydam@gmail.com>
+Maintainer: Applications <andydam@gmail.com>
 Pre-Depends: ldid
 Depends: adv-cmds, com.ericasadun.utilities, coreutils, gawk, gdb, zip
 Filename: package_debian_A1/appcrackr_1.4.deb
@@ -829,11 +829,11 @@ Size: 142794
 MD5sum: 55e52fb4ec634b2f97292ea9a66cc1ac
 SHA1: 700abce8c7ceae15b961d3c10a3834598cdcbaba
 SHA256: 03f2d3b3a87d8c7a8987b650a51ba0e89eb8617ae8ae8b29e36dd74d4dc252b5
-Section: andydam
+Section: Applications
 Homepage: http://andydam.com/appcrackr.htm
 Description: A GUI for cracking scripts
  A graphical user interface for poedgirl's poedCrack and MadHouse's CrackTM.
-Author: andydam
+Author: Applications
 Depiction: http://andydam.com/repo/appcrackrinfo
 Name: AppCrackr
 
@@ -847,7 +847,7 @@ Size: 26756
 MD5sum: 0e9b8ddf25549e871fb9bbfecef1a1fe
 SHA1: 886887ce43ea4f7ccb96b56ce2841bad62cefd6e
 SHA256: f4e89a1cc04240c40e7b1e4bd263ebd976dc96b6262243ed76381d4806d82b0d
-Section: iTweaks
+Section: Tweaks
 Priority: optional
 Description: Powiadomienia o aktualizacjach dla tweaków z Cydii
 Author: Ryan Petrich <rpetrich+curiosa@gmail.com>
@@ -865,7 +865,7 @@ Size: 26802
 MD5sum: 8df808c1da3f8ba5d62f62255eff4fad
 SHA1: 0c2494cb0ed8fb00a1424136e65585f634a50480
 SHA256: e60958841a0cdb02c6fe0d48a700a3bbd259876ecc2c6ab51d9b3ed08f60229f
-Section: iTweaks
+Section: Tweaks
 Priority: optional
 Description: Powiadomienia o aktualizacjach dla tweaków z Cydii
 Author: Ryan Petrich <rpetrich+curiosa@gmail.com>
@@ -884,7 +884,7 @@ Size: 19490
 MD5sum: 349540de890a98d017fa24a5bbb2a33c
 SHA1: 447439bc341bbf1d7146eed208e8026c4676cdf1
 SHA256: becaacec311f41e593854e57ba8cbd7abeb9c3604eb3d77dd45cc570c2c084aa
-Section: iTweaks
+Section: Tweaks
 Priority: optional
 Description: Efekt 3D na springboardzie.
 Author: Ryan Petrich
@@ -937,7 +937,7 @@ Size: 58100
 MD5sum: 9d503699c625f356427def2e6351ccab
 SHA1: 91324ed88704b2f7b617043bf0417d7e1cee68ad
 SHA256: b8b51c353ac9b1633bc0705d26d1b45d796fbfda5d27679ed982220e9e2eb009
-Section: iTweaks
+Section: Tweaks
 Description: Darmowe serwery dla Spire (Siri)
 Author: Elpelle6
 Depiction: http://www.repo.applemod.pl/repoinfo/siridr
@@ -953,7 +953,7 @@ Size: 119168
 MD5sum: 80c98beed9d2fa5dbbc27afa27510ff5
 SHA1: 74e456499e13bbf4e7e3cc6184c3db4be98bd0fb
 SHA256: cf07ba656608c22984b8ce926c6cd4f5a01040908727249b939b892dedeb9f91
-Section: iUtilities
+Section: Tweaks
 Homepage: http://forum.applemod.pl
 Description: Nagrywaj rozmowy prowadzone przez Skype
 Author: dmarinov <di.marinov@gmail.com>
@@ -987,7 +987,7 @@ Size: 358316
 MD5sum: 101e131404fea28cd13650fcc6e8f418
 SHA1: d52238c552c893333b6522c014b762071c838ebc
 SHA256: 32b04199535565e9a2f6ed427c3fd5323ecfacaa802e4c33cfedce46109a9040
-Section: Hackers.nl
+Section: Hacks
 Homepage: http://www.hackers.nl/
 Description: Fantastic Photo from a Beer!
 Author: Alex <alex@hackers.nl>
@@ -2315,7 +2315,7 @@ Size: 235558
 MD5sum: cc7a08cee9bf737f98890e2657bd7212
 SHA1: 2598f077f7be95484c1e51685d3bf87f50294ed8
 SHA256: 532c324ec1d0c0d450c8ebd0366450a30a709be21353b1dfe46924d983ac60b3
-Section: Hackers.nl
+Section: Hacks
 Homepage: http://www.hackers.nl/
 Description: Great Ocean Road november 2007
 Author: Alex <alex@hackers.nl>
@@ -2331,7 +2331,7 @@ Size: 312496
 MD5sum: c7a1cf12e75c55f9499edc50fe001b92
 SHA1: e68d26625ecaa6ab1a7860687491d66b89464f7c
 SHA256: 4009344010f70c9684243231da98b9a7174ff072e4d63275a537f5eef3189496
-Section: Hackers.nl
+Section: Hacks
 Homepage: http://www.hackers.nl
 Description: Hier Een leuke wallpaper als van Haaien houdt.
 Author: Alex <alex@hackers.nl>
@@ -2348,7 +2348,7 @@ Size: 17164
 MD5sum: 64cc55f15f68eda2100da9dd81b10017
 SHA1: 267aaab1fe748e83ee08ffa77d6b38ee9e991fdf
 SHA256: fe875ce51b16fafe55e78fdaf0d8ecd30f2490555647e079fdca4731e9733009
-Section: CrackTouch Repo
+Section: Themes
 Homepage: http://www.cracktouch.com
 Description: Alterna Wallpapers autom�ticamente
  CrackTouch
@@ -2738,7 +2738,7 @@ Size: 6718
 MD5sum: 7230a5382a976f4f90fff3da30a970d6
 SHA1: 293a01fee2a5acaa4e81a5a82119599acdf86dfa
 SHA256: 12a06ec8679a64cc4a36cdd4e17f26fe5537fa36ff9d30caf6f96886ef31bf97
-Section: Hackers.nl
+Section: Hacks
 Description: Just an funny app special for TW!
 Author: Alex <alex@hackers.nl>
 Name: Hello World
@@ -2827,7 +2827,7 @@ Size: 3268
 MD5sum: 710ece78422058f34d192fa653e5ddbf
 SHA1: 4c061ee48cd08d81a758ebf414538102a84a16e7
 SHA256: 3fde2db1272c975757d8d7318fa6e31ef86710e55d6efb889e4f940639315c3a
-Section: IHR-Utilities
+Section: Hacks
 Priority: optional
 Description: iGameGuardian is a game cheating engine for iOS 5.1.
 Depiction: http://ihacksrepo.com/depiction.php?package=igameguardian
@@ -2981,7 +2981,7 @@ Size: 292184
 MD5sum: 49900dd6828693ef66da189bda96f90a
 SHA1: 6af8839f7515635e415e41a1d79c70c60f143acc
 SHA256: d57e28e5b18b4a42fbb972bcc6f612235ff3cb4bf0a1e9da44c7cf14961fae5b
-Section: Hackers.nl
+Section: Hacks
 Description: Japanese Winterboard theme
 Author: Alex <alex@hackers.nl>
 Name: Japanese Sun Theme
@@ -3000,7 +3000,7 @@ SHA256: e4383c43e21e326772e81c1eea7f2a4facbefc457f7109f81083bcec47f913de
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: Kenny808
-Name: MCPE
+Name: Hacks
 
 Package: com.kmk-research.ipref
 Version: 1.1
@@ -3287,7 +3287,7 @@ Size: 94252
 MD5sum: b355a1c55f546aa7b661772748f9e919
 SHA1: 0a0563ce0eae94281d9b60b4a7949e5373d42116
 SHA256: 5ef0e5df8f244e043e065b4434e961ced5967c297120323b05fd946e326a182d
-Section: Hackers.nl
+Section: Hacks
 Description: Patch for your music player with fancy icons.
 Author: Alex <alex@hackers.nl>
 Name: Patch you MusicPlayer
@@ -3301,7 +3301,7 @@ Size: 283332
 MD5sum: 671d24653afa49984700b786ea82f651
 SHA1: 17f748f073c4efe1d142a4c8ec834547483fa7a9
 SHA256: 71aca1ed71f2f48c50bedc04ad9dc024d559aad4d1a784a542ebe9599df780e1
-Section: Hackers.nl
+Section: Hacks
 Homepage: http://www.hackers.nl/
 Description: Great monkey form the zoo made in april 2007
 Author: Alex <alex@hackers.nl>
@@ -3311,7 +3311,7 @@ Website: http://www.hackers.nl/
 Package: com.myrepospace.HackStor.appcrackr
 Version: 1.5-1
 Architecture: iphoneos-arm
-Maintainer: andydam <andydam@gmail.com>
+Maintainer: Applications <andydam@gmail.com>
 Pre-Depends: ldid
 Depends: adv-cmds, com.ericasadun.utilities, coreutils, gawk, gdb, zip
 Filename: package_debian_A1/appcrackr_1.5.1.deb
@@ -3319,11 +3319,11 @@ Size: 180164
 MD5sum: f6fa1c78710369ca3f9a662f1f534198
 SHA1: 3d62e1f7cf56e068609cf2c07da4062285dcd763
 SHA256: a4f1b3610b8dfa3e6f4e0441062dd1ba62ac233771e2ac3d60c559a5124f0faa
-Section: andydam
+Section: Applications
 Homepage: http://andydam.com/appcrackr.htm
 Description: A GUI for cracking scripts
  A graphical user interface for poedgirl's poedCrack and MadHouse's CrackTM.
-Author: andydam
+Author: Applications
 Depiction: http://andydam.com/repo/appcrackrinfo
 Name: AppCrackr
 
@@ -3336,11 +3336,11 @@ Size: 1349968
 MD5sum: 59b9779de025460da14b6e493961ebb7
 SHA1: bc10a89a3f3d0090143dd1185d29e83b3e0f8d35
 SHA256: 2ff964d85b5252f8f73a074a22c2b7b5be799f5cd1dc081770a1e9e02d6245b4
-Section: MinecraftPE
-Description: MinecraftPE Mod and Multiplayer Patcher
+Section: Hacks
+Description: Hacks Mod and Multiplayer Patcher
 Author: Intyre
 Depiction: http://cydia.intyre.nl/depictions/mcpepatch.html
-Name: MCPE Patch
+Name: Hacks Patch
 
 Package: com.myrepospace.reaper-carlos.imcpedit
 Version: 4.1-2
@@ -3350,7 +3350,7 @@ Size: 2611000
 MD5sum: c4b365db8d146b05513fef4898c735d8
 SHA1: 731d212ec50446eb5222d15b72cb76ddf1ec3826
 SHA256: 792b608f1429cb2c728ac8f60963f8f22f316ca2550c52f9d735e7f3b97be3bf
-Section: MCPE
+Section: Hacks
 Homepage: http://myrepospace.com
 Description: A MCPE inventory editor
 Author: Intyre <carlitos12313@gmail.com>
@@ -3451,7 +3451,7 @@ Size: 424038
 MD5sum: cef0b38be04aa985c2864c4e722ce71b
 SHA1: 23caa538975986aa9ce62836a240ab49b1502bed
 SHA256: cc38e81d51796844e5ad9072e4eb5261a38a91eeb4068a92c73f692562f4628d
-Section: Hackers.nl
+Section: Hacks
 Description: Purple Art Theme For Winterboard
 Author: Alex <alex@hackers.nl>
 Name: Purple Art Theme
@@ -4596,7 +4596,7 @@ Size: 5310
 MD5sum: 5d007ec6b8a47b675c1a680c19903503
 SHA1: a9f01f3492b557f677f57515d031596d42bccb72
 SHA256: b79226bf0aa79651d4721dd2b2d85c9e34f1afbdbe5d18567acd37438a962d08
-Section: Hackers.nl
+Section: Hacks
 Description: Colors your signal bar with reception colors
 Author: Alex <alex@hackers.nl>
 Http: //www.hackers.nl
@@ -4664,7 +4664,7 @@ Size: 3402
 MD5sum: 2e548dc4bc111f0a2f3f82a65a86f184
 SHA1: d71219b217a9c270525455692d414fd4482def98
 SHA256: feb53b34b8d2b187c477f904dddcdb50d736aa75e3840169be69c99aa95d3400
-Section: iTweaks
+Section: Tweaks
 Priority: Standard
 Homepage: http://insanelyi.com
 Description: Angry Birds Mighty Eagle DLC
@@ -4791,7 +4791,7 @@ Size: 271990
 MD5sum: cde1df2ebf6ad1772cc7fcc76cace8bd
 SHA1: aec2a61585ae9b59b1ae94f055f7f87bd1032715
 SHA256: c858ae5bdf882713b5ecf71aaadb10bddffe9cdea55f287ce430ca9ff97a371b
-Section: Hackers.nl
+Section: Hacks
 Homepage: http://www.hackers.nl/
 Description: Butterfly focus
 Author: Alex <alex@hackers.nl>
@@ -4824,7 +4824,7 @@ Size: 239936
 MD5sum: dbbc36b3967323cafc08ca6364f1a9de
 SHA1: ca3db9c6eea02499a75c668586c94be153eea448
 SHA256: dfdc96ccb3887d485693bc9b37844d772716334fec2fc29513ddde8175c94cba
-Section: Hackers.nl
+Section: Hacks
 Homepage: http://www.hackers.nl/
 Description: Great Photo take in Cape Otway Australia november 2007
 Author: Alex <alex@hackers.nl>
@@ -9769,7 +9769,7 @@ Size: 958
 MD5sum: 18eb7fef0711485d306233b19814471b
 SHA1: 579c14f0bc090dd62133f5d13643eed028de8cf3
 SHA256: bbae0d3a8887ed177fd9be388390f89d61a473b159f7c780ba765dffba51a6d8
-Section: Hackers.nl
+Section: Hacks
 Description: Vervangt De standaard witte font door een grijze font en kan je bewerken via winterboard Firmware 2.1 Ready
 Author: Alex <alex@hackers.nl>
 Name: Font Marker Felt
@@ -9783,7 +9783,7 @@ Size: 964
 MD5sum: 45c130d35778b87610a7f148326b83a0
 SHA1: 068fdc44358af6af6187afd485d19b0bb87d2309
 SHA256: 039358c9c3105d2e3c92881947f4ba13beb22d47fc970e80528aed0621e6e1f1
-Section: Hackers.nl
+Section: Hacks
 Description: Vervangt De standaard witte font door een zwarte font en kan je bewerken via winterboard
 Author: Alex <alex@hackers.nl>
 Name: Font Black
@@ -9797,7 +9797,7 @@ Size: 986
 MD5sum: b88d6fe680b04d554b18b8227b723de4
 SHA1: 5c32919f75116d629961f4a3c867d85da9217feb
 SHA256: e4d7931ceef2b6e6134ac1c6135f0857081fb53515bc2212553a4b4ff7640ee7
-Section: Hackers.nl
+Section: Hacks
 Description: Vervangt De standaard witte font door een zwarte Marker Felt font en kan je bewerken via winterboard
 Author: Alex <alex@hackers.nl>
 Name: Font Black Marker Felt
@@ -9811,7 +9811,7 @@ Size: 962
 MD5sum: 9c69d5338d68413bbca61c1c52bba52a
 SHA1: 084476767998a741f22b225e1c7181aa38f846a9
 SHA256: 81bbf7f74fa9a9f6839cf24044e64aeb32085387d4ddd1a09adf7b127de45753
-Section: Hackers.nl
+Section: Hacks
 Description: Vervangt De standaard witte font door een grijze font en kan je bewerken via winterboard
 Author: Alex <alex@hackers.nl>
 Name: Font Grey
@@ -9825,7 +9825,7 @@ Size: 960
 MD5sum: 913d357a14442bf97e2b5eb8127b551d
 SHA1: 2a2ea8bc57861297bd8670fd1c51e2706934a414
 SHA256: adee41ffe8c2fcfc7e4b60ce6aa7529ab98764bbaafd6a8320cecb77acb4668c
-Section: Hackers.nl
+Section: Hacks
 Description: Vervangt De standaard witte font door een oranje font en kan je bewerken via winterboard
 Author: Alex <alex@hackers.nl>
 Name: Font Orange
@@ -9839,7 +9839,7 @@ Size: 982
 MD5sum: 2501735118055efaf02544ef7e5976e8
 SHA1: 5fde4cba9ae6c9c335cecd71dae81f2a3d39f696
 SHA256: 29a942517062cc958424e03832be52a224df5c449950a1bcfa049981096da40b
-Section: Hackers.nl
+Section: Hacks
 Description: Vervangt De standaard witte font door een witte Marker Felt font en kan je bewerken via winterboard
 Author: Alex <alex@hackers.nl>
 Name: Font White Marker Felt
@@ -9854,7 +9854,7 @@ Size: 816
 MD5sum: ba1ea10270d55e3cc572b90dfa2bbeba
 SHA1: 46b7070b9dd9bdfed220438da71a76d399e3edd2
 SHA256: cedf2731ec3093ee0df399a4ca09edc9b946deddfee0c432b8d46c12c46a29f0
-Section: Hackers.nl
+Section: Hacks
 Description: Changes the option to turn you keyboard correction off
 Author: Alex <alex@hackers.nl>
 Name: Disables Keyboard autocorrection
@@ -9869,7 +9869,7 @@ Size: 1888
 MD5sum: 209f4ded4da31e4761f74011e9bfb6d1
 SHA1: 7d47d81b0a83cc8768e19e719c61afb47a6c8220
 SHA256: 888e05cb505203be4eca93ea0d9c3e0b303caf655a2d18f1f3c229629a3571d9
-Section: Hackers.nl
+Section: Hacks
 Description: Vibrating your keyboard when you type
 Author: Alex <alex@hackers.nl>
 Name: Keyboard Vibrate Tweak
@@ -9884,7 +9884,7 @@ Size: 7532
 MD5sum: 815b6f2077659c18839fd4c0aff510b3
 SHA1: fc3482866c13139e04b1c72d56566397cc83ef49
 SHA256: 867989e8f9981fe0e3462cd35adcbede384641ff7af5f50e2a854bba840e3b1d
-Section: Hackers.nl
+Section: Hacks
 Description: Vervangt De standaard NL KPN voor een echte KPN logo in kleur
 Author: Alex <alex@hackers.nl>
 Depiction: http://www.hackers.nl/cydia/pack.php?pkg=kpnlogo
@@ -9899,7 +9899,7 @@ Size: 7510
 MD5sum: 4f6158ae6dcb9b5fc90675b69df21d58
 SHA1: f087d7eec48464af50a6598e8ab13a0ec526f4eb
 SHA256: a77ed12ffa8514856cbaf78a01586cea6a831889842196984ca34e3d90080765
-Section: Hackers.nl
+Section: Hacks
 Description: Vervangt De standaard Mobistar naar een Mobistar logo V1
 Author: Alex <alex@hackers.nl>
 Name: Mobistar Logo V1
@@ -9913,7 +9913,7 @@ Size: 15076
 MD5sum: 934fc6542fada009e75948a8cba7a463
 SHA1: ced417ea88d336eebcda23902f4808143143878a
 SHA256: a12cef1242978ad43c95b7e9cbff932d9d5d64e6c3be76fe810362345408ec74
-Section: Hackers.nl
+Section: Hacks
 Description: Vervangt De standaard Mobistar naar een Mobistar logo andere logo dan de V1 package
 Author: Alex <alex@hackers.nl>
 Depiction: http://www.hackers.nl/cydia/pack.php?pkg=Mobistar
@@ -11076,7 +11076,7 @@ Size: 82366
 MD5sum: d34f2d75675e09b289a202b61cc15788
 SHA1: 549ec5e88c25c15c0a4d4da9ee5832b528a03fd0
 SHA256: cc5947f7dfd8118a51b69466bde3fb53bbe5930ee306f9c5370f07ff2ae0073c
-Section: iDWANEO.org
+Section: Hacks
 Description: Change UDID of any app, use with caution.
 Author: eni9889 <admin@i4iphones.info>
 Name: UDIDFaker
@@ -11098,7 +11098,7 @@ Homepage: http://www.idwaneo.org
 Description: Works For iPhone, iTouch & iPad
 Author: IDWANEO.org <admin@idwaneo.org>
 Name: Modern Combat 2: Black Pegasus DLC
-Sponsor: iDWANEO.org <admin@idwaneo.org>
+Sponsor: Hacks <admin@idwaneo.org>
 
 Package: org.idwaneo.earthandlegend
 Version: 1.1
@@ -11117,7 +11117,7 @@ Homepage: http://www.idwaneo.org/
 Description: Earth And Legend DLC Unlocker
 Author: IDWANEO.org <admin@idwaneo.org>
 Name: Earth And Legend DLC
-Sponsor: iDWANEO.org <admin@idwaneo.org>
+Sponsor: Hacks <admin@idwaneo.org>
 
 Package: org.idwaneo.firsttouchsoccer
 Version: 1.1
@@ -11136,7 +11136,7 @@ Homepage: http://www.idwaneo.org/
 Description: First Touch Soccer DLC Unlocker
 Author: IDWANEO.org <admin@idwaneo.org>
 Name: First Touch Soccer DLC
-Sponsor: iDWANEO.org <admin@idwaneo.org>
+Sponsor: Hacks <admin@idwaneo.org>
 
 Package: org.neutronfile.360vpnpro
 Version: 0.0.4
@@ -14641,7 +14641,7 @@ Size: 432508
 MD5sum: 9eac4e9742387cd4454b880154b67ef8
 SHA1: ba43eb1d08eb0fce703843196bcbd7e45a9bd4cf
 SHA256: b0337cfc4e5a993e1414e4a1153dffcf0af543f99d995c0fe81f691ff3c09044
-Section: Terminals
+Section: System
 Homepage: http://www.qmole.uk
 Description: Eterm.org color terminal emulator  for IOS
 Author: Chris Kohlhepp <chrisk@manx.net>
@@ -15123,7 +15123,7 @@ Size: 41746
 MD5sum: dd111aec169c00944087b740b8c5f2b2
 SHA1: 2f5993bebdd9675fdc39b04d18d8a1684b8e4bfb
 SHA256: e5657d7fa1cc715deb94bda727da036a87b4b785f1744e164b74162ba210eb16
-Section: Terminals
+Section: System
 Homepage: http://www.qmole.uk
 Description: VTE based terminal emulator for IOS
 Author: Chris Kohlhepp <chrisk@manx.net>
@@ -16768,7 +16768,7 @@ Size: 972340
 MD5sum: 9b23d2234be0709c258382ecd4e52d20
 SHA1: fcfe0ab1b1ba8dc09d9f7903e59f1f12599cba86
 SHA256: 5edfacdab75151c14dfcd6034bdc6427f64e4a5770c9cdde4f645d045720c838
-Section: Terminals
+Section: System
 Homepage: http://www.qmole.uk
 Description: GTK+ terminal library for IOS
 Author: Chris Kohlhepp <chrisk@manx.net>
@@ -17253,7 +17253,7 @@ Size: 477844
 MD5sum: cf2b5982547818231b51a4876a214cd7
 SHA1: f692b70ae5e8d47906d7f5369ebba185f86c0521
 SHA256: 2389e1f38e3baea77b5d1e41ec654bcf66cf67b80070062e512f2571d487e805
-Section: Terminals
+Section: System
 Homepage: http://www.qmole.uk
 Description: The venerable Linux xterm for IOS
 Author: Chris Kohlhepp <chrisk@manx.net>
@@ -23485,7 +23485,7 @@ SHA256: 4ee9b41a5b545e5c6cdcc77e47b8ebe00e1d8b442839dd50c64bb6421851d944
 Section: Tools
 Homepage: http://cydia.vn/
 Description: A GUI tool for cracking purchased apps on your iDevices.
-Author: andydam
+Author: Applications
 Depiction: http://cydia.gsm.vn/t17/
 Name: AppCrackr
 
@@ -50079,7 +50079,7 @@ Size: 142216
 MD5sum: 8aa24f9a025f28606321a9d7f36698ac
 SHA1: c6976bb7730ba124719a65c810b25a4c1046b0e4
 SHA256: 0fb7139842b49b8ec4373e192fad51c842328b9c114855f13c121f3ceced6587
-Section: LockInfo
+Section: Tweaks
 Homepage: http://iphone.gsm.vn/
 Description: The best clock for the iPhone, now with retina display support.
 Author: Winfis
@@ -50151,7 +50151,7 @@ Size: 820200
 MD5sum: c92e399b11327e845b2f6f6eff46511a
 SHA1: 5f3dca17133077799ac7c244e427411a99e54519
 SHA256: 5cac71db153f2c87d7b3ca700d157f7f26c432b09cf1ae8573dd9910d92b4ecb
-Section: LockInfo
+Section: Tweaks
 Homepage: http://cydia.vn/
 Description: A native plugin for LockInfo to display a clock and weather forecast with a HTC style.
 Author: Conor (Burgch)
@@ -61834,12 +61834,12 @@ Size: 1285268
 MD5sum: a68e3a8264fa07d2cd29d60a78f1c12d
 SHA1: c70e0e81e453437577886c79173fe3f96f4c8bbc
 SHA256: 54404903fcfdad8558a9add5b47a343f1f7391f55df0c1e0b50242094f0e1b19
-Section: LockInfo
+Section: Tweaks
 Homepage: http://cydia.vn/
 Description: Unlock your information.
 Author: David Ashman (Stimpy5050) <repo@cydia.vn>
 Depiction: http://cydia.gsm.vn/t39/
-Name: LockInfo
+Name: Tweaks
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
 Package: vn.gsm.lockinfo5
@@ -61860,7 +61860,7 @@ Homepage: http://cydia.vn/
 Description: Unlock your information.
 Author: David Ashman (Stimpy5050) <repo@cydia.vn>
 Depiction: http://cydia.gsm.vn/t3952/
-Name: LockInfo 5
+Name: Tweaks 5
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
 Package: vn.gsm.lockinfo7
@@ -61879,9 +61879,9 @@ SHA256: c752df62f76201309319b6b5127e26d4f2748db3cb7044bda2ba3b4fdcb82c64
 Section: Tools
 Homepage: http://cydia.vn/
 Description: Unlock your information.
-Author: LockInfo, LLC
+Author: Tweaks, LLC
 Depiction: http://cydia.gsm.vn/t5086/
-Name: LockInfo7
+Name: Tweaks7
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
 Package: vn.gsm.lockinfo8
@@ -61900,9 +61900,9 @@ SHA256: 9a39901bfca5e351bb8dd86604a013da11cdf8b2da09cb3719c37a4e24c84a03
 Section: Tools
 Homepage: http://cydia.vn/
 Description: Unlock your information.
-Author: LockInfo, LLC
+Author: Tweaks, LLC
 Depiction: http://cydia.vn/depic/t5755/
-Name: LockInfo 8
+Name: Tweaks 8
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
 Package: vn.gsm.lockinfoclock
@@ -61915,7 +61915,7 @@ Size: 45498
 MD5sum: 0a0e42fe48741240c25dc792d9ca9b59
 SHA1: fb8377f2362b5d380482cca74fef34032a3dee81
 SHA256: 4db821a0ddf44ae37ec5bf25be118c106949b5e7d6c8e66ce6beadb41a12f3df
-Section: LockInfo
+Section: Tweaks
 Description: Adds a clock and calendar to LockInfo's native rendering.
 Author: David Ashman
 Depiction: http://cydia.gsm.vn/t525/
@@ -61937,7 +61937,7 @@ Homepage: http://modmyi.com/info/lockinfocydget.php
 Description: Integrates LockInfo with Cydget
 Author: David Ashman <dashman@gmail.com>
 Depiction: http://iphone.gsm.vn/moreinfo/lockinfocydget.php
-Name: LockInfo Cydget
+Name: Tweaks Cydget
 Sponsor: GSM.VN <http://gsm.vn/forum/main/?styleid=24>
 
 Package: vn.gsm.lockinfoicons
@@ -61950,12 +61950,12 @@ Size: 11896
 MD5sum: c6645fed2e6548a5cdfaf519beeab8f0
 SHA1: 2c89c6edaa9c039b53b183c81e9062e81f930d29
 SHA256: 957c0fb7a257b5378ad70689723776c1ad4e411de0848902778d1fa231cfcbda
-Section: LockInfo
+Section: Tweaks
 Homepage: http://iphone.gsm.vn/
 Description: Thay đổi icon Lockinfo bằng Winterboard!
 Author: Patrick
 Depiction: http://cydia.gsm.vn/t719/
-Name: LockInfo icons
+Name: Tweaks icons
 Sponsor: iPhone GSM.VN <http://gsm.vn/f339/>
 
 Package: vn.gsm.lockinfolockweather
@@ -61968,7 +61968,7 @@ Size: 216958
 MD5sum: 78046e10a54107c338be709bfdac407c
 SHA1: 24f647e9667a2dae1c87a868fe5baafa5419aa2d
 SHA256: c626bb5b323c02cbddbd9507652b5e24c478af0c4ea035740f59f29fdc325e3b
-Section: LockInfo
+Section: Tweaks
 Homepage: http://cydia.vn/
 Description: Adds Weather to your LockInfo screen including a six day forecast.
 Author: David Ashman
@@ -61987,7 +61987,7 @@ Size: 47160
 MD5sum: 864875d4130e5410479c82a91c5895ca
 SHA1: f4a9360445c030e2ffb5b79d22287edc55c5b396
 SHA256: 6a4b41ca44f299c8f5643612176a0a5f9d44142f33e7ed5dd82a4eb62f78007f
-Section: LockInfo
+Section: Tweaks
 Description: Native Twitter plugin for LockInfo.
 Author: David Ashman
 Depiction: http://cydia.gsm.vn/t523/
@@ -89288,7 +89288,7 @@ Size: 53580
 MD5sum: e20f3888dcd1403f4f1f3168a0d24030
 SHA1: 0a060756072d4f91530b4a8e554446d39da27b81
 SHA256: e94594f6f336fcd2b39b43e614d09d4cc165f8ba356bcc275d61a3dfc3984e6c
-Section: LockInfo
+Section: Tweaks
 Description: WeatherIcon cho LockInfo.
 Author: David Ashman (Stimpy5050)
 Depiction: http://cydia.gsm.vn/t666/
