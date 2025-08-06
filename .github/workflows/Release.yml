@@ -46,6 +46,20 @@ jobs:
             sed -i 's/: Emulators/: System/g' Packages
             sed -i 's/: !Cydia-/: /g' Packages
             sed -i 's/: Applicationstore/: Applications/g' Packages
+            sed -i 's/: andydam/: Applications/g' Packages
+            sed -i 's/: CrackTouch Repo/: Themes/g' Packages
+            sed -i 's/: Hackers.nl/: Hacks/g' Packages
+            sed -i 's/: iClarified.nl/: Hacks/g' Packages
+            sed -i 's/: iDWANEO.org/: Hacks/g' Packages
+            sed -i 's/: IHR-Utilities/: Hacks/g' Packages
+            sed -i 's/: iTweaks/: Tweaks/g' Packages
+            sed -i 's/: iUtilities/: Tweaks/g' Packages
+            sed -i 's/: LockInfo/: Tweaks/g' Packages
+            sed -i 's/: MinecraftPE/: Hacks/g' Packages
+            sed -i 's/: PF Apps/: Tweaks/g' Packages
+            sed -i 's/: Terminals/: System/g' Packages
+            sed -i 's/: MCPE/: Hacks/g' Packages
+            sed -i 's/: Core System/: System/g' Packages
             sed -i '/^Icon:/d' Packages
 
       - name: Compress
