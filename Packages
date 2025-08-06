@@ -375,6 +375,62 @@ Section: Utilities
 Priority: important
 Description: arbitrary precision console calculator
 
+Package: be.applemod.alwaysarrange
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: AppleMod <kontakt@applemod.pl>
+Depends: mobilesubstrate, preferenceloader
+Filename: package_debian_A1/alwaysarrange_1.0.deb
+Size: 4194
+MD5sum: b43a1945ef46bac6787dac21f83013fa
+SHA1: 7341b759ecbebdbbcd54a77039d16cd3a1bca3ea
+SHA256: b46ba0b031c3e898b2f1a97f98828957e579ca963fbfc5918553ed494e06e581
+Section: iTweaks
+Homepage: http://forum.applemod.pl
+Description: Przenoś ikony bez włączania "trybu przenoszenia"
+Author: rud0lf77 <rud0lf77@me.com>
+Depiction: http://repo.applemod.pl/repoinfo/alwaysarrange
+Name: AlwaysArrange
+Sponsor: AppleMod <http://forum.applemod.pl>
+
+Package: be.applemod.anyaccent
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: AppleMod <kontakt@applemod.pl>
+Depends: mobilesubstrate
+Filename: package_debian_A1/anyvoice.deb
+Size: 6374
+MD5sum: 90e081f03fdf73efb90ef4a21a48a0be
+SHA1: 9067d14a689730356c7c99cbd08a200c0032fea4
+SHA256: c62729d43e569752830bb5b8d2b53a909fe220ea03113929fc5e6eb5b6c4213a
+Section: iTweaks
+Homepage: http://forum.applemod.pl
+Description: Zmień akcent Siri!
+Author: rud0lf77 <rud0lf77@me.com>
+Depiction: http://repo.applemod.pl/repoinfo/anyvoice
+Name: AnyVoice
+Sponsor: AppleMod.pl <http://forum.applemod.pl>
+
+Package: be.applemod.usefulicons
+Version: 1.1-2
+Architecture: iphoneos-arm
+Maintainer: AppleMod <kontakt@applemod.pl>
+Depends: mobilesubstrate, preferenceloader
+Conflicts: gsc.ipad, com.freemanrepo.siriboard
+Filename: package_debian_A1/usefulicons_1.1-2_cracked.deb
+Size: 232730
+MD5sum: f97c7d425df48f282a10530d1ba6103c
+SHA1: 778728115a56ed6ca545dfc1df8c0d7d6482977f
+SHA256: d520fa6b8a54e275b202b3223d746dc209dd1f076f4d9954ba82e601cb8811ee
+Section: iTweaks
+Priority: extra
+Homepage: http://forum.applemod.pl
+Description: Dodaj 12 przydatnych ikon na SpringBoard!
+Author: rud0lf77 <rud0lf77@me.com>
+Depiction: http://repo.applemod.pl/repoinfo/usefulicons
+Name: UsefulIcons
+Sponsor: AppleMod.pl <http://forum.applemod.pl>
+
 Package: berkeleydb
 Version: 4.6.21-5
 Architecture: iphoneos-arm
@@ -490,6 +546,24 @@ Priority: important
 Homepage: http://www.bzip.org/
 Description: compression that's slightly better than gzip
 
+Package: callcontroller
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Spektro <idevbrteam@gmail.com>
+Depends: mobilesubstrate
+Filename: package_debian_A1/CallController.deb
+Size: 428816
+MD5sum: 0fe441d5e80fdcdf90bccf706cef84d0
+SHA1: 2de2bcc22f479ef720f8fdfb074462b9655ef88e
+SHA256: aca97f9f2a97037b479c873bee21d2691cd24580d14f0a4b1ee376b7d0d3088d
+Section: Utilities
+Homepage: http://moreinfo.thebigboss.org/moreinfo/callcontrollerDp.php
+Description: Uses the built in accelerometer to control your calls. Also sends an auto reply sms when a call is blocked. Quickly enable/disable the application from your lockscreen !!!
+Author: Spektro <idevbrteam@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/callcontrollerDp.php
+Dev: Spektro
+Name: CallController
+
 Package: class-dump
 Version: 3.1.2-x-1.0.1-2p
 Architecture: iphoneos-arm
@@ -539,6 +613,354 @@ Description: Bypasses YouTube's version alert
 Author: Snoolie K
 Name: LetMePass
 
+Package: com.PF.Quickopen.App
+Version: 0.0.1-96
+Architecture: iphoneos-arm
+Maintainer: Banned <Banned@bannediphone.com>
+Depends: SBSettings
+Filename: package_debian_A1/Quickopen.deb
+Size: 5180
+MD5sum: c8ecd04606bd4e3922a47026661dff3a
+SHA1: 455945f076c749c52b0c7be6b3e3917acae03914
+SHA256: 78a751909a7baa8a838a33f629e7cfa3d393ab724b78c39f44bf51bd6278e36b
+Section: PF Apps
+Homepage: bannediphone.com
+Description: Adds a new button to appstore to open insallous to the exact app your after rather than having to search via installous and we are working to imrove it .
+Author: Velind
+Depiction: http://bannediphone.com
+Name: Quickopen
+Sponsor: Banned <Banned@bannediphone.com>
+
+Package: com.adikus.nupogodi
+Version: 2.2
+Maintainer: Ripdev <support@ripdev.com>
+Depends: firmware (>= 3.0)
+Filename: package_debian_A1/nupogodi-22.deb
+Size: 275306
+MD5sum: e1f399173a5aee7bfccf5788967ee62f
+SHA1: 6f712d342467957fd63ac35f926bf65aa88e3a4c
+SHA256: 94d8ce2ccdc62bf7d3413a1fd97dd5e67a3d78c44092960190fa8e776107041f
+Section: Games
+Homepage: http://adikus.com
+Description: Nu Pogodi is a recreation of a classical Russian electronic game where you control a wolf that tries to catch falling eggs. For iPhone OS 3.0 and newer. Free.
+Tag: purpose::uikit, role::enduser
+Author: Adikus <nupogodi@adikus.com>
+Name: Nu Pogodi!
+
+Package: com.alberts.youtubetomp3
+Version: 5.1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 13127
+Depends: org.h2co3.mfmusiclibrary
+Filename: package_debian_A1/youtubetomp3_5.1.deb
+Size: 6660200
+MD5sum: a19f1a72d5fb2256f06e3573377061cf
+SHA1: e2dcdf0226f5e181befc73d1e307003ccd54e545
+SHA256: a8ec764c8c6e185f5969dc15e395089019b9b1c35733c0d51272c1461b6ae960
+Section: Multimedia
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=youtubetomp3Data
+Description: convert & take audio from Youtube videos
+Author: Albert Schulz <fettwuff2000@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=youtubetomp3Data
+Dev: alberts
+Name: YoutubeToMp3
+
+Package: com.andydam.appcrackr
+Version: 1.1.3
+Architecture: iphoneos-arm
+Maintainer: andydam <andydam@gmail.com>
+Pre-Depends: ldid
+Depends: adv-cmds, com.ericasadun.utilities, coreutils, gawk, gdb, zip
+Filename: package_debian_A1/appcrackr_1.1.3.deb
+Size: 41632
+MD5sum: 5751ac319aeb22a2c99a2956b6a6a27b
+SHA1: d4c78ba2f24bc918586da33648482de4deed9618
+SHA256: 3f10139274fb9a6cb8c4012e8b0dcbccfe448ffb6ed2f79f180eeba7762f1e8f
+Section: andydam
+Homepage: http://andydam.com/appcrackr.htm
+Description: A GUI for cracking scripts
+ A graphical user interface for poedgirl's poedCrack and MadHouse's CrackTM.
+Author: andydam
+Depiction: http://andydam.com/repo/appcrackrinfo
+Name: AppCrackr
+
+Package: com.andydam.appcrackr
+Version: 1.1.4
+Architecture: iphoneos-arm
+Maintainer: andydam <andydam@gmail.com>
+Pre-Depends: ldid
+Depends: adv-cmds, com.ericasadun.utilities, coreutils, gawk, gdb, zip
+Filename: package_debian_A1/appcrackr_1.1.4.deb
+Size: 41272
+MD5sum: ff9d8603d7145d5236d9a82d3e258850
+SHA1: 85457304d330131f5f70cb5c507604f96e30326d
+SHA256: 2f970b1d7736679e0d0055e52867616d4e4019bce57e90fb7cf16c1bce02da11
+Section: andydam
+Homepage: http://andydam.com/appcrackr.htm
+Description: A GUI for cracking scripts
+ A graphical user interface for poedgirl's poedCrack and MadHouse's CrackTM.
+Author: andydam
+Depiction: http://andydam.com/repo/appcrackrinfo
+Name: AppCrackr
+
+Package: com.andydam.appcrackr
+Version: 1.1.5.1
+Architecture: iphoneos-arm
+Maintainer: andydam <andydam@gmail.com>
+Pre-Depends: ldid
+Depends: adv-cmds, com.ericasadun.utilities, coreutils, gawk, gdb, zip
+Filename: package_debian_A1/appcrackr_1.1.5.1.deb
+Size: 60952
+MD5sum: 370e425d75bb31f802f01f2e60ff46b4
+SHA1: d6f23ffa9b1a3af1f1e86234cffd437fc3d8497b
+SHA256: f0a940836a43b1bf410831126733dea00d8ed67d07eee7bed9a6e5c8b3540e8b
+Section: andydam
+Homepage: http://andydam.com/appcrackr.htm
+Description: A GUI for cracking scripts
+ A graphical user interface for poedgirl's poedCrack and MadHouse's CrackTM.
+Author: andydam
+Depiction: http://andydam.com/repo/appcrackrinfo
+Name: AppCrackr
+
+Package: com.andydam.appcrackr
+Version: 1.1.5.2
+Architecture: iphoneos-arm
+Maintainer: andydam <andydam@gmail.com>
+Pre-Depends: ldid
+Depends: adv-cmds, com.ericasadun.utilities, coreutils, gawk, gdb, zip
+Filename: package_debian_A1/AppCrackr_1.1.5.2.deb
+Size: 61396
+MD5sum: c532e8086d1d36d06123cb856d23723e
+SHA1: 420a837d565c06f90a416632e4fa43b91831fa5a
+SHA256: 0665a2f7e7e86e62061c97b6c4e98b0ed8e8ff2d4f76d107eae776fc2bc8c8ea
+Section: andydam
+Homepage: http://andydam.com/appcrackr.htm
+Description: A GUI for cracking scripts
+ A graphical user interface for poedgirl's poedCrack and MadHouse's CrackTM.
+Author: andydam
+Depiction: http://andydam.com/repo/appcrackrinfo
+Name: AppCrackr
+
+Package: com.andydam.appcrackr
+Version: 1.1.5.3
+Architecture: iphoneos-arm
+Maintainer: andydam <andydam@gmail.com>
+Pre-Depends: ldid
+Depends: adv-cmds, com.ericasadun.utilities, coreutils, gawk, gdb, zip
+Filename: package_debian_A1/appcrackr_1.1.5.3.deb
+Size: 61352
+MD5sum: 503dc512118a9128589e60fa5f1e7e9e
+SHA1: 68282b696d06e53b72a480beac76f27a81120809
+SHA256: 3b2184e240b0e2a527654164d6ec65a82d08a230911e1b09ba183ae7c4f1f15e
+Section: andydam
+Homepage: http://andydam.com/appcrackr.htm
+Description: A GUI for cracking scripts
+ A graphical user interface for poedgirl's poedCrack and MadHouse's CrackTM.
+Author: andydam
+Depiction: http://andydam.com/repo/appcrackrinfo
+Name: AppCrackr
+
+Package: com.andydam.appcrackr
+Version: 1.1.6
+Architecture: iphoneos-arm
+Maintainer: andydam <andydam@gmail.com>
+Pre-Depends: ldid
+Depends: adv-cmds, com.ericasadun.utilities, coreutils, gawk, gdb, zip
+Filename: package_debian_A1/appcrackr_1.1.6.deb
+Size: 86162
+MD5sum: a20e0e346c87877bded496bc536cf797
+SHA1: 5dd9856a1ae5c36bcc3bb8be72924b30b6fa85dd
+SHA256: b137e87c72f04de5867ab9c1dcbffd5ce2a5b19b14dd1ded5b181fc933323797
+Section: andydam
+Homepage: http://andydam.com/appcrackr.htm
+Description: A GUI for cracking scripts
+ A graphical user interface for poedgirl's poedCrack and MadHouse's CrackTM.
+Author: andydam
+Depiction: http://andydam.com/repo/appcrackrinfo
+Name: AppCrackr
+
+Package: com.andydam.appcrackr
+Version: 1.3.1
+Architecture: iphoneos-arm
+Maintainer: andydam <andydam@gmail.com>
+Pre-Depends: ldid
+Depends: adv-cmds, com.ericasadun.utilities, coreutils, gawk, gdb, zip
+Filename: package_debian_A1/appcrackr_131.deb
+Size: 129384
+MD5sum: e4e59e67f0ce3014a916333aa90d4e90
+SHA1: d55784802ad5f0c876e3ae77499052ce95622b2b
+SHA256: a057dfded86aff62d2ac20edb0d50c93490bddfeac5dda29df3e93d749c14f5b
+Section: andydam
+Homepage: http://andydam.com/appcrackr.htm
+Description: A GUI for cracking scripts
+ A graphical user interface for poedgirl's poedCrack and MadHouse's CrackTM.
+Author: andydam
+Depiction: http://andydam.com/repo/appcrackrinfo
+Name: AppCrackr
+
+Package: com.andydam.appcrackr
+Version: 1.3.1
+Architecture: iphoneos-arm
+Maintainer: andydam <andydam@gmail.com>
+Pre-Depends: ldid
+Depends: adv-cmds, com.ericasadun.utilities, coreutils, gawk, gdb, zip
+Filename: package_debian_A1/appcrackr_1.3.1.deb
+Size: 129384
+MD5sum: e4e59e67f0ce3014a916333aa90d4e90
+SHA1: d55784802ad5f0c876e3ae77499052ce95622b2b
+SHA256: a057dfded86aff62d2ac20edb0d50c93490bddfeac5dda29df3e93d749c14f5b
+Section: andydam
+Homepage: http://andydam.com/appcrackr.htm
+Description: A GUI for cracking scripts
+ A graphical user interface for poedgirl's poedCrack and MadHouse's CrackTM.
+Author: andydam
+Depiction: http://andydam.com/repo/appcrackrinfo
+Name: AppCrackr
+
+Package: com.andydam.appcrackr
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: andydam <andydam@gmail.com>
+Pre-Depends: ldid
+Depends: adv-cmds, com.ericasadun.utilities, coreutils, gawk, gdb, zip
+Filename: package_debian_A1/appcrackr_1.4.deb
+Size: 142794
+MD5sum: 55e52fb4ec634b2f97292ea9a66cc1ac
+SHA1: 700abce8c7ceae15b961d3c10a3834598cdcbaba
+SHA256: 03f2d3b3a87d8c7a8987b650a51ba0e89eb8617ae8ae8b29e36dd74d4dc252b5
+Section: andydam
+Homepage: http://andydam.com/appcrackr.htm
+Description: A GUI for cracking scripts
+ A graphical user interface for poedgirl's poedCrack and MadHouse's CrackTM.
+Author: andydam
+Depiction: http://andydam.com/repo/appcrackrinfo
+Name: AppCrackr
+
+Package: com.applemod.curiosa
+Version: 0.9~beta1
+Architecture: iphoneos-arm
+Installed-Size: 112
+Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader (>= 2.0), libactivator (>= 1.6.2), apt7, shell-cmds, cydia, com.chpwn.weeloader (>= 1.1)
+Filename: package_debian_A1/curiosa_0.9~beta1_cracked.deb
+Size: 26756
+MD5sum: 0e9b8ddf25549e871fb9bbfecef1a1fe
+SHA1: 886887ce43ea4f7ccb96b56ce2841bad62cefd6e
+SHA256: f4e89a1cc04240c40e7b1e4bd263ebd976dc96b6262243ed76381d4806d82b0d
+Section: iTweaks
+Priority: optional
+Description: Powiadomienia o aktualizacjach dla tweaków z Cydii
+Author: Ryan Petrich <rpetrich+curiosa@gmail.com>
+Depiction: http://repo.applemod.pl/repoinfo/curiosa
+Dev: rpetrich
+Name: Curiosa
+
+Package: com.applemod.curiosa
+Version: 0.9~beta2
+Architecture: iphoneos-arm
+Installed-Size: 116
+Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader (>= 2.0), libactivator (>= 1.6.2), apt7, shell-cmds, cydia, com.chpwn.weeloader (>= 1.1)
+Filename: package_debian_A1/curiosa_0.9~beta2_cracked.deb
+Size: 26802
+MD5sum: 8df808c1da3f8ba5d62f62255eff4fad
+SHA1: 0c2494cb0ed8fb00a1424136e65585f634a50480
+SHA256: e60958841a0cdb02c6fe0d48a700a3bbd259876ecc2c6ab51d9b3ed08f60229f
+Section: iTweaks
+Priority: optional
+Description: Powiadomienia o aktualizacjach dla tweaków z Cydii
+Author: Ryan Petrich <rpetrich+curiosa@gmail.com>
+Depiction: http://repo.applemod.pl/repoinfo/curiosa
+Dev: rpetrich
+Name: Curiosa
+
+Package: com.applemod.deepend
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: AppleMod <kontakt@applemod.pl>
+Installed-Size: 56
+Depends: firmware (>= 4.0), mobilesubstrate, preferenceloader (>= 2.0), gyroscope | gsc.gyroscope
+Filename: package_debian_A1/deepend_0.1_cracked.deb
+Size: 19490
+MD5sum: 349540de890a98d017fa24a5bbb2a33c
+SHA1: 447439bc341bbf1d7146eed208e8026c4676cdf1
+SHA256: becaacec311f41e593854e57ba8cbd7abeb9c3604eb3d77dd45cc570c2c084aa
+Section: iTweaks
+Priority: optional
+Description: Efekt 3D na springboardzie.
+Author: Ryan Petrich
+Depiction: http://repo.applemod.pl/repoinfo/deepend/index.php
+Name: DeepEnd
+Sponsor: AppleMod.pl <http://repo.applemod.pl>
+
+Package: com.applemod.otabegone
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: AppleMod <kontakt@applemod.pl>
+Installed-Size: 539
+Depends: firmware (>= 3.0), com.ericasadun.utilities
+Filename: package_debian_A1/otabegone_1.0_cracked.deb
+Size: 543304
+MD5sum: c8a3601b227b038f0e3ea9053e0332fc
+SHA1: 375bdca06c88a74361d1b12bae6101cf8b4a7542
+SHA256: 8b26ff839d4c9a0a10a1065165e1e67422adf596d6af3b67e81277b49b99689f
+Section: Utilities
+Homepage: http://forum.applemod.pl
+Description: Aplikacja resetująca (usuwająca) licznik aktualizacji systemowych
+Author: Caleb Mott <mottks28@hotmail.com>
+Depiction: http://repo.applemod.pl/repoinfo/otabegone
+Dev: mottks28
+Name: OTA Begone
+
+Package: com.applemod.sirireplies
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: insanelyi <noreply@insanelyi.com>
+Depends: firmware (>= 5.0), me.k3a.ae
+Filename: package_debian_A1/sirireplies.deb
+Size: 54064
+MD5sum: ddf83740a2554209eade9374e201da96
+SHA1: b0c84ee61130822882fc17e469bfc7fce7998e74
+SHA256: 106ea5a684597c468baccb754f33790b7bf22a7ce7b6338b1ed1904071de2f36
+Section: iMods
+Description: Dodawaj własne odpowiedzi dla SiRi
+Author: Philippe
+Depiction: http://repo.applemod.pl/repoinfo/irireplies
+Name: SiriReplies
+Sponsor: AppleMod <http://forum.applemod.pl>
+
+Package: com.applemod.siriserver
+Version: 2.0-1
+Architecture: iphoneos-arm
+Maintainer: AppleMod.pl <kontakt@applemod.pl>
+Filename: package_debian_A1/siridr.deb
+Size: 58100
+MD5sum: 9d503699c625f356427def2e6351ccab
+SHA1: 91324ed88704b2f7b617043bf0417d7e1cee68ad
+SHA256: b8b51c353ac9b1633bc0705d26d1b45d796fbfda5d27679ed982220e9e2eb009
+Section: iTweaks
+Description: Darmowe serwery dla Spire (Siri)
+Author: Elpelle6
+Depiction: http://www.repo.applemod.pl/repoinfo/siridr
+Name: SiriDR
+
+Package: com.applemod.skype
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: AppleMod <kontakt@applemod.pl>
+Depends: mobilesubstrate (>= 0.9.2958-1)
+Filename: package_debian_A1/skype_call_recorder_1.0_cracked.deb
+Size: 119168
+MD5sum: 80c98beed9d2fa5dbbc27afa27510ff5
+SHA1: 74e456499e13bbf4e7e3cc6184c3db4be98bd0fb
+SHA256: cf07ba656608c22984b8ce926c6cd4f5a01040908727249b939b892dedeb9f91
+Section: iUtilities
+Homepage: http://forum.applemod.pl
+Description: Nagrywaj rozmowy prowadzone przez Skype
+Author: dmarinov <di.marinov@gmail.com>
+Depiction: http://repo.applemod.pl/repoinfo/callrecorder
+Name: Call Recorder for Skype
+Sponsor: AppleMod.pl <http://forum.applemod.pl>
+
 Package: com.bd452.upscale
 Version: 0.0.1-3+debug
 Architecture: iphoneos-arm
@@ -555,6 +977,22 @@ Description: A Fake Upscale package - For UpscaleKeyboard
 Author: MartinPham
 Depiction: http://martinpham.gitlab.io/cydia/depictions/com.bd452.upscale.html
 Name: UpscaleFake
+
+Package: com.beer.hdnl
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Alex <alex@hackers.nl>
+Filename: package_debian_A1/Beer.deb
+Size: 358316
+MD5sum: 101e131404fea28cd13650fcc6e8f418
+SHA1: d52238c552c893333b6522c014b762071c838ebc
+SHA256: 32b04199535565e9a2f6ed427c3fd5323ecfacaa802e4c33cfedce46109a9040
+Section: Hackers.nl
+Homepage: http://www.hackers.nl/
+Description: Fantastic Photo from a Beer!
+Author: Alex <alex@hackers.nl>
+Name: Beer in the zoo
+Website: http://www.hackers.nl/
 
 Package: com.bigboss.patchsafari2
 Version: 2.1.3248-1
@@ -573,6 +1011,28 @@ Description: generally allow browsing local files
 Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: http://cydia.saurik.com/info/com.bigboss.patchsafari2/
 Name: file:// for MobileSafari
+
+Package: com.chpwn.gridlock
+Version: 1.2.5-1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 20
+Pre-Depends: firmware (<< 3.2) | firmware (>= 4.0)
+Depends: mobilesubstrate, preferenceloader (>= 1.1), com.chpwn.iconsupport (>= 1.6)
+Filename: package_debian_A1/gridlock_1.2.5-1_iphoneos-arm.deb
+Size: 4818
+MD5sum: 39b74d5fde7ee02362abd46c766479ac
+SHA1: 729633a668aa7a423d6710222ac055f092144590
+SHA256: b3419d396f8bc8f1927423102e41c4ecd1814522d8fba105abe24bb941e9876b
+Section: Tweaks
+Homepage: http://chpwn.com/cydia/gridlock.html
+Description: Place your icons anywhere on the grid.
+Tag: cydia::commercial, purpose::extension
+Author: chpwn <gridlock@chpwn.com>
+Depiction: http://chpwn.com/cydia/gridlock.html
+Dev: chpwn
+Name: Gridlock
+Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.chronic-dev.greenpois0n.corona
 Version: 1.0-8
@@ -1105,6 +1565,54 @@ Description: CoolBooter is an all-in-one dual booting utility for jailbroken 32 
 Author: CoolBooter <coolbooterios@gmail.com>
 Name: CoolBooter CLI
 
+Package: com.darlo770.ios3folders
+Version: 1.0.4-2
+Architecture: iphoneos-arm
+Maintainer: Darlo770
+Depends: mobilesubstrate, firmware (>= 3.0)
+Filename: package_debian_A1/ios3folders1.0.4-2.deb
+Size: 309238
+MD5sum: c49df778ff2cc13f400c4772c736e740
+SHA1: 8de4dbeacfe1cf04c04bf11014cf3d968516031a
+SHA256: 46adeda608dd9e2cbe08fa0b1aaca1b344af641990d02466fcdeedab9376d639
+Section: Tweaks
+Homepage: http://twitter.com/Darlo770
+Description: Folders for iOS3 Beta.
+Name: iOS3 Folders
+Sponsor: Darlo770
+
+Package: com.darlo770.multitasking
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Darlo770
+Depends: mobilesubstrate, firmware (>= 3.0)
+Filename: package_debian_A1/iOS3MultitaskingDarlo770Activator_1.0.1.deb
+Size: 149588
+MD5sum: 7f2782ee43d9dbcebdf6bbd27812d9f7
+SHA1: 451712ca36739ece94e5f7fb72b3bc21d16d768e
+SHA256: d4ce5820261e7fcd093256197a70882ea1ec83a2b52ad9752b69e76eaea5439d
+Section: Tweaks
+Homepage: http://twitter.com/Darlo770
+Description: Multitasking for iOS3 Beta.
+Name: iOS3 Multitasking
+Sponsor: Darlo770
+
+Package: com.darlo770.multitasking
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Darlo770
+Depends: mobilesubstrate, firmware (>= 3.0)
+Filename: package_debian_A1/iOS3MultitaskingDarlo770_1.0.2.deb
+Size: 144936
+MD5sum: cbec0cd428ffc7143ac6efb2c7615148
+SHA1: e732ffae208e6f5e68f10c718c80b54ec7b40e16
+SHA256: 26ff23e1674a34fd36e341b9920a360beb96086e1da7e5dbaac1b63038f04b86
+Section: Tweaks
+Homepage: http://twitter.com/Darlo770
+Description: Multitasking for iOS3 Beta.
+Name: iOS3 Multitasking
+Sponsor: Darlo770
+
 Package: com.deusty.kissxml
 Version: 0.9.26-1
 Architecture: iphoneos-arm
@@ -1155,6 +1663,22 @@ Description: untethered jailbreak based on evad3rs exploits
 Author: evad3rs <info@evad3rs.com>
 Depiction: http://cydia.saurik.com/info/com.evad3rs.evasi0n7/
 Name: evasi0n 7.x Untether
+
+Package: com.fabius.utils
+Version: 0.0.1-38
+Architecture: iphoneos-arm
+Maintainer: Fabius
+Pre-Depends: sed
+Depends: mobilesubstrate
+Filename: package_debian_A1/com.fabius.utils_0.0.1-38_iphoneos-arm.deb
+Size: 4580
+MD5sum: c100b7fc9a7b2b88d573fe80ac00854a
+SHA1: 289292e21db0861fce3a589593d7a680002f3c06
+SHA256: e9734fbad84153066090bdb230c92da0a24c630dc5e56d5dd1f556d0cd10a1aa
+Section: Tweaks
+Description: This is an tool used in several Fabius cracks, like MewSeek, OverBoard, Display Recorder, and others... THIS IS NOT AN AUTO-CRACKING TOOL! THIS WILL NOT CRACK INTELLISCREENX NOR ANYTHING ELSE!!!
+Author: Fabius
+Name: Fabius Utils
 
 Package: com.filippobiga.glyphpatch
 Version: 0.3-1
@@ -1782,6 +2306,358 @@ Description: Хак на приложение Zvooq, подписка и убр�
 Author: gebeto <slavik.nychkalo@gmail.com>
 Name: Zvooq Hack
 
+Package: com.goroad.hdnl
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Alex <alex@hackers.nl>
+Filename: package_debian_A1/GreatOcean.deb
+Size: 235558
+MD5sum: cc7a08cee9bf737f98890e2657bd7212
+SHA1: 2598f077f7be95484c1e51685d3bf87f50294ed8
+SHA256: 532c324ec1d0c0d450c8ebd0366450a30a709be21353b1dfe46924d983ac60b3
+Section: Hackers.nl
+Homepage: http://www.hackers.nl/
+Description: Great Ocean Road november 2007
+Author: Alex <alex@hackers.nl>
+Name: Great Ocean Road
+Website: http://www.hackers.nl/
+
+Package: com.haai.hdnl
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Alex <alex@hackers.nl>
+Filename: package_debian_A1/Haai.deb
+Size: 312496
+MD5sum: c7a1cf12e75c55f9499edc50fe001b92
+SHA1: e68d26625ecaa6ab1a7860687491d66b89464f7c
+SHA256: 4009344010f70c9684243231da98b9a7174ff072e4d63275a537f5eef3189496
+Section: Hackers.nl
+Homepage: http://www.hackers.nl
+Description: Hier Een leuke wallpaper als van Haaien houdt.
+Author: Alex <alex@hackers.nl>
+Name: Sharks Wallpaper
+Website: http://www.hackers.nl/cydia/info/haai/haai.png
+
+Package: com.hacktouch.wallpaperautochanger
+Version: 0.7-1
+Architecture: iphoneos-arm
+Maintainer: DaniiStaff <daniistaff@cracktouch.com>
+Depends: mobilesubstrate, preferenceloader, com.hacktouch.icon
+Filename: package_debian_A1/wallpaperautochanger.deb
+Size: 17164
+MD5sum: 64cc55f15f68eda2100da9dd81b10017
+SHA1: 267aaab1fe748e83ee08ffa77d6b38ee9e991fdf
+SHA256: fe875ce51b16fafe55e78fdaf0d8ecd30f2490555647e079fdca4731e9733009
+Section: CrackTouch Repo
+Homepage: http://www.cracktouch.com
+Description: Alterna Wallpapers autom�ticamente
+ CrackTouch
+Author: DaniiStaff <daniistaff@cracktouch.com>
+Name: WallpaperAutoChanger
+Sponsor: Ray <http://www.cracktouch.com>
+
+Package: com.hackulo.us.installous
+Version: 4.0.0.10
+Architecture: iphoneos-arm
+Maintainer: Dissident <apps@hackulo.us>
+Pre-Depends: firmware (>= 3.1)
+Depends: us.hackulo.appsync31 | us.hackulo.appsync32 | us.hackulo.appsync40 | us.hackulo.appsync41 | us.hackulo.appsync42, com.hackulo.us.sourcegui
+Filename: package_debian_A1/installous-4.0.0.10.deb
+Size: 2515886
+MD5sum: fc2da034e9c9d4413739fb103d899483
+SHA1: ed6d38087fcc148b1aa9f78d6bc89b5501c15f33
+SHA256: bf0f5a6bb7b4fbc519db6b51fab03e1b2c2aa98bd50b933955018cec415bf37c
+Section: Hackulo.us
+Priority: standard
+Description: Installous is the perfect app to install your IPAs
+Author: docmorelli <apps@hackulo.us>
+Depiction: http://hackulo.us/depict/installous4/
+Name: Installous 4
+Sponsor: Hackulo.us <http://hackulo.us>
+
+Package: com.hackulo.us.installous
+Version: 4.1
+Architecture: iphoneos-arm
+Maintainer: Dissident <apps@hackulo.us>
+Pre-Depends: firmware (>= 3.1)
+Depends: us.hackulo.resources, appsync, com.hackulo.us.sourcegui
+Filename: package_debian_A1/installous-4.1.deb
+Size: 2327832
+MD5sum: c786535300999fce4d7ee5132933502a
+SHA1: 2d5032a1f4548f1c8b430d3015bce1ec9f3386a2
+SHA256: d3403c24efd7b4947d1c5a1a1b6f5e5624fae5d3a85d33d440cfa56efa8b8600
+Section: Hackulo.us
+Priority: standard
+Description: Installous is the perfect app to install your IPAs
+Author: docmorelli <apps@hackulo.us>
+Depiction: http://hackulo.us/depict/installous4/
+Name: Installous 4
+Sponsor: Hackulo.us <http://hackulo.us>
+
+Package: com.hackulo.us.installous
+Version: 4.2
+Architecture: iphoneos-arm
+Maintainer: Dissident <apps@hackulo.us>
+Pre-Depends: firmware (>= 3.1)
+Depends: us.hackulo.resources, appsync, com.hackulo.us.sourcegui
+Filename: package_debian_A1/installous-4.2-1.deb
+Size: 2613230
+MD5sum: b10eb95bbacf8dfe8dcdebfb4be67354
+SHA1: ce1f843ce36fa239e0f95c8e080a3c80681887ba
+SHA256: dba1bdaef498a34730393512ec3708b79c8e53d6055be8944d44f00b2d3a1c33
+Section: Hackulo.us
+Priority: standard
+Description: Installous is the perfect app to install your IPAs
+Author: docmorelli <apps@hackulo.us>
+Depiction: http://hackulo.us/depict/installous4/
+Name: Installous 4
+Sponsor: Hackulo.us <http://hackulo.us>
+
+Package: com.hackulo.us.installous
+Version: 4.2
+Architecture: iphoneos-arm
+Maintainer: Dissident <apps@hackulo.us>
+Pre-Depends: firmware (>= 3.1)
+Depends: us.hackulo.resources, appsync, com.hackulo.us.sourcegui
+Filename: package_debian_A1/installous-4.2.deb
+Size: 2613228
+MD5sum: 0ac123bd18b0c28ba443ea96462610bc
+SHA1: a43bc6d92693a0607e91dad3483430cfe29b86a7
+SHA256: c0a44c8c3e7acd51a65af9d5fe670c2c0475d5e0cd870628778e9813d8fd467c
+Section: Hackulo.us
+Priority: standard
+Description: Installous is the perfect app to install your IPAs
+Author: docmorelli <apps@hackulo.us>
+Depiction: http://hackulo.us/depict/installous4/
+Name: Installous 4
+Sponsor: Hackulo.us <http://hackulo.us>
+
+Package: com.hackulo.us.installous
+Version: 4.3
+Architecture: iphoneos-arm
+Maintainer: Dissident <apps@hackulo.us>
+Pre-Depends: firmware (>= 3.1)
+Depends: us.hackulo.resources, appsync, com.hackulo.us.sourcegui
+Filename: package_debian_A1/installous-4.3.deb
+Size: 3674780
+MD5sum: 906b002dc5638b75e825819d47500a04
+SHA1: 4b14714fd2a71f963f7dc1a18fa590203178970e
+SHA256: 9c6e82ccd43b095ba7855560d13e208d2dc83c1710c40bc298d33375904d108e
+Section: Hackulo.us
+Priority: standard
+Description: Installous is the perfect app to install your IPAs
+Author: docmorelli <apps@hackulo.us>
+Depiction: http://hackulo.us/depict/installous4/
+Name: Installous 4
+Sponsor: Hackulo.us <http://hackulo.us>
+
+Package: com.hackulo.us.installous
+Version: 4.3-1
+Architecture: iphoneos-arm
+Maintainer: Dissident <apps@hackulo.us>
+Pre-Depends: firmware (>= 3.1)
+Depends: us.hackulo.resources, appsync, com.hackulo.us.sourcegui
+Filename: package_debian_A1/installous-4.3-1.deb
+Size: 3646804
+MD5sum: 71447e0fc98cceaf780c3fcfb1f9dc1d
+SHA1: 588fe69091124d31dfb954ae42ec98e4340015db
+SHA256: 96c2a885961d533284132da1b0a35c97810ab55857db2d9ea348f41d86526a35
+Section: Hackulo.us
+Priority: standard
+Description: Installous is the perfect app to install your IPAs
+Author: docmorelli <apps@hackulo.us>
+Depiction: http://hackulo.us/depict/installous4/
+Name: Installous 4
+Sponsor: Hackulo.us <http://hackulo.us>
+
+Package: com.hackulo.us.installous
+Version: 4.4
+Architecture: iphoneos-arm
+Maintainer: Dissident <apps@hackulo.us>
+Pre-Depends: firmware (>= 3.1)
+Depends: us.hackulo.resources, appsync, com.hackulo.us.sourcegui
+Filename: package_debian_A1/installous-4.4.deb
+Size: 11397910
+MD5sum: 6c06c74fc5f1bdc8779005d92285cd02
+SHA1: f470e10e335418d195cfcd64358dadb66c5dbebd
+SHA256: 231bfd7a6bbeb6b247d90c986089dfacd0db99540990a94db470423d04b5f094
+Section: Hackulo.us
+Priority: standard
+Description: Installous is the perfect app to install your IPAs
+Author: docmorelli <apps@hackulo.us>
+Depiction: http://hackulo.us/depict/installous4/
+Name: Installous 4
+Sponsor: Hackulo.us <http://hackulo.us>
+
+Package: com.hackulo.us.installous
+Version: 4.4.1
+Architecture: iphoneos-arm
+Maintainer: Dissident <apps@hackulo.us>
+Pre-Depends: firmware (>= 3.1)
+Depends: us.hackulo.resources, appsync, com.hackulo.us.sourcegui
+Filename: package_debian_A1/installous-4.4.1.deb
+Size: 3754126
+MD5sum: ec6dffebd628a202809d6ac57575bdc7
+SHA1: b72a01977e1a2c5e16acef776ebb6e911badb6a4
+SHA256: f823ac9b6bcd632e25a48ce196ef8fa65fa735141b1f4e2e21fa428ccc00b650
+Section: Hackulo.us
+Priority: standard
+Description: Installous is the perfect app to install your IPAs
+Author: docmorelli <apps@hackulo.us>
+Depiction: http://hackulo.us/depict/installous4/
+Name: Installous 4
+Sponsor: Hackulo.us <http://hackulo.us>
+
+Package: com.hackulo.us.installous
+Version: 4.4.2
+Architecture: iphoneos-arm
+Maintainer: Dissident <apps@hackulo.us>
+Pre-Depends: firmware (>= 3.1)
+Depends: us.hackulo.resources, appsync, com.hackulo.us.sourcegui
+Filename: package_debian_A1/installous-4.4.2.deb
+Size: 3754546
+MD5sum: 8449a76af73f71d576bddb2cdac9a994
+SHA1: 4d37cc7b3fef6ddd4af19be9caad62e9e21ea6fc
+SHA256: 39e49feb1628432efd0888e7065e52cab57dfc3af0b8af3047fb40c7fa77f26d
+Section: Hackulo.us
+Priority: standard
+Description: Installous is the perfect app to install your IPAs
+Author: docmorelli <apps@hackulo.us>
+Depiction: http://hackulo.us/depict/installous4/
+Name: Installous 4
+Sponsor: Hackulo.us <http://hackulo.us>
+
+Package: com.hackulo.us.installous
+Version: 5.0-10
+Architecture: iphoneos-arm
+Maintainer: Dissident <apps@hackulo.us>
+Pre-Depends: firmware (>= 4.0)
+Depends: us.hackulo.resources, appsync, com.hackulo.us.sourcegui, com.chpwn.weeloader (>= 1.1) | firmware (<< 5.0)
+Filename: package_debian_A1/installous-5.0-10.deb
+Size: 5317786
+MD5sum: 5220a2028bd94f536913b29e8b2037be
+SHA1: 5aff12155ebe9f09e178197fdac3b7cb5438a973
+SHA256: 28fc3baa4af0f4d5d971bc13bbe537ae24bae0beb8d45b376566a22fd620ef3c
+Section: Hackulo.us
+Priority: standard
+Description: Installous is the perfect app to install your IPAs
+Author: docmorelli <apps@hackulo.us>
+Depiction: http://hackulo.us/depict/installous5/
+Name: Installous 5
+Sponsor: Hackulo.us <http://hackulo.us>
+
+Package: com.hackulo.us.installous
+Version: 5.0-9
+Architecture: iphoneos-arm
+Maintainer: Dissident <apps@hackulo.us>
+Pre-Depends: firmware (>= 4.0)
+Depends: us.hackulo.resources, appsync, com.hackulo.us.sourcegui, com.chpwn.weeloader (>= 1.1) | firmware (<< 5.0)
+Filename: package_debian_A1/installous-5.0-9.deb
+Size: 5313450
+MD5sum: 8a2570eb62a5a77d72f30941cd55c01f
+SHA1: d5c3b702adb69661b26cda658c3db30a0aa719a2
+SHA256: 3f516a5d8c38cae1f73f98568500f39c1ce8f8260781c19fb6a7279e14c6ac43
+Section: Hackulo.us
+Priority: standard
+Description: Installous is the perfect app to install your IPAs
+Author: docmorelli <apps@hackulo.us>
+Depiction: http://hackulo.us/depict/installous5/
+Name: Installous 5
+Sponsor: Hackulo.us <http://hackulo.us>
+
+Package: com.hackulo.us.installous
+Version: 5.0.1-1
+Architecture: iphoneos-arm
+Maintainer: Dissident <apps@hackulo.us>
+Pre-Depends: firmware (>= 4.0)
+Depends: us.hackulo.resources, appsync, com.hackulo.us.sourcegui, com.chpwn.weeloader (>= 1.1) | firmware (<< 5.0)
+Filename: package_debian_A1/installous-5.0.1-1.deb
+Size: 5327346
+MD5sum: 17987749c9da3564e19477b5f006dd78
+SHA1: 06950bccc593f416f0a63c4a2402b1f8dd864f45
+SHA256: e8d110dfef5d589c957d1464bfea742344d4900d33bfe3f5d8ae686a74cf7c4d
+Section: Hackulo.us
+Priority: standard
+Description: Installous is the perfect app to install your IPAs
+Author: docmorelli <apps@hackulo.us>
+Depiction: http://hackulo.us/depict/installous5/
+Name: Installous 5
+Sponsor: Hackulo.us <http://hackulo.us>
+
+Package: com.hackulo.us.installous
+Version: 5.0.2-1
+Architecture: iphoneos-arm
+Maintainer: Dissident <apps@hackulo.us>
+Pre-Depends: firmware (>= 4.0)
+Depends: us.hackulo.resources, appsync, com.hackulo.us.sourcegui, com.chpwn.weeloader (>= 1.1) | firmware (<< 5.0)
+Filename: package_debian_A1/installous-5.0.2-1.deb
+Size: 5328192
+MD5sum: f0b182b3fbb340d4e58f1304d890abce
+SHA1: 2c2aed45863b37283bd9bede08163662d44a853e
+SHA256: fcf07e1d1ac882341c85cadc9d59bf9d99ba8a16b5937887e69027fed4e1dadf
+Section: Hackulo.us
+Priority: standard
+Description: Installous is the perfect app to install your IPAs
+Author: docmorelli <apps@hackulo.us>
+Depiction: http://hackulo.us/depict/installous5/
+Name: Installous 5
+Sponsor: Hackulo.us <http://hackulo.us>
+
+Package: com.hackulo.us.installous
+Version: 5.0.2-2
+Architecture: iphoneos-arm
+Maintainer: Dissident <apps@hackulo.us>
+Pre-Depends: firmware (>= 4.0)
+Depends: us.hackulo.resources, appsync, com.hackulo.us.sourcegui, com.chpwn.weeloader (>= 1.1) | firmware (<< 5.0)
+Filename: package_debian_A1/installous-5.0.2-2.deb
+Size: 5328190
+MD5sum: 0c6646c9a0231ba28b79f3b41c187245
+SHA1: 48e77e7a080503d474a87550a9cecc06d91476b6
+SHA256: e02e171f5b683c6e9ce392136a25967d043f54c690fc99349adb0272c1bfba4a
+Section: Hackulo.us
+Priority: standard
+Description: Installous is the perfect app to install your IPAs
+Author: docmorelli <apps@hackulo.us>
+Depiction: http://hackulo.us/depict/installous5/
+Name: Installous 5
+Sponsor: Hackulo.us <http://hackulo.us>
+
+Package: com.hackulo.us.installous
+Version: 5.0.3-1
+Architecture: iphoneos-arm
+Maintainer: Dissident <apps@hackulo.us>
+Pre-Depends: firmware (>= 4.0)
+Depends: us.hackulo.resources, appsync, com.hackulo.us.sourcegui, com.chpwn.weeloader (>= 1.1) | firmware (<< 5.0)
+Filename: package_debian_A1/installous-5.0.3-1.deb
+Size: 5326030
+MD5sum: 42e48c376dcedbefd0c5bc6876310e45
+SHA1: 14cc8f1ffb1e625bb57020f764f4e518b6d709f5
+SHA256: 4baf768abe97799850d5e5ffb53e9cd052ea5d413d7441f0cd57b4b1ae4dcf32
+Section: Hackulo.us
+Priority: standard
+Description: Installous is the perfect app to install your IPAs
+Author: docmorelli <apps@hackulo.us>
+Depiction: http://hackulo.us/depict/installous5/
+Name: Installous 5
+Sponsor: Hackulo.us <http://hackulo.us>
+
+Package: com.hackulo.us.sourcegui
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Genius Blog <admin@hackulo.us
+Filename: package_debian_A1/sourcegui-1.2.deb
+Size: 8518
+MD5sum: c60b66d9fc23710ddb5a149a535951fd
+SHA1: 66c7a0233dcdae976c169b483e790a7e92bb1de3
+SHA256: ab54749833ed2e9c16754a3fdf692e94004b3495ab7a08d11c2085e6e21130fb
+Section: Hackulo.us
+Priority: standard
+Description: Hackulo.us Source GUI adds the source icons
+Author: Genius Blog <admin@hackulo.us>
+Depiction: http://hackulo.us/depict/sourcegui
+Name: Source GUI
+Sponsor: Hackulo.us <http://hackulo.us>
+
 Package: com.hackyouriphone.classiclockscreen
 Version: 3.3.1k
 Architecture: iphoneos-arm
@@ -1853,6 +2729,76 @@ Depiction: http://heaveniphone.com/cydia/info/setwallpaper.php
 Name: Desktop/SMS Background
 Sponsor: Heaven iPhone <http://heaveniphone.com/>
 
+Package: com.hello.hdnl
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Alex <alex@hackers.nl>
+Filename: package_debian_A1/Hello.deb
+Size: 6718
+MD5sum: 7230a5382a976f4f90fff3da30a970d6
+SHA1: 293a01fee2a5acaa4e81a5a82119599acdf86dfa
+SHA256: 12a06ec8679a64cc4a36cdd4e17f26fe5537fa36ff9d30caf6f96886ef31bf97
+Section: Hackers.nl
+Description: Just an funny app special for TW!
+Author: Alex <alex@hackers.nl>
+Name: Hello World
+
+Package: com.iXtension.MobileHook
+Version: 1.0
+Architecture: iphoneos-arm
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo
+Filename: package_debian_A1/MobileHook_1.0.deb
+Size: 9522
+MD5sum: 9e9952759f70597485d572fb1635f8d5
+SHA1: e12ecb16b2353705a70948648fcea023c25e1828
+SHA256: b2fc2ccdf1314525bcd531e4e6613034207c9f98bd25058d0c1772a77094973d
+Section: X Apps
+Priority: standard
+Homepage: http://www.ixtension.com
+Description: Spring Board extension for iXtension products
+Author: iXtension k.s.
+Depiction: http://xsellize.com/depic/?title=App&app=mobilehook
+Name: MobileHook
+
+Package: com.iclarified.cydia.pysl200
+Version: 2.0b2
+Architecture: iphoneos-arm
+Maintainer: iClarified <support@iClarified.com>
+Depends: mobilesubstrate
+Filename: package_debian_A1/pysl200.deb
+Size: 260490
+MD5sum: 7397d95bc86cda0a9509ae2be55597cc
+SHA1: aac8e735ec03f776bf8877000f99371a64639a44
+SHA256: 47dce5ea42b267cfbb485b197f1366fdd7470460b429b990d1264c05a62e98c1
+Section: iClarified
+Homepage: http://cydia.iClarified.com/moreinfo/pysl200.php
+Description: Call and SMS filtering tool for iPhone.  Secure your private SMS messages and stay relaxed !
+Author: Rikk <Rikk_2003@hotmail.com>
+Name: Pysl (2.0b2)
+
+Package: com.if0rce.siri0us
+Version: 0.0.8
+Architecture: iphoneos-arm
+Maintainer: Eric Day <ibluever@gmail.com>
+Installed-Size: 2064
+Pre-Depends: firmware (>=5.0)
+Depends: shell-cmds, coreutils, coreutils-bin, com.ericasadun.utilities, mobilesubstrate
+Filename: package_debian_A1/Siri0us_iphoneos_0.0.8_111127_145852.deb
+Size: 805394
+MD5sum: a853e6fe2138893e763a1faf9cd2022d
+SHA1: 93a2a2999f3ae8885cabe0a7e221138cd6392303
+SHA256: a3e9fb50752cf7138d21730f270cc7f3b62fda918407e386b499f86bba7d13b8
+Section: Utilities
+Priority: optional
+Homepage: http://www.if0rce.com
+Description: Siri dictation
+Author: Eric Day <ibluever@gmail.com>
+Depiction: http://apt.if0rce.com/pages/siri0us.php
+Name: Siri0us
+Sponsor: iF0rce.com <http://www.if0rce.com>
+
 Package: com.ih8sn0w-squiffy-winocm.p0sixspwn
 Version: 1.4-1
 Architecture: iphoneos-arm
@@ -1869,6 +2815,90 @@ Description: A drama free 6.1.3/6.1.4/6.1.5/6.1.6 untether.
 Author: iH8sn0w, SquiffyPwn, winocm
 Depiction: http://cydia.saurik.com/info/com.ih8sn0w-squiffy-winocm.p0sixspwn/
 Name: p0sixspwn
+
+Package: com.ihacksrepo.igameguardian
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: iHacksRepo <noreply@ihacksrepo.com>
+Installed-Size: 300
+Depends: com.ihacksrepo.reposetupfiles
+Filename: package_debian_A1/com.ihacksrepo.igameguardian.deb
+Size: 3268
+MD5sum: 710ece78422058f34d192fa653e5ddbf
+SHA1: 4c061ee48cd08d81a758ebf414538102a84a16e7
+SHA256: 3fde2db1272c975757d8d7318fa6e31ef86710e55d6efb889e4f940639315c3a
+Section: IHR-Utilities
+Priority: optional
+Description: iGameGuardian is a game cheating engine for iOS 5.1.
+Depiction: http://ihacksrepo.com/depiction.php?package=igameguardian
+Name: iGameGuardian
+Sponsor: iHacksRepo <http://ihacksrepo.com>
+
+Package: com.intelliborn.intellishared
+Version: 3.1.2-1
+Architecture: iphoneos-arm
+Essential: no
+Maintainer: Studguy1
+Filename: package_debian_A1/intellishared.3.1.2.sg1.deb
+Size: 158968
+MD5sum: ed7cfe86286f226c32ce61c2d1cc4736
+SHA1: 3dc463cb4eec2c5c89eb2d679d133e931e804ea4
+SHA256: 4eb75d4fdece51afc7903c6d014531f12d192b8fbba8c0f816df557982e86565
+Section: System
+Priority: standard
+Homepage: http://www.rockyourphone.com
+Description: Shared Components used by Intelliborn Products.
+Iconname: IntelliShared
+Id: 0
+Languages: English
+Longdescription: Shared Components used by Intelliborn Products.
+Mediumdescription: Shared Components used by Intelliborn Products.
+Name: IntelliShared
+Publisher: Intelliborn
+Requireslicense: false
+Requiresrespring: true
+Support: http://support.rockyourphone.com
+Updated: 5/21/2009
+Versionssupported: 2.01,2.1,2.2,2.2.1
+
+Package: com.intelliborn.myprofiles
+Version: 1.01.1.1
+Architecture: iphoneos-arm
+Essential: no
+Maintainer: bugs@intelliborn.com
+Depends: mobilesubstrate,com.intelliborn.intellishared (>= 2.55)
+Filename: package_debian_A1/myprofiles1.01.1.sg1.deb
+Size: 454482
+MD5sum: 859d70b5b8f60b45ad28439f7a60d2ff
+SHA1: 7d56b9ff810f2e959ef3e77b65690b2db2a7aded
+SHA256: 0a153a58079b92c92475c1a08fec131d87a8ed7e3c40550b4744a8a3cdc81d14
+Section: Productivity
+Priority: standard
+Homepage: http://www.intelliborn.com
+Description: Profile your iPhone!  Adjust how your iPhone behaves based on time, location, and more.  Handles Custom and Repeating Alerts for Email, SMS, Phones based on sender/subject/mailbox, and more!
+Name: MyProfiles
+Publisher: Intelliborn
+Support: http://support.intelliborn.com
+
+Package: com.intelliborn.tlert
+Version: 1.05.1-1
+Architecture: iphoneos-arm
+Essential: no
+Maintainer: Studguy1
+Depends: mobilesubstrate,com.intelliborn.intellishared (>= 2.91.4)
+Filename: package_debian_A1/tlert.1.05.1.sg1.deb
+Size: 331226
+MD5sum: 1a647051f6d7dcd4a6d60328e644290d
+SHA1: 24bdbe4c9cd2ef425cf3518281f6d09ce9d82615
+SHA256: 69d6f5ee8410850ef7c3f16c039faee95d3c343a1caef193bc3079604e781ae9
+Section: Productivity
+Priority: standard
+Homepage: http://www.intelliborn.com
+Description: (Cracked by Studguy1) View and Reply to SMS message from any app.  Get rid of the ugly default alert messages!
+Iconname: Tlert
+Name: Tlert
+Publisher: Intelliborn
+Support: http://support.intelliborn.com
 
 Package: com.iphoneislam.HijriWidget
 Version: 1.1-1
@@ -1921,21 +2951,71 @@ Description: At last NTRA allows GPS in Egypt. This patch will enable GPS on you
 Author: iPhoneIslam <info@iphoneislam.com>
 Name: GPS in Egypt (2.2.x)
 
-Package: com.isoftru.bochs
-Version: 1.0.0-1
+Package: com.iphonepackers.silentme
+Version: 5.3.0.1-1
 Architecture: iphoneos-arm
-Maintainer: isoftcom.com <isoftteamsupport@gmail.com>>
-Filename: package_debian_A1/bochs.deb
-Size: 36844432
-MD5sum: 2fc90234ca64aec8d45d14b938b722c9
-SHA1: a1aeb6638d3a14378b4eefca73e4e38ee1fb5275
-SHA256: b4b076aa5fe88dc2dad22b3da9a329043b5efbc3c4eefb96f57f45a0273fc382
-Section: System
-Homepage: http://isoftcom.com/
-Description: Run Windows 3.11 and Windows 95 on your iPhone. It's slow, but worked.
-Author: isoftcom.com <isoftteamsupport@gmail.com>
-Dev: isoftru
-Name: Bochs (Win95 for iPhone)
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Depends: mobilesubstrate (>= 0.9.3005-1)
+Conflicts: com.iphonepackers.silentmeLite4, com.iphonepackers.silentmeLite
+Filename: package_debian_A1/com.iphonepackers.silentme_5.3.0.1-1_iphoneos-arm_fabius.deb
+Size: 335574
+MD5sum: fbd8be0de73945fba372288d165a927a
+SHA1: 5512f91e96b26cbd7d43cde2836671a4291a18a7
+SHA256: a8678df342cd5904e85c2a1c00c7c57301cdb7a2b6a7217a063004f9c837a4e5
+Section: Utilities
+Priority: extra
+Homepage: http://modmyi.com/info/autosilent.php
+Description: Puts in silent mode automatically during meeting, nights and as configured by user.
+Tag: cydia::commercial
+Author: iPhonePackers <autosilent@iphonepackers.info>
+Depiction: http://modmyi.com/info/autosilent.d.php
+Name: Auto Silent
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: com.japsun.hdnl
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Alex <alex@hackers.nl>
+Filename: package_debian_A1/Japsun.deb
+Size: 292184
+MD5sum: 49900dd6828693ef66da189bda96f90a
+SHA1: 6af8839f7515635e415e41a1d79c70c60f143acc
+SHA256: d57e28e5b18b4a42fbb972bcc6f612235ff3cb4bf0a1e9da44c7cf14961fae5b
+Section: Hackers.nl
+Description: Japanese Winterboard theme
+Author: Alex <alex@hackers.nl>
+Name: Japanese Sun Theme
+
+Package: com.kenny808.mcpe
+Version: 0.9.5-1
+Architecture: iphoneos-arm
+Maintainer: Kenny808
+Installed-Size: 184
+Depends: mobilesubstrate
+Filename: package_debian_A1/com.kenny808.mcpe_0.9.5-1_iphoneos-arm.deb
+Size: 15782
+MD5sum: ea3feb83816abadc9a4aa8fb01a683a1
+SHA1: 51fd7e1d9a24ff4cdb3db50fff4e7c77ad61bb36
+SHA256: e4383c43e21e326772e81c1eea7f2a4facbefc457f7109f81083bcec47f913de
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Kenny808
+Name: MCPE
+
+Package: com.kmk-research.ipref
+Version: 1.1
+Depends: com.ripdev.atcore
+Filename: package_debian_A1/com.kmk-research.ipref-1.1.deb
+Size: 1921984
+MD5sum: 371e21be8fe9be15fcabf96c6bf799a3
+SHA1: b984d5c37fac77d8f4e616a1b4431395f2ebb5ce
+SHA256: e5fb9ddb7c60444993450e799af4be1d86dcddca93e634171b447bb835fd1587
+Section: Utilities
+Homepage: http://ripdev.com/ipref/
+Description: iPref lets you play classic trick-taking Preference game on iPhone and iPod touch. Invented in the 19th century, this game is now available to all users of Apple's latest mobile platform. Advanced game algorithm and utilizing of different iPhone technologies will let all those fond of the Preferans game to fill in the Pool with experienced computer opponents.
+Tag: purpose::uikit, role::enduser
+Author: Ripdev <support@ripdev.com>
+Name: iPref
 
 Package: com.linusyang.ytbnoad
 Version: 0.1
@@ -1988,6 +3068,25 @@ Author: litchiedev
 Depiction: http://johan.margueritte.free.fr/repo/depictions/?p=com.litchie.idosgames
 Name: iDOS 2
 Sileodepiction: http://johan.margueritte.free.fr/repo/depictions/com.litchie.idosgames/sileo.json
+
+Package: com.marcocristalli.altervista.org.AppStorelous
+Version: 2.5-2
+Architecture: iphoneos-arm
+Maintainer: Marco Cristalli
+Installed-Size: 188
+Depends: mobilesubstrate, com.hackulo.us.installous, firmware (>= 4.0)
+Filename: package_debian_A1/com.marcocristalli.altervista.org.AppStorelous_2.5-2.deb
+Size: 62260
+MD5sum: 87f5f94d666df75c629d600a0dff792b
+SHA1: 9f4308389f8d331f19cdff8ee975a9491f10c546
+SHA256: e7dd5a23340f25324106333936a614e6356d6ae5658d20f87acf139fbfdb3bd4
+Section: Tweaks
+Homepage: http://marcocristalli.altervista.org
+Description: Add two button in AppStore app to easily launch Installous and more…
+Author: Marco Cristalli <marcocristalli91@gmail.com>
+Depiction: http://marcocristalli.altervista.org/depictions/appstorelous/appstorelous_depiction.html
+Dev: Marco Cristalli
+Name: AppStorelous
 
 Package: com.martinpham.nero10
 Version: 0.0.1-444+debug
@@ -2056,6 +3155,90 @@ Author: TouchHome
 Depiction: http://martinpham.gitlab.io/cydia/depictions/com.martinpham.touchhome.html
 Name: TouchHome
 
+Package: com.mcleaner.MCallShow
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: MCleaner Team <iphone@mcleaner.com>
+Depends: mobilesubstrate (>= 0.9.2587-1)
+Filename: package_debian_A1/MCallShow1.4.deb
+Size: 215728
+MD5sum: 6a046624074bf20651dc3b3a65af05d6
+SHA1: 7098b8b5d726cdae52ad346e455b3339ec64a808
+SHA256: 5365dbfa5176c6206ba10d236f5adcb920d8825c1c66a5550cb419b87bc559df
+Section: Utilities
+Homepage: http://mcleaner.com/iphone_mcallshow.jsp
+Description: MCallShow is a callinfo enhancer to show the location data of the incoming/outgoing call and calllog.
+Author: MCleaner Team <iphone@mcleaner.com>
+Depiction: http://www.mcleaner.com/iphone/mcallshow1.1.html
+Name: MCallShow
+
+Package: com.mcleaner.MCleaner
+Version: 1.8.1
+Architecture: iphoneos-arm
+Maintainer: MCleaner Team <iphone@mcleaner.com>
+Depends: mobilesubstrate (>= 0.9.2587-1)
+Filename: package_debian_A1/MCleaner1.8.1.deb
+Size: 408292
+MD5sum: d4007a71cf70198f3c43d9b28b07798d
+SHA1: edc26f8b258d161576925a316e8efaf81b31b1b5
+SHA256: 4b1d4c01e56d55742e45eacd1bc17eee6eddee488b8ef6303f3124e204c44ce2
+Section: Utilities
+Homepage: http://www.mcleaner.com/iphone/iphone_mcleaner.shtml
+Description: MCleaner is a iPhone Call and SMS Filter program. With MCleaner you can block incoming calls and SMS messages automatically and protect your privacy. MCleaner allows you to create Blacklists, Whitelists, Profiles and Schedules to meet your individual needs. It's easy to use and good for you when you are busy, constantly in important meetings,telephone marketing or have a couple of lovers.
+Author: MCleaner Team <iphone@mcleaner.com>
+Depiction: http://www.mcleaner.com/iphone/mcleaner1.5.0.html
+Name: MCleaner
+
+Package: com.mcleaner.mSecret
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: MCleaner Team <iphone@mcleaner.com>
+Filename: package_debian_A1/mSecret1.0.deb
+Size: 182228
+MD5sum: 0107993728875a4992f6dc422612b670
+SHA1: e8cc9b7ad74b9738da2be474bf93aa6e7027d290
+SHA256: 3968759bed6509c462b19ba694a45aecaae4cdc7c193695c91cd996faf0d7d48
+Section: Utilities
+Homepage: http://www.mcleaner.com/iphone/msecret.html
+Description: mSecret is a perfect assistant for secure and convenient information managing。Keep all of your information in one place,safe,secure,easy to access,and always with you.
+Author: MCleaner Team <iphone@mcleaner.com>
+Depiction: http://www.mcleaner.com/iphone/msecret.html
+Name: mSecret
+
+Package: com.mcleaner.madvlock
+Version: 1.3.2
+Architecture: iphoneos-arm
+Maintainer: MCleaner Team <iphone@mcleaner.com>
+Depends: mobilesubstrate (>= 0.9.2587-1)
+Filename: package_debian_A1/mAdvLock1.3.2.deb
+Size: 371062
+MD5sum: a52127ca04ce658361ed4c15edf462b2
+SHA1: df145494c9686eb4a7356b6353791a01ec50248d
+SHA256: e503656839ee555708a7ef3bef4420d026940a1c05aa1a68a5831d1f727c45a2
+Section: Utilities
+Homepage: http://www.mcleaner.com/iphone/iphone_mcleaner.shtml
+Description: lock your apps and files with password. Also apply to sim card changed(anti-theft)
+Author: MCleaner Team <iphone@mcleaner.com>
+Depiction: http://www.mcleaner.com/iphone/madvlock.html
+Name: mAdvLock
+
+Package: com.mcleaner.mcoolphone
+Version: 1.4.0
+Architecture: iphoneos-arm
+Maintainer: MCleaner Team <iphone@mcleaner.com>
+Depends: mobilesubstrate (>= 0.9.2587-1)
+Filename: package_debian_A1/mCoolPhone1.4.0.deb
+Size: 99128
+MD5sum: eb79a2083c067da35ad62d694085f0d0
+SHA1: eea9af1320dc70d197cd929ad2fbd73678526581
+SHA256: 4d1e906f8389185472f80eb0736025fb3429cf5cb1b650928e33f0e0483765df
+Section: Utilities
+Homepage: http://www.mcleaner.com/iphone/iphone_mcleaner.shtml
+Description: shake to answer call, flip over to hangup call or mute ringer, and a lot of more cool feature will be added
+Author: MCleaner Team <iphone@mcleaner.com>
+Depiction: http://www.mcleaner.com/iphone/mcoolphone.html
+Name: mCoolPhone
+
 Package: com.michael.appleturboboost
 Version: 0.7.0
 Architecture: iphoneos-arm
@@ -2094,6 +3277,103 @@ Author: halo_michael <yc992147156@me.com>
 Name: LocalSSH
 Sponsor: halo_michael <yc992147156@me.com>
 
+Package: com.modplay.hdnl
+Version: 2.0.3
+Architecture: iphoneos-arm
+Maintainer: Alex <alex@hackers.nl>
+Depends: mobilesubstrate
+Filename: package_debian_A1/Mod_music.deb
+Size: 94252
+MD5sum: b355a1c55f546aa7b661772748f9e919
+SHA1: 0a0563ce0eae94281d9b60b4a7949e5373d42116
+SHA256: 5ef0e5df8f244e043e065b4434e961ced5967c297120323b05fd946e326a182d
+Section: Hackers.nl
+Description: Patch for your music player with fancy icons.
+Author: Alex <alex@hackers.nl>
+Name: Patch you MusicPlayer
+
+Package: com.monkey.hdnl
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Alex <alex@hackers.nl>
+Filename: package_debian_A1/Aapje.deb
+Size: 283332
+MD5sum: 671d24653afa49984700b786ea82f651
+SHA1: 17f748f073c4efe1d142a4c8ec834547483fa7a9
+SHA256: 71aca1ed71f2f48c50bedc04ad9dc024d559aad4d1a784a542ebe9599df780e1
+Section: Hackers.nl
+Homepage: http://www.hackers.nl/
+Description: Great monkey form the zoo made in april 2007
+Author: Alex <alex@hackers.nl>
+Name: Monkey
+Website: http://www.hackers.nl/
+
+Package: com.myrepospace.HackStor.appcrackr
+Version: 1.5-1
+Architecture: iphoneos-arm
+Maintainer: andydam <andydam@gmail.com>
+Pre-Depends: ldid
+Depends: adv-cmds, com.ericasadun.utilities, coreutils, gawk, gdb, zip
+Filename: package_debian_A1/appcrackr_1.5.1.deb
+Size: 180164
+MD5sum: f6fa1c78710369ca3f9a662f1f534198
+SHA1: 3d62e1f7cf56e068609cf2c07da4062285dcd763
+SHA256: a4f1b3610b8dfa3e6f4e0441062dd1ba62ac233771e2ac3d60c559a5124f0faa
+Section: andydam
+Homepage: http://andydam.com/appcrackr.htm
+Description: A GUI for cracking scripts
+ A graphical user interface for poedgirl's poedCrack and MadHouse's CrackTM.
+Author: andydam
+Depiction: http://andydam.com/repo/appcrackrinfo
+Name: AppCrackr
+
+Package: com.myrepospace.Siris.mcpepatch
+Version: 0.3.3.0
+Architecture: iphoneos-arm
+Maintainer: Intyre
+Filename: package_debian_A1/com.myrepospace.Siris.mcpepatch_0.3.3.0.deb
+Size: 1349968
+MD5sum: 59b9779de025460da14b6e493961ebb7
+SHA1: bc10a89a3f3d0090143dd1185d29e83b3e0f8d35
+SHA256: 2ff964d85b5252f8f73a074a22c2b7b5be799f5cd1dc081770a1e9e02d6245b4
+Section: MinecraftPE
+Description: MinecraftPE Mod and Multiplayer Patcher
+Author: Intyre
+Depiction: http://cydia.intyre.nl/depictions/mcpepatch.html
+Name: MCPE Patch
+
+Package: com.myrepospace.reaper-carlos.imcpedit
+Version: 4.1-2
+Architecture: iphoneos-arm
+Filename: package_debian_A1/com.myrepospace.reaper-carlos.imcpedit_4.1-2_iphoneos-arm.deb
+Size: 2611000
+MD5sum: c4b365db8d146b05513fef4898c735d8
+SHA1: 731d212ec50446eb5222d15b72cb76ddf1ec3826
+SHA256: 792b608f1429cb2c728ac8f60963f8f22f316ca2550c52f9d735e7f3b97be3bf
+Section: MCPE
+Homepage: http://myrepospace.com
+Description: A MCPE inventory editor
+Author: Intyre <carlitos12313@gmail.com>
+Depiction: http://myrepospace.com
+Name: iMCPEdit
+Sponsor: myRepoSpace.com <http://www.myRepoSpace.com>
+
+Package: com.myrepospace.sticktron.WeeStats
+Version: 0.9.1-16
+Architecture: iphoneos-arm
+Maintainer: Sticktron
+Installed-Size: 52
+Depends: firmware (>= 5.0)
+Filename: package_debian_A1/Weestats.deb
+Size: 16956
+MD5sum: f763223b55fb7a86a1711b7090aa6cef
+SHA1: 33fc18039cd954acdd5fe5853795bdef1f83d636
+SHA256: ecc40d16b356b4fbad34b2af684e96758fd1e33add4186c30cd5ed1738c3be13
+Section: Widgets
+Description: System Info Widget for iOS 5 Notification Center
+Author: Sticktron
+Name: WeeStats Widget
+
 Package: com.nablac0d3.sslkillswitch2
 Version: 0.14-1+debug
 Architecture: iphoneos-arm
@@ -2126,6 +3406,24 @@ Description: Blackbox tool to disable SSL certificate validation - including cer
 Author: Alban Diquet <nabla.c0d3@gmail.com>
 Name: SSL Kill Switch 2
 
+Package: com.occipital.clearcam
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: Occipital <customer_service@occipital.com>
+Filename: package_debian_A1/ClearCam_1.1.deb
+Size: 619778
+MD5sum: f6dc0ab46ad5782806f1f5f78e87ac70
+SHA1: 9ccb240e84aeb357618b5ff927c946661753c697
+SHA256: 9e9321a27f2c295a219a14184b60ef70e278829127f4a96ee0d0c65c36bbbad7
+Section: Multimedia
+Homepage: http://moreinfo.thebigboss.org/moreinfo/clearcam.php
+Description: Cracked by HunterX. Take sharper, 4 megapixel photos with less noise using advanced image processing. Take 6 quick shots in under 2.5 seconds. Capture the highest quality photos on the iPhone.
+Author: Occipital <info@occipital.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=clearcamData
+Dev: vikas
+Name: ClearCam Cracked
+Sponsor: Occipital <http://www.occipital.com/>
+
 Package: com.pantsthief.flexing
 Version: 1.2.0
 Architecture: iphoneos-arm
@@ -2143,6 +3441,54 @@ Section: Tweaks
 Description: Open FLEX anywhere!
 Author: Tanner Bennett
 Name: FLEXing
+
+Package: com.purpleart.hdnl
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Alex <alex@hackers.nl>
+Filename: package_debian_A1/PurpleTheme.deb
+Size: 424038
+MD5sum: cef0b38be04aa985c2864c4e722ce71b
+SHA1: 23caa538975986aa9ce62836a240ab49b1502bed
+SHA256: cc38e81d51796844e5ad9072e4eb5261a38a91eeb4068a92c73f692562f4628d
+Section: Hackers.nl
+Description: Purple Art Theme For Winterboard
+Author: Alex <alex@hackers.nl>
+Name: Purple Art Theme
+
+Package: com.pushfix.TCPoptimizer
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: PushFix <free@pushfix.info>
+Installed-Size: 2
+Pre-Depends: firmware (>= 3.1.2)
+Depends: coreutils-bin,system-cmds
+Filename: package_debian_A1/com.pushfix.TCPoptimizer_1.1_iphoneos-arm.deb
+Size: 1794
+MD5sum: 208d0b8f9fa23ff8eda9fa78a1956bf9
+SHA1: c443128e1176ee70532a78575d24b7d2dca09091
+SHA256: 6d9928ec045c83f75d17bbc26757e6b80049ae77c178d39c23b25ee0edbd71e5
+Section: Tweaks
+Homepage: http://pushfix.info/
+Description: TCP stack optimizer
+ *************************************
+ This package changes some TCP
+ parameters on boot that result in
+ faster network throughput (for me).
+ I suspect it will improve speeds for
+ others as well.  My main goal was
+ reducing YouTube stutters and delays.
+ *************************************
+ Uninstall and reboot to restore
+ the original settings.
+ *************************************
+ Compatible with all iDevices running
+ 3.1.2 and up.  Only improves WiFi
+ speeds, don't use on wired Apple TVs
+ *************************************
+ V1.1 : Keep MTU blackhole detection
+Author: PushFix <free@pushfix.info>
+Name: TCP optimizer
 
 Package: com.pushfix.youtubekey2
 Version: 1.0
@@ -2466,6 +3812,277 @@ Author: RedenticDev <redenticdev@gmail.com>
 Depiction: https://redentic.dev/depictions/?p=com.redenticdev.swrespringpack
 Name: Star Wars Respring Pack
 Sileodepiction: https://redentic.dev/depictions/com.redenticdev.swrespringpack/sileo.json
+
+Package: com.ripdev.abfix3
+Version: 3.1.1
+Architecture: iphoneos-arm
+Pre-Depends: firmware (>= 3.0)
+Depends: com.ripdev.men
+Filename: package_debian_A1/com.ripdev.abfix3-3.1.1.deb
+Size: 19492
+MD5sum: 2d043f6e501bb7cc9f634f64b95efab0
+SHA1: a8f5d5bc0bce728172d1919d70a0b6e6631e222b
+SHA256: 5f57fcec35b2329df26a0e1e11d7b30905ed78e1b20109053a37d48e5f14a4a4
+Section: Utilities
+Homepage: http://ripdev.com/free
+Description: Adds dynamic index in Address Book
+Tag: purpose::uikit, role::enduser
+Author: Ripdev <support@ripdev.com>
+Name: ABFix
+
+Package: com.ripdev.atcore
+Version: 1.0-2
+Architecture: iphoneos-arm
+Maintainer: Ripdev <support@ripdev.com>
+Filename: package_debian_A1/atcore-1.0-2.deb
+Size: 128100
+MD5sum: 62c4c1fdd8f2c61279811598278da715
+SHA1: 35441f70768256f37194fddcab2fae6d6a3181c3
+SHA256: 24670e0e4ebf966c09964137e42a865b8bbd01c7eef405c7e88dc84be76ab82c
+Section: Packaging
+Description: A tool required to install AppTapp Installer packages from the command line.
+Tag: purpose::uikit, role::developer
+Author: Ripdev <support@ripdev.com>
+Name: AppTapp Core
+
+Package: com.ripdev.dejarip
+Version: 3.1.2
+Architecture: iphoneos-arm
+Maintainer: Ripdev <support@ripdev.com>
+Depends: com.ripdev.men, com.ripdev.prefs
+Filename: package_debian_A1/dejarip-312.deb
+Size: 228610
+MD5sum: 309417077191b69650dee9c8afa42ec8
+SHA1: f1b4f68c750f8934d1921901b1236cda67da0f1b
+SHA256: eafe8107d048fbb6f48631d67c1ef7506f69a5aed3ae35bd207aff68fa8b3c9d
+Section: Utilities
+Description: Free system font replacement tool to replace the system font made specifically for Ripdev. Now works on iPhone 3GS. Бесплатная утилита для смены системного шрифта на шрифт Ripdev. Теперь работает и на iPhone 3GS.
+Tag: purpose::uikit, role::enduser
+Author: Ripdev <support@ripdev.com>
+Name: DejaRip
+
+Package: com.ripdev.dejarip
+Version: 3.2
+Architecture: iphoneos-arm
+Pre-Depends: firmware (>= 3.0)
+Depends: com.ripdev.prefs
+Filename: package_debian_A1/com.ripdev.dejarip-3.2.deb
+Size: 231412
+MD5sum: d3c2b546d1a0d0034c267ee59571945f
+SHA1: eceaccbbf24ab58b6d6b08fe6b363a1f83154c8b
+SHA256: 9d0ee7dc6542e3752ded9a38b634cae30c6f4c8d36faea68cd5498de851b84d4
+Section: Utilities
+Homepage: http://ripdev.com/kate
+Description: Free system font substitution tool to replace the system font made specially for Ripdev. Бесплатная утилита для смены системного шрифта на шрифт Ripdev.
+Tag: purpose::uikit, role::enduser
+Author: Ripdev <support@ripdev.com>
+Name: DejaRip
+
+Package: com.ripdev.grproject2
+Version: 2.2-1
+Depends: com.ripdev.atcore, com.ripdev.men, com.ripdev.prefs
+Filename: package_debian_A1/com.ripdev.grproject2-2.2-1.deb
+Size: 1828984
+MD5sum: 74132a4e5fd3e4e3c55be891ac8f5f26
+SHA1: 97afd1b02d38a2d0d7738f7957b4cb5c4fbba947
+SHA256: 857698d2037b10819c04db1fe7f4d6f9d491b8a6ba05c224e8af268826a97feb
+Section: Utilities
+Homepage: http://ripdev.com/grproject/
+Description: Εμπορικό πακέτο Ελληνικών μεταφράσεων για το iPhone.
+Tag: purpose::uikit, role::enduser
+Author: Ripdev <support@ripdev.com>
+Name: Greek Project
+
+Package: com.ripdev.hood
+Version: 1.1
+Depends: com.ripdev.atcore, com.ripdev.men, com.ripdev.prefs
+Filename: package_debian_A1/com.ripdev.hood-1.1.deb
+Size: 208766
+MD5sum: f41e7da92b8ba6711805e1e7350ea14a
+SHA1: 32424cd7c0815ce51e73a714f40a4d2569ef469d
+SHA256: 21543d7e4c16e21463a8c62f9fc7c6261ac82f0f40d7862e050992b2e5d3a2cd
+Section: Utilities
+Homepage: http://ripdev.org/2008/12/hood-11.html
+Description: Free HUD display for the SpringBoard to enable/disable Airport, Bluetooth, EDGE or quit current application. Also displays memory usage and process list, allowing to kill processes.
+ To activate, slide across the status bar.
+Tag: purpose::uikit, role::enduser
+Author: Ripdev <support@ripdev.com>
+Name: Hood
+
+Package: com.ripdev.hood3
+Version: 1.2b1
+Architecture: iphoneos-arm
+Pre-Depends: firmware (>= 3.0)
+Depends: com.ripdev.men, com.ripdev.prefs
+Filename: package_debian_A1/hood3-12b1.deb
+Size: 201676
+MD5sum: 484170700a3e98e63f92c726cec124bb
+SHA1: 9c69f1b3178e22b197f0a56a9c8758da13297ec8
+SHA256: 86b5dbc18dc187b06e1da5fb89019e1698c3c124cb6db22e91347a6b0b8b2068
+Section: Utilities
+Homepage: http://ripdev.com
+Description: Hood is a free and light tool to toggle Wi-Fi, BlueTooth, EDGE and quit frontmost applications. Activates by sliding the finger across the status bar. This is a version for iPhone OS 3.x. More features are coming soon!
+Tag: purpose::uikit, role::enduser
+Author: Ripdev <support@ripdev.com>
+Name: Hood (für 3)
+
+Package: com.ripdev.i2reader
+Version: 3.2-3
+Architecture: iphoneos-arm
+Filename: package_debian_A1/com.ripdev.i2reader-3.2-3.deb
+Size: 3400178
+MD5sum: 89bcfc9c4ee2fa1097908169b1ef8451
+SHA1: 846b6a89addd99e7d4f3e7aa85a14c1b11646b82
+SHA256: b08a1a8235d03d8bb51a6bc0b28df8d14787210ec91cb529300d3715daa2eb2a
+Section: Productivity
+Homepage: http://itunes.apple.com/ru/app/i2reader/id322680924?mt=8
+Description: Award-winning eBook reader for the iPhone. No longer distributed and is only available to previously registered users. Please see the App Store version.
+ The recent update fixes the erroneous CPU usage for the Pro version.
+Tag: purpose::uikit, role::enduser
+Author: Ripdev <support@ripdev.com>
+Name: i2Reader Pro
+
+Package: com.ripdev.icy
+Version: 1.4.1-3749
+Architecture: iphoneos-arm
+Maintainer: Ripdev <support@ripdev.com>
+Depends: dpkg, bzip2, shell-cmds
+Filename: package_debian_A1/icy-1.4.1-3749.deb
+Size: 615544
+MD5sum: 783f39d68ff5adcaaecfe8bd4c2117d4
+SHA1: 08b155b210b76f5f85cf7fd248fec33838613f6f
+SHA256: 53926868aef1e41248e510b475ca4dd73b7678d4570b3b3514a058db3f2f60c4
+Section: Packaging
+Homepage: http://ripdev.com/icy/
+Description: Faster, cleaner, skinnable alternative to Cydia installer. Localized to 17 languages.
+Tag: purpose::uikit, role::enduser
+Author: Ripdev <support@ripdev.com>
+Name: Icy
+
+Package: com.ripdev.icy-pwnage-fix
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Ripdev <support@ripdev.com>
+Filename: package_debian_A1/fixlink.deb
+Size: 934
+MD5sum: 73993cdf40fb78abef98966db26f509e
+SHA1: 3307a278cb936a69c2df06d7478317e39a6df009
+SHA256: c53312fa676381ad8f1bd0df7a5d76a05aa6f9bccaedc68e05ec94ed9bf2ec2e
+Section: System
+Description: Fixes an issue with some packages not being installed due to a missing /bin/sh link in the Icy PwnageTool bundle. Safe to use if the link exists.
+Tag: purpose::uikit, role::enduser
+Author: Ripdev <support@ripdev.com>
+Name: Icy PwnageTool Bundle Fix for 3.0
+
+Package: com.ripdev.installerd
+Version: 1.28
+Depends: dpkg
+Filename: package_debian_A1/installerapp-support.deb
+Size: 369330
+MD5sum: ecb51921570668d7d673eb72721a82c7
+SHA1: 99e944aedc9d3ef15ff907980246b95bbe881c41
+SHA256: c030a6bd76d56dccde3f379a48d8a9c8d8dbb7d322b71044326da223ff5216de
+Section: Packaging
+Homepage: http://ripdev.com/installerapp
+Description: This package installs essential files required for the InstallerApp on the iPhone. You can install it if you don't feel like Pushing your iPhone every time the underlying support system gets updated. InstallerApp allows you to install Installer and Cydia packages from your computer with a USB cable. Click on More Info link for more information.
+Tag: purpose::uikit, role::enduser
+Author: Ripdev
+Name: InstallerApp Support
+
+Package: com.ripdev.kate3
+Version: 3.0.2
+Architecture: iphoneos-arm
+Pre-Depends: firmware (>= 3.0)
+Depends: com.ripdev.atcore, com.ripdev.men, com.ripdev.prefs
+Filename: package_debian_A1/com.ripdev.kate3-3.0.2.deb
+Size: 838736
+MD5sum: cd7cb38c3d77c451cde78710ea2d8d95
+SHA1: 8eb9843e0230b36fe0056f7e659281d512698393
+SHA256: 6281829966e1a121f3c7f8136f3faff3c2c3e9fb8320cc230a1792aae969d3f6
+Section: Utilities
+Homepage: http://ripdev.com/kate/
+Description: A collection of various tools & toys for iPhone and iPod touch: customization, calendar on lock screen, smart dialer and much more. Updated for the latest firmware versions.
+Tag: purpose::uikit, role::enduser
+Author: Ripdev <support@ripdev.com>
+Name: Kate
+
+Package: com.ripdev.logofix3
+Version: 3.0
+Architecture: iphoneos-arm
+Pre-Depends: firmware (>= 3.0)
+Depends: com.ripdev.prefs
+Filename: package_debian_A1/com.ripdev.logofix3-3.0.deb
+Size: 89728
+MD5sum: b45639367e1e20cc217070f93c91b986
+SHA1: c4d757e63d3383ec49c30a7a5cdfed62b3504807
+SHA256: 16b41f029c49c10aa58c97d972362afffeeea0ef497c0714937b6a9e6a9f1628
+Section: Utilities
+Homepage: http://ripdev.com/ruproject
+Description: Operator logo replacement
+Tag: purpose::uikit, role::enduser
+Author: Ripdev <support@ripdev.com>
+Name: LogoFix
+
+Package: com.ripdev.men
+Version: 3.0.3
+Depends: com.ripdev.atcore
+Filename: package_debian_A1/com.ripdev.men-3.0.3.deb
+Size: 19896
+MD5sum: 7063138ec8413a75359a84571d9d21a1
+SHA1: 78036621448c5fdb32d0f654cc281bd604f90f34
+SHA256: 0c5e52496e9caebb6ccc9f2670d8bab2393d44bb141dcf1ac79e2a5ee92d4f14
+Section: Utilities
+Description: The advanced system allowing run-time modifications of the running applications without modifying code on disk.
+Tag: purpose::uikit, role::enduser
+Author: Ripdev <support@ripdev.com>
+Name: Mobile Enhancer
+
+Package: com.ripdev.phonefix3
+Version: 3.0
+Architecture: iphoneos-arm
+Pre-Depends: firmware (>= 3.0)
+Depends: com.ripdev.prefs
+Filename: package_debian_A1/com.ripdev.phonefix3-3.0.deb
+Size: 37122
+MD5sum: b0aec6859fd19f14d2a12af9a96f8a0a
+SHA1: 2ac2ba833ce9be1411b803a0238701f672514bc3
+SHA256: e4ec50881e4e44fa1264fd16abbca0478d20215890748cc882ed74fabaa21762
+Section: Utilities
+Homepage: http://ripdev.com/ruproject
+Description: Some local operators send the phone numbers for incoming calls as 8-123-456-7890 instead of standard +7-123-456-7890. This way, phone numbers from your address book do not get detected! PhoneFix efficiently solves this problem.
+Tag: purpose::uikit, role::enduser
+Author: Ripdev <support@ripdev.com>
+Name: PhoneFix
+
+Package: com.ripdev.prefs
+Version: 2.0.3
+Depends: com.ripdev.atcore, com.ripdev.men
+Filename: package_debian_A1/com.ripdev.prefs-2.0.3.deb
+Size: 95472
+MD5sum: 82122806fd78582d60863bb6c3949783
+SHA1: 625e211400931cb964a95e3ff4193f2879f52ab6
+SHA256: 2ca8896a069fd39763add5d9b9133fdc3ab67ebbf93a966d6a780b16bb512b42
+Section: Utilities
+Description: Preferences system used by Ripdev products; allows you to configure various components via Settings application. You rarely need to install this separately.
+Tag: purpose::uikit, role::enduser
+Author: Ripdev <support@ripdev.com>
+Name: Ripdev Preferences
+
+Package: com.ripdev.ruproject
+Version: 2.2.1
+Pre-Depends: firmware (< 3.0)
+Depends: com.ripdev.atcore, com.ripdev.men, com.ripdev.prefs
+Filename: package_debian_A1/com.ripdev.ruproject-2.2.1.deb
+Size: 2166242
+MD5sum: ea8d344b1e0770d041ddc8bb8faac5e1
+SHA1: 986d7ce5fd631aaf7b3528446206866e66f6a462
+SHA256: 598b19a2bfec23bda426ebb0a60a8891d72661ff7e8ea62806c64c19ab37aedc
+Section: Utilities
+Homepage: http://ripdev.com/ruproject/
+Description: Платный пакет: Русская локализация для iPhone и iPod touch, а также набор важных исправлений для правильного функционирования телефона в России. Поддерживает прошивку 2.2.1.
+Tag: purpose::uikit, role::enduser
+Author: Ripdev <support@ripdev.com>
+Name: Русский Проект
 
 Package: com.samgisaninja.SuccessionRestore
 Version: 0.9~b6
@@ -2937,6 +4554,125 @@ Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: http://cydia.saurik.com/info/com.saurik.webcycript/
 Name: WebCycript
 
+Package: com.sh0ckdev.bochs
+Version: 4.2
+Architecture: iphoneos-arm
+Maintainer: Justin Clifford (personman) <personman@personman.dnsalias.com>
+Installed-Size: 4971.474609375
+Filename: package_debian_A1/bochs.deb
+Size: 2087504
+MD5sum: dd49feaac85eb891936ec6e8d7d9c7d0
+SHA1: 1ece287cff677210860bccc4d399b7720f18c04a
+SHA256: 317b85ad21d3c7a92cf5dbe06813a5ea7db0ba075e7a06c3ddce1c78e7584346
+Section: Applications
+Homepage: http://personman.dnsalias.com/repo/Info Pages/Bochs.html
+Description: IMPORTANT: The OS must be selected while in landscape mode in order for the keyboard to work properly! Bochs was originally ported to the iPhone by the iSoft Team. This version of Bochs for iPhone was modified by the Shock Dev Team. we have added a keyboard and other modifications. To learn how to add more operating systems go to shockdevteam.webs.com and go to the tutorials page. Please donate using the link on our site or in the app to contribute to all our hard work.
+Author: Sh0ck Dev Team <shockdevteam@gmail.com>
+Name: Bochs
+
+Package: com.sh0ckdev.win95forbochs
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Justin Clifford (personman) <personman@personman.dnsalias.com>
+Installed-Size: 102457.177734375
+Filename: package_debian_A1/win95forbochs.deb
+Size: 29649084
+MD5sum: 64c189a81b303759c0c5a6a312acde62
+SHA1: 74c8d0e8960d4a7bc9f48eced7d7e5f89353051b
+SHA256: f807661253837f057e80a3b2b580ee8d1554b04eebb65bff9ac5d2bd7ff9a9c0
+Section: App Addons
+Homepage: http://personman.dnsalias.com/repo/Info Pages/Bochs.html
+Description: Installs Windows 95 for the Bochs Emulator. NOTE: If not already installed, this package will install the Bochs Emulator.
+Author: Sh0ck Dev Team <shockdevteam@gmail.com>
+Name: Windows 95 for Bochs
+
+Package: com.signal.hdnl
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: Alex <alex@hackers.nl>
+Depends: mobilesubstrate
+Filename: package_debian_A1/Color_Signal.deb
+Size: 5310
+MD5sum: 5d007ec6b8a47b675c1a680c19903503
+SHA1: a9f01f3492b557f677f57515d031596d42bccb72
+SHA256: b79226bf0aa79651d4721dd2b2d85c9e34f1afbdbe5d18567acd37438a962d08
+Section: Hackers.nl
+Description: Colors your signal bar with reception colors
+Author: Alex <alex@hackers.nl>
+Http: //www.hackers.nl
+Name: Coloring Bars with NLKPN
+
+Package: com.skrew.vwallpaper2os5
+Version: 0.0.9-10
+Architecture: iphoneos-arm
+Maintainer: skrew
+Installed-Size: 37200
+Depends: mobilesubstrate (>= 0.9.3228), firmware (>= 5.0)
+Replaces: com.skrew.skrewcommon2
+Filename: package_debian_A1/com.skrew.vwallpaper2os5_0.0.9-10_iphoneos-arm.deb
+Size: 33953762
+MD5sum: 56516f73f665b714a3840e435cf34fa4
+SHA1: e843df687e1dd2e51c9aff00e994f549f6e13547
+SHA256: 981cff639fcd75b4aae48abcd152bb0b6db2372522cb5ae9ee989c1e914dacd7
+Section: Multimedia
+Homepage: http://i.danstaface.net
+Description: Add videos, cool effects (particles, 3D objects), HTML Widgets (...) on your Springboard and / or Away view. Bring your iPhone to life ! (Beta stage)
+Author: skrew
+Name: vWallpaper 2 for iOS5/ARMV7
+
+Package: com.steventroughtonsmith.Doom
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: ZodTTD <zodttd@zodttd.com>
+Filename: package_debian_A1/Doom.deb
+Size: 2163866
+MD5sum: 854ed2a131b8676a79b70dc648f8ace8
+SHA1: 6fa8312e674b20dd795210c5da6f9630030f46ee
+SHA256: 413d17ec5bf09df48fb4cb298ef46422415cf07ef3f74134b6fd2effcd223c99
+Section: Games
+Homepage: http://www.zodttd.com
+Author: ZodTTD
+Depiction: http://www.zodttd.com/repo/cydiathemes/doom.html
+Name: Doom
+
+Package: com.sull.9mmdlc
+Version: 1.0
+Architecture: iphoneos-arm
+Essential: no
+Maintainer: insanelyi <noreply@insanelyi.com>
+Depends: com.ericasadun.utilities
+Filename: package_debian_A1/com.sull.9mmdlc_1.0_iphoneos-arm.deb
+Size: 1246
+MD5sum: b696461ca2f9e78b9d21138f26a54733
+SHA1: 34b6096e5d46e155f14dbde33c1ec514146d3065
+SHA256: 9dda520c23b0f084da8f4b8fda237bb2bdb2c7df5fb896454ca3d94766b45077
+Section: iMods
+Priority: Standard
+Homepage: http://insanelyi.com
+Description: 9mm DLC Unlocker - Adds 100,000,000 of Cash
+Depiction: http://repo.insanelyi.com/depiction.php?package=9mmdlc
+Name: 9mm DLC
+Sponsor: insanelyi <http://insanelyi.com>
+
+Package: com.sull.angrybirdsdlc
+Version: 1.0
+Architecture: iphoneos-arm
+Essential: no
+Maintainer: insanelyi <noreply@insanelyi.com>
+Filename: package_debian_A1/com.sull.angrybirdsdlc_1.0_iphoneos-arm.deb
+Size: 3402
+MD5sum: 2e548dc4bc111f0a2f3f82a65a86f184
+SHA1: d71219b217a9c270525455692d414fd4482def98
+SHA256: feb53b34b8d2b187c477f904dddcdb50d736aa75e3840169be69c99aa95d3400
+Section: iTweaks
+Priority: Standard
+Homepage: http://insanelyi.com
+Description: Angry Birds Mighty Eagle DLC
+Author: idwaneo.org
+Depiction: http://repo.insanelyi.com/depiction.php?package=angrybirdsdlc
+Name: Angry Birds DLC
+Sponsor: insanelyi <http://insanelyi.com>
+
 Package: com.sull.clutchrc
 Version: 2.0~RC8
 Architecture: iphoneos-arm
@@ -2956,6 +4692,43 @@ Description: Clutch is an extremely fast cracking utility.
 Author: KJCracks
 Depiction: http://repo.insanelyi.com/depiction.php?package=clutchrc
 Name: Clutch 2.0 RC
+Sponsor: insanelyi <http://insanelyi.com>
+
+Package: com.sull.iretinaported
+Version: 1.6
+Architecture: iphoneos-arm
+Maintainer: Sull <insanelyiph0ne5@gmail.com>
+Depends: sbsettings
+Filename: package_debian_A1/com.sull.iretinaported_1.6_iphoneos-arm.deb
+Size: 337592
+MD5sum: 4784197cebc65a637fd859bf1b661bd9
+SHA1: 3eb4e1da694d85b29a241f19ea78b93914847aeb
+SHA256: 7bfcf9f5699b94a537a1081c8a5fa2f15c0f38387f48b70e2418037dfc9c283a
+Section: Themes (SBSettings)
+Homepage: http://insanelyi.com
+Description: iRetina SBSettings ported to NON Retina devices
+Author: Surenix
+Depiction: http://repo.insanelyi.com/depiction.php?package=iretinaported
+Name: iRetina Ported
+Sponsor: insanelyi <http://insanelyi.com>
+
+Package: com.sull.letsgolf3dlc
+Version: 1.0
+Architecture: iphoneos-arm
+Essential: no
+Maintainer: Sull <insanelyiph0ne5@gmail.com>
+Depends: coreutils, com.ericasadun.utilities
+Filename: package_debian_A1/ipeknews.letsgolf3dlc_1.0_iphoneos-arm.deb
+Size: 1156
+MD5sum: 7aab4621de66e69b154814c6825badcf
+SHA1: aa0e010d51332242e5300fd784da957e6e8ba04f
+SHA256: 61cc309d21344dc2c6cde1057d107bdf7f292d5e3bbe8e871f753e21e06b85b8
+Section: iMods
+Priority: Standard
+Homepage: http://insanelyi.com
+Description: Lets Golf 3 DLC Unlocker
+Depiction: http://repo.insanelyi.com/depiction.php?package=letsgolf3dlc
+Name: Lets Golf 3 DLC
 Sponsor: insanelyi <http://insanelyi.com>
 
 Package: com.teehanlax.element
@@ -3009,6 +4782,22 @@ Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
 Author: TIGI Software
 Name: Filza File Manager
 
+Package: com.vlinder.hdnl
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Alex <alex@hackers.nl>
+Filename: package_debian_A1/Vlinder.deb
+Size: 271990
+MD5sum: cde1df2ebf6ad1772cc7fcc76cace8bd
+SHA1: aec2a61585ae9b59b1ae94f055f7f87bd1032715
+SHA256: c858ae5bdf882713b5ecf71aaadb10bddffe9cdea55f287ce430ca9ff97a371b
+Section: Hackers.nl
+Homepage: http://www.hackers.nl/
+Description: Butterfly focus
+Author: Alex <alex@hackers.nl>
+Name: Butterfly
+Website: http://www.hackers.nl/
+
 Package: com.vsz.redeb
 Version: 1.0.3
 Architecture: iphoneos-arm
@@ -3025,6 +4814,92 @@ Description: Repackage any of your tweaks locally, without the need to download 
 Author: T.Herak <50dc856b@opayq.com>
 Depiction: https://wiety.github.io/cydia/depictions/?p=com.vsz.redeb
 Name: redeb
+
+Package: com.vuurtoren.hdnl
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Alex <alex@hackers.nl>
+Filename: package_debian_A1/Vuurtoren.deb
+Size: 239936
+MD5sum: dbbc36b3967323cafc08ca6364f1a9de
+SHA1: ca3db9c6eea02499a75c668586c94be153eea448
+SHA256: dfdc96ccb3887d485693bc9b37844d772716334fec2fc29513ddde8175c94cba
+Section: Hackers.nl
+Homepage: http://www.hackers.nl/
+Description: Great Photo take in Cape Otway Australia november 2007
+Author: Alex <alex@hackers.nl>
+Name: LightHouse
+Website: http://www.hackers.nl/
+
+Package: com.wynd.swype
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: Andrew Liu <wyndwarrior@hotmail.com>
+Depends: mobilesubstrate
+Filename: package_debian_A1/Swype-0.1.0.deb
+Size: 512120
+MD5sum: 52b3f3fdab70cbf6e9c4498d54a10cb1
+SHA1: 4aca6da7485b00e00127e269b9d9cc6e9b2cc51f
+SHA256: cb74bfe7be9b1355780ea8cccb2d6da7361c72c3e25770c3e8ab04d56e78d9a8
+Section: Tweaks
+Priority: standard
+Description: Type words by swiping on the keyboard.
+Author: Andrew Liu <wyndwarrior@hotmail.com>
+Name: Swype
+
+Package: com.xsellize.clearcam
+Version: 1:1.0.2
+Architecture: iphoneos-arm
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo
+Filename: package_debian_A1/ClearCam_1.0.5.deb
+Size: 613436
+MD5sum: e7f262fb6f5481bd7e71d3187de3425d
+SHA1: 20c1e403ea517b3736774855151b95e516363308
+SHA256: 5b3f31d05ba6c545c66488165869b166f44dc48b6d9153ad8ecad17d5dcdb1ea
+Section: X Apps
+Priority: standard
+Description: Occipital ClearCam turns your iPhone into a high quality camera with more than double the resolution of the original camera application.
+Depiction: http://xsellize.com/depic/?title=App&app=clearcam
+Name: ClearCam
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.ibluetooth
+Version: 1:1.0
+Architecture: iphoneos-arm
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo
+Filename: package_debian_A1/iBluetooth_1.0.8.deb
+Size: 286372
+MD5sum: 0039951748ab1f3a45ddefe509f58da2
+SHA1: 0f31a61fad4ca26860f274b49202dca80efb51fb
+SHA256: 4125e02feb31b1b27d7080206064af70578671ef0c9f5338a2a206588d0952f0
+Section: X Apps
+Priority: standard
+Description: iBluetooth, the world first application that enables the file transfer via Bluetooth on your iPhone!
+Depiction: http://xsellize.com/depic/?title=App&app=ibluetooth
+Name: iBluetooth
+Sponsor: Xsellize.com <http://xsellize.com>
+
+Package: com.xsellize.mobilegate
+Version: 1:1.0.1
+Architecture: iphoneos-arm
+Essential: no
+Maintainer: repo@xsellize.com <repo@xsellize.com>
+Depends: com.xsellize.repo, com.iXtension.MobileHook
+Filename: package_debian_A1/MobileGate_1.0.1.deb
+Size: 144664
+MD5sum: a6b5c5e33a48ee394728c7dfac4ac8c6
+SHA1: dd861186d24225c3597463df79dfb6372f33f327
+SHA256: 667233c1b4b394a9a6492e3c507e946e9114c7083e12eaacf46afddbd0112ae5
+Section: X Apps
+Priority: standard
+Description: Create black/white lists for incoming calls/SMS.
+Depiction: http://xsellize.com/depic/?title=App&app=mobilegate
+Name: MobileGate
+Sponsor: Xsellize.com <http://xsellize.com>
 
 Package: com.youmail.ios.voicemail
 Version: 0.9.1-2
@@ -3059,6 +4934,37 @@ Tag: cydia::commercial
 Author: ZodTTD
 Depiction: http://www.zodttd.com/repo/cydiathemes/depiction/n64ios/index.php
 Name: n64ios
+
+Package: com.zodttd.vlc4iphone
+Version: 1.6.1
+Architecture: iphoneos-arm
+Maintainer: ZodTTD <zodttd@zodttd.com>
+Filename: package_debian_A1/vlc4iphone.deb
+Size: 5455544
+MD5sum: 067d0c62dced4dfde5f19cb32b98a404
+SHA1: 1ccdaf1723e33fbf415351a554561d393d46625c
+SHA256: 16d953e5319ced77b77a4c73964a52cdd55b226a37f4d4acbd90812493c3a837
+Section: Multimedia
+Homepage: http://www.zodttd.com
+Author: ZodTTD
+Depiction: http://www.zodttd.com/repo/cydiathemes/vlc4iphone.html
+Name: vlc4iphone
+
+Package: com.zodttd.vlc4iphone
+Version: 2.1.0
+Architecture: iphoneos-arm
+Maintainer: ZodTTD <zodttd@zodttd.com>
+Filename: package_debian_A1/com.zodttd.vlc4iphone_2.1.0_iphoneos-arm.deb
+Size: 14271966
+MD5sum: 3ff5fcebd7455f8c692e43eef814cdb9
+SHA1: 4f1450bb07be1e78f32f73c6eb798866c75f1241
+SHA256: dab90d43f0310f3645e03679350b8caafee012ee124db915b5c733685d97f096
+Section: Multimedia
+Homepage: http://www.zodttd.com
+Description: VLC Media Player! Great on 3GS!
+Author: ZodTTD
+Depiction: http://www.zodttd.com/repo/cydiathemes/vlc4iphone.php
+Name: vlc4iphone
 
 Package: connect.c
 Version: 0-3p
@@ -3645,6 +5551,22 @@ Homepage: http://www.freedesktop.org/wiki/Software/dbus
 Description: helps coordinate process lifecycle
 Name: D-Bus
 
+Package: de.manuelgebele.bbsettings
+Version: 0.0.1-17
+Architecture: iphoneos-arm
+Maintainer: Manuel Gebele
+Installed-Size: 848
+Filename: package_debian_A1/de.manuelgebele.bbsettings_0.0.1-17_iphoneos-arm.deb
+Size: 381438
+MD5sum: 29af90ff0d7eabd64c69e216dcd4475e
+SHA1: b24521e49cebd145a9d328919347b7993a3a5e0b
+SHA256: db8daedf7274ff7148120b1696887be932d7ad6116c7f98ef9ad1db260199a67
+Section: Tweaks
+Description: A powerful iOS 5.0 Notification Center Widget.
+Tag: role::hacker
+Author: Manuel Gebele
+Name: BBSettings
+
 Package: debianutils
 Version: 3.3.3ubuntu1-1p
 Architecture: iphoneos-arm
@@ -4045,6 +5967,23 @@ Priority: optional
 Description: embedded text-to-speech library
 Name: Festival-Lite
 
+Package: frash
+Version: 0.02
+Architecture: iphoneos-arm
+Maintainer: comex <comexk@gmail.com>
+Depends: gsc.armv7
+Conflicts: net.ozzapoo.frash
+Filename: package_debian_A1/Frash-0.02.deb
+Size: 12186952
+MD5sum: addafd05469851faa0ad9e5d6c4e5df3
+SHA1: effe915f2ec78c71d70ebdc9d4cf0fbdaacf8616
+SHA256: eb0b803a8bd9006b0dd5aa9b08226be20199d88e4e7a0e0a31d159754a2def39
+Section: Utilities
+Priority: optional
+Homepage: http://github.com/comex/frash
+Description: All your base are belong to us?
+Name: frash
+
 Package: freecoder.org
 Version: 0-1
 Architecture: iphoneos-arm
@@ -4291,6 +6230,26 @@ SHA256: b4e3f80cd9632e8bf06218ebf6a17a197e3003f801744430378c35411a9caeab
 Section: Development
 Priority: optional
 Description: because sqlite3 is not a fast data structure
+
+Package: gremlin
+Version: 0.0.9
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate
+Filename: package_debian_A1/gremlin_0.0.9.deb
+Size: 19266
+MD5sum: f8a8e14b4c7d969c95b8c47e398f24cf
+SHA1: bc837c97c11ed9c93c1e7115f4afbd558d9cf192
+SHA256: 7c0d0b07c9b38c47eb10bd19fc472163ebe64f631f0ae05e12315d09065324b2
+Section: Development
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gremlinData
+Description: Support library for Importing tracks into your iPod library with supported applications.
+Tag: role::hacker, purpose::library
+Author: CocoaNuts <support@cocoanuts.co>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gremlinData
+Dev: francis
+Name: gremlin
+Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: grep
 Version: 2.5.4-3
@@ -6892,6 +8851,25 @@ Description: An awesome MobileSubstrate tweak!
 Author: Sniper_GER <sniperger@festival.ml>
 Name: WallpaperFix
 
+Package: mobi.applemod.siriserverinstaller
+Version: 1.3-3
+Architecture: iphoneos-arm
+Maintainer: iC <apt@macciti.com>
+Installed-Size: 123288
+Depends: mobilesubstrate, preferenceloader, berkeleydb, bzip2, expat, libffi, libxml2, readline, wget, libspeex, flac, git, openssl, grep, sqlite3, sed, sudo
+Conflicts: python, setuptools
+Filename: package_debian_A1/siriserverinstaller_1.3-3_cracked.deb
+Size: 24068926
+MD5sum: 36072d32b7a4cd23443b4f496d06b65c
+SHA1: 3ec1cc81f6ebb0cbe7d91229a72df7637d7a0a52
+SHA256: b891d4acc0adcd5d131e0a6bd7f1a92cbf3cb89664307c18a328db53354fc193
+Section: Networking
+Description: Uruchom SiriServer z Google API na swoim iUrządzeniu!
+Author: sygex <sygex@me.com>
+Depiction: http://repo.applemod.pl/repoinfo//siriserverinstaller
+Name: AssistantServer Installer
+Sponsor: AppleMod <http://kontakt@applemod.pl>
+
 Package: mobilefinder
 Version: 55-3
 Architecture: iphoneos-arm
@@ -7555,6 +9533,22 @@ Description: Mini vMac Mac emulator
 Author: Jesus A. Alvarez <zydeco@namedfork.net>
 Name: Mini vMac
 
+Package: net.ozzapoo.frash
+Version: 0.01
+Architecture: iphoneos-arm
+Maintainer: Ozzapoo (Jeremy)
+Depends: gsc.armv7
+Filename: package_debian_A1/Frash-0.01.deb
+Size: 23987308
+MD5sum: b05d356bb1beb1dda13328b2326a9a04
+SHA1: 7de2692efd3f655dde61ea44a14eae96f948227b
+SHA256: 82c82699f9da91227b3585c9f5533b38eae6534b2acd3544e632c1f16b0d6a63
+Section: Utilities
+Priority: optional
+Homepage: http://www.ozzapoo.net
+Description: Flash for iPad (Frash, by Comex). Compiled by Jeremy (Ozzapoo) for Hackulo.us. This package is in BETA, it is UNSTABLE. Don't expect all flash to work.
+Name: Frash for iPad
+
 Package: netatalk
 Version: 2.0.4-7
 Architecture: iphoneos-arm
@@ -7766,6 +9760,165 @@ Section: Networking
 Priority: standard
 Description: filter network traffic by a filter
 
+Package: nl.fontMF21.hdnl
+Version: 2.4
+Architecture: iphoneos-arm
+Maintainer: Alex <alex@hackers.nl>
+Filename: package_debian_A1/Grey_font_Marker_Felt.deb
+Size: 958
+MD5sum: 18eb7fef0711485d306233b19814471b
+SHA1: 579c14f0bc090dd62133f5d13643eed028de8cf3
+SHA256: bbae0d3a8887ed177fd9be388390f89d61a473b159f7c780ba765dffba51a6d8
+Section: Hackers.nl
+Description: Vervangt De standaard witte font door een grijze font en kan je bewerken via winterboard Firmware 2.1 Ready
+Author: Alex <alex@hackers.nl>
+Name: Font Marker Felt
+
+Package: nl.fontbl.hdnl
+Version: 2.2
+Architecture: iphoneos-arm
+Maintainer: Alex <alex@hackers.nl>
+Filename: package_debian_A1/Black_font.deb
+Size: 964
+MD5sum: 45c130d35778b87610a7f148326b83a0
+SHA1: 068fdc44358af6af6187afd485d19b0bb87d2309
+SHA256: 039358c9c3105d2e3c92881947f4ba13beb22d47fc970e80528aed0621e6e1f1
+Section: Hackers.nl
+Description: Vervangt De standaard witte font door een zwarte font en kan je bewerken via winterboard
+Author: Alex <alex@hackers.nl>
+Name: Font Black
+
+Package: nl.fontblmk.hdnl
+Version: 2.3.2
+Architecture: iphoneos-arm
+Maintainer: Alex <alex@hackers.nl>
+Filename: package_debian_A1/Black_font_Marker_Felt.deb
+Size: 986
+MD5sum: b88d6fe680b04d554b18b8227b723de4
+SHA1: 5c32919f75116d629961f4a3c867d85da9217feb
+SHA256: e4d7931ceef2b6e6134ac1c6135f0857081fb53515bc2212553a4b4ff7640ee7
+Section: Hackers.nl
+Description: Vervangt De standaard witte font door een zwarte Marker Felt font en kan je bewerken via winterboard
+Author: Alex <alex@hackers.nl>
+Name: Font Black Marker Felt
+
+Package: nl.fontgr.hdnl
+Version: 2.2
+Architecture: iphoneos-arm
+Maintainer: Alex <alex@hackers.nl>
+Filename: package_debian_A1/Grey_font.deb
+Size: 962
+MD5sum: 9c69d5338d68413bbca61c1c52bba52a
+SHA1: 084476767998a741f22b225e1c7181aa38f846a9
+SHA256: 81bbf7f74fa9a9f6839cf24044e64aeb32085387d4ddd1a09adf7b127de45753
+Section: Hackers.nl
+Description: Vervangt De standaard witte font door een grijze font en kan je bewerken via winterboard
+Author: Alex <alex@hackers.nl>
+Name: Font Grey
+
+Package: nl.fontor.hdnl
+Version: 2.3
+Architecture: iphoneos-arm
+Maintainer: Alex <alex@hackers.nl>
+Filename: package_debian_A1/Orange_font.deb
+Size: 960
+MD5sum: 913d357a14442bf97e2b5eb8127b551d
+SHA1: 2a2ea8bc57861297bd8670fd1c51e2706934a414
+SHA256: adee41ffe8c2fcfc7e4b60ce6aa7529ab98764bbaafd6a8320cecb77acb4668c
+Section: Hackers.nl
+Description: Vervangt De standaard witte font door een oranje font en kan je bewerken via winterboard
+Author: Alex <alex@hackers.nl>
+Name: Font Orange
+
+Package: nl.fontwhmk.hdnl
+Version: 2.4.2
+Architecture: iphoneos-arm
+Maintainer: Alex <alex@hackers.nl>
+Filename: package_debian_A1/White_font_Marker_Felt.deb
+Size: 982
+MD5sum: 2501735118055efaf02544ef7e5976e8
+SHA1: 5fde4cba9ae6c9c335cecd71dae81f2a3d39f696
+SHA256: 29a942517062cc958424e03832be52a224df5c449950a1bcfa049981096da40b
+Section: Hackers.nl
+Description: Vervangt De standaard witte font door een witte Marker Felt font en kan je bewerken via winterboard
+Author: Alex <alex@hackers.nl>
+Name: Font White Marker Felt
+
+Package: nl.kbdis.hdnl
+Version: 2.9.1
+Architecture: iphoneos-arm
+Maintainer: Alex <alex@hackers.nl>
+Depends: mobilesubstrate
+Filename: package_debian_A1/Keyboarddisable.deb
+Size: 816
+MD5sum: ba1ea10270d55e3cc572b90dfa2bbeba
+SHA1: 46b7070b9dd9bdfed220438da71a76d399e3edd2
+SHA256: cedf2731ec3093ee0df399a4ca09edc9b946deddfee0c432b8d46c12c46a29f0
+Section: Hackers.nl
+Description: Changes the option to turn you keyboard correction off
+Author: Alex <alex@hackers.nl>
+Name: Disables Keyboard autocorrection
+
+Package: nl.keyvib.hdnl
+Version: 2.0.5
+Architecture: iphoneos-arm
+Maintainer: Alex <alex@hackers.nl>
+Depends: mobilesubstrate
+Filename: package_debian_A1/keyvib.deb
+Size: 1888
+MD5sum: 209f4ded4da31e4761f74011e9bfb6d1
+SHA1: 7d47d81b0a83cc8768e19e719c61afb47a6c8220
+SHA256: 888e05cb505203be4eca93ea0d9c3e0b303caf655a2d18f1f3c229629a3571d9
+Section: Hackers.nl
+Description: Vibrating your keyboard when you type
+Author: Alex <alex@hackers.nl>
+Name: Keyboard Vibrate Tweak
+
+Package: nl.kpn.hdnl
+Version: 2.8
+Architecture: iphoneos-arm
+Maintainer: Alex <alex@hackers.nl>
+Depends: mobilesubstrate
+Filename: package_debian_A1/KPNLogo.deb
+Size: 7532
+MD5sum: 815b6f2077659c18839fd4c0aff510b3
+SHA1: fc3482866c13139e04b1c72d56566397cc83ef49
+SHA256: 867989e8f9981fe0e3462cd35adcbede384641ff7af5f50e2a854bba840e3b1d
+Section: Hackers.nl
+Description: Vervangt De standaard NL KPN voor een echte KPN logo in kleur
+Author: Alex <alex@hackers.nl>
+Depiction: http://www.hackers.nl/cydia/pack.php?pkg=kpnlogo
+Name: KPN Logo The netherlands
+
+Package: nl.mobistar.hdnl
+Version: 4.4
+Architecture: iphoneos-arm
+Maintainer: Alex <alex@hackers.nl>
+Filename: package_debian_A1/Mobistar_Logo.deb
+Size: 7510
+MD5sum: 4f6158ae6dcb9b5fc90675b69df21d58
+SHA1: f087d7eec48464af50a6598e8ab13a0ec526f4eb
+SHA256: a77ed12ffa8514856cbaf78a01586cea6a831889842196984ca34e3d90080765
+Section: Hackers.nl
+Description: Vervangt De standaard Mobistar naar een Mobistar logo V1
+Author: Alex <alex@hackers.nl>
+Name: Mobistar Logo V1
+
+Package: nl.mobistarv2.hdnl
+Version: 2.3
+Architecture: iphoneos-arm
+Maintainer: Alex <alex@hackers.nl>
+Filename: package_debian_A1/Mobistar_Logo_Wijckmans.deb
+Size: 15076
+MD5sum: 934fc6542fada009e75948a8cba7a463
+SHA1: ced417ea88d336eebcda23902f4808143143878a
+SHA256: a12cef1242978ad43c95b7e9cbff932d9d5d64e6c3be76fe810362345408ec74
+Section: Hackers.nl
+Description: Vervangt De standaard Mobistar naar een Mobistar logo andere logo dan de V1 package
+Author: Alex <alex@hackers.nl>
+Depiction: http://www.hackers.nl/cydia/pack.php?pkg=Mobistar
+Name: Mobistar Logo V2
+
 Package: nmap
 Version: 5.00-6
 Architecture: iphoneos-arm
@@ -7899,6 +10052,965 @@ Priority: standard
 Description: SSL library and cryptographic tools
 Name: OpenSSL
 
+Package: org.freecoder.iphone.iCostaCj
+Version: 1.2.3-1
+Architecture: iphoneos-arm
+Maintainer: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Filename: package_debian_A1/iCostaCj-1.2.3-2.0.deb
+Size: 676880
+MD5sum: 64af1fba129fe0ca954f7f62cb8d56b3
+SHA1: 0c54d1f73c307abb390ecbcbc40768f0339b10bb
+SHA256: 42949ae0c7868c64fff6e59dd1854338a80ae7864c9f4d9932166d44e1071cd8
+Section: Localization
+Homepage: http://iphone.freecoder.org/
+Description: iCosta is a Chinese Input support software for iPhone. iCosta brings some popular chinese input methods to iPhone system. Please check http://iphone.freecoder.org/ for details.
+ iCosta 是 iPhone 上的中文输入支持软件, 可以在 iPhone 的任意软件中输入中文. 目前 iCosta 具有拼音, 五笔 86 版, 五笔 98 版, 繁体倉頡四种输入法, 并支持目前所有的固件版本. 请访问 http://iphone.freecoder.org 获知详情.
+Author: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Name: iCosta 倉頡    (fw 2.0)
+
+Package: org.freecoder.iphone.iCostaCj
+Version: 1.2.4-1
+Architecture: iphoneos-arm
+Maintainer: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Filename: package_debian_A1/iCostaCj-1.2.4-2.0.deb
+Size: 676908
+MD5sum: 1bc15824722a9f4ad1e1e44915515827
+SHA1: e60e9e1b88387e40407869057ab3298ed14eccee
+SHA256: 4931307a8c22e85cbb6dbcdda523fe861468eb2d36096c5769d143e3e341cd47
+Section: Localization
+Homepage: http://iphone.freecoder.org/
+Description: iCosta is a Chinese Input support software for iPhone. iCosta brings some popular chinese input methods to iPhone system. Please check http://iphone.freecoder.org/ for details.
+ iCosta 是 iPhone 上的中文输入支持软件, 可以在 iPhone 的任意软件中输入中文. 目前 iCosta 具有拼音, 五笔 86 版, 五笔 98 版, 繁体倉頡四种输入法, 并支持目前所有的固件版本. 请访问 http://iphone.freecoder.org 获知详情.
+Author: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Name: iCosta 倉頡    (fw 2.0)
+
+Package: org.freecoder.iphone.iCostaCj
+Version: 1.2.5-1
+Architecture: iphoneos-arm
+Maintainer: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Filename: package_debian_A1/iCostaCj-1.2.5-2.0.deb
+Size: 675486
+MD5sum: 7a3da5458f6564c4ebf20bc7240bfecb
+SHA1: fc1372a9994525e0f5ce0cfe5e44aa683eb56878
+SHA256: cf36b9e415853ac00875697bc00d0cc0dca5429990dfa9a899c17bf84afb83fd
+Section: Localization
+Homepage: http://iphone.freecoder.org/
+Description: iCosta is a Chinese Input support software for iPhone. iCosta brings some popular chinese input methods to iPhone system. Please check http://iphone.freecoder.org/ for details.
+ iCosta 是 iPhone 上的中文输入支持软件, 可以在 iPhone 的任意软件中输入中文. 目前 iCosta 具有拼音, 五笔 86 版, 五笔 98 版, 繁体倉頡四种输入法, 并支持目前所有的固件版本. 请访问 http://iphone.freecoder.org 获知详情.
+Author: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Name: iCosta 倉頡    (fw 2.0)
+
+Package: org.freecoder.iphone.iCostaCj
+Version: 1.2.6-1
+Architecture: iphoneos-arm
+Maintainer: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Filename: package_debian_A1/iCostaCj-1.2.6-2.0.deb
+Size: 675674
+MD5sum: 6694ef62598b7e1cace5132194ffd3db
+SHA1: b3c42530b7bb1727fadd06ba6deaf177c659713c
+SHA256: b442b251b4bd35a2f8ef5fd5b255f8fcb593ba99d9f999c87c0f880ddc849416
+Section: Localization
+Homepage: http://iphone.freecoder.org/
+Description: iCosta is a Chinese Input support software for iPhone. iCosta brings some popular chinese input methods to iPhone system. Please check http://iphone.freecoder.org/ for details.
+ iCosta 是 iPhone 上的中文输入支持软件, 可以在 iPhone 的任意软件中输入中文. 目前 iCosta 具有拼音, 五笔 86 版, 五笔 98 版, 繁体倉頡四种输入法, 并支持目前所有的固件版本. 请访问 http://iphone.freecoder.org 获知详情.
+Author: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Name: iCosta 倉頡    (fw 2.0)
+
+Package: org.freecoder.iphone.iCostaCj-2-1
+Version: 1.2.3-1
+Architecture: iphoneos-arm
+Maintainer: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Filename: package_debian_A1/iCostaCj-1.2.3-2.1.deb
+Size: 676894
+MD5sum: b7dff848edd1c886af4aa4135653419a
+SHA1: 9294ba35af1a48dd9c642cae2bba9da4a76c891b
+SHA256: 5c183aff5b73c8c076ef3f0b5c9de87547544a80c569529bb3148bd365f12e18
+Section: Localization
+Homepage: http://iphone.freecoder.org/
+Description: iCosta is a Chinese Input support software for iPhone. iCosta brings some popular chinese input methods to iPhone system. Please check http://iphone.freecoder.org/ for details.
+ iCosta 是 iPhone 上的中文输入支持软件, 可以在 iPhone 的任意软件中输入中文. 目前 iCosta 具有拼音, 五笔 86 版, 五笔 98 版, 繁体倉頡四种输入法, 并支持目前所有的固件版本. 请访问 http://iphone.freecoder.org 获知详情.
+Author: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Name: iCosta 倉頡    (fw 2.1)
+
+Package: org.freecoder.iphone.iCostaCj-2-1
+Version: 1.2.4-1
+Architecture: iphoneos-arm
+Maintainer: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Filename: package_debian_A1/iCostaCj-1.2.4-2.1.deb
+Size: 676914
+MD5sum: 9d7cf2c6798c5e98245b0f43f73e5a16
+SHA1: 632f7739f025405bbac916b2dd7c1118899c6563
+SHA256: cfe3382919aeeec216daa5879510e4fb8835b06abba75de9f3b955b1d3213bc0
+Section: Localization
+Homepage: http://iphone.freecoder.org/
+Description: iCosta is a Chinese Input support software for iPhone. iCosta brings some popular chinese input methods to iPhone system. Please check http://iphone.freecoder.org/ for details.
+ iCosta 是 iPhone 上的中文输入支持软件, 可以在 iPhone 的任意软件中输入中文. 目前 iCosta 具有拼音, 五笔 86 版, 五笔 98 版, 繁体倉頡四种输入法, 并支持目前所有的固件版本. 请访问 http://iphone.freecoder.org 获知详情.
+Author: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Name: iCosta 倉頡    (fw 2.1)
+
+Package: org.freecoder.iphone.iCostaCj-2-1
+Version: 1.2.5-1
+Architecture: iphoneos-arm
+Maintainer: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Filename: package_debian_A1/iCostaCj-1.2.5-2.1.deb
+Size: 675498
+MD5sum: 03c7231c3bb2c65d5225923aee4c2ca1
+SHA1: 1a5110561b222d25afc21ad04dbd7092d1d89c44
+SHA256: 628dd0c61f7d7d96b06ea867ec4a864be6ee7cbb3e8486cfb41e72b7947c3597
+Section: Localization
+Homepage: http://iphone.freecoder.org/
+Description: iCosta is a Chinese Input support software for iPhone. iCosta brings some popular chinese input methods to iPhone system. Please check http://iphone.freecoder.org/ for details.
+ iCosta 是 iPhone 上的中文输入支持软件, 可以在 iPhone 的任意软件中输入中文. 目前 iCosta 具有拼音, 五笔 86 版, 五笔 98 版, 繁体倉頡四种输入法, 并支持目前所有的固件版本. 请访问 http://iphone.freecoder.org 获知详情.
+Author: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Name: iCosta 倉頡    (fw 2.1)
+
+Package: org.freecoder.iphone.iCostaCj-2-1
+Version: 1.2.6-1
+Architecture: iphoneos-arm
+Maintainer: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Filename: package_debian_A1/iCostaCj-1.2.6-2.1.deb
+Size: 675676
+MD5sum: 6591c87828cd7251a5efbfabeaca72df
+SHA1: cf2d68a23b4d1e9dbc4b303a05f13c34615fe08e
+SHA256: 719df5fa2c333b7ebceb23de3ceca0d561ff924416e26c1ed88082573df3962e
+Section: Localization
+Homepage: http://iphone.freecoder.org/
+Description: iCosta is a Chinese Input support software for iPhone. iCosta brings some popular chinese input methods to iPhone system. Please check http://iphone.freecoder.org/ for details.
+ iCosta 是 iPhone 上的中文输入支持软件, 可以在 iPhone 的任意软件中输入中文. 目前 iCosta 具有拼音, 五笔 86 版, 五笔 98 版, 繁体倉頡四种输入法, 并支持目前所有的固件版本. 请访问 http://iphone.freecoder.org 获知详情.
+Author: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Name: iCosta 倉頡    (fw 2.1)
+
+Package: org.freecoder.iphone.iCostaCj-2-2
+Version: 1.2.3-1
+Architecture: iphoneos-arm
+Maintainer: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Filename: package_debian_A1/iCostaCj-1.2.3-2.2.deb
+Size: 676828
+MD5sum: 3ff92567a1ad4e020ee91f28a306aeef
+SHA1: 9f734e5273bdc2b795237750b9f46ba51523575d
+SHA256: 976e095c5691266f3624c59e04d031afbdb09838b8086e649bb1769fca2643d5
+Section: Localization
+Homepage: http://iphone.freecoder.org/
+Description: iCosta is a Chinese Input support software for iPhone. iCosta brings some popular chinese input methods to iPhone system. Please check http://iphone.freecoder.org/ for details.
+ iCosta 是 iPhone 上的中文输入支持软件, 可以在 iPhone 的任意软件中输入中文. 目前 iCosta 具有拼音, 五笔 86 版, 五笔 98 版, 繁体倉頡四种输入法, 并支持目前所有的固件版本. 请访问 http://iphone.freecoder.org 获知详情.
+Author: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Name: iCosta 倉頡    (fw 2.2)
+
+Package: org.freecoder.iphone.iCostaCj-2-2
+Version: 1.2.4-1
+Architecture: iphoneos-arm
+Maintainer: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Filename: package_debian_A1/iCostaCj-1.2.4-2.2.deb
+Size: 676840
+MD5sum: d49cf87febfe3a0adccbba0220e0bf71
+SHA1: 63b673be3d826332f25b9070b07c24e90f3d8c50
+SHA256: d648e144e53c38652610817566be205eca9a04823e8bb529e46f977ca56d0a29
+Section: Localization
+Homepage: http://iphone.freecoder.org/
+Description: iCosta is a Chinese Input support software for iPhone. iCosta brings some popular chinese input methods to iPhone system. Please check http://iphone.freecoder.org/ for details.
+ iCosta 是 iPhone 上的中文输入支持软件, 可以在 iPhone 的任意软件中输入中文. 目前 iCosta 具有拼音, 五笔 86 版, 五笔 98 版, 繁体倉頡四种输入法, 并支持目前所有的固件版本. 请访问 http://iphone.freecoder.org 获知详情.
+Author: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Name: iCosta 倉頡    (fw 2.2)
+
+Package: org.freecoder.iphone.iCostaCj-2-2
+Version: 1.2.5-1
+Architecture: iphoneos-arm
+Maintainer: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Filename: package_debian_A1/iCostaCj-1.2.5-2.2.deb
+Size: 675410
+MD5sum: 608080672d6d782e268acf0bf1ab2f93
+SHA1: cda16d84d928c7efc65745313ece99e6809e5ad4
+SHA256: ac6550d41d8a53d25fcc0126ff310bbe7bd6b2451aaa3e0f60af7d39c5cbef59
+Section: Localization
+Homepage: http://iphone.freecoder.org/
+Description: iCosta is a Chinese Input support software for iPhone. iCosta brings some popular chinese input methods to iPhone system. Please check http://iphone.freecoder.org/ for details.
+ iCosta 是 iPhone 上的中文输入支持软件, 可以在 iPhone 的任意软件中输入中文. 目前 iCosta 具有拼音, 五笔 86 版, 五笔 98 版, 繁体倉頡四种输入法, 并支持目前所有的固件版本. 请访问 http://iphone.freecoder.org 获知详情.
+Author: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Name: iCosta 倉頡    (fw 2.2)
+
+Package: org.freecoder.iphone.iCostaCj-2-2
+Version: 1.2.6-1
+Architecture: iphoneos-arm
+Maintainer: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Filename: package_debian_A1/iCostaCj-1.2.6-2.2.deb
+Size: 675572
+MD5sum: 3926195d153f8602fd8c7428e9950294
+SHA1: 4b408eb0be8cf8eb2713d5e76922b3025a4e8ea3
+SHA256: 9d4c2e9288663625836714d8f7f92915954b2e1bf033ea2968fe9ca900dc7d61
+Section: Localization
+Homepage: http://iphone.freecoder.org/
+Description: iCosta is a Chinese Input support software for iPhone. iCosta brings some popular chinese input methods to iPhone system. Please check http://iphone.freecoder.org/ for details.
+ iCosta 是 iPhone 上的中文输入支持软件, 可以在 iPhone 的任意软件中输入中文. 目前 iCosta 具有拼音, 五笔 86 版, 五笔 98 版, 繁体倉頡四种输入法, 并支持目前所有的固件版本. 请访问 http://iphone.freecoder.org 获知详情.
+Author: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Name: iCosta 倉頡    (fw 2.2)
+
+Package: org.freecoder.iphone.iCostaCj-3-0
+Version: 1.2.6-1
+Architecture: iphoneos-arm
+Maintainer: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Filename: package_debian_A1/icostacj-1.2.6-3.0.deb
+Size: 11833910
+MD5sum: f73f807957d29f2197dedd169f8e1e4b
+SHA1: 79918d279f45cb582a03864a50c12cf98e9b5e65
+SHA256: 0cd0e39d52c61445923285887340714e74fb907774b09e902ae9d117dbaf8eb1
+Section: Localization
+Homepage: http://iphone.freecoder.org/
+Description: iCosta is a Chinese Input support software for iPhone. iCosta brings some popular chinese input methods to iPhone system. Please check http://iphone.freecoder.org/ for details.
+ iCosta 是 iPhone 上的中文输入支持软件, 可以在 iPhone 的任意软件中输入中文. 目前 iCosta 具有拼音, 五笔 86 版, 五笔 98 版, 繁体倉頡四种输入法, 并支持目前所有的固件版本. 请访问 http://iphone.freecoder.org 获知详情.
+Author: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Name: iCosta 倉頡    (fw 3.0)
+
+Package: org.freecoder.iphone.iCostaCj-3-0
+Version: 1.2.7-1
+Architecture: iphoneos-arm
+Maintainer: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Filename: package_debian_A1/iCostaCj-1.2.7-3.0.deb
+Size: 1619548
+MD5sum: 34e7b2250f2c4eba53ffaa41eec33864
+SHA1: 623253c095f6614f0e13a58368467a5aae20bb32
+SHA256: e06ef14bbde8d2c5e113f3ce80b242ff966d3498db093a9f2c0fdd640604b59f
+Section: Localization
+Homepage: http://iphone.freecoder.org/
+Description: iCosta is a Chinese Input support software for iPhone. iCosta brings some popular chinese input methods to iPhone system. Please check http://iphone.freecoder.org/ for details.
+ iCosta 是 iPhone 上的中文输入支持软件, 可以在 iPhone 的任意软件中输入中文. 目前 iCosta 具有拼音, 五笔 86 版, 五笔 98 版, 繁体倉頡四种输入法, 并支持目前所有的固件版本. 请访问 http://iphone.freecoder.org 获知详情.
+Author: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Name: iCosta 倉頡    (fw 3.0)
+
+Package: org.freecoder.iphone.iCostaCj-3-0
+Version: 1.2.8-1
+Architecture: iphoneos-arm
+Maintainer: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Filename: package_debian_A1/iCostaCj-1.2.8-3.0.deb
+Size: 1619688
+MD5sum: 3cdb5a681b3b914f1b6d91d91ab45177
+SHA1: 4e107d25bae4bf201f775dcbbfcad6880fc25c5b
+SHA256: 588ad6a8aaf82e85bfdf20426fc0182b73808923464734498e7b85effca046ac
+Section: Localization
+Homepage: http://iphone.freecoder.org/
+Description: iCosta is a Chinese Input support software for iPhone. iCosta brings some popular chinese input methods to iPhone system. Please check http://iphone.freecoder.org/ for details.
+ iCosta 是 iPhone 上的中文输入支持软件, 可以在 iPhone 的任意软件中输入中文. 目前 iCosta 具有拼音, 五笔 86 版, 五笔 98 版, 繁体倉頡四种输入法, 并支持目前所有的固件版本. 请访问 http://iphone.freecoder.org 获知详情.
+Author: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Name: iCosta 倉頡    (fw 3.0)
+
+Package: org.freecoder.iphone.iCostaPy
+Version: 1.2.3-1
+Architecture: iphoneos-arm
+Maintainer: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Filename: package_debian_A1/iCostaPy-1.2.3-2.0.deb
+Size: 2056348
+MD5sum: f8fb0d11e6ce638906c82e08189df3a7
+SHA1: d0b48859af0ecb966f882c6322684da3d85d2c17
+SHA256: 97a96e8ea1878eb56b282fd8057214fe9ea8a101e32370d0b4bd47da129846b8
+Section: Localization
+Homepage: http://iphone.freecoder.org/
+Description: iCosta is a Chinese Input support software for iPhone. iCosta brings some popular chinese input methods to iPhone system. Please check http://iphone.freecoder.org/ for details.
+ iCosta 是 iPhone 上的中文输入支持软件, 可以在 iPhone 的任意软件中输入中文. 目前 iCosta 具有拼音, 五笔 86 版, 五笔 98 版, 繁体倉頡四种输入法, 并支持目前所有的固件版本. 请访问 http://iphone.freecoder.org 获知详情.
+Author: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Name: iCosta 拼音 (fw 2.0)
+
+Package: org.freecoder.iphone.iCostaPy
+Version: 1.2.4-1
+Architecture: iphoneos-arm
+Maintainer: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Filename: package_debian_A1/iCostaPy-1.2.4-2.0.deb
+Size: 2056386
+MD5sum: 6610bfe750cd2fba47a18e206747dcaf
+SHA1: bb17d20057c445ee14835049c3a4d37de9508dc1
+SHA256: ad83b1a185d1b777cacdbd3a74ed53df6146c81526e4fc18bb1807f1176cb9f4
+Section: Localization
+Homepage: http://iphone.freecoder.org/
+Description: iCosta is a Chinese Input support software for iPhone. iCosta brings some popular chinese input methods to iPhone system. Please check http://iphone.freecoder.org/ for details.
+ iCosta 是 iPhone 上的中文输入支持软件, 可以在 iPhone 的任意软件中输入中文. 目前 iCosta 具有拼音, 五笔 86 版, 五笔 98 版, 繁体倉頡四种输入法, 并支持目前所有的固件版本. 请访问 http://iphone.freecoder.org 获知详情.
+Author: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Name: iCosta 拼音 (fw 2.0)
+
+Package: org.freecoder.iphone.iCostaPy
+Version: 1.2.5-1
+Architecture: iphoneos-arm
+Maintainer: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Filename: package_debian_A1/iCostaPy-1.2.5-2.0.deb
+Size: 2055138
+MD5sum: 469c8a1abeff62174900cfcfd627c317
+SHA1: 0c7cf5576f41655e84d324bb3e90bf8cf52838b9
+SHA256: cfb66dce3d5593bcb1655f19ed158be1772725c41a0e9798bc04e03d74609ca9
+Section: Localization
+Homepage: http://iphone.freecoder.org/
+Description: iCosta is a Chinese Input support software for iPhone. iCosta brings some popular chinese input methods to iPhone system. Please check http://iphone.freecoder.org/ for details.
+ iCosta 是 iPhone 上的中文输入支持软件, 可以在 iPhone 的任意软件中输入中文. 目前 iCosta 具有拼音, 五笔 86 版, 五笔 98 版, 繁体倉頡四种输入法, 并支持目前所有的固件版本. 请访问 http://iphone.freecoder.org 获知详情.
+Author: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Name: iCosta 拼音 (fw 2.0)
+
+Package: org.freecoder.iphone.iCostaPy
+Version: 1.2.6-1
+Architecture: iphoneos-arm
+Maintainer: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Filename: package_debian_A1/iCostaPy-1.2.6-2.0.deb
+Size: 2055334
+MD5sum: 8447a79b6884524478bf3ca38cac0f90
+SHA1: 8838bef4e14bf5ae7a87efa8c962f97ccb93f3d6
+SHA256: 4ada8368ff61ebb311b532e13f1333ceca4a7dca057729a259da0c00bb465b20
+Section: Localization
+Homepage: http://iphone.freecoder.org/
+Description: iCosta is a Chinese Input support software for iPhone. iCosta brings some popular chinese input methods to iPhone system. Please check http://iphone.freecoder.org/ for details.
+ iCosta 是 iPhone 上的中文输入支持软件, 可以在 iPhone 的任意软件中输入中文. 目前 iCosta 具有拼音, 五笔 86 版, 五笔 98 版, 繁体倉頡四种输入法, 并支持目前所有的固件版本. 请访问 http://iphone.freecoder.org 获知详情.
+Author: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Name: iCosta 拼音 (fw 2.0)
+
+Package: org.freecoder.iphone.iCostaPy-2-1
+Version: 1.2.3-1
+Architecture: iphoneos-arm
+Maintainer: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Filename: package_debian_A1/iCostaPy-1.2.3-2.1.deb
+Size: 2056350
+MD5sum: 88e879c50092c2ffb0c11aea4fca7eb7
+SHA1: d726d82bac760aa42d5ae1c895b5e9a289657216
+SHA256: 1afe87f0553a4de936b547134e37f59a5c4af4f0b1a24d143e36ae06a9ff2250
+Section: Localization
+Homepage: http://iphone.freecoder.org/
+Description: iCosta is a Chinese Input support software for iPhone. iCosta brings some popular chinese input methods to iPhone system. Please check http://iphone.freecoder.org/ for details.
+ iCosta 是 iPhone 上的中文输入支持软件, 可以在 iPhone 的任意软件中输入中文. 目前 iCosta 具有拼音, 五笔 86 版, 五笔 98 版, 繁体倉頡四种输入法, 并支持目前所有的固件版本. 请访问 http://iphone.freecoder.org 获知详情.
+Author: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Name: iCosta 拼音 (fw 2.1)
+
+Package: org.freecoder.iphone.iCostaPy-2-1
+Version: 1.2.4-1
+Architecture: iphoneos-arm
+Maintainer: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Filename: package_debian_A1/iCostaPy-1.2.4-2.1.deb
+Size: 2056368
+MD5sum: 965593acb5ad9387ac9987308509ef54
+SHA1: 1be4cde6cd8f373c8202b8c583b5222259f2f953
+SHA256: a61d66d21edc5e28387d74bf7ef0703c4b88e1ef7a86318020ff19e65209c58d
+Section: Localization
+Homepage: http://iphone.freecoder.org/
+Description: iCosta is a Chinese Input support software for iPhone. iCosta brings some popular chinese input methods to iPhone system. Please check http://iphone.freecoder.org/ for details.
+ iCosta 是 iPhone 上的中文输入支持软件, 可以在 iPhone 的任意软件中输入中文. 目前 iCosta 具有拼音, 五笔 86 版, 五笔 98 版, 繁体倉頡四种输入法, 并支持目前所有的固件版本. 请访问 http://iphone.freecoder.org 获知详情.
+Author: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Name: iCosta 拼音 (fw 2.1)
+
+Package: org.freecoder.iphone.iCostaPy-2-1
+Version: 1.2.5-1
+Architecture: iphoneos-arm
+Maintainer: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Filename: package_debian_A1/iCostaPy-1.2.5-2.1.deb
+Size: 2055146
+MD5sum: 1089dcf11012f8d66abebf74bd186c31
+SHA1: cb1df9ac9b326fd668f748dba637e52bc0b360db
+SHA256: a0bfa31439e999c4d0e4e52b2bb5262569276ff2b19735c328fdf5b18e1526ac
+Section: Localization
+Homepage: http://iphone.freecoder.org/
+Description: iCosta is a Chinese Input support software for iPhone. iCosta brings some popular chinese input methods to iPhone system. Please check http://iphone.freecoder.org/ for details.
+ iCosta 是 iPhone 上的中文输入支持软件, 可以在 iPhone 的任意软件中输入中文. 目前 iCosta 具有拼音, 五笔 86 版, 五笔 98 版, 繁体倉頡四种输入法, 并支持目前所有的固件版本. 请访问 http://iphone.freecoder.org 获知详情.
+Author: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Name: iCosta 拼音 (fw 2.1)
+
+Package: org.freecoder.iphone.iCostaPy-2-1
+Version: 1.2.6-1
+Architecture: iphoneos-arm
+Maintainer: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Filename: package_debian_A1/iCostaPy-1.2.6-2.1.deb
+Size: 2055342
+MD5sum: dd293a7aa36961d61e01e75d8e0943fc
+SHA1: 903fc1de742972624af6bab5b44a4219b9af3106
+SHA256: 4edb31f11a7de7653b374821d10d79922175b845bd93c27fa57769b06aabcae9
+Section: Localization
+Homepage: http://iphone.freecoder.org/
+Description: iCosta is a Chinese Input support software for iPhone. iCosta brings some popular chinese input methods to iPhone system. Please check http://iphone.freecoder.org/ for details.
+ iCosta 是 iPhone 上的中文输入支持软件, 可以在 iPhone 的任意软件中输入中文. 目前 iCosta 具有拼音, 五笔 86 版, 五笔 98 版, 繁体倉頡四种输入法, 并支持目前所有的固件版本. 请访问 http://iphone.freecoder.org 获知详情.
+Author: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Name: iCosta 拼音 (fw 2.1)
+
+Package: org.freecoder.iphone.iCostaPy-2-2
+Version: 1.2.3-1
+Architecture: iphoneos-arm
+Maintainer: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Filename: package_debian_A1/iCostaPy-1.2.3-2.2.deb
+Size: 2056670
+MD5sum: d562cca698b52e01de29b0bf6966f8ba
+SHA1: f4205926de0b8d6927f5edd4547ffdf5d4543c67
+SHA256: 38de24637361b44dac299f27c99d3e4cd5e5117bb1baa029c22f1ccdf456f21b
+Section: Localization
+Homepage: http://iphone.freecoder.org/
+Description: iCosta is a Chinese Input support software for iPhone. iCosta brings some popular chinese input methods to iPhone system. Please check http://iphone.freecoder.org/ for details.
+ iCosta 是 iPhone 上的中文输入支持软件, 可以在 iPhone 的任意软件中输入中文. 目前 iCosta 具有拼音, 五笔 86 版, 五笔 98 版, 繁体倉頡四种输入法, 并支持目前所有的固件版本. 请访问 http://iphone.freecoder.org 获知详情.
+Author: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Name: iCosta 拼音 (fw 2.2)
+
+Package: org.freecoder.iphone.iCostaPy-2-2
+Version: 1.2.4-1
+Architecture: iphoneos-arm
+Maintainer: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Filename: package_debian_A1/iCostaPy-1.2.4-2.2.deb
+Size: 2056694
+MD5sum: 29e37cdc382995ade4a1e09418f5f340
+SHA1: f2b9f336873506884b665a8fff74b60fba18fb7a
+SHA256: 787a0f63efacd5767800120d447c0ae45b83dfcb0520fcbb69f52e5b013d97cb
+Section: Localization
+Homepage: http://iphone.freecoder.org/
+Description: iCosta is a Chinese Input support software for iPhone. iCosta brings some popular chinese input methods to iPhone system. Please check http://iphone.freecoder.org/ for details.
+ iCosta 是 iPhone 上的中文输入支持软件, 可以在 iPhone 的任意软件中输入中文. 目前 iCosta 具有拼音, 五笔 86 版, 五笔 98 版, 繁体倉頡四种输入法, 并支持目前所有的固件版本. 请访问 http://iphone.freecoder.org 获知详情.
+Author: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Name: iCosta 拼音 (fw 2.2)
+
+Package: org.freecoder.iphone.iCostaPy-2-2
+Version: 1.2.5-1
+Architecture: iphoneos-arm
+Maintainer: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Filename: package_debian_A1/iCostaPy-1.2.5-2.2.deb
+Size: 2055062
+MD5sum: 672fae89a08db081e0519f9bd2127311
+SHA1: 1d55b88aa49aef43260df51bdf4fb35fd34ff304
+SHA256: b705b2fe57877a41c4b9fd15bab734be1e56cf864386422c142cee6b4ca22d62
+Section: Localization
+Homepage: http://iphone.freecoder.org/
+Description: iCosta is a Chinese Input support software for iPhone. iCosta brings some popular chinese input methods to iPhone system. Please check http://iphone.freecoder.org/ for details.
+ iCosta 是 iPhone 上的中文输入支持软件, 可以在 iPhone 的任意软件中输入中文. 目前 iCosta 具有拼音, 五笔 86 版, 五笔 98 版, 繁体倉頡四种输入法, 并支持目前所有的固件版本. 请访问 http://iphone.freecoder.org 获知详情.
+Author: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Name: iCosta 拼音 (fw 2.2)
+
+Package: org.freecoder.iphone.iCostaPy-2-2
+Version: 1.2.6-1
+Architecture: iphoneos-arm
+Maintainer: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Filename: package_debian_A1/iCostaPy-1.2.6-2.2.deb
+Size: 2055218
+MD5sum: e78aa86d81d760c8d40ea3186185e8e8
+SHA1: a040c16fa8804287d3cf9a7a957977ab7d1ad7c1
+SHA256: e58484101b4d951f68ed829bcb825d954513d64a87bd0a41e367204ac0f1bf62
+Section: Localization
+Homepage: http://iphone.freecoder.org/
+Description: iCosta is a Chinese Input support software for iPhone. iCosta brings some popular chinese input methods to iPhone system. Please check http://iphone.freecoder.org/ for details.
+ iCosta 是 iPhone 上的中文输入支持软件, 可以在 iPhone 的任意软件中输入中文. 目前 iCosta 具有拼音, 五笔 86 版, 五笔 98 版, 繁体倉頡四种输入法, 并支持目前所有的固件版本. 请访问 http://iphone.freecoder.org 获知详情.
+Author: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Name: iCosta 拼音 (fw 2.2)
+
+Package: org.freecoder.iphone.iCostaPy-3-0
+Version: 1.2.6-1
+Architecture: iphoneos-arm
+Maintainer: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Filename: package_debian_A1/icostapy-1.2.6-3.0.deb
+Size: 10889312
+MD5sum: 253fca3ec6fd205844a14f43880333ad
+SHA1: b20d2dec48575dbdb4153f3d71dda5f6a27c8c06
+SHA256: fa14b9461b84c8e70433693207c832b05c4958f89efd43fdad14d7d95a4d35ca
+Section: Localization
+Homepage: http://iphone.freecoder.org/
+Description: iCosta is a Chinese Input support software for iPhone. iCosta brings some popular chinese input methods to iPhone system. Please check http://iphone.freecoder.org/ for details.
+ iCosta 是 iPhone 上的中文输入支持软件, 可以在 iPhone 的任意软件中输入中文. 目前 iCosta 具有拼音, 五笔 86 版, 五笔 98 版, 繁体倉頡四种输入法, 并支持目前所有的固件版本. 请访问 http://iphone.freecoder.org 获知详情.
+Author: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Name: iCosta 拼音 (fw 3.0)
+
+Package: org.freecoder.iphone.iCostaPy-3-0
+Version: 1.2.7-1
+Architecture: iphoneos-arm
+Maintainer: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Filename: package_debian_A1/iCostaPy-1.2.7-3.0.deb
+Size: 2205160
+MD5sum: bc41d8cf07ac9f20b08dd461410f0df0
+SHA1: b297ac79f90fc3fe11d5fd6647ede7a59fb8ae36
+SHA256: 0f34a552d2313b5211ad15f6930a4b36bd714c3833c7c5d630b259b56251918a
+Section: Localization
+Homepage: http://iphone.freecoder.org/
+Description: iCosta is a Chinese Input support software for iPhone. iCosta brings some popular chinese input methods to iPhone system. Please check http://iphone.freecoder.org/ for details.
+ iCosta 是 iPhone 上的中文输入支持软件, 可以在 iPhone 的任意软件中输入中文. 目前 iCosta 具有拼音, 五笔 86 版, 五笔 98 版, 繁体倉頡四种输入法, 并支持目前所有的固件版本. 请访问 http://iphone.freecoder.org 获知详情.
+Author: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Name: iCosta 拼音 (fw 3.0)
+
+Package: org.freecoder.iphone.iCostaPy-3-0
+Version: 1.2.8-1
+Architecture: iphoneos-arm
+Maintainer: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Filename: package_debian_A1/iCostaPy-1.2.8-3.0.deb
+Size: 2999394
+MD5sum: 4f301c68f619f0fcdd1da34a106c0534
+SHA1: 048080df0e6938138932ca848a3882e7a13f5cbf
+SHA256: 6e2d03332e3ae21d0c23836922b8bdcc5d51d58d6835e8da0810732f35757665
+Section: Localization
+Homepage: http://iphone.freecoder.org/
+Description: iCosta is a Chinese Input support software for iPhone. iCosta brings some popular chinese input methods to iPhone system. Please check http://iphone.freecoder.org/ for details.
+ iCosta 是 iPhone 上的中文输入支持软件, 可以在 iPhone 的任意软件中输入中文. 目前 iCosta 具有拼音, 五笔 86 版, 五笔 98 版, 繁体倉頡四种输入法, 并支持目前所有的固件版本. 请访问 http://iphone.freecoder.org 获知详情.
+Author: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Name: iCosta 拼音 (fw 3.0)
+
+Package: org.freecoder.iphone.iCostaWb
+Version: 1.2.3-1
+Architecture: iphoneos-arm
+Maintainer: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Filename: package_debian_A1/iCostaWb-1.2.3-2.0.deb
+Size: 1279340
+MD5sum: 589a51677044ea1ec786005f845cb883
+SHA1: 61eae884e4d93c4a93d51258c99a36d221b13338
+SHA256: daeba706afb04d2ee65a94506b878f54b8dc99f2df9201c59a71c9289df110b2
+Section: Localization
+Homepage: http://iphone.freecoder.org/
+Description: iCosta is a Chinese Input support software for iPhone. iCosta brings some popular chinese input methods to iPhone system. Please check http://iphone.freecoder.org/ for details.
+ iCosta 是 iPhone 上的中文输入支持软件, 可以在 iPhone 的任意软件中输入中文. 目前 iCosta 具有拼音, 五笔 86 版, 五笔 98 版, 繁体倉頡四种输入法, 并支持目前所有的固件版本. 请访问 http://iphone.freecoder.org 获知详情.
+Author: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Name: iCosta 五笔86   (fw 2.0)
+
+Package: org.freecoder.iphone.iCostaWb
+Version: 1.2.4-1
+Architecture: iphoneos-arm
+Maintainer: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Filename: package_debian_A1/iCostaWb-1.2.4-2.0.deb
+Size: 1279408
+MD5sum: a13e5109f2932148afd37d7663f0e235
+SHA1: 927ac1d91686f22a99fb9f2d1474193795bdb9a5
+SHA256: c5728981cfd609c80713db54af2b0a255a02b2e545c47b6fc8692a4037a49059
+Section: Localization
+Homepage: http://iphone.freecoder.org/
+Description: iCosta is a Chinese Input support software for iPhone. iCosta brings some popular chinese input methods to iPhone system. Please check http://iphone.freecoder.org/ for details.
+ iCosta 是 iPhone 上的中文输入支持软件, 可以在 iPhone 的任意软件中输入中文. 目前 iCosta 具有拼音, 五笔 86 版, 五笔 98 版, 繁体倉頡四种输入法, 并支持目前所有的固件版本. 请访问 http://iphone.freecoder.org 获知详情.
+Author: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Name: iCosta 五笔86   (fw 2.0)
+
+Package: org.freecoder.iphone.iCostaWb
+Version: 1.2.5-1
+Architecture: iphoneos-arm
+Maintainer: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Filename: package_debian_A1/iCostaWb-1.2.5-2.0.deb
+Size: 1278204
+MD5sum: c5b9fa04c54b7b10f3322d51ff8ed2d1
+SHA1: 9b93914bd4716f0bb57697a637dec2bf7a077c19
+SHA256: 3391f2ede0a383d4e0bd06a12744f30837ec4901496a40dd282465437ba03c6d
+Section: Localization
+Homepage: http://iphone.freecoder.org/
+Description: iCosta is a Chinese Input support software for iPhone. iCosta brings some popular chinese input methods to iPhone system. Please check http://iphone.freecoder.org/ for details.
+ iCosta 是 iPhone 上的中文输入支持软件, 可以在 iPhone 的任意软件中输入中文. 目前 iCosta 具有拼音, 五笔 86 版, 五笔 98 版, 繁体倉頡四种输入法, 并支持目前所有的固件版本. 请访问 http://iphone.freecoder.org 获知详情.
+Author: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Name: iCosta 五笔86   (fw 2.0)
+
+Package: org.freecoder.iphone.iCostaWb
+Version: 1.2.6-1
+Architecture: iphoneos-arm
+Maintainer: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Filename: package_debian_A1/iCostaWb-1.2.6-2.0.deb
+Size: 1278506
+MD5sum: 300c4872a205362a57dc9f58c41a2127
+SHA1: 5e754f930d1dfe61be900d4318465c2a8a1544bb
+SHA256: d68a7257a5396c73572a7650bb3467b146c8e5d64d8d37a697888783a1dbc79d
+Section: Localization
+Homepage: http://iphone.freecoder.org/
+Description: iCosta is a Chinese Input support software for iPhone. iCosta brings some popular chinese input methods to iPhone system. Please check http://iphone.freecoder.org/ for details.
+ iCosta 是 iPhone 上的中文输入支持软件, 可以在 iPhone 的任意软件中输入中文. 目前 iCosta 具有拼音, 五笔 86 版, 五笔 98 版, 繁体倉頡四种输入法, 并支持目前所有的固件版本. 请访问 http://iphone.freecoder.org 获知详情.
+Author: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Name: iCosta 五笔86   (fw 2.0)
+
+Package: org.freecoder.iphone.iCostaWb-2-1
+Version: 1.2.3-1
+Architecture: iphoneos-arm
+Maintainer: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Filename: package_debian_A1/iCostaWb-1.2.3-2.1.deb
+Size: 1279338
+MD5sum: 01846574c08a6a204b52d67d053be7cf
+SHA1: 672b98690af3c52bc719bb8bf090ef177be0b433
+SHA256: d1990b290a6c74f8a6440f203103f1b7aa904085d7f3860c29622930ee7caece
+Section: Localization
+Homepage: http://iphone.freecoder.org/
+Description: iCosta is a Chinese Input support software for iPhone. iCosta brings some popular chinese input methods to iPhone system. Please check http://iphone.freecoder.org/ for details.
+ iCosta 是 iPhone 上的中文输入支持软件, 可以在 iPhone 的任意软件中输入中文. 目前 iCosta 具有拼音, 五笔 86 版, 五笔 98 版, 繁体倉頡四种输入法, 并支持目前所有的固件版本. 请访问 http://iphone.freecoder.org 获知详情.
+Author: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Name: iCosta 五笔86   (fw 2.1)
+
+Package: org.freecoder.iphone.iCostaWb-2-1
+Version: 1.2.4-1
+Architecture: iphoneos-arm
+Maintainer: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Filename: package_debian_A1/iCostaWb-1.2.4-2.1.deb
+Size: 1279412
+MD5sum: 6914869b364d409275f8422384d91201
+SHA1: 5abe5945784c08d1a2c3e845b9fc2ebce4647fc1
+SHA256: 869efba366ad459270161658d3da95b4751a898857ec73cef2f1dadaafb356f0
+Section: Localization
+Homepage: http://iphone.freecoder.org/
+Description: iCosta is a Chinese Input support software for iPhone. iCosta brings some popular chinese input methods to iPhone system. Please check http://iphone.freecoder.org/ for details.
+ iCosta 是 iPhone 上的中文输入支持软件, 可以在 iPhone 的任意软件中输入中文. 目前 iCosta 具有拼音, 五笔 86 版, 五笔 98 版, 繁体倉頡四种输入法, 并支持目前所有的固件版本. 请访问 http://iphone.freecoder.org 获知详情.
+Author: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Name: iCosta 五笔86   (fw 2.1)
+
+Package: org.freecoder.iphone.iCostaWb-2-1
+Version: 1.2.5-1
+Architecture: iphoneos-arm
+Maintainer: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Filename: package_debian_A1/iCostaWb-1.2.5-2.1.deb
+Size: 1278216
+MD5sum: 9cd10bd6d3e6dbe770f67ce87563208c
+SHA1: 6d3331aad70bd626faa07b47da444abb06163984
+SHA256: d7c63ac20d08d0a26377225c9c9f497fdf806791931d7a3d8d5833edf8f302a3
+Section: Localization
+Homepage: http://iphone.freecoder.org/
+Description: iCosta is a Chinese Input support software for iPhone. iCosta brings some popular chinese input methods to iPhone system. Please check http://iphone.freecoder.org/ for details.
+ iCosta 是 iPhone 上的中文输入支持软件, 可以在 iPhone 的任意软件中输入中文. 目前 iCosta 具有拼音, 五笔 86 版, 五笔 98 版, 繁体倉頡四种输入法, 并支持目前所有的固件版本. 请访问 http://iphone.freecoder.org 获知详情.
+Author: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Name: iCosta 五笔86   (fw 2.1)
+
+Package: org.freecoder.iphone.iCostaWb-2-1
+Version: 1.2.6-1
+Architecture: iphoneos-arm
+Maintainer: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Filename: package_debian_A1/iCostaWb-1.2.6-2.1.deb
+Size: 1278504
+MD5sum: f73388c16bf60a5e8d13df9ba5ac2efe
+SHA1: 690a37f77eecc0ad8e63ac5c1eed0e311aca0c8d
+SHA256: af1bb4830edecc01b6f495d3479b88779e1811756c07f57e7490614f994b9ba2
+Section: Localization
+Homepage: http://iphone.freecoder.org/
+Description: iCosta is a Chinese Input support software for iPhone. iCosta brings some popular chinese input methods to iPhone system. Please check http://iphone.freecoder.org/ for details.
+ iCosta 是 iPhone 上的中文输入支持软件, 可以在 iPhone 的任意软件中输入中文. 目前 iCosta 具有拼音, 五笔 86 版, 五笔 98 版, 繁体倉頡四种输入法, 并支持目前所有的固件版本. 请访问 http://iphone.freecoder.org 获知详情.
+Author: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Name: iCosta 五笔86   (fw 2.1)
+
+Package: org.freecoder.iphone.iCostaWb-2-2
+Version: 1.2.3-1
+Architecture: iphoneos-arm
+Maintainer: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Filename: package_debian_A1/iCostaWb-1.2.3-2.2.deb
+Size: 1279304
+MD5sum: ffc7ec1c750f32148643477a678e8d77
+SHA1: c308be6a9a696bff0f1e501fa7947569cca81dd2
+SHA256: e8c212affa460e0f9270ee37b9086fc1b25465fde7d80ccfb90a1eeb79666dc6
+Section: Localization
+Homepage: http://iphone.freecoder.org/
+Description: iCosta is a Chinese Input support software for iPhone. iCosta brings some popular chinese input methods to iPhone system. Please check http://iphone.freecoder.org/ for details.
+ iCosta 是 iPhone 上的中文输入支持软件, 可以在 iPhone 的任意软件中输入中文. 目前 iCosta 具有拼音, 五笔 86 版, 五笔 98 版, 繁体倉頡四种输入法, 并支持目前所有的固件版本. 请访问 http://iphone.freecoder.org 获知详情.
+Author: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Name: iCosta 五笔86   (fw 2.2)
+
+Package: org.freecoder.iphone.iCostaWb-2-2
+Version: 1.2.4-1
+Architecture: iphoneos-arm
+Maintainer: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Filename: package_debian_A1/iCostaWb-1.2.4-2.2.deb
+Size: 1279370
+MD5sum: 9b674df9ed529173f0c42c6dd902322a
+SHA1: 5f2917380fd69d6ba48f01e1f49b785cdd256bc3
+SHA256: a0f7c8c23b92ee7438b3d3beded15b64c4bb6eacea7fd3a429b6817d8f35cfff
+Section: Localization
+Homepage: http://iphone.freecoder.org/
+Description: iCosta is a Chinese Input support software for iPhone. iCosta brings some popular chinese input methods to iPhone system. Please check http://iphone.freecoder.org/ for details.
+ iCosta 是 iPhone 上的中文输入支持软件, 可以在 iPhone 的任意软件中输入中文. 目前 iCosta 具有拼音, 五笔 86 版, 五笔 98 版, 繁体倉頡四种输入法, 并支持目前所有的固件版本. 请访问 http://iphone.freecoder.org 获知详情.
+Author: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Name: iCosta 五笔86   (fw 2.2)
+
+Package: org.freecoder.iphone.iCostaWb-2-2
+Version: 1.2.5-1
+Architecture: iphoneos-arm
+Maintainer: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Filename: package_debian_A1/iCostaWb-1.2.5-2.2.deb
+Size: 1278114
+MD5sum: 0eb5b29463ef706e49757f0c8fdf5b89
+SHA1: a1457f2cfa2983b5bb2f2572006e44aba0592269
+SHA256: 9bf51b24dd36924a5901cdc8ba38eaa41d850a00dfb3f3064ed8301894305ec7
+Section: Localization
+Homepage: http://iphone.freecoder.org/
+Description: iCosta is a Chinese Input support software for iPhone. iCosta brings some popular chinese input methods to iPhone system. Please check http://iphone.freecoder.org/ for details.
+ iCosta 是 iPhone 上的中文输入支持软件, 可以在 iPhone 的任意软件中输入中文. 目前 iCosta 具有拼音, 五笔 86 版, 五笔 98 版, 繁体倉頡四种输入法, 并支持目前所有的固件版本. 请访问 http://iphone.freecoder.org 获知详情.
+Author: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Name: iCosta 五笔86   (fw 2.2)
+
+Package: org.freecoder.iphone.iCostaWb-2-2
+Version: 1.2.6-1
+Architecture: iphoneos-arm
+Maintainer: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Filename: package_debian_A1/iCostaWb-1.2.6-2.2.deb
+Size: 1278356
+MD5sum: 4f4a66ddb5119689ca19f6ea8bba2dcf
+SHA1: ebb414730d1471e6a5ef4e2c5e34796deb06362d
+SHA256: 39fda1d6d474e845b4dae021e9ee2c79a6f1cde5a27f1dcab213c11168c61758
+Section: Localization
+Homepage: http://iphone.freecoder.org/
+Description: iCosta is a Chinese Input support software for iPhone. iCosta brings some popular chinese input methods to iPhone system. Please check http://iphone.freecoder.org/ for details.
+ iCosta 是 iPhone 上的中文输入支持软件, 可以在 iPhone 的任意软件中输入中文. 目前 iCosta 具有拼音, 五笔 86 版, 五笔 98 版, 繁体倉頡四种输入法, 并支持目前所有的固件版本. 请访问 http://iphone.freecoder.org 获知详情.
+Author: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Name: iCosta 五笔86   (fw 2.2)
+
+Package: org.freecoder.iphone.iCostaWb-3-0
+Version: 1.2.6-1
+Architecture: iphoneos-arm
+Maintainer: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Filename: package_debian_A1/iCostaWb-1.2.6-3.0.deb
+Size: 12437442
+MD5sum: b81eaebba1c76c71d676a31cd083c94a
+SHA1: 03144a57534359f7af9bc888dadcc7d1cae07017
+SHA256: 61c60c39a7a163ea5f6c0279d23162ba5318f009da5718284f88e767409c7c36
+Section: Localization
+Homepage: http://iphone.freecoder.org/
+Description: iCosta is a Chinese Input support software for iPhone. iCosta brings some popular chinese input methods to iPhone system. Please check http://iphone.freecoder.org/ for details.
+ iCosta 是 iPhone 上的中文输入支持软件, 可以在 iPhone 的任意软件中输入中文. 目前 iCosta 具有拼音, 五笔 86 版, 五笔 98 版, 繁体倉頡四种输入法, 并支持目前所有的固件版本. 请访问 http://iphone.freecoder.org 获知详情.
+Author: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Name: iCosta 五笔86   (fw 3.0)
+
+Package: org.freecoder.iphone.iCostaWb-3-0
+Version: 1.2.7-1
+Architecture: iphoneos-arm
+Maintainer: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Filename: package_debian_A1/iCostaWb-1.2.7-3.0.deb
+Size: 2223600
+MD5sum: 848497c1a709eb2f461fd6e94bade77c
+SHA1: 996ce91cd0f26d7db6d7dc6783e3fadb42b0980d
+SHA256: 39c76df9da26afe6f3a9f96f2cbafce5324abc237f1d84118444ff9eff32a2b3
+Section: Localization
+Homepage: http://iphone.freecoder.org/
+Description: iCosta is a Chinese Input support software for iPhone. iCosta brings some popular chinese input methods to iPhone system. Please check http://iphone.freecoder.org/ for details.
+ iCosta 是 iPhone 上的中文输入支持软件, 可以在 iPhone 的任意软件中输入中文. 目前 iCosta 具有拼音, 五笔 86 版, 五笔 98 版, 繁体倉頡四种输入法, 并支持目前所有的固件版本. 请访问 http://iphone.freecoder.org 获知详情.
+Author: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Name: iCosta 五笔86   (fw 3.0)
+
+Package: org.freecoder.iphone.iCostaWb-3-0
+Version: 1.2.8-1
+Architecture: iphoneos-arm
+Maintainer: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Filename: package_debian_A1/iCostaWb-1.2.8-3.0.deb
+Size: 2223718
+MD5sum: 44534aedac1e162b9f73081b62998cdb
+SHA1: f90d49a37eba1d66eb3f652c1d4302065f0daac5
+SHA256: 6c301991b737875dbabb9ee710a7bf846b3416e91e266e53cbaed0170e0f2d3e
+Section: Localization
+Homepage: http://iphone.freecoder.org/
+Description: iCosta is a Chinese Input support software for iPhone. iCosta brings some popular chinese input methods to iPhone system. Please check http://iphone.freecoder.org/ for details.
+ iCosta 是 iPhone 上的中文输入支持软件, 可以在 iPhone 的任意软件中输入中文. 目前 iCosta 具有拼音, 五笔 86 版, 五笔 98 版, 繁体倉頡四种输入法, 并支持目前所有的固件版本. 请访问 http://iphone.freecoder.org 获知详情.
+Author: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Name: iCosta 五笔86   (fw 3.0)
+
+Package: org.freecoder.iphone.iCostaWb98
+Version: 1.2.3-1
+Architecture: iphoneos-arm
+Maintainer: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Filename: package_debian_A1/iCostaWb98-1.2.3-2.0.deb
+Size: 873516
+MD5sum: cf80bff72e7535921408558765aeb0db
+SHA1: 5d2c2c2a3f7e577b85c5735dff3a615374e5779f
+SHA256: b2e31692170b61bc1c5dd37595b9229cdf2ff00fb91ab10c0ed149a40ef7aea7
+Section: Localization
+Homepage: http://iphone.freecoder.org/
+Description: iCosta is a Chinese Input support software for iPhone. iCosta brings some popular chinese input methods to iPhone system. Please check http://iphone.freecoder.org/ for details.
+ iCosta 是 iPhone 上的中文输入支持软件, 可以在 iPhone 的任意软件中输入中文. 目前 iCosta 具有拼音, 五笔 86 版, 五笔 98 版, 繁体倉頡四种输入法, 并支持目前所有的固件版本. 请访问 http://iphone.freecoder.org 获知详情.
+Author: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Name: iCosta 五笔98  (fw 2.0)
+
+Package: org.freecoder.iphone.iCostaWb98
+Version: 1.2.4-1
+Architecture: iphoneos-arm
+Maintainer: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Filename: package_debian_A1/iCostaWb98-1.2.4-2.0.deb
+Size: 873582
+MD5sum: 6ffbabbd9e0244594dc4ad5ebe02a0b6
+SHA1: 099ea3611d4f19698151a7081f1d79bc30770533
+SHA256: 777d306c604f580e6c05c5f4913e62b28d35b566905d6b7502d0353c19364d10
+Section: Localization
+Homepage: http://iphone.freecoder.org/
+Description: iCosta is a Chinese Input support software for iPhone. iCosta brings some popular chinese input methods to iPhone system. Please check http://iphone.freecoder.org/ for details.
+ iCosta 是 iPhone 上的中文输入支持软件, 可以在 iPhone 的任意软件中输入中文. 目前 iCosta 具有拼音, 五笔 86 版, 五笔 98 版, 繁体倉頡四种输入法, 并支持目前所有的固件版本. 请访问 http://iphone.freecoder.org 获知详情.
+Author: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Name: iCosta 五笔98  (fw 2.0)
+
+Package: org.freecoder.iphone.iCostaWb98
+Version: 1.2.5-1
+Architecture: iphoneos-arm
+Maintainer: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Filename: package_debian_A1/iCostaWb98-1.2.5-2.0.deb
+Size: 872452
+MD5sum: 1c54a7c1833438305b5e72f5c686bccb
+SHA1: bd7ef8aa8c268b6cac1e8539d0557410fdcce3e2
+SHA256: 728aaa106ac282aaec9f725d7f670fa96c6588bdccaa82a59604913cdb63f96d
+Section: Localization
+Homepage: http://iphone.freecoder.org/
+Description: iCosta is a Chinese Input support software for iPhone. iCosta brings some popular chinese input methods to iPhone system. Please check http://iphone.freecoder.org/ for details.
+ iCosta 是 iPhone 上的中文输入支持软件, 可以在 iPhone 的任意软件中输入中文. 目前 iCosta 具有拼音, 五笔 86 版, 五笔 98 版, 繁体倉頡四种输入法, 并支持目前所有的固件版本. 请访问 http://iphone.freecoder.org 获知详情.
+Author: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Name: iCosta 五笔98  (fw 2.0)
+
+Package: org.freecoder.iphone.iCostaWb98
+Version: 1.2.6-1
+Architecture: iphoneos-arm
+Maintainer: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Filename: package_debian_A1/iCostaWb98-1.2.6-2.0.deb
+Size: 872698
+MD5sum: 76c5c766b7f865711d29a8b5af0e5368
+SHA1: b46e3b513ea27753ef30d9dcbb5fbea9effcbefa
+SHA256: abc04a541221cd35c10289a39a058e692990fcc0aceb68bac5b462e37f65dd7b
+Section: Localization
+Homepage: http://iphone.freecoder.org/
+Description: iCosta is a Chinese Input support software for iPhone. iCosta brings some popular chinese input methods to iPhone system. Please check http://iphone.freecoder.org/ for details.
+ iCosta 是 iPhone 上的中文输入支持软件, 可以在 iPhone 的任意软件中输入中文. 目前 iCosta 具有拼音, 五笔 86 版, 五笔 98 版, 繁体倉頡四种输入法, 并支持目前所有的固件版本. 请访问 http://iphone.freecoder.org 获知详情.
+Author: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Name: iCosta 五笔98  (fw 2.0)
+
+Package: org.freecoder.iphone.iCostaWb98-2-1
+Version: 1.2.3-1
+Architecture: iphoneos-arm
+Maintainer: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Filename: package_debian_A1/iCostaWb98-1.2.3-2.1.deb
+Size: 873534
+MD5sum: 66d50c8c99cf827714eba3bf018def42
+SHA1: 708bf438dc366ccc0630850a5c7e5bea7faea324
+SHA256: 8b64e38ac82187bc6da3e4b33b74ba798fb8a51b05fcb5c87967848a6d2d3f7f
+Section: Localization
+Homepage: http://iphone.freecoder.org/
+Description: iCosta is a Chinese Input support software for iPhone. iCosta brings some popular chinese input methods to iPhone system. Please check http://iphone.freecoder.org/ for details.
+ iCosta 是 iPhone 上的中文输入支持软件, 可以在 iPhone 的任意软件中输入中文. 目前 iCosta 具有拼音, 五笔 86 版, 五笔 98 版, 繁体倉頡四种输入法, 并支持目前所有的固件版本. 请访问 http://iphone.freecoder.org 获知详情.
+Author: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Name: iCosta 五笔98  (fw 2.1)
+
+Package: org.freecoder.iphone.iCostaWb98-2-1
+Version: 1.2.4-1
+Architecture: iphoneos-arm
+Maintainer: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Filename: package_debian_A1/iCostaWb98-1.2.4-2.1.deb
+Size: 873588
+MD5sum: 0de00badeb28c913b0fa1b8dc0bd1618
+SHA1: 5451facfa19cbbf4d2d23a7c44fd7d56232c8223
+SHA256: 6b892c6ac8174051cb79007d12a88641c2e7cc02ba98eb4628206a2adb84a901
+Section: Localization
+Homepage: http://iphone.freecoder.org/
+Description: iCosta is a Chinese Input support software for iPhone. iCosta brings some popular chinese input methods to iPhone system. Please check http://iphone.freecoder.org/ for details.
+ iCosta 是 iPhone 上的中文输入支持软件, 可以在 iPhone 的任意软件中输入中文. 目前 iCosta 具有拼音, 五笔 86 版, 五笔 98 版, 繁体倉頡四种输入法, 并支持目前所有的固件版本. 请访问 http://iphone.freecoder.org 获知详情.
+Author: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Name: iCosta 五笔98  (fw 2.1)
+
+Package: org.freecoder.iphone.iCostaWb98-2-1
+Version: 1.2.5-1
+Architecture: iphoneos-arm
+Maintainer: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Filename: package_debian_A1/iCostaWb98-1.2.5-2.1.deb
+Size: 872464
+MD5sum: e10b90d3a477bda7dd35bb1102707cac
+SHA1: 826207dca0cefdf330a2a0a45f09e36a0a02a442
+SHA256: 2c0dbba860d47b9b9382a2548bafba6c178dfc79897d2e0bb523594ec19b47a9
+Section: Localization
+Homepage: http://iphone.freecoder.org/
+Description: iCosta is a Chinese Input support software for iPhone. iCosta brings some popular chinese input methods to iPhone system. Please check http://iphone.freecoder.org/ for details.
+ iCosta 是 iPhone 上的中文输入支持软件, 可以在 iPhone 的任意软件中输入中文. 目前 iCosta 具有拼音, 五笔 86 版, 五笔 98 版, 繁体倉頡四种输入法, 并支持目前所有的固件版本. 请访问 http://iphone.freecoder.org 获知详情.
+Author: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Name: iCosta 五笔98  (fw 2.1)
+
+Package: org.freecoder.iphone.iCostaWb98-2-1
+Version: 1.2.6-1
+Architecture: iphoneos-arm
+Maintainer: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Filename: package_debian_A1/iCostaWb98-1.2.6-2.1.deb
+Size: 872718
+MD5sum: 632c2d4e29839717d58d9fdc116bd57c
+SHA1: 0aee6615ee61c60c4b49587f9d52cf9625e28c63
+SHA256: 59454f12f53634fa01a37e191749e7a1f00b9f419a7788574263ea0a48564ef9
+Section: Localization
+Homepage: http://iphone.freecoder.org/
+Description: iCosta is a Chinese Input support software for iPhone. iCosta brings some popular chinese input methods to iPhone system. Please check http://iphone.freecoder.org/ for details.
+ iCosta 是 iPhone 上的中文输入支持软件, 可以在 iPhone 的任意软件中输入中文. 目前 iCosta 具有拼音, 五笔 86 版, 五笔 98 版, 繁体倉頡四种输入法, 并支持目前所有的固件版本. 请访问 http://iphone.freecoder.org 获知详情.
+Author: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Name: iCosta 五笔98  (fw 2.1)
+
+Package: org.freecoder.iphone.iCostaWb98-2-2
+Version: 1.2.3-1
+Architecture: iphoneos-arm
+Maintainer: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Filename: package_debian_A1/iCostaWb98-1.2.3-2.2.deb
+Size: 873436
+MD5sum: 1226c8ef7b724eee3e1ea47309280874
+SHA1: 7c36e3840748f7e5768d205368ece2ef30c4621e
+SHA256: 43fe23fe50e7f1f782dd0f8eb38039ab117baf567518fcffbf188aa714beb5cf
+Section: Localization
+Homepage: http://iphone.freecoder.org/
+Description: iCosta is a Chinese Input support software for iPhone. iCosta brings some popular chinese input methods to iPhone system. Please check http://iphone.freecoder.org/ for details.
+ iCosta 是 iPhone 上的中文输入支持软件, 可以在 iPhone 的任意软件中输入中文. 目前 iCosta 具有拼音, 五笔 86 版, 五笔 98 版, 繁体倉頡四种输入法, 并支持目前所有的固件版本. 请访问 http://iphone.freecoder.org 获知详情.
+Author: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Name: iCosta 五笔98  (fw 2.2)
+
+Package: org.freecoder.iphone.iCostaWb98-2-2
+Version: 1.2.4-1
+Architecture: iphoneos-arm
+Maintainer: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Filename: package_debian_A1/iCostaWb98-1.2.4-2.2.deb
+Size: 873466
+MD5sum: ab31b6c669ca447342d8b4042b28e9c5
+SHA1: 4e69e35e61af8e7c27ab785b89f9672ff326abee
+SHA256: 394c8af51ed80381e4ef5b4ac529fc964416e7cf1d1bfdce7b2781de2055eb90
+Section: Localization
+Homepage: http://iphone.freecoder.org/
+Description: iCosta is a Chinese Input support software for iPhone. iCosta brings some popular chinese input methods to iPhone system. Please check http://iphone.freecoder.org/ for details.
+ iCosta 是 iPhone 上的中文输入支持软件, 可以在 iPhone 的任意软件中输入中文. 目前 iCosta 具有拼音, 五笔 86 版, 五笔 98 版, 繁体倉頡四种输入法, 并支持目前所有的固件版本. 请访问 http://iphone.freecoder.org 获知详情.
+Author: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Name: iCosta 五笔98  (fw 2.2)
+
+Package: org.freecoder.iphone.iCostaWb98-2-2
+Version: 1.2.5-1
+Architecture: iphoneos-arm
+Maintainer: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Filename: package_debian_A1/iCostaWb98-1.2.5-2.2.deb
+Size: 872348
+MD5sum: 4e70c18182cb9dcbdc6921c0250a229d
+SHA1: 3660eb4ab34f122d48f958e58f919f73adf19a44
+SHA256: 67b79fed89fbd915673d71db40ed732e05ba158f8fa0a60d05dead28ec020d34
+Section: Localization
+Homepage: http://iphone.freecoder.org/
+Description: iCosta is a Chinese Input support software for iPhone. iCosta brings some popular chinese input methods to iPhone system. Please check http://iphone.freecoder.org/ for details.
+ iCosta 是 iPhone 上的中文输入支持软件, 可以在 iPhone 的任意软件中输入中文. 目前 iCosta 具有拼音, 五笔 86 版, 五笔 98 版, 繁体倉頡四种输入法, 并支持目前所有的固件版本. 请访问 http://iphone.freecoder.org 获知详情.
+Author: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Name: iCosta 五笔98  (fw 2.2)
+
+Package: org.freecoder.iphone.iCostaWb98-2-2
+Version: 1.2.6-1
+Architecture: iphoneos-arm
+Maintainer: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Filename: package_debian_A1/iCostaWb98-1.2.6-2.2.deb
+Size: 872584
+MD5sum: b1131178d3f08ae5c93b62b6ebdad457
+SHA1: 7be0c460a13738750c853a8a891958cc3d4ea636
+SHA256: e8a7b39764befd8ff30b4689d00f5e82e8a8e0111906371cc5d5fef3e98f281e
+Section: Localization
+Homepage: http://iphone.freecoder.org/
+Description: iCosta is a Chinese Input support software for iPhone. iCosta brings some popular chinese input methods to iPhone system. Please check http://iphone.freecoder.org/ for details.
+ iCosta 是 iPhone 上的中文输入支持软件, 可以在 iPhone 的任意软件中输入中文. 目前 iCosta 具有拼音, 五笔 86 版, 五笔 98 版, 繁体倉頡四种输入法, 并支持目前所有的固件版本. 请访问 http://iphone.freecoder.org 获知详情.
+Author: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Name: iCosta 五笔98  (fw 2.2)
+
+Package: org.freecoder.iphone.iCostaWb98-3-0
+Version: 1.2.7-1
+Architecture: iphoneos-arm
+Maintainer: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Filename: package_debian_A1/iCostaWb98-1.2.7-3.0.deb
+Size: 1815250
+MD5sum: c9e921692e30339e6ffaca8e0c7ea59c
+SHA1: 7fbf108d5d8fbf847b9c0f194d89ce8857061ad3
+SHA256: 61e8dca7e1edcfed201c4afa09f9e4b709563c6887f58af414d3191138a74669
+Section: Localization
+Homepage: http://iphone.freecoder.org/
+Description: iCosta is a Chinese Input support software for iPhone. iCosta brings some popular chinese input methods to iPhone system. Please check http://iphone.freecoder.org/ for details.
+ iCosta 是 iPhone 上的中文输入支持软件, 可以在 iPhone 的任意软件中输入中文. 目前 iCosta 具有拼音, 五笔 86 版, 五笔 98 版, 繁体倉頡四种输入法, 并支持目前所有的固件版本. 请访问 http://iphone.freecoder.org 获知详情.
+Author: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Name: iCosta 五笔98  (fw 3.0)
+
+Package: org.freecoder.iphone.iCostaWb98-3-0
+Version: 1.2.8-1
+Architecture: iphoneos-arm
+Maintainer: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Filename: package_debian_A1/iCostaWb98-1.2.8-3.0.deb
+Size: 1815280
+MD5sum: 4e8e306b114f07f8852e39446645d33d
+SHA1: 6a96a09872a26135712421924af2fc1d0611edc4
+SHA256: 61d462478f90480a7c0af07e1bc49590e322c384adf2e4f9e56fdfa1aaf03c72
+Section: Localization
+Homepage: http://iphone.freecoder.org/
+Description: iCosta is a Chinese Input support software for iPhone. iCosta brings some popular chinese input methods to iPhone system. Please check http://iphone.freecoder.org/ for details.
+ iCosta 是 iPhone 上的中文输入支持软件, 可以在 iPhone 的任意软件中输入中文. 目前 iCosta 具有拼音, 五笔 86 版, 五笔 98 版, 繁体倉頡四种输入法, 并支持目前所有的固件版本. 请访问 http://iphone.freecoder.org 获知详情.
+Author: Holly Lee <holly.lee@gmail.com>, pinxue <pinxue@gmail.com>
+Name: iCosta 五笔98  (fw 3.0)
+
+Package: org.hackndev.icommander
+Version: 0.4.0-1
+Architecture: iphoneos-arm
+Maintainer: Vladimir Pouzanov <farcaller@gmail.com>
+Filename: package_debian_A1/iCommander_0.4.0-1_iphoneos-arm.deb
+Size: 32908
+MD5sum: 6b80fd73754fd6e68733c5166fee025a
+SHA1: eac1566df247a4ae4e38d158653e54f089ac33e5
+SHA256: 838cf984a4f8360392a6d22eb9469459021f44c8490e911d3ef694a7355108a2
+Section: Utilities
+Homepage: http://iphone.hackndev.org/apps/icommander/
+Description: Minimalistic file manager for iPhone.
+Author: Vladimir Pouzanov <farcaller@gmail.com>
+Name: iCommander
+
 Package: org.herf.flux
 Version: 0.9984
 Architecture: iphoneos-arm
@@ -7952,6 +11064,79 @@ Description: warms colors at night to match indoor lighting
 Author: F.lux Software LLC <support@justgetflux.com>
 Depiction: https://justgetflux.com/cydia/
 Name: f.lux
+
+Package: org.idwaneo.UDIDFaker
+Version: 2.3
+Architecture: iphoneos-arm
+Maintainer: Admin <admin@idwaneo.org>
+Depends: mobilesubstrate
+Conflicts: com.sull.UDIDFaker
+Filename: package_debian_A1/chomikuj.pl_ipeknews.UDIDFaker_2.3_iphoneos-arm.deb
+Size: 82366
+MD5sum: d34f2d75675e09b289a202b61cc15788
+SHA1: 549ec5e88c25c15c0a4d4da9ee5832b528a03fd0
+SHA256: cc5947f7dfd8118a51b69466bde3fb53bbe5930ee306f9c5370f07ff2ae0073c
+Section: iDWANEO.org
+Description: Change UDID of any app, use with caution.
+Author: eni9889 <admin@i4iphones.info>
+Name: UDIDFaker
+
+Package: org.idwaneo.blackpegasus
+Version: 1.3
+Architecture: iphoneos-arm
+Essential: no
+Maintainer: IDWANEO.org <admin@idwaneo.org>
+Depends: com.ericasadun.utilities, org.idwaneo.UDIDFaker
+Filename: package_debian_A1/chomikuj.pl_ipeknews.blackpegasus_1.3_iphoneos-arm.deb
+Size: 1690
+MD5sum: ec934002922657aec7bdd5525431553a
+SHA1: 79b88251bcb24b4e337edc827f9b758e4d3f61b7
+SHA256: fa9fd6c3d51ec160ec4f183c31e0580d84f01adabc5987783d97189464a9bf93
+Section: DLC
+Priority: Standard
+Homepage: http://www.idwaneo.org
+Description: Works For iPhone, iTouch & iPad
+Author: IDWANEO.org <admin@idwaneo.org>
+Name: Modern Combat 2: Black Pegasus DLC
+Sponsor: iDWANEO.org <admin@idwaneo.org>
+
+Package: org.idwaneo.earthandlegend
+Version: 1.1
+Architecture: iphoneos-arm
+Essential: no
+Maintainer: IDWANEO.org <admin@idwaneo.org>
+Depends: org.idwaneo.icon, com.ericasadun.utilities, coreutils
+Filename: package_debian_A1/ipeknews.earthandlegend_1.1.deb
+Size: 11316
+MD5sum: 4e18e52c8f79c3eaecd965df87a2c3b4
+SHA1: fe82221822e5c23dc116139e29a28b5a83977a2d
+SHA256: be3064df8033a45ca87de4ae80c83a52750f0553100e761d15426e77b6b95195
+Section: DLC
+Priority: Standard
+Homepage: http://www.idwaneo.org/
+Description: Earth And Legend DLC Unlocker
+Author: IDWANEO.org <admin@idwaneo.org>
+Name: Earth And Legend DLC
+Sponsor: iDWANEO.org <admin@idwaneo.org>
+
+Package: org.idwaneo.firsttouchsoccer
+Version: 1.1
+Architecture: iphoneos-arm
+Essential: no
+Maintainer: IDWANEO.org <admin@idwaneo.org>
+Depends: sed, org.idwaneo.psw, org.idwaneo.icon
+Filename: package_debian_A1/chomikuj.pl.ipeknews.firsttouchsoccer_1.0_iphoneos-arm.deb
+Size: 1706
+MD5sum: 8197ed083a1b54efcf473dd470ac057b
+SHA1: 404385029a2c09d88758f3f7b1d69ad1b07e3d34
+SHA256: 7864bb242533ddfa48028c6500e75d35e2b9184cb42fa08db1201d0a4778d1c7
+Section: DLC
+Priority: Standard
+Homepage: http://www.idwaneo.org/
+Description: First Touch Soccer DLC Unlocker
+Author: IDWANEO.org <admin@idwaneo.org>
+Name: First Touch Soccer DLC
+Sponsor: iDWANEO.org <admin@idwaneo.org>
 
 Package: org.neutronfile.360vpnpro
 Version: 0.0.4
@@ -9014,6 +12199,22 @@ Sileodepiction: https://apt.neutronfile.org/depiction/org.neutronfile.wpsoffice.
 Sponsor: NeutronFile.org <http://neutronfile.org/>
 Twitter: @NeutronFile <https://twitter.com/NeutronFile/>
 
+Package: org.pilin.cavestory
+Version: v0.8
+Architecture: iphoneos-arm
+Maintainer: Pavel Ilin <ilin.pa@gmail.com>
+Filename: package_debian_A1/org.pilin.cavestory_v0.8_iphoneos-arm.deb
+Size: 1762642
+MD5sum: d5bb62d1fc606a2c074f1ee364398401
+SHA1: 1f7b8db65eb96aeec30a301fc49ab1216d21c436
+SHA256: 1b346138744127781b6c2b87f4bb542ed272aa14544c9f0350c739c801fd7262
+Section: Games
+Homepage: https://github.com/PIlin/NXEngine-iOS
+Description: iOS port of the Cave Story
+Author: Pavel Ilin <ilin.pa@gmail.com>
+Depiction: http://pilin.github.io/NXEngine-iOS/changelogs/v0.8.html
+Name: Cave Story
+
 Package: org.ppsspp.ppsspp
 Version: 1.11.3.701
 Architecture: iphoneos-arm
@@ -9031,6 +12232,66 @@ Author: Henrik Rydgard <hrydgard+ppsspp@gmail.com>
 Depiction: http://johan.margueritte.free.fr/repo/depictions/?p=org.ppsspp.ppsspp
 Name: PPSSPP
 Sileodepiction: http://johan.margueritte.free.fr/repo/depictions/org.ppsspp.ppsspp/sileo.json
+
+Package: org.scummvm.scummvm
+Version: 0.12.0-pre4
+Architecture: iphoneos-arm
+Maintainer: Oystein Eftevaag (vinterstum) <vinterstum@users.sourceforge.net>
+Filename: package_debian_A1/scummvm-iphone-0.12.0-pre4.deb
+Size: 5486732
+MD5sum: bb98208080c8939a68c434252ce510b1
+SHA1: 3b2b78401d60c76e4b7ab417b0c6b7561dd76dc3
+SHA256: 35aaea8e5b8166ab9ef008945e87b901a35bd5b34687386a4583dbf3e7209117
+Section: Games
+Homepage: http://wiki.scummvm.org/index.php/IPhone
+Description: ScummVM allows you to run certain classic graphical point-and-click adventure games, provided you already have their data files.
+Author: The ScummVM team
+Name: ScummVM
+
+Package: org.scummvm.scummvm
+Version: 1:0.13.1-0.14.0svn2
+Architecture: iphoneos-arm
+Maintainer: vinterstum <vinterstum@users.sourceforge.net>
+Filename: package_debian_A1/scummvm-0.14.0svn-iphone.deb
+Size: 6523592
+MD5sum: 37d8d6c2df2fce8905f693ab67a45a2b
+SHA1: fbcae6d67e56fb6eac068d00491afd829397ec03
+SHA256: 82c1b1683ad50625b9e3ef1dbbd54cb575c96ac02caf702adc1a171a478d17d1
+Section: Games
+Homepage: http://wiki.scummvm.org/index.php/IPhone
+Description: ScummVM allows you to run certain classic graphical point-and-click adventure games, provided you already have their data files.
+Author: The ScummVM team <vinterstum@users.sourceforge.net>
+Name: ScummVM
+
+Package: org.scummvm.scummvm
+Version: 2:1.1.0
+Architecture: iphoneos-arm
+Maintainer: vinterstum <vinterstum@users.sourceforge.net>
+Filename: package_debian_A1/scummvm-1.1.0-iphone.deb
+Size: 7375178
+MD5sum: a0ccd71c35a96a37139024674a367eaa
+SHA1: 7861fa2dec925340831c5ee683be8105d9477c77
+SHA256: aa4efce3dcd85d308578e10c5706afaab0e4d25422a35defb5fd2fd0032e2c1f
+Section: Games
+Homepage: http://wiki.scummvm.org/index.php/IPhone
+Description: ScummVM allows you to run certain classic graphical point-and-click adventure games, provided you already have their data files.
+Author: The ScummVM team <vinterstum@users.sourceforge.net>
+Name: ScummVM
+
+Package: org.scummvm.scummvm
+Version: 2:1.1.1
+Architecture: iphoneos-arm
+Maintainer: vinterstum <vinterstum@users.sourceforge.net>
+Filename: package_debian_A1/scummvm-1.1.1-iphone.deb
+Size: 7377680
+MD5sum: 21244f76bff66a4dae0017e942cb1d96
+SHA1: fa3730fa4f1e161a894db18e6307dda37e346dd7
+SHA256: 2c4279e3a84993fc7a4ca315d31d3231f748eafb7b96b2c1e59964014fcf37c0
+Section: Games
+Homepage: http://wiki.scummvm.org/index.php/IPhone
+Description: ScummVM allows you to run certain classic graphical point-and-click adventure games, provided you already have their data files.
+Author: The ScummVM team <vinterstum@users.sourceforge.net>
+Name: ScummVM
 
 Package: org.thebigboss.dismissprogress
 Version: 1.1.1
@@ -9468,6 +12729,22 @@ Section: Development
 Priority: required
 Description: command-line history management
 
+Package: repeat-memory-free
+Version: 2.6.5
+Architecture: iphoneos-arm
+Essential: no
+Maintainer: saltinbas <saltinbas@gmail.com>
+Installed-Size: 1
+Filename: package_debian_A1/RepeatMemoryFree_v_2_6_6.deb
+Size: 19992
+MD5sum: 25d000f72691519e90ec2f57a2a8b48e
+SHA1: ffb688de32330683d5e0e29c2b733c7f81bd2b63
+SHA256: 7f9d6fe6fefd4cf0fb27f0300c3fc44829fc2af42923f27a4b7f35e1632afc18
+Section: System
+Homepage: http://xsellize.com/showthread.php/76965-Repeating-memory-free
+Description: Automatic mail, safari and ipod quitting and executing sbsettings free mem app. The script checks if the free plus inactive memory, determined by vm_stat command, drops more than 2 MB and executes the sbsettings freemem app if the free memory is below a defined level. The script also do not active when the iphone is in sleep.
+Depend: ch.ringwald.springboardaccess,preferenceloader,sbsettings,grep,coreutils,coreutils-bin,cycript,com.ashman.wvc,adv-cmds,bash,com.ericasadun.utilities
+
 Package: repo.biteyourapple.net.paragon
 Version: 1.0.0
 Architecture: iphoneos-arm
@@ -9582,6 +12859,40 @@ Section: Networking
 Priority: important
 Description: "mistakes were made" (on iOS 8)
 Name: Router Advisement Daemon
+
+Package: ru.geniusan.mms2g
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: null <null@null.org>
+Installed-Size: 687568
+Filename: package_debian_A1/MMS_in_2G.deb
+Size: 347482
+MD5sum: aec6d51a5e3380ff6262c71e1718b873
+SHA1: 63a59400fe32abee72a1ec213f7db58549c4bfe5
+SHA256: 50119eb40af574a943a609c3b98ebf8a897efd277742b44ab400f0de8e32b446
+Section: Messaging
+Priority: optional
+Description: Activate standart sms/mms app for send/receive mms on 2g.
+Author: geniusan <geniusan@gmail.com>
+Depiction: http://www.apple.com
+Name: ActivateMMS2G
+
+Package: ru.prouni.iforecast
+Version: 1.1.1-0
+Architecture: iphoneos-arm
+Maintainer: Rostislav Masliev <admin@prouni.ru>
+Filename: package_debian_A1/iForecast.deb
+Size: 251468
+MD5sum: ed025a341d2ac76ced932c89fa88d1dd
+SHA1: 64f9cecc229e18c3c14284e67a34c49c19244d04
+SHA256: 1050815a9ac92e3167746b3831aac7e5dc5accd6d0ea3ca948a5b02a6dec5650
+Section: Utilities
+Homepage: http://www.prouni.ru/if
+Description: Displays detailed weather forecast for week from GisMeteo.ru
+Author: Rostislav Masliev <admin@prouni.ru>
+Depiction: http://www.prouni.ru/if
+Name: iForecast
+Sponsor: RipDev <http://www.ripdev.org/>
 
 Package: ruby
 Version: 1.9.2-p0-10
@@ -14064,6 +17375,584 @@ Priority: optional
 Description: ScummVM Master Repository
 Name: Urban Fanatics' Source
 
+Package: us.hackulo.appsync31
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Genius Blog <appsync@hackulo.us>
+Pre-Depends: firmware (= 3.1) | firmware (= 3.1.1) | firmware (= 3.1.2) | firmware (= 3.1.3) | firmware (= 3.1.4)
+Depends: com.hackulo.us.sourcegui
+Filename: package_debian_A1/appsync31-1.0.1.deb
+Size: 296542
+MD5sum: 534080636c26e40d3efbdf195f3bfdfb
+SHA1: 2e3be3668f26c9d4ac7b796042aa7b05184fe4ae
+SHA256: c0975018be2f1fe73eaeadce9a3c4ead17ab01b08eb41bd11a82b2f83c60fb70
+Section: Hackulo.us
+Priority: standard
+Description: AppSync patches the installd file on your device
+Author: Reilly <appsync@hackulo.us>
+Depiction: http://hackulo.us/depict/appsync31/
+Name: AppSync for OS 3.1
+Sponsor: Hackulo.us <http://hackulo.us>
+
+Package: us.hackulo.appsync31
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Genius Blog <appsync@hackulo.us>
+Pre-Depends: firmware (= 3.1) | firmware (= 3.1.1) | firmware (= 3.1.2) | firmware (= 3.1.3) | firmware (= 3.1.4)
+Depends: com.hackulo.us.sourcegui
+Provides: appsync
+Filename: package_debian_A1/appsync31-1.0.2.deb
+Size: 296564
+MD5sum: 78c9291797041703656194d2faa704d5
+SHA1: c25c2708c8ae6557d0154eb08ae5622c3f2ed90b
+SHA256: 648058977902b6da3dfcfa751036edc0c91557c9446045237be7d2572ce39dc0
+Section: Hackulo.us
+Priority: standard
+Description: AppSync patches the installd file on your device
+Author: Reilly <appsync@hackulo.us>
+Depiction: http://hackulo.us/depict/appsync31/
+Name: AppSync for OS 3.1
+Sponsor: Hackulo.us <http://hackulo.us>
+
+Package: us.hackulo.appsync32
+Version: 1.0.1-3
+Architecture: iphoneos-arm
+Maintainer: Dissident <apps@hackulo.us>
+Pre-Depends: firmware (= 3.2) | firmware (= 3.2.1) | firmware (= 3.2.2)
+Depends: com.hackulo.us.sourcegui
+Filename: package_debian_A1/appsync32-1.0.1-3.deb
+Size: 274594
+MD5sum: 0a8fa6363baa0e9eee6381cf84b16c77
+SHA1: b1afb4c3c0c83c0dde8eb0d53602b5c7cdfb10fe
+SHA256: 29b84ed428c5f024b4362f65e25d2645b38bf385365748b0ba4a8aafaf3dafbb
+Section: Hackulo.us
+Priority: standard
+Description: AppSync patches the installd file on your device
+Author: Dissident <apps@hackulo.us>
+Depiction: http://hackulo.us/depict/appsync32/
+Name: AppSync for OS 3.2
+Sponsor: Hackulo.us <http://hackulo.us>
+
+Package: us.hackulo.appsync32
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Dissident <apps@hackulo.us>
+Pre-Depends: firmware (= 3.2) | firmware (= 3.2.1) | firmware (= 3.2.2)
+Depends: com.hackulo.us.sourcegui
+Provides: appsync
+Filename: package_debian_A1/appsync32-1.0.2.deb
+Size: 274604
+MD5sum: b929f7ee7178df882e31cb34f78c99db
+SHA1: 9e45cce1063f42f2907544ef15d05037108d8354
+SHA256: d2125434b2bcc895cf2c65e7cf0d9d89d7c4143ffccdbf09466e77f7f89b86d8
+Section: Hackulo.us
+Priority: standard
+Description: AppSync patches the installd file on your device
+Author: Dissident <apps@hackulo.us>
+Depiction: http://hackulo.us/depict/appsync32/
+Name: AppSync for OS 3.2
+Sponsor: Hackulo.us <http://hackulo.us>
+
+Package: us.hackulo.appsync40
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Dissident <appsync@hackulo.us>
+Pre-Depends: firmware (= 4.0) | firmware (= 4.0.1) | firmware (= 4.0.2)
+Depends: com.hackulo.us.sourcegui
+Filename: package_debian_A1/appsync40-1.0.2.deb
+Size: 285514
+MD5sum: 2f5d1dcdf9ca5173efd501ab2e88761f
+SHA1: b19d074b59ecda3d95a00620b4fd1699d11bc72c
+SHA256: 7009e14f630ae4ddcbea4d7c8723d1050e4301b5dd433cf17077578ea9811031
+Section: Hackulo.us
+Priority: standard
+Description: AppSync patches the installd file on your device
+Author: Reilly <appsync@hackulo.us>
+Depiction: http://hackulo.us/depict/appsync40/
+Name: AppSync for OS 4.0
+Sponsor: Hackulo.us <http://hackulo.us>
+
+Package: us.hackulo.appsync40plus
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Genius Blog <apps@hackulo.us>
+Pre-Depends: firmware (>= 4.0)
+Provides: appsync, us.hackulo.appsync40, us.hackulo.appsync41, us.hackulo.appsync42
+Filename: package_debian_A1/appsync40plus-1.0.deb
+Size: 772
+MD5sum: b012cb430cbb35287346cccd77fa621d
+SHA1: fb91777a12430703231b82953c8b8ba47ac8f1f2
+SHA256: ceaaa46057e2b757d74862b210ce4f5a06ac14f28052b3dd03dac5314306d6a7
+Section: Hackulo.us
+Priority: standard
+Description: AppSync allows you to sync and install cracked iOS applications.
+Author: Dissident <apps@hackulo.us>
+Name: AppSync for 4.0+
+Sponsor: Hackulo.us <http://hackulo.us>
+
+Package: us.hackulo.appsync40plus
+Version: 1.1-3
+Architecture: iphoneos-arm
+Maintainer: Genius Blog <apps@hackulo.us>
+Pre-Depends: firmware (>= 4.0)
+Provides: appsync, us.hackulo.appsync40, us.hackulo.appsync41, us.hackulo.appsync42
+Filename: package_debian_A1/appsync40plus-1.1-3.deb
+Size: 8390
+MD5sum: 6cfcb83dae0ffb9c6b7ca859f34dd89d
+SHA1: 5462ee29f044470830593d0e2db89efa4e9aa22d
+SHA256: d6cdca5717698f7aa6f74c783ea507e5099842bd664a4302d975e2e11598b4c3
+Section: Hackulo.us
+Priority: standard
+Description: AppSync allows you to sync and install cracked iOS applications.
+Author: Dissident <apps@hackulo.us>
+Name: AppSync for 4.0+
+Sponsor: Hackulo.us <http://hackulo.us>
+
+Package: us.hackulo.appsync40plus
+Version: 1.1-4
+Architecture: iphoneos-arm
+Maintainer: Genius Blog <apps@hackulo.us>
+Pre-Depends: firmware (>= 4.0)
+Provides: appsync, us.hackulo.appsync40, us.hackulo.appsync41, us.hackulo.appsync42
+Filename: package_debian_A1/appsync40plus-1.1-4.deb
+Size: 8390
+MD5sum: c7cd64b35e1e22b5fd41e0edad9d1d63
+SHA1: cb2b430016bf59fc2a2cd5e329a8550424bef69e
+SHA256: 81ceab7d80d7102fe45978582b61f9f581e414532020e0018fee2451cf0bba68
+Section: Hackulo.us
+Priority: standard
+Description: AppSync allows you to sync and install cracked iOS applications.
+Author: Dissident <apps@hackulo.us>
+Name: AppSync for 4.0+
+Sponsor: Hackulo.us <http://hackulo.us>
+
+Package: us.hackulo.appsync40plus
+Version: 1.1-5
+Architecture: iphoneos-arm
+Maintainer: Genius Blog <apps@hackulo.us>
+Pre-Depends: firmware (>= 4.0)
+Provides: appsync, us.hackulo.appsync40, us.hackulo.appsync41, us.hackulo.appsync42
+Filename: package_debian_A1/appsync40plus-1.1-5.deb
+Size: 9170
+MD5sum: 98ae1b0c0b1539aa9df041df05cb0911
+SHA1: b300b00bd5395166df38f2d55837c6202345dc8f
+SHA256: 98258f9fa14668bb014903936c78e73b1efb5ef1a84caf4d2317d21e074be133
+Section: Hackulo.us
+Priority: standard
+Description: AppSync allows you to sync and install cracked iOS applications.
+Author: Dissident <apps@hackulo.us>
+Name: AppSync for 4.0+
+Sponsor: Hackulo.us <http://hackulo.us>
+
+Package: us.hackulo.appsync40plus
+Version: 1.1-6
+Architecture: iphoneos-arm
+Maintainer: Genius Blog <apps@hackulo.us>
+Pre-Depends: firmware (>= 4.0), firmware (<< 5.0)
+Provides: appsync, us.hackulo.appsync40, us.hackulo.appsync41, us.hackulo.appsync42
+Filename: package_debian_A1/appsync40plus-1.1-6.deb
+Size: 9164
+MD5sum: b11e63072ed194b26033ec84ff440798
+SHA1: affc7f842a0bf2ffbfb7b2509dff0b0d9d713a5e
+SHA256: faeed4152d7909e696e1c905f9386d90a1e14036882f61356ce7847c24e9ec74
+Section: Hackulo.us
+Priority: standard
+Description: AppSync allows you to sync and install cracked iOS applications.
+Author: Dissident <apps@hackulo.us>
+Name: AppSync for 4.0+
+Sponsor: Hackulo.us <http://hackulo.us>
+
+Package: us.hackulo.appsync41
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Dissident <appsync@hackulo.us>
+Pre-Depends: firmware (= 4.1)
+Depends: com.hackulo.us.sourcegui
+Filename: package_debian_A1/appsync41-1.0.1.deb
+Size: 270612
+MD5sum: d48daa3a36e9a9e9ae245a2aadff9b95
+SHA1: 41b10155db8eaacd8e5d84c10df6af60752ecdaa
+SHA256: ac4f84fbb6ca9544d29f4d9dd308f28bdd0e5991085d483e825d7986a6d9858f
+Section: Hackulo.us
+Priority: standard
+Description: AppSync patches the installd file on your device
+Author: Reilly <appsync@hackulo.us>
+Depiction: http://hackulo.us/depict/appsync41/
+Name: AppSync for OS 4.1
+Sponsor: Hackulo.us <http://hackulo.us>
+
+Package: us.hackulo.appsync42
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Dissident <appsync@hackulo.us>
+Pre-Depends: firmware (= 4.2) | firmware (= 4.2.1)
+Depends: com.hackulo.us.sourcegui
+Filename: package_debian_A1/appsync42-1.0-1.deb
+Size: 242292
+MD5sum: 9b4fafbdb1771c96f483dba2c7a6d1e3
+SHA1: 9106ad4a4458eb621b8a4b58010e0389956de85c
+SHA256: a9cfd3393c68a3ac9962a6ec15c8015621a8ed2988a260af9c9d7e9ec9d831c8
+Section: Hackulo.us
+Priority: standard
+Description: AppSync patches the installd file on your device
+Author: Reilly <appsync@hackulo.us>
+Depiction: http://hackulo.us/depict/appsync42/
+Name: AppSync for OS 4.2
+Sponsor: Hackulo.us <http://hackulo.us>
+
+Package: us.hackulo.appsync50
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Dissident <apps@hackulo.us>
+Pre-Depends: firmware (>= 5.0)
+Depends: com.hackulo.us.sourcegui
+Provides: appsync
+Filename: package_debian_A1/appsync50-1.0.0.deb
+Size: 239464
+MD5sum: d692fe350bc62742e985f1252fec9328
+SHA1: b3b831217ae562514a16962dfdd97dc58386df57
+SHA256: 3506517086b057cb03568b2325b3a24d814b02a4e53f08e7c42f92fb46231f56
+Section: Hackulo.us
+Priority: standard
+Description: AppSync patches the installd file on your device
+Author: Dissident <apps@hackulo.us>
+Depiction: http://hackulo.us/depict/appsync50/
+Name: AppSync for OS 5
+Sponsor: Hackulo.us <http://hackulo.us>
+
+Package: us.hackulo.appsync50
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Dissident <apps@hackulo.us>
+Pre-Depends: firmware (>= 5.0)
+Depends: com.hackulo.us.sourcegui
+Provides: appsync
+Filename: package_debian_A1/appsync50-1.0.1.deb
+Size: 239640
+MD5sum: 1c094a97c34965e899b486ece2cbe1f8
+SHA1: 28913ddb0db06aba1d376fe5ee8a7a2a23293918
+SHA256: fdc3181b4390fbc4c96809c427409f52f13f1f6353c26af5bc676bf984ff5cfd
+Section: Hackulo.us
+Priority: standard
+Description: AppSync patches the installd file on your device
+Author: Dissident <apps@hackulo.us>
+Depiction: http://hackulo.us/depict/appsync50/
+Name: AppSync for OS 5
+Sponsor: Hackulo.us <http://hackulo.us>
+
+Package: us.hackulo.appsync50
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Dissident <apps@hackulo.us>
+Pre-Depends: firmware (>= 5.0)
+Depends: com.hackulo.us.sourcegui
+Provides: appsync
+Filename: package_debian_A1/appsync50-1.0.2.deb
+Size: 239684
+MD5sum: f25b166b060ee7c4a855519cf059c511
+SHA1: 7e982d9e7b78def67d1d87616d8c3ee3398acaf3
+SHA256: 42ef25b4cf99623486cd47587f462b28570da7303de57d30072ebeab9764d05a
+Section: Hackulo.us
+Priority: standard
+Description: AppSync patches the installd file on your device
+Author: Dissident <apps@hackulo.us>
+Depiction: http://hackulo.us/depict/appsync50/
+Name: AppSync for OS 5
+Sponsor: Hackulo.us <http://hackulo.us>
+
+Package: us.hackulo.appsync50plus
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Genius Blog <apps@hackulo.us>
+Pre-Depends: firmware (>= 5.0), ldone
+Conflicts: us.hackulo.appsync50
+Replaces: us.hackulo.appsync50
+Provides: appsync
+Filename: package_debian_A1/appsync50plus-1.0.deb
+Size: 11300
+MD5sum: f1982f3f660e91556d13612ab75393b7
+SHA1: 2b1d8936b515e489f5e8e393e494f246bcb28f26
+SHA256: c0b92473c9fab968f850fac8879b9f59d6a238c95472e3e4bf79ec0e87c4b906
+Section: Hackulo.us
+Priority: standard
+Description: AppSync allows you to sync and install cracked iOS applications.
+Author: Dissident <apps@hackulo.us>
+Name: AppSync for iOS 5.0+
+Sponsor: Hackulo.us <http://hackulo.us>
+
+Package: us.hackulo.appsync50plus
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Genius Blog <apps@hackulo.us>
+Pre-Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: us.hackulo.appsync50
+Replaces: us.hackulo.appsync50
+Provides: appsync
+Filename: package_debian_A1/appsync50plus-2.0.deb
+Size: 4364
+MD5sum: 70f987dc1df18efc7fff0c8eabb59f45
+SHA1: ad1379b4363a8a851428149ef7a3b4abdd8679c0
+SHA256: 1d5b04713af90ffa1774fc8571c0499578b3cb7172c12e7a7cdaec9de42f8f6d
+Section: Hackulo.us
+Priority: standard
+Description: AppSync allows you to sync and install cracked iOS applications.
+Author: Dissident <apps@hackulo.us>
+Name: AppSync for iOS 5.0+
+Sponsor: Hackulo.us <http://hackulo.us>
+
+Package: us.hackulo.appsync50plus
+Version: 2.0-1
+Architecture: iphoneos-arm
+Maintainer: Genius Blog <apps@hackulo.us>
+Pre-Depends: firmware (>= 5.0), mobilesubstrate (<< 0.9.3990)
+Conflicts: us.hackulo.appsync50
+Replaces: us.hackulo.appsync50
+Provides: appsync
+Filename: package_debian_A1/appsync50plus-2.0-1.deb
+Size: 4376
+MD5sum: 77f4a7bc9ee4922906eba9f4a19ce7fc
+SHA1: bc5f66aa4c6d15d3b99afec4410c4762c2036ebd
+SHA256: 43a88df9c4a9822db43fea0136c95ba2111c51daec8da0965ada8c73b50a8f6f
+Section: Hackulo.us
+Priority: standard
+Description: AppSync allows you to sync and install cracked iOS applications.
+Author: Dissident <apps@hackulo.us>
+Name: AppSync for iOS 5.0+
+Sponsor: Hackulo.us <http://hackulo.us>
+
+Package: us.hackulo.appsync50plus
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: Genius Blog <apps@hackulo.us>
+Pre-Depends: firmware (>= 5.0)
+Depends: mobilesubstrate (<< 0.9.3990)
+Conflicts: us.hackulo.appsync50, semitether
+Replaces: us.hackulo.appsync50
+Provides: appsync
+Filename: package_debian_A1/appsync50plus-2.1-legacy.deb
+Size: 4384
+MD5sum: 1452c7f3998f18f0c6f138bf0654a424
+SHA1: 769628c6e77558964bdd50b222dd1e03b2968460
+SHA256: 52642810cc7bd890aac7e1d16a5871d483e2a3cc7494cd137008228f64cabb6e
+Section: Hackulo.us
+Priority: standard
+Description: AppSync allows you to sync and install cracked iOS applications.
+Author: Dissident <apps@hackulo.us>
+Name: AppSync for iOS 5.0+
+Sponsor: Hackulo.us <http://hackulo.us>
+
+Package: us.hackulo.appsync50plus
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: Genius Blog <apps@hackulo.us>
+Pre-Depends: firmware (>= 5.0)
+Depends: mobilesubstrate (>= 0.9.3990)
+Conflicts: us.hackulo.appsync50
+Replaces: us.hackulo.appsync50
+Provides: appsync
+Filename: package_debian_A1/appsync50plus-2.1.deb
+Size: 4486
+MD5sum: 7da99b36f31882ba6d4ecb3c80d66e84
+SHA1: d0d63b4e48dfda2418bf9b06c859f5beaad6d033
+SHA256: 97ca267699d6522b79a5b49c9ae935767028814ca2998fbd9a894a70fbd5840c
+Section: Hackulo.us
+Priority: standard
+Description: AppSync allows you to sync and install cracked iOS applications.
+Author: Dissident <apps@hackulo.us>
+Name: AppSync for iOS 5.0+
+Sponsor: Hackulo.us <http://hackulo.us>
+
+Package: us.hackulo.appsync50plus
+Version: 2.2
+Architecture: iphoneos-arm
+Maintainer: Genius Blog <apps@hackulo.us>
+Pre-Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: us.hackulo.appsync50
+Replaces: us.hackulo.appsync50
+Provides: appsync
+Filename: package_debian_A1/appsync50plus-2.2.deb
+Size: 4454
+MD5sum: 8240e5ee73e8d0855a2e0add176bc6d6
+SHA1: cda5c1e471a14aa12262e2daed27431c58fc97ee
+SHA256: 732cbe80f290121cd9502a06fc8be401cdc4c6152000ddb7f3d712d052ff00e9
+Section: Hackulo.us
+Priority: standard
+Description: AppSync allows you to sync and install cracked iOS applications.
+Author: Dissident <apps@hackulo.us>
+Name: AppSync for iOS 5.0+
+Sponsor: Hackulo.us <http://hackulo.us>
+
+Package: us.hackulo.crackulous
+Version: 0.9
+Architecture: iphoneos-arm
+Maintainer: Genius Blog <admin@hackulo.us>
+Depends: com.ericasadun.utilities, gdb, odcctools, ldid, com.hackulo.us.sourcegui, zip, gawk
+Filename: package_debian_A1/Crackulous_0.9.deb
+Size: 156748
+MD5sum: d86615bc08e4d502b9d5441ecfeebb75
+SHA1: d3a06dce103fd614f775623ecdcff97b0d424379
+SHA256: adf638b89b960bf841d054264ca63856e5492d57a866b9df3be10bbebffff0e7
+Section: Hackulo.us
+Priority: standard
+Homepage: http://hackulo.us
+Description: Crackulous is a revolutionary new iPhone application that allows anyone to crack applications and share them with the community!
+Author: Angel <crackulous@hackulo.us>
+Depiction: http://hackulo.us/depictions/crackulous
+Name: Crackulous
+Sponsor: Hackulo.us <http://hackulo.us>
+
+Package: us.hackulo.crackulous
+Version: 1.0.0.5
+Architecture: iphoneos-arm
+Maintainer: Dissident <apps@hackulo.us>
+Pre-Depends: firmware (>= 4.0)
+Depends: zip, com.hackulo.us.sourcegui
+Filename: package_debian_A1/crackulous-1.0.0.5.deb
+Size: 1189192
+MD5sum: 4acea10c97360993eec91620fd9ff8fc
+SHA1: 137666551011f72b4888f60671e8f463065146cd
+SHA256: bf48b5c6bc2ca709c1ad7fdb3bb0c57568d6508d882184e9c100e986c7bfc898
+Section: Hackulo.us
+Priority: standard
+Description: Crackulous is an easy-to-use cracking utility.
+Author: Docmorelli <apps@hackulo.us>
+Depiction: http://hackulo.us/depict/crackulous/
+Name: Crackulous
+Sponsor: Hackulo.us <http://hackulo.us>
+
+Package: us.hackulo.metadataremovr
+Version: 1.6
+Architecture: iphoneos-arm
+Maintainer: Dissident <apps@hackulo.us>
+Pre-Depends: firmware (>= 3.1)
+Depends: us.hackulo.security, com.hackulo.us.sourcegui
+Filename: package_debian_A1/metadataremovr-1.6.deb
+Size: 336878
+MD5sum: 09fb48e38adb6049ffea8e6909378987
+SHA1: 1b6a952f22a10abdcd0737f08f351b5dbcc84c1f
+SHA256: 25838bb4d81356066c56bd9e6fa586921fab17eb4586774b59f10597b2f43a61
+Section: Hackulo.us
+Priority: standard
+Description: MetadataRemovr is a utility which cleans cracked metadata files to remove AppStore updates for cracked apps.
+Author: Neon <apps@hackulo.us>
+Depiction: http://hackulo.us/depict/metadataremovr/
+Name: MetadataRemovr
+Sponsor: Hackulo.us <http://hackulo.us>
+
+Package: us.hackulo.resources
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Dissident <apps@hackulo.us>
+Filename: package_debian_A1/hresources-1.0.deb
+Size: 1046
+MD5sum: ec0e175eb6a8195345cbcf0ebc8ec930
+SHA1: c221918284dac110c73d437b28c8806291260651
+SHA256: b5874ba04f65c3bfea724d17aaa88da0bb5021ae2e3258c54a66b8cf2679807a
+Section: Hackulo.us
+Priority: standard
+Description: Hackulous resource files for Installous.
+Author: docmorelli <apps@hackulo.us>
+Name: Hackulous Resources
+Sponsor: Hackulo.us <http://hackulo.us>
+
+Package: us.hackulo.resources
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Dissident <apps@hackulo.us>
+Filename: package_debian_A1/hresources-1.1.deb
+Size: 1092
+MD5sum: 5874a15458fafd1a310eb307dca97948
+SHA1: bbc4482dad5f04bf44ed614ab48091e930d4342d
+SHA256: e3e15484d800725428ef70d4310deb039b28c4a34090f961b8ffe408cee8a510
+Section: Hackulo.us
+Priority: standard
+Description: Hackulous resource files for Installous.
+Author: docmorelli <apps@hackulo.us>
+Name: Hackulous Resources
+Sponsor: Hackulo.us <http://hackulo.us>
+
+Package: us.hackulo.resources
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Dissident <apps@hackulo.us>
+Filename: package_debian_A1/hresources-1.2.deb
+Size: 1092
+MD5sum: 9a4974f29a9b8ca8a982f2731064f912
+SHA1: 5573be76d7408db7f431d0280c596cd096ba8717
+SHA256: e87610f3bb9734c8a0d519282bb3d427dc56985901898dacb70e60fb3e0e256d
+Section: Hackulo.us
+Priority: standard
+Description: Hackulous resource files for Installous.
+Author: docmorelli <apps@hackulo.us>
+Name: Hackulous Resources
+Sponsor: Hackulo.us <http://hackulo.us>
+
+Package: us.hackulo.resources
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Dissident <apps@hackulo.us>
+Filename: package_debian_A1/hresources-1.3.deb
+Size: 1142
+MD5sum: d1518fccb7b8eb2fc88e4ad605059b73
+SHA1: 7d611740f83f57df3693594d87afb5897243fb5b
+SHA256: d490bbf1707d6ff18b25308fb3c0b8ee9b047d23e7e080029aacca616efcb13a
+Section: Hackulo.us
+Priority: standard
+Description: Hackulous resource files for Installous.
+Author: docmorelli <apps@hackulo.us>
+Name: Hackulous Resources
+Sponsor: Hackulo.us <http://hackulo.us>
+
+Package: us.hackulo.resources
+Version: 1.3.1
+Architecture: iphoneos-arm
+Maintainer: Dissident <apps@hackulo.us>
+Filename: package_debian_A1/hresources-1.3.1.deb
+Size: 1162
+MD5sum: fc2cb6e041bf35b1c50548cf0106fac9
+SHA1: 42c775eea7a372c13318ca845b08b7ff6ef405b5
+SHA256: 265f87eb6b419c09b89c94f677defdbc6aaa0b6ecc2c4969fc32abe8c317f786
+Section: Hackulo.us
+Priority: standard
+Description: Hackulous resource files for Installous.
+Author: docmorelli <apps@hackulo.us>
+Name: Hackulous Resources
+Sponsor: Hackulo.us <http://hackulo.us>
+
+Package: us.hackulo.resources
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: Dissident <apps@hackulo.us>
+Filename: package_debian_A1/hresources-1.4.deb
+Size: 1162
+MD5sum: c7b03d949aff15822dea1239bc271394
+SHA1: bbcdb7943b181212719837be09d2534352907565
+SHA256: d05733e58b914fa1a56db8cb6d42762933fa359d0ad000f3c7844d5dccd5a498
+Section: Hackulo.us
+Priority: standard
+Description: Hackulous resource files for Installous.
+Author: docmorelli <apps@hackulo.us>
+Name: Hackulous Resources
+Sponsor: Hackulo.us <http://hackulo.us>
+
+Package: us.hackulo.security
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: Genius Blog <admin@hackulo.us>
+Depends: com.hackulo.us.sourcegui, coreutils, openssl, curl, sed
+Filename: package_debian_A1/security.deb
+Size: 2784
+MD5sum: df221ff7bb2f4baf1503b9693b1ca298
+SHA1: 1f588f64db3c9e2599350f7a25856ed03eee22a0
+SHA256: df6a4bd2e8a06608de72d6b0a4ce7a620def7b0104c361123f878b1031528d90
+Section: Hackulo.us
+Priority: standard
+Description: Protects you and your device from malicious websites
+Author: Kyek <hackulous_security@hackulo.us>
+Depiction: http://hackulo.us/depict/security
+Name: Hackulous Security
+Sponsor: Hackulo.us <http://hackulo.us>
+
 Package: uuid
 Version: 1.6.0-2p
 Architecture: iphoneos-arm
@@ -14186,26 +18075,6 @@ Homepage: http://iphone.gsm.vn/moreinfo/info.html
 Description: Giúp cài đặt các Apps đã Crack trên OS3.0
 Author: Reilly <appsync@hackulo.us>
 Name: AppSync for OS 3.0
-
-Package: vn.gsm.appsync31
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: Thieu.Bocap <support@gsm.vn>
-Pre-Depends: firmware (= 3.1) | firmware (= 3.1.1) | firmware (= 3.1.2) | firmware (= 3.1.3)
-Depends: gsmicon
-Conflicts: us.hackulo.appsync31
-Replaces: us.hackulo.appsync31
-Filename: package_debian_A1/appsync31-1.0.1.deb
-Size: 296624
-MD5sum: fdae20ebe41ce13f9dc6ae42594eacea
-SHA1: 9f0870e172ee5f2b5882935d04b1cdee2b85605c
-SHA256: b12cb66c4f981b314887ae2d730c8766393a737f187d7a4fc3d4b0552c45466c
-Section: Tools
-Priority: standard
-Description: Giúp cài đặt các Apps đã Crack trên iPhone OS3.1.x
-Author: Reilly <appsync@hackulo.us>
-Depiction: http://iphone.gsm.vn/moreinfo/appsync3.1.x.php
-Name: AppSync for OS 3.1
 
 Package: vn.gsm.appsync32
 Version: 1.0.2-1
@@ -14776,6 +18645,20 @@ Section: Repositories
 Priority: optional
 Description: this repository has joined The PwnCenter
 Name: ZaneKills (PwnCenter)
+
+Package: zip
+Version: 2.32-5
+Architecture: iphoneos-arm
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Installed-Size: 232
+Filename: package_debian_A1/zip_2.32-5_iphoneos-arm.deb
+Size: 98844
+MD5sum: 57eb3c5dd3e1da6ad15df22ddc91f583
+SHA1: a7d12af6b1811a948962a00d9ed8e6ae379a483d
+SHA256: fee4e63d8808363205bb284c641fc90e16e4a8c7cfd389b4938aab9a161b3a16
+Section: Archiving
+Priority: important
+Description: standard Windows compression tool
 
 Package: zip
 Version: 2.32-6
