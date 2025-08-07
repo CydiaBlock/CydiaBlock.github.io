@@ -60,6 +60,9 @@ jobs:
             sed -i 's/: Terminals/: System/g' Packages
             sed -i 's/: MCPE/: Hacks/g' Packages
             sed -i 's/: Core System/: System/g' Packages
+            sed -i 's/: Hackulo.us/: Tweaks/g' Packages
+            sed -i 's/: iClarified/: Tweaks/g' Packages
+            sed -i 's/: iMods/: DLC/g' Packages
             sed -i '/^Icon:/d' Packages
 
       - name: Compress
