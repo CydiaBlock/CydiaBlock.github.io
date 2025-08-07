@@ -921,7 +921,7 @@ Size: 54064
 MD5sum: ddf83740a2554209eade9374e201da96
 SHA1: b0c84ee61130822882fc17e469bfc7fce7998e74
 SHA256: 106ea5a684597c468baccb754f33790b7bf22a7ce7b6338b1ed1904071de2f36
-Section: iMods
+Section: DLC
 Description: Dodawaj własne odpowiedzi dla SiRi
 Author: Philippe
 Depiction: http://repo.applemod.pl/repoinfo/irireplies
@@ -2367,13 +2367,13 @@ Size: 2515886
 MD5sum: fc2da034e9c9d4413739fb103d899483
 SHA1: ed6d38087fcc148b1aa9f78d6bc89b5501c15f33
 SHA256: bf0f5a6bb7b4fbc519db6b51fab03e1b2c2aa98bd50b933955018cec415bf37c
-Section: Hackulo.us
+Section: Tweaks
 Priority: standard
 Description: Installous is the perfect app to install your IPAs
 Author: docmorelli <apps@hackulo.us>
 Depiction: http://hackulo.us/depict/installous4/
 Name: Installous 4
-Sponsor: Hackulo.us <http://hackulo.us>
+Sponsor: Tweaks <http://hackulo.us>
 
 Package: com.hackulo.us.installous
 Version: 4.1
@@ -2386,13 +2386,13 @@ Size: 2327832
 MD5sum: c786535300999fce4d7ee5132933502a
 SHA1: 2d5032a1f4548f1c8b430d3015bce1ec9f3386a2
 SHA256: d3403c24efd7b4947d1c5a1a1b6f5e5624fae5d3a85d33d440cfa56efa8b8600
-Section: Hackulo.us
+Section: Tweaks
 Priority: standard
 Description: Installous is the perfect app to install your IPAs
 Author: docmorelli <apps@hackulo.us>
 Depiction: http://hackulo.us/depict/installous4/
 Name: Installous 4
-Sponsor: Hackulo.us <http://hackulo.us>
+Sponsor: Tweaks <http://hackulo.us>
 
 Package: com.hackulo.us.installous
 Version: 4.2
@@ -2405,13 +2405,13 @@ Size: 2613230
 MD5sum: b10eb95bbacf8dfe8dcdebfb4be67354
 SHA1: ce1f843ce36fa239e0f95c8e080a3c80681887ba
 SHA256: dba1bdaef498a34730393512ec3708b79c8e53d6055be8944d44f00b2d3a1c33
-Section: Hackulo.us
+Section: Tweaks
 Priority: standard
 Description: Installous is the perfect app to install your IPAs
 Author: docmorelli <apps@hackulo.us>
 Depiction: http://hackulo.us/depict/installous4/
 Name: Installous 4
-Sponsor: Hackulo.us <http://hackulo.us>
+Sponsor: Tweaks <http://hackulo.us>
 
 Package: com.hackulo.us.installous
 Version: 4.2
@@ -2424,13 +2424,13 @@ Size: 2613228
 MD5sum: 0ac123bd18b0c28ba443ea96462610bc
 SHA1: a43bc6d92693a0607e91dad3483430cfe29b86a7
 SHA256: c0a44c8c3e7acd51a65af9d5fe670c2c0475d5e0cd870628778e9813d8fd467c
-Section: Hackulo.us
+Section: Tweaks
 Priority: standard
 Description: Installous is the perfect app to install your IPAs
 Author: docmorelli <apps@hackulo.us>
 Depiction: http://hackulo.us/depict/installous4/
 Name: Installous 4
-Sponsor: Hackulo.us <http://hackulo.us>
+Sponsor: Tweaks <http://hackulo.us>
 
 Package: com.hackulo.us.installous
 Version: 4.3
@@ -2443,13 +2443,13 @@ Size: 3674780
 MD5sum: 906b002dc5638b75e825819d47500a04
 SHA1: 4b14714fd2a71f963f7dc1a18fa590203178970e
 SHA256: 9c6e82ccd43b095ba7855560d13e208d2dc83c1710c40bc298d33375904d108e
-Section: Hackulo.us
+Section: Tweaks
 Priority: standard
 Description: Installous is the perfect app to install your IPAs
 Author: docmorelli <apps@hackulo.us>
 Depiction: http://hackulo.us/depict/installous4/
 Name: Installous 4
-Sponsor: Hackulo.us <http://hackulo.us>
+Sponsor: Tweaks <http://hackulo.us>
 
 Package: com.hackulo.us.installous
 Version: 4.3-1
@@ -2462,13 +2462,13 @@ Size: 3646804
 MD5sum: 71447e0fc98cceaf780c3fcfb1f9dc1d
 SHA1: 588fe69091124d31dfb954ae42ec98e4340015db
 SHA256: 96c2a885961d533284132da1b0a35c97810ab55857db2d9ea348f41d86526a35
-Section: Hackulo.us
+Section: Tweaks
 Priority: standard
 Description: Installous is the perfect app to install your IPAs
 Author: docmorelli <apps@hackulo.us>
 Depiction: http://hackulo.us/depict/installous4/
 Name: Installous 4
-Sponsor: Hackulo.us <http://hackulo.us>
+Sponsor: Tweaks <http://hackulo.us>
 
 Package: com.hackulo.us.installous
 Version: 4.4
@@ -2481,13 +2481,13 @@ Size: 11397910
 MD5sum: 6c06c74fc5f1bdc8779005d92285cd02
 SHA1: f470e10e335418d195cfcd64358dadb66c5dbebd
 SHA256: 231bfd7a6bbeb6b247d90c986089dfacd0db99540990a94db470423d04b5f094
-Section: Hackulo.us
+Section: Tweaks
 Priority: standard
 Description: Installous is the perfect app to install your IPAs
 Author: docmorelli <apps@hackulo.us>
 Depiction: http://hackulo.us/depict/installous4/
 Name: Installous 4
-Sponsor: Hackulo.us <http://hackulo.us>
+Sponsor: Tweaks <http://hackulo.us>
 
 Package: com.hackulo.us.installous
 Version: 4.4.1
@@ -2500,13 +2500,13 @@ Size: 3754126
 MD5sum: ec6dffebd628a202809d6ac57575bdc7
 SHA1: b72a01977e1a2c5e16acef776ebb6e911badb6a4
 SHA256: f823ac9b6bcd632e25a48ce196ef8fa65fa735141b1f4e2e21fa428ccc00b650
-Section: Hackulo.us
+Section: Tweaks
 Priority: standard
 Description: Installous is the perfect app to install your IPAs
 Author: docmorelli <apps@hackulo.us>
 Depiction: http://hackulo.us/depict/installous4/
 Name: Installous 4
-Sponsor: Hackulo.us <http://hackulo.us>
+Sponsor: Tweaks <http://hackulo.us>
 
 Package: com.hackulo.us.installous
 Version: 4.4.2
@@ -2519,13 +2519,13 @@ Size: 3754546
 MD5sum: 8449a76af73f71d576bddb2cdac9a994
 SHA1: 4d37cc7b3fef6ddd4af19be9caad62e9e21ea6fc
 SHA256: 39e49feb1628432efd0888e7065e52cab57dfc3af0b8af3047fb40c7fa77f26d
-Section: Hackulo.us
+Section: Tweaks
 Priority: standard
 Description: Installous is the perfect app to install your IPAs
 Author: docmorelli <apps@hackulo.us>
 Depiction: http://hackulo.us/depict/installous4/
 Name: Installous 4
-Sponsor: Hackulo.us <http://hackulo.us>
+Sponsor: Tweaks <http://hackulo.us>
 
 Package: com.hackulo.us.installous
 Version: 5.0-10
@@ -2538,13 +2538,13 @@ Size: 5317786
 MD5sum: 5220a2028bd94f536913b29e8b2037be
 SHA1: 5aff12155ebe9f09e178197fdac3b7cb5438a973
 SHA256: 28fc3baa4af0f4d5d971bc13bbe537ae24bae0beb8d45b376566a22fd620ef3c
-Section: Hackulo.us
+Section: Tweaks
 Priority: standard
 Description: Installous is the perfect app to install your IPAs
 Author: docmorelli <apps@hackulo.us>
 Depiction: http://hackulo.us/depict/installous5/
 Name: Installous 5
-Sponsor: Hackulo.us <http://hackulo.us>
+Sponsor: Tweaks <http://hackulo.us>
 
 Package: com.hackulo.us.installous
 Version: 5.0-9
@@ -2557,13 +2557,13 @@ Size: 5313450
 MD5sum: 8a2570eb62a5a77d72f30941cd55c01f
 SHA1: d5c3b702adb69661b26cda658c3db30a0aa719a2
 SHA256: 3f516a5d8c38cae1f73f98568500f39c1ce8f8260781c19fb6a7279e14c6ac43
-Section: Hackulo.us
+Section: Tweaks
 Priority: standard
 Description: Installous is the perfect app to install your IPAs
 Author: docmorelli <apps@hackulo.us>
 Depiction: http://hackulo.us/depict/installous5/
 Name: Installous 5
-Sponsor: Hackulo.us <http://hackulo.us>
+Sponsor: Tweaks <http://hackulo.us>
 
 Package: com.hackulo.us.installous
 Version: 5.0.1-1
@@ -2576,13 +2576,13 @@ Size: 5327346
 MD5sum: 17987749c9da3564e19477b5f006dd78
 SHA1: 06950bccc593f416f0a63c4a2402b1f8dd864f45
 SHA256: e8d110dfef5d589c957d1464bfea742344d4900d33bfe3f5d8ae686a74cf7c4d
-Section: Hackulo.us
+Section: Tweaks
 Priority: standard
 Description: Installous is the perfect app to install your IPAs
 Author: docmorelli <apps@hackulo.us>
 Depiction: http://hackulo.us/depict/installous5/
 Name: Installous 5
-Sponsor: Hackulo.us <http://hackulo.us>
+Sponsor: Tweaks <http://hackulo.us>
 
 Package: com.hackulo.us.installous
 Version: 5.0.2-1
@@ -2595,13 +2595,13 @@ Size: 5328192
 MD5sum: f0b182b3fbb340d4e58f1304d890abce
 SHA1: 2c2aed45863b37283bd9bede08163662d44a853e
 SHA256: fcf07e1d1ac882341c85cadc9d59bf9d99ba8a16b5937887e69027fed4e1dadf
-Section: Hackulo.us
+Section: Tweaks
 Priority: standard
 Description: Installous is the perfect app to install your IPAs
 Author: docmorelli <apps@hackulo.us>
 Depiction: http://hackulo.us/depict/installous5/
 Name: Installous 5
-Sponsor: Hackulo.us <http://hackulo.us>
+Sponsor: Tweaks <http://hackulo.us>
 
 Package: com.hackulo.us.installous
 Version: 5.0.2-2
@@ -2614,13 +2614,13 @@ Size: 5328190
 MD5sum: 0c6646c9a0231ba28b79f3b41c187245
 SHA1: 48e77e7a080503d474a87550a9cecc06d91476b6
 SHA256: e02e171f5b683c6e9ce392136a25967d043f54c690fc99349adb0272c1bfba4a
-Section: Hackulo.us
+Section: Tweaks
 Priority: standard
 Description: Installous is the perfect app to install your IPAs
 Author: docmorelli <apps@hackulo.us>
 Depiction: http://hackulo.us/depict/installous5/
 Name: Installous 5
-Sponsor: Hackulo.us <http://hackulo.us>
+Sponsor: Tweaks <http://hackulo.us>
 
 Package: com.hackulo.us.installous
 Version: 5.0.3-1
@@ -2633,13 +2633,13 @@ Size: 5326030
 MD5sum: 42e48c376dcedbefd0c5bc6876310e45
 SHA1: 14cc8f1ffb1e625bb57020f764f4e518b6d709f5
 SHA256: 4baf768abe97799850d5e5ffb53e9cd052ea5d413d7441f0cd57b4b1ae4dcf32
-Section: Hackulo.us
+Section: Tweaks
 Priority: standard
 Description: Installous is the perfect app to install your IPAs
 Author: docmorelli <apps@hackulo.us>
 Depiction: http://hackulo.us/depict/installous5/
 Name: Installous 5
-Sponsor: Hackulo.us <http://hackulo.us>
+Sponsor: Tweaks <http://hackulo.us>
 
 Package: com.hackulo.us.sourcegui
 Version: 1.2
@@ -2650,13 +2650,13 @@ Size: 8518
 MD5sum: c60b66d9fc23710ddb5a149a535951fd
 SHA1: 66c7a0233dcdae976c169b483e790a7e92bb1de3
 SHA256: ab54749833ed2e9c16754a3fdf692e94004b3495ab7a08d11c2085e6e21130fb
-Section: Hackulo.us
+Section: Tweaks
 Priority: standard
-Description: Hackulo.us Source GUI adds the source icons
+Description: Tweaks Source GUI adds the source icons
 Author: Genius Blog <admin@hackulo.us>
 Depiction: http://hackulo.us/depict/sourcegui
 Name: Source GUI
-Sponsor: Hackulo.us <http://hackulo.us>
+Sponsor: Tweaks <http://hackulo.us>
 
 Package: com.hackyouriphone.classiclockscreen
 Version: 3.3.1k
@@ -2765,14 +2765,14 @@ Name: MobileHook
 Package: com.iclarified.cydia.pysl200
 Version: 2.0b2
 Architecture: iphoneos-arm
-Maintainer: iClarified <support@iClarified.com>
+Maintainer: Tweaks <support@iClarified.com>
 Depends: mobilesubstrate
 Filename: package_debian_A1/pysl200.deb
 Size: 260490
 MD5sum: 7397d95bc86cda0a9509ae2be55597cc
 SHA1: aac8e735ec03f776bf8877000f99371a64639a44
 SHA256: 47dce5ea42b267cfbb485b197f1366fdd7470460b429b990d1264c05a62e98c1
-Section: iClarified
+Section: Tweaks
 Homepage: http://cydia.iClarified.com/moreinfo/pysl200.php
 Description: Call and SMS filtering tool for iPhone.  Secure your private SMS messages and stay relaxed !
 Author: Rikk <Rikk_2003@hotmail.com>
@@ -4646,7 +4646,7 @@ Size: 1246
 MD5sum: b696461ca2f9e78b9d21138f26a54733
 SHA1: 34b6096e5d46e155f14dbde33c1ec514146d3065
 SHA256: 9dda520c23b0f084da8f4b8fda237bb2bdb2c7df5fb896454ca3d94766b45077
-Section: iMods
+Section: DLC
 Priority: Standard
 Homepage: http://insanelyi.com
 Description: 9mm DLC Unlocker - Adds 100,000,000 of Cash
@@ -4723,7 +4723,7 @@ Size: 1156
 MD5sum: 7aab4621de66e69b154814c6825badcf
 SHA1: aa0e010d51332242e5300fd784da957e6e8ba04f
 SHA256: 61cc309d21344dc2c6cde1057d107bdf7f292d5e3bbe8e871f753e21e06b85b8
-Section: iMods
+Section: DLC
 Priority: Standard
 Homepage: http://insanelyi.com
 Description: Lets Golf 3 DLC Unlocker
@@ -6362,7 +6362,7 @@ Name: Inter-Client Exchange
 Package: iclarified.com
 Version: 0-1
 Architecture: iphoneos-arm
-Maintainer: iClarified <development@iClarified.com>
+Maintainer: Tweaks <development@iClarified.com>
 Installed-Size: 28
 Filename: package_debian_A1/iclarified.com_0-1_iphoneos-arm.deb
 Size: 824
@@ -6372,7 +6372,7 @@ SHA256: 76506a8c7fd3c4560692074c18a19e23fbf38079c043373f05e856e8cad402f8
 Section: Repositories
 Priority: optional
 Description: repository from iClarified ;P
-Name: iClarified's Source
+Name: Tweaks's Source
 
 Package: ifon1.no
 Version: 0-2
@@ -17386,13 +17386,13 @@ Size: 296542
 MD5sum: 534080636c26e40d3efbdf195f3bfdfb
 SHA1: 2e3be3668f26c9d4ac7b796042aa7b05184fe4ae
 SHA256: c0975018be2f1fe73eaeadce9a3c4ead17ab01b08eb41bd11a82b2f83c60fb70
-Section: Hackulo.us
+Section: Tweaks
 Priority: standard
 Description: AppSync patches the installd file on your device
 Author: Reilly <appsync@hackulo.us>
 Depiction: http://hackulo.us/depict/appsync31/
 Name: AppSync for OS 3.1
-Sponsor: Hackulo.us <http://hackulo.us>
+Sponsor: Tweaks <http://hackulo.us>
 
 Package: us.hackulo.appsync31
 Version: 1.0.2
@@ -17406,13 +17406,13 @@ Size: 296564
 MD5sum: 78c9291797041703656194d2faa704d5
 SHA1: c25c2708c8ae6557d0154eb08ae5622c3f2ed90b
 SHA256: 648058977902b6da3dfcfa751036edc0c91557c9446045237be7d2572ce39dc0
-Section: Hackulo.us
+Section: Tweaks
 Priority: standard
 Description: AppSync patches the installd file on your device
 Author: Reilly <appsync@hackulo.us>
 Depiction: http://hackulo.us/depict/appsync31/
 Name: AppSync for OS 3.1
-Sponsor: Hackulo.us <http://hackulo.us>
+Sponsor: Tweaks <http://hackulo.us>
 
 Package: us.hackulo.appsync32
 Version: 1.0.1-3
@@ -17425,13 +17425,13 @@ Size: 274594
 MD5sum: 0a8fa6363baa0e9eee6381cf84b16c77
 SHA1: b1afb4c3c0c83c0dde8eb0d53602b5c7cdfb10fe
 SHA256: 29b84ed428c5f024b4362f65e25d2645b38bf385365748b0ba4a8aafaf3dafbb
-Section: Hackulo.us
+Section: Tweaks
 Priority: standard
 Description: AppSync patches the installd file on your device
 Author: Dissident <apps@hackulo.us>
 Depiction: http://hackulo.us/depict/appsync32/
 Name: AppSync for OS 3.2
-Sponsor: Hackulo.us <http://hackulo.us>
+Sponsor: Tweaks <http://hackulo.us>
 
 Package: us.hackulo.appsync32
 Version: 1.0.2
@@ -17445,13 +17445,13 @@ Size: 274604
 MD5sum: b929f7ee7178df882e31cb34f78c99db
 SHA1: 9e45cce1063f42f2907544ef15d05037108d8354
 SHA256: d2125434b2bcc895cf2c65e7cf0d9d89d7c4143ffccdbf09466e77f7f89b86d8
-Section: Hackulo.us
+Section: Tweaks
 Priority: standard
 Description: AppSync patches the installd file on your device
 Author: Dissident <apps@hackulo.us>
 Depiction: http://hackulo.us/depict/appsync32/
 Name: AppSync for OS 3.2
-Sponsor: Hackulo.us <http://hackulo.us>
+Sponsor: Tweaks <http://hackulo.us>
 
 Package: us.hackulo.appsync40
 Version: 1.0.2
@@ -17464,13 +17464,13 @@ Size: 285514
 MD5sum: 2f5d1dcdf9ca5173efd501ab2e88761f
 SHA1: b19d074b59ecda3d95a00620b4fd1699d11bc72c
 SHA256: 7009e14f630ae4ddcbea4d7c8723d1050e4301b5dd433cf17077578ea9811031
-Section: Hackulo.us
+Section: Tweaks
 Priority: standard
 Description: AppSync patches the installd file on your device
 Author: Reilly <appsync@hackulo.us>
 Depiction: http://hackulo.us/depict/appsync40/
 Name: AppSync for OS 4.0
-Sponsor: Hackulo.us <http://hackulo.us>
+Sponsor: Tweaks <http://hackulo.us>
 
 Package: us.hackulo.appsync40plus
 Version: 1.0
@@ -17483,12 +17483,12 @@ Size: 772
 MD5sum: b012cb430cbb35287346cccd77fa621d
 SHA1: fb91777a12430703231b82953c8b8ba47ac8f1f2
 SHA256: ceaaa46057e2b757d74862b210ce4f5a06ac14f28052b3dd03dac5314306d6a7
-Section: Hackulo.us
+Section: Tweaks
 Priority: standard
 Description: AppSync allows you to sync and install cracked iOS applications.
 Author: Dissident <apps@hackulo.us>
 Name: AppSync for 4.0+
-Sponsor: Hackulo.us <http://hackulo.us>
+Sponsor: Tweaks <http://hackulo.us>
 
 Package: us.hackulo.appsync40plus
 Version: 1.1-3
@@ -17501,12 +17501,12 @@ Size: 8390
 MD5sum: 6cfcb83dae0ffb9c6b7ca859f34dd89d
 SHA1: 5462ee29f044470830593d0e2db89efa4e9aa22d
 SHA256: d6cdca5717698f7aa6f74c783ea507e5099842bd664a4302d975e2e11598b4c3
-Section: Hackulo.us
+Section: Tweaks
 Priority: standard
 Description: AppSync allows you to sync and install cracked iOS applications.
 Author: Dissident <apps@hackulo.us>
 Name: AppSync for 4.0+
-Sponsor: Hackulo.us <http://hackulo.us>
+Sponsor: Tweaks <http://hackulo.us>
 
 Package: us.hackulo.appsync40plus
 Version: 1.1-4
@@ -17519,12 +17519,12 @@ Size: 8390
 MD5sum: c7cd64b35e1e22b5fd41e0edad9d1d63
 SHA1: cb2b430016bf59fc2a2cd5e329a8550424bef69e
 SHA256: 81ceab7d80d7102fe45978582b61f9f581e414532020e0018fee2451cf0bba68
-Section: Hackulo.us
+Section: Tweaks
 Priority: standard
 Description: AppSync allows you to sync and install cracked iOS applications.
 Author: Dissident <apps@hackulo.us>
 Name: AppSync for 4.0+
-Sponsor: Hackulo.us <http://hackulo.us>
+Sponsor: Tweaks <http://hackulo.us>
 
 Package: us.hackulo.appsync40plus
 Version: 1.1-5
@@ -17537,12 +17537,12 @@ Size: 9170
 MD5sum: 98ae1b0c0b1539aa9df041df05cb0911
 SHA1: b300b00bd5395166df38f2d55837c6202345dc8f
 SHA256: 98258f9fa14668bb014903936c78e73b1efb5ef1a84caf4d2317d21e074be133
-Section: Hackulo.us
+Section: Tweaks
 Priority: standard
 Description: AppSync allows you to sync and install cracked iOS applications.
 Author: Dissident <apps@hackulo.us>
 Name: AppSync for 4.0+
-Sponsor: Hackulo.us <http://hackulo.us>
+Sponsor: Tweaks <http://hackulo.us>
 
 Package: us.hackulo.appsync40plus
 Version: 1.1-6
@@ -17555,12 +17555,12 @@ Size: 9164
 MD5sum: b11e63072ed194b26033ec84ff440798
 SHA1: affc7f842a0bf2ffbfb7b2509dff0b0d9d713a5e
 SHA256: faeed4152d7909e696e1c905f9386d90a1e14036882f61356ce7847c24e9ec74
-Section: Hackulo.us
+Section: Tweaks
 Priority: standard
 Description: AppSync allows you to sync and install cracked iOS applications.
 Author: Dissident <apps@hackulo.us>
 Name: AppSync for 4.0+
-Sponsor: Hackulo.us <http://hackulo.us>
+Sponsor: Tweaks <http://hackulo.us>
 
 Package: us.hackulo.appsync41
 Version: 1.0.1
@@ -17573,13 +17573,13 @@ Size: 270612
 MD5sum: d48daa3a36e9a9e9ae245a2aadff9b95
 SHA1: 41b10155db8eaacd8e5d84c10df6af60752ecdaa
 SHA256: ac4f84fbb6ca9544d29f4d9dd308f28bdd0e5991085d483e825d7986a6d9858f
-Section: Hackulo.us
+Section: Tweaks
 Priority: standard
 Description: AppSync patches the installd file on your device
 Author: Reilly <appsync@hackulo.us>
 Depiction: http://hackulo.us/depict/appsync41/
 Name: AppSync for OS 4.1
-Sponsor: Hackulo.us <http://hackulo.us>
+Sponsor: Tweaks <http://hackulo.us>
 
 Package: us.hackulo.appsync42
 Version: 1.0-1
@@ -17592,13 +17592,13 @@ Size: 242292
 MD5sum: 9b4fafbdb1771c96f483dba2c7a6d1e3
 SHA1: 9106ad4a4458eb621b8a4b58010e0389956de85c
 SHA256: a9cfd3393c68a3ac9962a6ec15c8015621a8ed2988a260af9c9d7e9ec9d831c8
-Section: Hackulo.us
+Section: Tweaks
 Priority: standard
 Description: AppSync patches the installd file on your device
 Author: Reilly <appsync@hackulo.us>
 Depiction: http://hackulo.us/depict/appsync42/
 Name: AppSync for OS 4.2
-Sponsor: Hackulo.us <http://hackulo.us>
+Sponsor: Tweaks <http://hackulo.us>
 
 Package: us.hackulo.appsync50
 Version: 1.0.0
@@ -17612,13 +17612,13 @@ Size: 239464
 MD5sum: d692fe350bc62742e985f1252fec9328
 SHA1: b3b831217ae562514a16962dfdd97dc58386df57
 SHA256: 3506517086b057cb03568b2325b3a24d814b02a4e53f08e7c42f92fb46231f56
-Section: Hackulo.us
+Section: Tweaks
 Priority: standard
 Description: AppSync patches the installd file on your device
 Author: Dissident <apps@hackulo.us>
 Depiction: http://hackulo.us/depict/appsync50/
 Name: AppSync for OS 5
-Sponsor: Hackulo.us <http://hackulo.us>
+Sponsor: Tweaks <http://hackulo.us>
 
 Package: us.hackulo.appsync50
 Version: 1.0.1
@@ -17632,13 +17632,13 @@ Size: 239640
 MD5sum: 1c094a97c34965e899b486ece2cbe1f8
 SHA1: 28913ddb0db06aba1d376fe5ee8a7a2a23293918
 SHA256: fdc3181b4390fbc4c96809c427409f52f13f1f6353c26af5bc676bf984ff5cfd
-Section: Hackulo.us
+Section: Tweaks
 Priority: standard
 Description: AppSync patches the installd file on your device
 Author: Dissident <apps@hackulo.us>
 Depiction: http://hackulo.us/depict/appsync50/
 Name: AppSync for OS 5
-Sponsor: Hackulo.us <http://hackulo.us>
+Sponsor: Tweaks <http://hackulo.us>
 
 Package: us.hackulo.appsync50
 Version: 1.0.2
@@ -17652,13 +17652,13 @@ Size: 239684
 MD5sum: f25b166b060ee7c4a855519cf059c511
 SHA1: 7e982d9e7b78def67d1d87616d8c3ee3398acaf3
 SHA256: 42ef25b4cf99623486cd47587f462b28570da7303de57d30072ebeab9764d05a
-Section: Hackulo.us
+Section: Tweaks
 Priority: standard
 Description: AppSync patches the installd file on your device
 Author: Dissident <apps@hackulo.us>
 Depiction: http://hackulo.us/depict/appsync50/
 Name: AppSync for OS 5
-Sponsor: Hackulo.us <http://hackulo.us>
+Sponsor: Tweaks <http://hackulo.us>
 
 Package: us.hackulo.appsync50plus
 Version: 1.0
@@ -17673,12 +17673,12 @@ Size: 11300
 MD5sum: f1982f3f660e91556d13612ab75393b7
 SHA1: 2b1d8936b515e489f5e8e393e494f246bcb28f26
 SHA256: c0b92473c9fab968f850fac8879b9f59d6a238c95472e3e4bf79ec0e87c4b906
-Section: Hackulo.us
+Section: Tweaks
 Priority: standard
 Description: AppSync allows you to sync and install cracked iOS applications.
 Author: Dissident <apps@hackulo.us>
 Name: AppSync for iOS 5.0+
-Sponsor: Hackulo.us <http://hackulo.us>
+Sponsor: Tweaks <http://hackulo.us>
 
 Package: us.hackulo.appsync50plus
 Version: 2.0
@@ -17693,12 +17693,12 @@ Size: 4364
 MD5sum: 70f987dc1df18efc7fff0c8eabb59f45
 SHA1: ad1379b4363a8a851428149ef7a3b4abdd8679c0
 SHA256: 1d5b04713af90ffa1774fc8571c0499578b3cb7172c12e7a7cdaec9de42f8f6d
-Section: Hackulo.us
+Section: Tweaks
 Priority: standard
 Description: AppSync allows you to sync and install cracked iOS applications.
 Author: Dissident <apps@hackulo.us>
 Name: AppSync for iOS 5.0+
-Sponsor: Hackulo.us <http://hackulo.us>
+Sponsor: Tweaks <http://hackulo.us>
 
 Package: us.hackulo.appsync50plus
 Version: 2.0-1
@@ -17713,12 +17713,12 @@ Size: 4376
 MD5sum: 77f4a7bc9ee4922906eba9f4a19ce7fc
 SHA1: bc5f66aa4c6d15d3b99afec4410c4762c2036ebd
 SHA256: 43a88df9c4a9822db43fea0136c95ba2111c51daec8da0965ada8c73b50a8f6f
-Section: Hackulo.us
+Section: Tweaks
 Priority: standard
 Description: AppSync allows you to sync and install cracked iOS applications.
 Author: Dissident <apps@hackulo.us>
 Name: AppSync for iOS 5.0+
-Sponsor: Hackulo.us <http://hackulo.us>
+Sponsor: Tweaks <http://hackulo.us>
 
 Package: us.hackulo.appsync50plus
 Version: 2.1
@@ -17734,12 +17734,12 @@ Size: 4384
 MD5sum: 1452c7f3998f18f0c6f138bf0654a424
 SHA1: 769628c6e77558964bdd50b222dd1e03b2968460
 SHA256: 52642810cc7bd890aac7e1d16a5871d483e2a3cc7494cd137008228f64cabb6e
-Section: Hackulo.us
+Section: Tweaks
 Priority: standard
 Description: AppSync allows you to sync and install cracked iOS applications.
 Author: Dissident <apps@hackulo.us>
 Name: AppSync for iOS 5.0+
-Sponsor: Hackulo.us <http://hackulo.us>
+Sponsor: Tweaks <http://hackulo.us>
 
 Package: us.hackulo.appsync50plus
 Version: 2.1
@@ -17755,12 +17755,12 @@ Size: 4486
 MD5sum: 7da99b36f31882ba6d4ecb3c80d66e84
 SHA1: d0d63b4e48dfda2418bf9b06c859f5beaad6d033
 SHA256: 97ca267699d6522b79a5b49c9ae935767028814ca2998fbd9a894a70fbd5840c
-Section: Hackulo.us
+Section: Tweaks
 Priority: standard
 Description: AppSync allows you to sync and install cracked iOS applications.
 Author: Dissident <apps@hackulo.us>
 Name: AppSync for iOS 5.0+
-Sponsor: Hackulo.us <http://hackulo.us>
+Sponsor: Tweaks <http://hackulo.us>
 
 Package: us.hackulo.appsync50plus
 Version: 2.2
@@ -17775,12 +17775,12 @@ Size: 4454
 MD5sum: 8240e5ee73e8d0855a2e0add176bc6d6
 SHA1: cda5c1e471a14aa12262e2daed27431c58fc97ee
 SHA256: 732cbe80f290121cd9502a06fc8be401cdc4c6152000ddb7f3d712d052ff00e9
-Section: Hackulo.us
+Section: Tweaks
 Priority: standard
 Description: AppSync allows you to sync and install cracked iOS applications.
 Author: Dissident <apps@hackulo.us>
 Name: AppSync for iOS 5.0+
-Sponsor: Hackulo.us <http://hackulo.us>
+Sponsor: Tweaks <http://hackulo.us>
 
 Package: us.hackulo.crackulous
 Version: 0.9
@@ -17792,14 +17792,14 @@ Size: 156748
 MD5sum: d86615bc08e4d502b9d5441ecfeebb75
 SHA1: d3a06dce103fd614f775623ecdcff97b0d424379
 SHA256: adf638b89b960bf841d054264ca63856e5492d57a866b9df3be10bbebffff0e7
-Section: Hackulo.us
+Section: Tweaks
 Priority: standard
 Homepage: http://hackulo.us
 Description: Crackulous is a revolutionary new iPhone application that allows anyone to crack applications and share them with the community!
 Author: Angel <crackulous@hackulo.us>
 Depiction: http://hackulo.us/depictions/crackulous
 Name: Crackulous
-Sponsor: Hackulo.us <http://hackulo.us>
+Sponsor: Tweaks <http://hackulo.us>
 
 Package: us.hackulo.crackulous
 Version: 1.0.0.5
@@ -17812,13 +17812,13 @@ Size: 1189192
 MD5sum: 4acea10c97360993eec91620fd9ff8fc
 SHA1: 137666551011f72b4888f60671e8f463065146cd
 SHA256: bf48b5c6bc2ca709c1ad7fdb3bb0c57568d6508d882184e9c100e986c7bfc898
-Section: Hackulo.us
+Section: Tweaks
 Priority: standard
 Description: Crackulous is an easy-to-use cracking utility.
 Author: Docmorelli <apps@hackulo.us>
 Depiction: http://hackulo.us/depict/crackulous/
 Name: Crackulous
-Sponsor: Hackulo.us <http://hackulo.us>
+Sponsor: Tweaks <http://hackulo.us>
 
 Package: us.hackulo.metadataremovr
 Version: 1.6
@@ -17831,13 +17831,13 @@ Size: 336878
 MD5sum: 09fb48e38adb6049ffea8e6909378987
 SHA1: 1b6a952f22a10abdcd0737f08f351b5dbcc84c1f
 SHA256: 25838bb4d81356066c56bd9e6fa586921fab17eb4586774b59f10597b2f43a61
-Section: Hackulo.us
+Section: Tweaks
 Priority: standard
 Description: MetadataRemovr is a utility which cleans cracked metadata files to remove AppStore updates for cracked apps.
 Author: Neon <apps@hackulo.us>
 Depiction: http://hackulo.us/depict/metadataremovr/
 Name: MetadataRemovr
-Sponsor: Hackulo.us <http://hackulo.us>
+Sponsor: Tweaks <http://hackulo.us>
 
 Package: us.hackulo.resources
 Version: 1.0
@@ -17848,12 +17848,12 @@ Size: 1046
 MD5sum: ec0e175eb6a8195345cbcf0ebc8ec930
 SHA1: c221918284dac110c73d437b28c8806291260651
 SHA256: b5874ba04f65c3bfea724d17aaa88da0bb5021ae2e3258c54a66b8cf2679807a
-Section: Hackulo.us
+Section: Tweaks
 Priority: standard
 Description: Hackulous resource files for Installous.
 Author: docmorelli <apps@hackulo.us>
 Name: Hackulous Resources
-Sponsor: Hackulo.us <http://hackulo.us>
+Sponsor: Tweaks <http://hackulo.us>
 
 Package: us.hackulo.resources
 Version: 1.1
@@ -17864,12 +17864,12 @@ Size: 1092
 MD5sum: 5874a15458fafd1a310eb307dca97948
 SHA1: bbc4482dad5f04bf44ed614ab48091e930d4342d
 SHA256: e3e15484d800725428ef70d4310deb039b28c4a34090f961b8ffe408cee8a510
-Section: Hackulo.us
+Section: Tweaks
 Priority: standard
 Description: Hackulous resource files for Installous.
 Author: docmorelli <apps@hackulo.us>
 Name: Hackulous Resources
-Sponsor: Hackulo.us <http://hackulo.us>
+Sponsor: Tweaks <http://hackulo.us>
 
 Package: us.hackulo.resources
 Version: 1.2
@@ -17880,12 +17880,12 @@ Size: 1092
 MD5sum: 9a4974f29a9b8ca8a982f2731064f912
 SHA1: 5573be76d7408db7f431d0280c596cd096ba8717
 SHA256: e87610f3bb9734c8a0d519282bb3d427dc56985901898dacb70e60fb3e0e256d
-Section: Hackulo.us
+Section: Tweaks
 Priority: standard
 Description: Hackulous resource files for Installous.
 Author: docmorelli <apps@hackulo.us>
 Name: Hackulous Resources
-Sponsor: Hackulo.us <http://hackulo.us>
+Sponsor: Tweaks <http://hackulo.us>
 
 Package: us.hackulo.resources
 Version: 1.3
@@ -17896,12 +17896,12 @@ Size: 1142
 MD5sum: d1518fccb7b8eb2fc88e4ad605059b73
 SHA1: 7d611740f83f57df3693594d87afb5897243fb5b
 SHA256: d490bbf1707d6ff18b25308fb3c0b8ee9b047d23e7e080029aacca616efcb13a
-Section: Hackulo.us
+Section: Tweaks
 Priority: standard
 Description: Hackulous resource files for Installous.
 Author: docmorelli <apps@hackulo.us>
 Name: Hackulous Resources
-Sponsor: Hackulo.us <http://hackulo.us>
+Sponsor: Tweaks <http://hackulo.us>
 
 Package: us.hackulo.resources
 Version: 1.3.1
@@ -17912,12 +17912,12 @@ Size: 1162
 MD5sum: fc2cb6e041bf35b1c50548cf0106fac9
 SHA1: 42c775eea7a372c13318ca845b08b7ff6ef405b5
 SHA256: 265f87eb6b419c09b89c94f677defdbc6aaa0b6ecc2c4969fc32abe8c317f786
-Section: Hackulo.us
+Section: Tweaks
 Priority: standard
 Description: Hackulous resource files for Installous.
 Author: docmorelli <apps@hackulo.us>
 Name: Hackulous Resources
-Sponsor: Hackulo.us <http://hackulo.us>
+Sponsor: Tweaks <http://hackulo.us>
 
 Package: us.hackulo.resources
 Version: 1.4
@@ -17928,12 +17928,12 @@ Size: 1162
 MD5sum: c7b03d949aff15822dea1239bc271394
 SHA1: bbcdb7943b181212719837be09d2534352907565
 SHA256: d05733e58b914fa1a56db8cb6d42762933fa359d0ad000f3c7844d5dccd5a498
-Section: Hackulo.us
+Section: Tweaks
 Priority: standard
 Description: Hackulous resource files for Installous.
 Author: docmorelli <apps@hackulo.us>
 Name: Hackulous Resources
-Sponsor: Hackulo.us <http://hackulo.us>
+Sponsor: Tweaks <http://hackulo.us>
 
 Package: us.hackulo.security
 Version: 1.2.1
@@ -17945,13 +17945,13 @@ Size: 2784
 MD5sum: df221ff7bb2f4baf1503b9693b1ca298
 SHA1: 1f588f64db3c9e2599350f7a25856ed03eee22a0
 SHA256: df6a4bd2e8a06608de72d6b0a4ce7a620def7b0104c361123f878b1031528d90
-Section: Hackulo.us
+Section: Tweaks
 Priority: standard
 Description: Protects you and your device from malicious websites
 Author: Kyek <hackulous_security@hackulo.us>
 Depiction: http://hackulo.us/depict/security
 Name: Hackulous Security
-Sponsor: Hackulo.us <http://hackulo.us>
+Sponsor: Tweaks <http://hackulo.us>
 
 Package: uuid
 Version: 1.6.0-2p
