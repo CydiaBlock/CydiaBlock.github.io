@@ -1,87 +1,443 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Cydia Block Repository</title>
-  <style>
-    body {
-      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-      background: url('icons/ios6.jpg') no-repeat center center fixed;
-      background-size: cover;
-      color: #000;
-      margin: 0;
-      padding: 20px;
-    }
-    .container {
-      background-color: rgba(255, 255, 255, 0.85);
-      max-width: 700px;
-      margin: 50px auto;
-      padding: 30px;
-      border-radius: 20px;
-      box-shadow: 0 0 20px rgba(0,0,0,0.2);
-    }
-    h1, h2 {
-      font-weight: normal;
-      border-bottom: 1px solid #ccc;
-      padding-bottom: 6px;
-    }
-    a {
-      color: #007aff;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    pre {
-      background-color: #eee;
-      padding: 10px;
-      overflow-x: auto;
-      border-radius: 10px;
-    }
-    .highlighter-rouge {
-      margin-top: 20px;
-    }
-    .store-icons {
-      display: flex;
-      gap: 15px;
-      margin: 10px 0;
-    }
-    .store-icons a img {
-      width: 50px;
-      height: 50px;
-      border-radius: 10px;
-      border: 1px solid #ccc;
-    }
-  </style>
-  <link rel="icon" type="image/png" href="./CydiaIcon.png">
+<html><head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+        <meta charset="UTF-8">
+            <title>Cydia Block Repository</title>
+            <style>
+                @import url(https://cydia.saurik.com/cytyle/style-3163da6b7950852a03d31ea77735f4e1d2ba6699.css);
+                @import url(http://cydia.saurik.com/cytyle/style-3163da6b7950852a03d31ea77735f4e1d2ba6699.css);
+            </style>
+            <meta name="viewport" content="initial-scale=1.0,width=device-width">
 </head>
-<body>
-  <div class="container">
-    <h1>Cydia Block Backup Repository</h1>
-    <h2 id="this-a-package-repo">Add This Repo</h2>
-    <p>Compatible with Cydia, Sileo and Zebra</p>
-    <div class="store-icons">
-      <a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://CydiaBlock.github.io">
-        <img src="icons/cydia.png" alt="Cydia">
-      </a>
-      <a href="sileo://source/https://CydiaBlock.github.io">
-        <img src="icons/sileo.png" alt="Sileo">
-      </a>
-      <a href="zbra://sources/add/https://CydiaBlock.github.io">
-        <img src="icons/zebra.png" alt="Zebra">
-      </a>
-    </div>
-    <pre>N/A</pre>
-
-    <h2>Contact</h2>
-    <div class="highlighter-rouge">
-      <a href="https://facebook.com/KernelPanix">Facebook</a>
-      <br>
-      <a href="https://t.me/KernelPanix">Telegram</a>
-      <br>
-      <pre>N/A</pre>
-    </div>
-  </div>
-</body>
+    <body class="pinstripe">
+        <panel>
+            <fieldset>
+                <div>
+                    <div>
+                        <strong><center>Cydia Block Repository<span style="font-size:xx-small">by @KernelPanix</span></center></strong>
+                    </div>
+                </div>
+                <div>
+                    <div>
+                        Cydia Block is projects backup any repository for Old IOS. And all certificates are DER-encoded.
+                    </div>
+                </div>
+            </fieldset>
+            <label>Repository Added</label>
+            <fieldset style="background-color: #ccf">
+                <a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://CydiaBlock.github.io">
+                    <div>
+                        <div>
+                            Add To Cydia
+                        </div>
+                    </div>
+                </a>
+                <a href="sileo://source/https://CydiaBlock.github.io">
+                    <div>
+                        <div>
+                            Add To Sileo
+                        </div>
+                    </div>
+                </a>
+                <a href="zbra://sources/add/https://CydiaBlock.github.io">
+                    <div>
+                        <div>
+                            Add To Zebra
+                        </div>
+                    </div>
+                </a>
+            </fieldset>
+            <label>Certificate Bundles</label>
+            <fieldset style="background-color: #ccf">
+                <a href="beeg.mobileconfig">
+                    <div>
+                        <div>
+                            Signed iOS Bundle (iOS 5+)
+                        </div>
+                    </div>
+                </a>
+                <a href="beeg.unsigned.mobileconfig">
+                    <div>
+                        <div>
+                            Unsigned iOS Bundle
+                        </div>
+                    </div>
+                </a>
+            </fieldset>
+            <label>Individual Certificates</label>
+            <fieldset>
+                <a href="AmazonRootCA1.cer">
+                    <div>
+                        <div>
+                            Amazon Root CA 1
+                        </div>
+                    </div>
+                </a>
+                <a href="AmazonRootCA2.cer">
+                    <div>
+                        <div>
+                            Amazon Root CA 2
+                        </div>
+                    </div>
+                </a>
+                <a href="AmazonRootCA3.cer">
+                    <div>
+                        <div>
+                            Amazon Root CA 3
+                        </div>
+                    </div>
+                </a>
+                <a href="AmazonRootCA4.cer">
+                    <div>
+                        <div>
+                            Amazon Root CA 4
+                        </div>
+                    </div>
+                </a>
+                <a href="AppleIncRootCertificate.cer">
+                    <div>
+                        <div>
+                            Apple Inc. Root
+                        </div>
+                    </div>
+                </a>
+                <a href="AppleRootCA-G2.cer">
+                    <div>
+                        <div>
+                            Apple Root CA G2
+                        </div>
+                    </div>
+                </a>
+                <a href="AppleRootCA-G3.cer">
+                    <div>
+                        <div>
+                            Apple Root CA G3
+                        </div>
+                    </div>
+                </a>
+                <a href="comodoRSA.cer">
+                    <div>
+                        <div>
+                            COMODO RSA CA
+                        </div>
+                    </div>
+                </a>
+                <a href="comodoECC.cer">
+                    <div>
+                        <div>
+                            COMODO ECC CA
+                        </div>
+                    </div>
+                </a>
+                <a href="DigiCertGlobalRootG2.crt">
+                    <div>
+                        <div>
+                            DigiCert Global Root CA G2
+                        </div>
+                    </div>
+                </a>
+                <a href="DigiCertGlobalRootG3.crt">
+                    <div>
+                        <div>
+                            DigiCert Global Root CA G3
+                        </div>
+                    </div>
+                </a>
+                <a href="DigiCertHighAssuranceEVRootCA.crt">
+                    <div>
+                        <div>
+                            DigiCert High Assurance EV Root CA
+                        </div>
+                    </div>
+                </a>
+                <a href="entrust_ec1_ca.cer">
+                    <div>
+                        <div>
+                            Entrust Root CA EC1
+                        </div>
+                    </div>
+                </a>
+                <a href="entrust_g2_ca.cer">
+                    <div>
+                        <div>
+                            Entrust Root CA G2
+                        </div>
+                    </div>
+                </a>
+                <a href="GeoTrustPCA.crt">
+                    <div>
+                        <div>
+                            GeoTrust Primary CA
+                        </div>
+                    </div>
+                </a>
+                <a href="GeoTrustPCA-G2.crt">
+                    <div>
+                        <div>
+                            GeoTrust Primary CA G2
+                        </div>
+                    </div>
+                </a>
+                <a href="GeoTrustPCA-G3.crt">
+                    <div>
+                        <div>
+                            GeoTrust Primary CA G3
+                        </div>
+                    </div>
+                </a>
+                <a href="globalsign/roote46.crt">
+                    <div>
+                        <div>
+                            GlobalSign Root E46
+                        </div>
+                    </div>
+                </a>
+                <a href="globalsign/Root-R3.crt">
+                    <div>
+                        <div>
+                            GlobalSign Root R3
+                        </div>
+                    </div>
+                </a>
+                <a href="globalsign/gsr4.crt">
+                    <div>
+                        <div>
+                            GlobalSign Root R4
+                        </div>
+                    </div>
+                </a>
+                <a href="globalsign/Root-R5.crt">
+                    <div>
+                        <div>
+                            GlobalSign Root R5
+                        </div>
+                    </div>
+                </a>
+                <a href="globalsign/root-r6.crt">
+                    <div>
+                        <div>
+                            GlobalSign Root R6
+                        </div>
+                    </div>
+                </a>
+                <a href="globalsign/rootr46.crt">
+                    <div>
+                        <div>
+                            GlobalSign Root R46
+                        </div>
+                    </div>
+                </a>
+                <a href="gts/r1.crt">
+                    <div>
+                        <div>
+                            GTS Root R1
+                        </div>
+                    </div>
+                </a>
+                <a href="gts/r2.crt">
+                    <div>
+                        <div>
+                            GTS Root R2
+                        </div>
+                    </div>
+                </a>
+                <a href="gts/r3.crt">
+                    <div>
+                        <div>
+                            GTS Root R3
+                        </div>
+                    </div>
+                </a>
+                <a href="gts/r4.crt">
+                    <div>
+                        <div>
+                            GTS Root R4
+                        </div>
+                    </div>
+                </a>
+                <a href="isrgrootx1.der">
+                    <div>
+                        <div>
+                            ISRG Root X1
+                        </div>
+                    </div>
+                </a>
+                <a href="isrg-root-x2.der">
+                    <div>
+                        <div>
+                            ISRG Root X2
+                        </div>
+                    </div>
+                </a>
+                <a href="SFSRootCAG2.cer">
+                    <div>
+                        <div>
+                            Starfield Services Root CA G2
+                        </div>
+                    </div>
+                </a>
+                <a href="USERTrustRSACertificationAuthority.crt">
+                    <div>
+                        <div>
+                            USERTrust RSA CA
+                        </div>
+                    </div>
+                </a>
+                <a href="USERTrustECCCertificationAuthority.crt">
+                    <div>
+                        <div>
+                            USERTrust ECC CA
+                        </div>
+                    </div>
+                </a>
+            </fieldset>
+            <label>Intermediate Certificates</label>
+            <fieldset style="background-color: #ffc">
+                <a href="intermediate/AppleWWDRCAG2.cer">
+                    <div>
+                        <div>
+                            Apple WWDR CA G2
+                        </div>
+                    </div>
+                </a>
+                <a href="intermediate/AppleWWDRCAG3.cer">
+                    <div>
+                        <div>
+                            Apple WWDR CA G3
+                        </div>
+                    </div>
+                </a>
+                <a href="intermediate/AppleWWDRCAG4.cer">
+                    <div>
+                        <div>
+                            Apple WWDR CA G4
+                        </div>
+                    </div>
+                </a>
+                <a href="intermediate/AppleWWDRCAG5.cer">
+                    <div>
+                        <div>
+                            Apple WWDR CA G5
+                        </div>
+                    </div>
+                </a>
+                <a href="intermediate/AppleWWDRCAG6.cer">
+                    <div>
+                        <div>
+                            Apple WWDR CA G6
+                        </div>
+                    </div>
+                </a>
+                <a href="intermediate/AppleWWDRMPCA1G1.cer">
+                    <div>
+                        <div>
+                            Apple WWDR MP CA 1 G1
+                        </div>
+                    </div>
+                </a>
+            </fieldset>
+            <label>Legacy Certificates</label>
+            <fieldset style="background-color: #fcc">
+                <a href="old/gsr4.crt">
+                    <div>
+                        <div>
+                            GlobalSign Root R4 (Old)
+                        </div>
+                    </div>
+                </a>
+                <a href="old/gtsr1.crt">
+                    <div>
+                        <div>
+                            GTS Root R1 (Old)
+                        </div>
+                    </div>
+                </a>
+                <a href="old/gtsr2.crt">
+                    <div>
+                        <div>
+                            GTS Root R2 (Old)
+                        </div>
+                    </div>
+                </a>
+                <a href="old/gtsr3.crt">
+                    <div>
+                        <div>
+                            GTS Root R3 (Old)
+                        </div>
+                    </div>
+                </a>
+                <a href="old/gtsr4.crt">
+                    <div>
+                        <div>
+                            GTS Root R4 (Old)
+                        </div>
+                    </div>
+                </a>
+            </fieldset>
+            <label>Sources</label>
+            <fieldset style="background-color: #ccf">
+                <a href="https://www.amazontrust.com/repository/">
+                    <div>
+                        <div>
+                            Amazon Trust
+                        </div>
+                    </div>
+                </a>
+                <a href="https://www.apple.com/certificateauthority/">
+                    <div>
+                        <div>
+                            Apple PKI
+                        </div>
+                    </div>
+                </a>
+                <a href="https://www.entrust.com/resources/tools/root-certificate-downloads">
+                    <div>
+                        <div>
+                            Entrust
+                        </div>
+                    </div>
+                </a>
+                <a href="https://www.digicert.com/kb/digicert-root-certificates.htm">
+                    <div>
+                        <div>
+                            DigiCert
+                        </div>
+                    </div>
+                </a>
+                <a href="https://support.globalsign.com/ca-certificates/root-certificates/globalsign-root-certificates">
+                    <div>
+                        <div>
+                            GlobalSign
+                        </div>
+                    </div>
+                </a>
+                <a href="https://pki.goog/repository/">
+                    <div>
+                        <div>
+                            Google Trust Services
+                        </div>
+                    </div>
+                </a>
+                <a href="https://letsencrypt.org/certificates/">
+                    <div>
+                        <div>
+                            Let's Encrypt
+                        </div>
+                    </div>
+                </a>
+                <a href="https://www.tbs-certificates.co.uk/FAQ/en/27.html">
+                    <div>
+                        <div>
+                            tbs internet
+                        </div>
+                    </div>
+                </a>
+                <div>
+                    <div>
+                        Keychain Access on macOS
+                    </div>
+                </div>
+            </fieldset>
+        </panel>        
+    </body>
 </html>
