@@ -29,7 +29,7 @@ jobs:
       - name: Clone and Build Cluster A Packages
         run: |
           for i in $(seq 1 $REPO_A_COUNT); do
-            git clone --depth=1 https://github.com/CydiaBlock/package_debian_A$i.git
+            git clone --filter=blob:none --depth=1 https://github.com/CydiaBlock/package_debian_A$i.git
             dpkg-scanpackages -m package_debian_A$i /dev/null >> Packages
             echo "" >> Packages
             rm -rf package_debian_A$i
@@ -38,7 +38,7 @@ jobs:
       - name: Clone and Build Cluster B Packages
         run: |
           for i in $(seq 1 $REPO_B_COUNT); do
-            git clone --depth=1 https://github.com/CydiaBlock/package_debian_B$i.git
+            git clone --filter=blob:none --depth=1 https://github.com/CydiaBlock/package_debian_B$i.git
             dpkg-scanpackages -m package_debian_B$i /dev/null >> Packages
             echo "" >> Packages
             rm -rf package_debian_B$i
