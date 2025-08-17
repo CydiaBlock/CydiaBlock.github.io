@@ -6,7 +6,8 @@ on:
   workflow_dispatch:
 
 env:
-  REPO_COUNT: 9
+  REPO_A_COUNT: 9
+  REPO_B_COUNT: 1
 
 jobs:
   build:
@@ -24,7 +25,7 @@ jobs:
       - name: Clone and Build Cluster Packages
         run: |
           rm -rf Packages Packages.bz2
-          for i in $(seq 1 $REPO_COUNT); do
+          for i in $(seq 1 $REPO_A_COUNT); do
             git clone --depth=1 https://github.com/CydiaBlock/package_debian_A$i.git
             dpkg-scanpackages -m package_debian_A$i /dev/null >> Packages
             echo "" >> Packages
