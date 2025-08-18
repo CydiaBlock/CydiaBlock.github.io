@@ -6,6 +6,9 @@ on:
   workflow_dispatch:
 
 env:
+  REPO_SOURCE: https://cydiablock.github.io
+  REPO_HREF: package_debian
+  CLUSTERS: "A B"
   REPO_A_COUNT: 9
   REPO_B_COUNT: 1
 
@@ -27,27 +30,28 @@ jobs:
           rm -f Packages Packages.bz2 scan.log tmp.log removed.list
           touch Packages
 
-      - name: Build Cluster A Packages
+      - name: Build Cluster Packages
         run: |
-          for i in $(seq 1 $REPO_A_COUNT); do
-            wget -O $i https://cydiablock.github.io/package_debian_A$i/Packages
-            cat $i >> Packages
-            echo "" >> Packages
-            rm -rf $i
+          for CLUSTER in $CLUSTERS; do
+            COUNT_VAR="REPO_${CLUSTER}_COUNT"
+            COUNT=${!COUNT_VAR}
+            if [ "$COUNT" -gt 0 ]; then
+              for i in $(seq 1 $COUNT); do
+                FILE="Packages_Cluster_${CLUSTER}${i}"
+                URL="${REPO_SOURCE}/${REPO_HREF}_${CLUSTER}${i}/Packages"
+                echo "Downloading $URL -> $FILE"
+                wget -t 3 -O "$FILE" "$URL"
+                cat "$FILE" >> Packages
+                echo "" >> Packages
+                rm -f "$FILE"
+              done
+            fi
           done
 
-      - name: Build Cluster B Packages
-        run: |
-          for i in $(seq 1 $REPO_B_COUNT); do
-            wget -O $i https://cydiablock.github.io/package_debian_B$i/Packages
-            cat $i >> Packages
-            echo "" >> Packages
-            rm -rf $i
-          done
 
       - name: Format and Clean Packages
         run: |
-          sed -i 's|Filename: \./|Filename: |' Packages
+          # sed -i 's|Filename: \./|Filename: |' Packages
           sed -i 's/: !CydiaVn-/: /g' Packages
           sed -i 's/: !GSMVN-/: /g' Packages
           sed -i 's/: !GSMVN For OS3.0/: Tools/g' Packages
