@@ -41,6 +41,7 @@ jobs:
                 URL="${REPO_SOURCE}/${REPO_HREF}_${CLUSTER}${i}/Packages"
                 echo "Downloading $URL -> $FILE"
                 wget -t 3 -O "$FILE" "$URL"
+                sed -i "s|Filename: \./|Filename: ${REPO_HREF}_${CLUSTER}${i}/|" "$FILE"
                 cat "$FILE" >> Packages
                 echo "" >> Packages
                 rm -f "$FILE"
@@ -51,7 +52,6 @@ jobs:
 
       - name: Format and Clean Packages
         run: |
-          # sed -i 's|Filename: \./|Filename: |' Packages
           sed -i 's/: !CydiaVn-/: /g' Packages
           sed -i 's/: !GSMVN-/: /g' Packages
           sed -i 's/: !GSMVN For OS3.0/: Tools/g' Packages
