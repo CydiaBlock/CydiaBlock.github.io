@@ -22,71 +22,27 @@ jobs:
           git config --global user.name "dopaemon"
           git config --global user.email "polarisdp@gmail.com"
 
-      - name: Remove old Packages
+      - name: Remove old Packages and Create new Packages
         run: |
           rm -f Packages Packages.bz2 scan.log tmp.log removed.list
+          touch Packages
 
-      - name: Clone & Build Cluster A Packages (with broken .deb filter)
+      - name: Build Cluster A Packages
         run: |
           for i in $(seq 1 $REPO_A_COUNT); do
-            echo "==== Cluster A$i ===="
-            git clone --filter=blob:none --depth=1 https://github.com/CydiaBlock/package_debian_A$i.git
-            cd package_debian_A$i
-
-            echo "🔎 Checking .deb files in A$i ..."
-            while IFS= read -r -d '' f; do
-              if ! dpkg-deb -I "$f" >/dev/null 2>&1; then
-                echo "❌ Broken deb removed: $f"
-                rm -f -- "$f"
-              fi
-            done < <(find . -type f -name "*.deb" -print0)
-
-            # per-file scan để loại bỏ .deb làm dpkg-scanpackages fail
-            removed_any=0
-            while IFS= read -r -d '' f; do
-              if ! dpkg-scanpackages -m "$f" /dev/null > /dev/null 2> tmp.log; then
-                echo "❌ Removing bad package: $f"
-                rm -f -- "$f"
-                echo "$f" >> ../removed.list
-                removed_any=1
-              fi
-            done < <(find . -type f -name "*.deb" -print0)
-
-            dpkg-scanpackages -m . /dev/null >> ../Packages
-            echo "" >> ../Packages
-            cd ..
-            rm -rf package_debian_A$i
+            wget -O $i https://cydiablock.github.io/package_debian_A$i/Packages
+            cat $i >> Packages
+            echo "" >> Packages
+            rm -rf $i
           done
 
-      - name: Clone & Build Cluster B Packages (with broken .deb filter)
+      - name: Build Cluster B Packages
         run: |
           for i in $(seq 1 $REPO_B_COUNT); do
-            echo "==== Cluster B$i ===="
-            git clone --filter=blob:none --depth=1 https://github.com/CydiaBlock/package_debian_B$i.git
-            cd package_debian_B$i
-
-            echo "🔎 Checking .deb files in B$i ..."
-            while IFS= read -r -d '' f; do
-              if ! dpkg-deb -I "$f" >/dev/null 2>&1; then
-                echo "❌ Broken deb removed: $f"
-                rm -f -- "$f"
-              fi
-            done < <(find . -type f -name "*.deb" -print0)
-
-            removed_any=0
-            while IFS= read -r -d '' f; do
-              if ! dpkg-scanpackages -m "$f" /dev/null > /dev/null 2> tmp.log; then
-                echo "❌ Removing bad package: $f"
-                rm -f -- "$f"
-                echo "$f" >> ../removed.list
-                removed_any=1
-              fi
-            done < <(find . -type f -name "*.deb" -print0)
-
-            dpkg-scanpackages -m . /dev/null >> ../Packages
-            echo "" >> ../Packages
-            cd ..
-            rm -rf package_debian_B$i
+            wget -O $i https://cydiablock.github.io/package_debian_B$i/Packages
+            cat $i >> Packages
+            echo "" >> Packages
+            rm -rf $i
           done
 
       - name: Format and Clean Packages
