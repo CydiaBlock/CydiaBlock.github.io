@@ -102322,6 +102322,1753 @@ Depiction: http://cydia.vn/depic/t5525/
 Name: ZW1T
 
 
+Package: com.ioscreatix.sugarcane
+Version: 1.2.2
+Architecture: iphoneos-arm
+Maintainer: iOS Creatix, kasiimh1, baptistecdr
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: package_debian_A7/2793.deb
+Size: 6170
+MD5sum: 9c63c0031b416bfb1bca3579f19173b7
+SHA1: b2218ecc62ed6066af44441388f1089854c553eb
+SHA256: 409bea76ed4113923fe735fd9797fc60deaa9ac5474947bd23b0cbb4b1099cec
+Section: Tweaks
+Description: Get percentages for the sliders in the Control Center on iOS 11, 12 & 13
+Author: iOS Creatix, kasiimh1
+Name: SugarCane
+
+Package: com.mrgcgamer.libgcuniversal
+Version: 1.7.0
+Architecture: iphoneos-arm64
+Maintainer: MrGcGamer
+Installed-Size: 380
+Depends: firmware (>= 14.0) | ws.hbang.alderis, firmware (>= 12.0)
+Provides: com.mrgcgamer.libgcimagepicker, com.mrgcgamer.libgccolorpicker
+Filename: package_debian_A7/3014.deb
+Size: 54510
+MD5sum: 58a32a3d0689abb8e4622dedb3f38ccb
+SHA1: a327a6e11310c7128b82d48b2b195b0f24445b68
+SHA256: a1fdb8d5e5062f26113c90c6514ab16585507df8af0c3db00b55e4f51fafaa16
+Section: Development
+Description: An awesome library of some sort!!
+Tag: role::developer
+Author: MrGcGamer
+Name: LibGcUniversal
+
+Package: com.mrgcgamer.libgcuniversal
+Version: 1.7.0
+Architecture: iphoneos-arm
+Maintainer: MrGcGamer
+Installed-Size: 456
+Depends: firmware (>= 14.0) | ws.hbang.alderis, firmware (>= 12.0)
+Provides: com.mrgcgamer.libgcimagepicker, com.mrgcgamer.libgccolorpicker
+Filename: package_debian_A7/3015.deb
+Size: 81300
+MD5sum: 267f0d51d3dec17b9813a1cc727900d1
+SHA1: b22525f04e3b00b83cbbb4356d9fd2bc9302d6f2
+SHA256: 86889cb4c3222ac7be026eba3e08d8521bb932f8fc1d589ef6c5dbdd6d7aeb17
+Section: Development
+Description: An awesome library of some sort!!
+Tag: role::developer
+Author: MrGcGamer
+Name: LibGcUniversal
+
+Package: com.noisyflake.velvet2
+Version: 2.1.2-3
+Architecture: iphoneos-arm64
+Maintainer: NoisyFlake <support@noisyflake.com>
+Installed-Size: 629
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.initwithframe.velvet
+Filename: package_debian_A7/3025.deb
+Size: 157090
+MD5sum: 02b796ec2e15e6d1946a6bc691086493
+SHA1: 1f1aef2050fe5fa48374a4444e70c16121075601
+SHA256: 6b390a42b0968c8796416d155789b078f9431736204af5644b93b3364c98b1c2
+Section: Tweaks
+Description: A fully customizable notification experience
+Tag: compatible_min::ios15.0
+Author: NoisyFlake <support@noisyflake.com>
+Depiction: https://chariz.com/get/velvet-2
+Name: Velvet 2
+
+Package: com.opa334.altlist
+Version: 1.0.11
+Architecture: iphoneos-arm
+Maintainer: opa334
+Installed-Size: 388
+Depends: firmware (>=7.0)
+Filename: package_debian_A7/2825.deb
+Size: 47100
+MD5sum: e3ed39c53a748c154fc1151ae181bb52
+SHA1: 103f6988e7a8ab9f1e83408ed7a78573f36cabef
+SHA256: c2299f0ee65bfb25c4549ec3f24594b035a7cdab364dbfffbf632d67e723b75f
+Section: System
+Description: A modern AppList alternative
+Tag: role::developer
+Author: opa334
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=altlistDp
+Name: AltList
+
+Package: com.opa334.ccsupport
+Version: 1.3.13-2
+Architecture: iphoneos-arm64
+Maintainer: opa334
+Installed-Size: 560
+Depends: mobilesubstrate, firmware (>=11.0)
+Conflicts: com.ioscreatix.silo
+Replaces: com.ioscreatix.silo
+Provides: com.ioscreatix.silo
+Filename: package_debian_A7/2822.deb
+Size: 58952
+MD5sum: f108fb86bbbe13ee3a1e381eea1d0f97
+SHA1: 176a01aeb900f5c0d31bceb6751441059e0cea24
+SHA256: 5d59f00755bf40d21bfa86e75e121b561a23ab1cad9632fbeede8563ef65bfde
+Section: Tweaks
+Description: Support tweak for CC modules!
+Author: opa334
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportDp
+Name: CCSupport
+
+Package: com.opa334.libsandy
+Version: 1.1.4
+Architecture: iphoneos-arm
+Maintainer: opa334
+Installed-Size: 312
+Conflicts: ws.hbang.stopcrashingpls (<= 1.0.2)
+Filename: package_debian_A7/2815.deb
+Size: 20546
+MD5sum: 25e8918d912d4ece138a221b6d5731a6
+SHA1: 970b4d73c793ae3561abac288347922818b9b0fe
+SHA256: e80b6573fec6cbe3d30274683d2df7692642c70546fe3321247328c97058d010
+Section: System
+Description: Securely extend the sandbox of system processes and user applications
+Tag: role::developer
+Author: opa334
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libsandyDp
+Name: libSandy
+
+Package: com.opa334.libundirect
+Version: 1.1.6
+Architecture: iphoneos-arm64
+Maintainer: opa334
+Installed-Size: 168
+Filename: package_debian_A7/2790.deb
+Size: 7784
+MD5sum: 03ead59a9a00256e46db9deb82541baf
+SHA1: 0277416ba9951143e3189438d0998eb2fc4c7364
+SHA256: 13127fcea8e4e20202b18d63c521da7ac10b232186d7cc3e911d7539a8c8d0ce
+Section: System
+Description: Patchfinder and rebinder for objc_direct methods
+Tag: role::developer
+Author: opa334
+Name: libundirect
+
+Package: com.rpgfarm.libapappview
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Installed-Size: 196
+Filename: package_debian_A7/2677.deb
+Size: 32680
+MD5sum: d9466a22187025ef720c3ebd6fa2a36c
+SHA1: 1694277756926a839beaca6729da893e1b118b0f
+SHA256: c5894ae66a11e4c7a81bb26fd741f782823156919368646a4c0dd83a1e16adc8
+Section: System
+Description: Get Application View on SpringBoard.
+Tag: role::developer
+Author: Baw Appie <pp121324@gmail.com>
+Name: libAPAppView
+
+Package: dev.theos.orion14
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Theos Team <support@theos.dev>
+Installed-Size: 2560
+Depends: firmware (>= 14.0), firmware (<< 16.0), mobilesubstrate (>= 0.9.5000)
+Provides: dev.theos.orion (= 1.0.0)
+Filename: package_debian_A7/2649.deb
+Size: 1191132
+MD5sum: 356894df1b06acc17949dedfb1ec4a55
+SHA1: c71b35084561b243e2e9b9cf3f5c3a5466372cd5
+SHA256: 4e0cc0e95341b4fd317bdb9936e323184eedaddba47cc6dfada1284d289710a1
+Section: Development
+Homepage: https://chariz.com/get/orion-runtime14
+Description: Runtime for tweaks built using Orion and Swift
+Tag: role::developer, compatible_min::ios14.0
+Author: Theos Team <support@theos.dev>
+Name: Orion Runtime (iOS 14)
+
+Package: net.kenhtao.1notify
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Installed-Size: 3623
+Depends: firmware (>= 12.0), mobilesubstrate, ws.hbang.common, preferenceloader, ws.hbang.alderis (>= 1.0)
+Filename: package_debian_A7/2806.deb
+Size: 2927984
+MD5sum: 4e81d4ac05342efa61e92715028c4278
+SHA1: 73bb57f1e848122c6e284875d5d706f756b7b6b4
+SHA256: 8731d0a1a54b7bbcb81c9c5324f937b17cbc56aca841718bcd4295e771655bae
+Section: Tweaks
+Description: Notification Your Way!
+Author: Mostafa89
+Name: NotifyMe VN
+
+Package: net.kenhtao.1one
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Installed-Size: 3044
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), ws.hbang.alderis (>= 1.0), com.muirey03.libimagepicker
+Filename: package_debian_A7/2821.deb
+Size: 1229452
+MD5sum: 80d47594de6499742608a085df435832
+SHA1: bc1506b0387dc0d961541a84ce7136aeccf919e6
+SHA256: 48780909f6c8ad31fc0f0a2de4ac933119dfc3b5b8135216562e363a6f05cd69
+Section: Tweaks
+Description: Your Device Your Way!
+Author: mostafa89
+Name: 1ONE VN
+
+Package: net.kenhtao.AE
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Filename: package_debian_A7/2827.deb
+Size: 371322
+MD5sum: 3c6fd0b9fc8717dcf4e2c1a6ad26fce3
+SHA1: 8a9c7e099cc947a52a2e697de317d845902984fc
+SHA256: 4e1cfd9ec38f6f66354cd05be04d1cc0400bf30fc4004853a195f1e3b4945dee
+Section: Themes
+Description: Gói AE nổi dành cho Theme
+Author: unclear
+Name: AE Floating
+
+Package: net.kenhtao.Atria
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Installed-Size: 880
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, ws.hbang.alderis (>= 1.1)
+Conflicts: com.irepo.boxy4, me.kritanta.homepluspro, com.supportjailbreak.boxxy4vn, com.BIENVANNHAT.homepluspro, net.kenhtao.homepluspro, net.kenhtao.boxy4
+Filename: package_debian_A7/2835.deb
+Size: 293580
+MD5sum: 061fa23254d3f3cf4ec643d7197ad126
+SHA1: ca031ed6d475551834226f4cd0d2561897a39996
+SHA256: 30a20479733060c51b5786d5476572e1b10e82ebc3ff4ef9c9cfdb1c55ae293d
+Section: Tweaks
+Description: Trình chỉnh sửa bố cục màn hình chính thích hợp cho iOS 14
+Author: ren7995 <lau7995ren@gmail.com>
+Name: Atria VN
+
+Package: net.kenhtao.Blackorangepro
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Filename: package_debian_A7/2784.deb
+Size: 11340470
+MD5sum: c07a3f432b04584571fcf0bda80988d0
+SHA1: 2048e85ecce2b5e870ebdb084aea58aafa1898dc
+SHA256: 64c82b55063a21a3886d93849f0022ae4a2446653c4f4746f4ed074e5cfab8ee
+Section: Themes
+Description: Chủ đề Black Orange Pro
+Author: Khoảng lặng
+Name: Black Orange Pro
+
+Package: net.kenhtao.Christmas
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Filename: package_debian_A7/2788.deb
+Size: 63292
+MD5sum: 67839338c085ad0f2e90d4f84ebf5017
+SHA1: 62dbdb3cccf4b70d3695c1391b8527c43648af83
+SHA256: 5ee0064fa68168c7655ceec23236da68e05b248cde5753a70f23f7df61cbb803
+Section: Themes
+Description: Gói AE Christmas
+Author: unclear
+Name: AE Christmas
+
+Package: net.kenhtao.DARKMODE
+Version: 3.4
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Installed-Size: 1228
+Depends: mobilesubstrate, preferenceloader, me.nepeta.libcolorpicker, com.laughingquoll.prefixui, com.spark.libsparkapplist, com.opa334.ccsupport, com.rpetrich.rocketbootstrap
+Conflicts: com.laughingquoll.noctisxi
+Filename: package_debian_A7/2837.deb
+Size: 254432
+MD5sum: a1d2f5ee3ca8d7beeb3b85f08e1d6ca4
+SHA1: fe6e875df84d4db061e62b18bd996ae672607812
+SHA256: c8667973c18b4bff8380f09104fbbcf54ed7ccf10c5351f0d0a31d93ba00ee92
+Section: Tweaks
+Description: Chế độ tối hoàn hảo hỗ trợ iOS 12
+Author: LaughingQuoll
+Name: Chế Độ Tối (iOS 12)
+
+Package: net.kenhtao.Diarywallpaper
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Installed-Size: 5480
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.peterdev.libpddokdo
+Conflicts: hi.my.name.is.ubik.kalm, com.peterdev.grupi
+Filename: package_debian_A7/2842.deb
+Size: 10018986
+MD5sum: d3907f52d372154c8b3bb6451e2ec0d7
+SHA1: a3f3320ee1f032af9b5b650858e7188aa722586e
+SHA256: e5f5498c48896c968c4cf05206c45b7890d2f8da0b763fb94496346098b1f089
+Section: Tweaks
+Description: Thay đổi hình nền ngẫu nhiên,sau khi cài xong các bạn theo đường dẫn sau:Library/Diary/Wallpapers để thêm hình ảnh mình muốn.
+Author: Litten/BVN
+Name: Diary Wallpaper
+
+Package: net.kenhtao.Dumbledor1Shadow
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: package_debian_A7/2851.deb
+Size: 72856
+MD5sum: 5e2931a1bc19d4ef7588b63e2e9ca749
+SHA1: 12b246a7ccef0c76207999342a4793d5888d065a
+SHA256: b928cf0ef4e66b87544a46a7a675c66595c5405c9d7c71adeae62853a8d7b840
+Section: Tweaks
+Description: Phông chữ cho AIM
+Author: legionfonts
+Name: Dumbledor 1 Shadow
+
+Package: net.kenhtao.Elagen
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Filename: package_debian_A7/2802.deb
+Size: 21916806
+MD5sum: 3ad21d43f78ded6b02d4078cf3ccf5e3
+SHA1: d2134cdb1e3a3e0f83f1c06e5a68875f6167fbcb
+SHA256: 508f6297ad3335e7ccfcbf863159233c47244ab1989cd10a5c684a91c00e0af2
+Section: Themes
+Description: Chủ đề Elagen
+Author: Hà Tía Tô
+Name: Elagen
+
+Package: net.kenhtao.ElagenLyo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Filename: package_debian_A7/2799.deb
+Size: 7330886
+MD5sum: e98704e08ac223a0ba97b28e4c2ac618
+SHA1: 678e8dc6e88e7903851a348a04b2bb0fa05f6a2f
+SHA256: af97b063242e4246364f431696e4e58f47819ef6384fe43e43ced5afeede0639
+Section: Themes
+Description: Chủ đề ElagenLyo
+Author: Hà Tía Tô
+Name: Elagen LYO
+
+Package: net.kenhtao.ElagenPurple
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Filename: package_debian_A7/2804.deb
+Size: 7657212
+MD5sum: 3575ef66e0a70de7227761c4d603aa8d
+SHA1: 87651d36855ab242b86bc3fdf79cfb0450f4b8b0
+SHA256: 95883c77accb666a8887002b7a2808efa9ae638f74c5de3b12be256e27494edf
+Section: Themes
+Description: Chủ đề ElagenPurple
+Author: Hà Tía Tô
+Name: Elagen Purple
+
+Package: net.kenhtao.Elagenmbg
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Filename: package_debian_A7/2789.deb
+Size: 7726746
+MD5sum: 08b21f33cd2f1859a44996eee2a6ccb2
+SHA1: 561618ac6e94bc87a627edef357932a26df21a11
+SHA256: caa687b3205cde257c1ca36bcc35f58fdc5854128d278623383534566f9b7a91
+Section: Themes
+Description: Chủ đề Elagen MBG
+Author: Hà Tía Tô
+Name: Elagen MBG
+
+Package: net.kenhtao.FACEBOOKADS
+Version: 1.2.3
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Installed-Size: 820
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
+Filename: package_debian_A7/2813.deb
+Size: 554660
+MD5sum: aef42ec1366c0ab8c660042bccde4bb2
+SHA1: 9cf4faf9671511e5987bf863d7ff2e93242fa6d7
+SHA256: d02b54b1904128b06197f6dc314b922c7a15a0a7277e06e7b9c5a3946f39b570
+Section: Tweaks
+Description: Xoá tất cả các quảng cáo trên Facebook
+Author: JacobCXDev <jacobcxdev@gmail.com>
+Name: FACEBOOK ADS
+
+Package: net.kenhtao.Fearless
+Version: 114
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Filename: package_debian_A7/2855.deb
+Size: 28972890
+MD5sum: e83a29aa47b9fa0cadfb9753bfbf71e6
+SHA1: c07625205094f8188c658460c3604d1a0bf2096d
+SHA256: 879750211e98b0fbbd0ae50f6aba93e2de20e8b5136bd241b08df95f4c9e0f97
+Section: Themes
+Description: Chủ đề Fearless
+Author: Bùi Nam
+Name: Fearless V2
+
+Package: net.kenhtao.GuardianPro
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: package_debian_A7/2854.deb
+Size: 36342
+MD5sum: 5edf5f4d0aef4960518403859b73b94c
+SHA1: 1a92bafc3969217dfd5dfd661fa837beeeff1dfa
+SHA256: 8a44e441543fcebb1cba92a903f2a601a8cbc750af099059386163a9eaef7e80
+Section: Tweaks
+Description: Phông chữ cho AIM
+Author: legionfonts
+Name: Guardian Pro
+
+Package: net.kenhtao.Lightroom
+Version: 7.0
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Installed-Size: 8576
+Depends: mobilesubstrate
+Filename: package_debian_A7/2787.deb
+Size: 2418118
+MD5sum: 74eeac9373d86a174a8436654605b29f
+SHA1: 84e2cecff34ff39f6f79fa3efe3d9fd154ed609d
+SHA256: 90901b99d7948fb077b3d5d77128f9101f3314b210190d743200935330566641
+Section: Tweaks
+Description: Lightroom Cao cấp hỗ trợ phiên bản Mới nhất!
+Author: Laxus
+Name: Lightroom Premium
+
+Package: net.kenhtao.OLEDAnimated
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Installed-Size: 976
+Filename: package_debian_A7/2812.deb
+Size: 734618
+MD5sum: 0a8dc04a2c948128fb2a56a1ea68903b
+SHA1: 9f38d60e26ab2a7e7468fb48a2637fa0c5023dd3
+SHA256: 09dad8aa7348fcd1287e96e3902518c15d6edf893115d5488442af424101272d
+Section: Themes
+Description: Chủ đề OLED Animated dành cho bạn
+Author: Tyko
+Name: OLED Animated
+
+Package: net.kenhtao.Patchv6.4
+Version: v6.4
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Installed-Size: 5480
+Depends: mobilesubstrate
+Filename: package_debian_A7/2785.deb
+Size: 213018
+MD5sum: 6b723ea943b580c765158fdcca3f0113
+SHA1: a33a8d69d95a2f9e1a0a6e2263819798f4da953a
+SHA256: 0a016de55470d81d1d01ec7f18e583aa78e9e9a1e8fa8af1d9da7b988f4a1241
+Section: Tweaks
+Description: Patch V6.4 Việt Hoá của Team Flex 3 Việt Nam
+Author: Flex3 Việt Nam
+Name: Patch Flex3 VN
+
+Package: net.kenhtao.PlasmaDrip
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: package_debian_A7/2809.deb
+Size: 63796
+MD5sum: 367ba919ac9d0ffea1e883e9109b690b
+SHA1: aba54b0bc5d7144f4977cbb568938aa56c1c3130
+SHA256: 7834505c27030047300f20106c166040cb0e6fd233794038b2513ee4b27535f0
+Section: Tweaks
+Description: Phông chữ cho AIM
+Author: legionfonts
+Name: Plasma Drip
+
+Package: net.kenhtao.Shny
+Version: 1.9.7
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Filename: package_debian_A7/2844.deb
+Size: 23884846
+MD5sum: 860d9a16cf51b97320546f4fc0edccf3
+SHA1: cc82455cb3809201edf99e95dbc535251da89e81
+SHA256: 85997a9815ce9bf1a68093ee76a942fbcd7c2fd0eaa15d71247af3588b434865
+Section: Themes
+Description: chủ đề Sh!!ny V2
+Author: a7lafe
+Name: Sh!!ny V2
+
+Package: net.kenhtao.SlipstreamLET
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: package_debian_A7/2783.deb
+Size: 66340
+MD5sum: b9de22eba1c4bf790b7ed0a9cdbda808
+SHA1: 4379fb619a4a9b999efb084a339d1294df25ed50
+SHA256: a4cc35a55c051b16fdd017b2dca0f3a90de711b8902bcdca330db7c20c8dc17e
+Section: Tweaks
+Description: Phông chữ cho AIM
+Author: legionfonts
+Name: Slipstream_LET
+
+Package: net.kenhtao.Springtomize
+Version: 5.2.3
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Installed-Size: 2456
+Depends: mobilesubstrate, preferenceloader, applist, com.rpetrich.rocketbootstrap
+Filename: package_debian_A7/2792.deb
+Size: 695130
+MD5sum: a9d8faaa9f00fbfc21b558969dee27d0
+SHA1: 2f4ab424b65bb04f7b5d3acdcaccf1edfb119fb8
+SHA256: e7c60788016dbde48a854ffb9d536576af1eb47fc044aeb936cca7dce6adc52d
+Section: Tweaks
+Description: Tùy chỉnh thiết bị của bạn hơn bao giờ hết.
+Author: sharedRoutine
+Name: Springtomize 5 VN
+
+Package: net.kenhtao.TriremeAcademyItalic
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: package_debian_A7/2781.deb
+Size: 33962
+MD5sum: ab0ced27e0be50b2e23c09ca22cdfb46
+SHA1: 04f7be0969c4d6a3704afae90c9ebd87eb464dae
+SHA256: 1719cc1dee882af8d755db35d3dc348cfc16c08503a740be1cfd30c3e22c1eb6
+Section: Tweaks
+Description: Phông chữ cho AIM
+Author: legionfonts
+Name: Trireme Academy Italic
+
+Package: net.kenhtao.a-bypass
+Version: 1.5.7
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Depends: mobilesubstrate, com.muirey03.libmryipc, applist, com.rpgfarm.libaptoast, preferenceloader
+Filename: package_debian_A7/2345.deb
+Size: 227642
+MD5sum: 4b9a9025f1ca128c7a63a54c04eeb0b6
+SHA1: 2933a303464681f6f26c9a80d0319769340ab95a
+SHA256: f236c824f036c91c992ccb61f3a3e75e14eaf6f7fe0253a4c9b6fd2a930814e6
+Section: Tweaks
+Description: Chặn kiểm tra Jailbreak cho iPhone của bạn.
+Author: Baw Appie
+Name: A-Bypass VN
+
+Package: net.kenhtao.ali.aim
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: Kênh Táo
+Installed-Size: 4904
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, ws.hbang.common (>= 1.14), com.spark.libsparkcolourpicker, oldabi
+Conflicts: com.laughingquoll.watermelon, com.laughingquoll.watermelon.beta, moe.absolucy.lucient, moe.absolucy.lucient.trial, org.coolstar.ventana-modern, xyz.royalapps.jellyfish, hi.my.name.is.ubik.kalm, love.litten.diary, com.eliofegh.tulipe, com.ali.aimpro, com.icraze.nexus
+Filename: package_debian_A7/2823.deb
+Size: 2777860
+MD5sum: e95f8f73989123d5e07610dc6bf33ef3
+SHA1: 6401db5bb3ed577aaab3b660097cdd9d553da534
+SHA256: 3dea79dd4f8a8042f6afb770c06d4e1f25c18a46f04167d6af92e8017bf4ee65
+Section: Tweaks
+Description: iOS 16 Style Time & Date Lockscreen
+Author: alimaulana
+Name: AIM
+
+Package: net.kenhtao.appsyncunified
+Version: 112.0
+Architecture: iphoneos-arm64
+Maintainer: Kênh Táo
+Installed-Size: 676
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 16.5.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, technology.goated.appsync, technology.goated.appsyncunified, vaginalfisting.appsynctool, science.xnu.substitute, akemi.appsink, akemi.appsyncunifed, akemi.appsyncunifed2, akemi.appsyncunifedpatched, appsyncpatched, appsyncrootless, weaponized.autism.technology.appsyncunified
+Replaces: us.hackulo.appsync50, net.angelxwind.appsyncunified
+Provides: appsync, net.angelxwind.appsyncunified
+Filename: package_debian_A7/2839.deb
+Size: 77312
+MD5sum: 7e8571036278f664a47cc65a611c9d0f
+SHA1: c2b546d9ba9bfc264ca1852795a799a881034263
+SHA256: 6e9b7673996dda9ad50ab095ab679394284b776776d81f5adcd1eb7d7936c749
+Section: Tweaks
+Description: Cho phép khả năng cài đặt các ứng dụng iOS chđa được ký/đã được ký giả.
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+Name: AppSync Unified VN
+
+Package: net.kenhtao.artemis
+Version: 0.7.21~beta5
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Installed-Size: 358
+Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5000), preferenceloader, applist
+Filename: package_debian_A7/2648.deb
+Size: 49286
+MD5sum: 2671b351c02df54528024ee245e2bee8
+SHA1: 2d1e610417df255e733cd4accfc6bd589805c05e
+SHA256: 49fba3e214b96a4b1a12151916c55ecbbdb04e6c0fff5b53bf5e7b673958f019
+Section: Tweaks
+Description: Cấu hình thiết bị của bạn!
+Author: Joey GM <joseph.gmk@gmail.com>
+Name: Artemis VN
+
+Package: net.kenhtao.atria
+Version: 1.4.1
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.alderis (>= 1.1)
+Conflicts: com.irepo.boxy4, me.kritanta.homepluspro
+Filename: package_debian_A7/2857.deb
+Size: 317418
+MD5sum: bf393915ea003b07ef40453dd37e06bb
+SHA1: c630f6fa2f9e5c2c85feb603971052c8f8a40efe
+SHA256: 1731f7fb4f70d2283fc99c8c75eb145efc92dbb005ecb45840447cbfd4ba1d20
+Section: Tweaks
+Description: Trình chỉnh sửa bố cục màn hình chính phù hợp cho iOS 13-16
+Author: ren7995 <lau7995ren@gmail.com>
+Name: Atria VN
+
+Package: net.kenhtao.atria
+Version: 1.4.1
+Architecture: iphoneos-arm64
+Maintainer: Kênh Táo
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.alderis (>= 1.1)
+Conflicts: com.irepo.boxy4, me.kritanta.homepluspro
+Filename: package_debian_A7/2856.deb
+Size: 304376
+MD5sum: a0a6b15949c459e1205cf679d8a65fe2
+SHA1: 70890c0b62696d2351b95bf2e990db4d9edea074
+SHA256: 110c4a9a7142701d57c7b7a4d09f9ec24fb7332640dfdbe5d796ac24761ddf2d
+Section: Tweaks
+Description: Trình chỉnh sửa bố cục màn hình chính phù hợp cho iOS 13-16
+Author: ren7995 <lau7995ren@gmail.com>
+Name: Atria VN
+
+Package: net.kenhtao.batterypercent
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: nqt1195
+Depends: mobilesubstrate
+Filename: package_debian_A7/2362.deb
+Size: 22960
+MD5sum: 8c2d88ded82261af3529ab27f38caebb
+SHA1: bd52f3a4398258e68d0b30d791875247276cf22f
+SHA256: 07aeeafd43d27a4b6ad28ca32afb4d07664118df4e80ed41716c86d0c58ff672
+Section: Tweaks
+Description: Kiểu pin ios 16 cho các ios thấp hơn
+Author: nqt1195
+Name: BatteryPercent ios16
+
+Package: net.kenhtao.begreen13
+Version: 1.0.7~beta11.3
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Depends: firmware (>=13.0), mobilesubstrate
+Conflicts: net.tateu.begreen, net.tateu.begreen12
+Filename: package_debian_A7/2181.deb
+Size: 111628
+MD5sum: a9fa020cec08dc56d2f69198992320a8
+SHA1: 6136b776fba4088e9c311c7ae80c1d314c96d696
+SHA256: f1ebda5aaaf11570f18235c848a0841d3731b47e9df4fde48888e42133291fa6
+Section: Tweaks
+Description: Tuỳ chỉnh phần trăm pin theo ý thích.
+Author: tateu (Josh Harris) <tateu@tateu.net>
+Name: BeGreen13 VN
+
+Package: net.kenhtao.brokepods
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Donato Fiore <donato.v.fiore@gmail.com>
+Filename: package_debian_A7/2188.deb
+Size: 72286
+MD5sum: f1e7afbd4686f78390e7d67fd9cdc707
+SHA1: 25dc39ffdc77384a08b821e13fc5451ef1a46559
+SHA256: 90cab096a9402c2c612287523e7c798365400d48e0e5bdd5b562c963c44cd2f7
+Section: Tweaks
+Description: Hiển thị hoạt hình kết nối AirPods khi kết nối EarPods (tai nghe có dây) với iPhone.
+Author: Donato Fiore <donato.v.fiore@gmail.com>
+Name: BrokePods VN
+
+Package: net.kenhtao.carbridge13
+Version: 2.0.10
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, ws.hbang.common (>= 1.16), com.spark.libsparkapplist (>= 1.0.9)
+Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
+Filename: package_debian_A7/2372.deb
+Size: 1869384
+MD5sum: 4e506da0db74a1404f52a4beba174bdb
+SHA1: 3d58d2593cd46c7cd15bdd0596c5db1783f22a17
+SHA256: 027097ca35b8eb89dafb345e4b9e54cc66933bf42b3c704fed0120880e5775f5
+Section: Tweaks
+Description: Trao quyền cho CarPlay trên ios.
+Author: leftyfl1p
+Name: CarBridge (ios 13-15) VN
+
+Package: net.kenhtao.codescrambler12
+Version: 1.2.2
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Installed-Size: 760
+Depends: mobilesubstrate,firmware(>= 7.0)
+Filename: package_debian_A7/2618.deb
+Size: 335246
+MD5sum: 395432dfe926712ce2d1632552d9475d
+SHA1: 57c5f79a0e766b64939c9573109f61b1c4a5f58b
+SHA256: f4b8843a548d7172a9583c15b0e2465cf56218717726095acb70cd7d41dceb32
+Section: Tweaks
+Description: Tinh chỉnh giúp tuỳ biến phần nhập mật mã ở màn hình khoá
+Author: Jordan Koch
+Name: CodeScrambler (iOS 7 - 14) VN
+
+Package: net.kenhtao.consolestyle
+Version: 1.0-vi
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Depends: com.yourepo.gh0st5ive.resourcewidget | net.kenhtao.resourcewidget
+Filename: package_debian_A7/2166.deb
+Size: 63864
+MD5sum: 956f512d0f0337b35596217714eaa9b9
+SHA1: 0e5bb1a40e4bcd0d9663140ecdf072eef8e6cc52
+SHA256: a898ff56e5c92c6812bc0fdbbe54566e61d5e439f30dfd65564664ea6833ae3e
+Section: Widgets
+Description: Console style cho XEN HTML
+Author: Gh0st5ive
+Name: Console Style VN
+
+Package: net.kenhtao.crane
+Version: 1.3.12
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy, com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
+Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
+Filename: package_debian_A7/2833.deb
+Size: 1111974
+MD5sum: 0766a9b43b50cfb771d407221d2e774a
+SHA1: 6d035ce848d0ce2d471517ab269ca19a8496d837
+SHA256: 22ffb677b87e40604cdf518171b3420bca86beac332a653054e96288100bc61e
+Section: Tweaks
+Description: Nhiều tài khoản trong ứng dụng
+Author: opa334
+Name: Crane VN
+
+Package: net.kenhtao.crane
+Version: 1.3.13
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy, com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
+Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
+Filename: package_debian_A7/2808.deb
+Size: 1112176
+MD5sum: 1200663c2782c68de8355678f38eb009
+SHA1: 7eb0a704f6f123f10032620e1e444da9ac486f30
+SHA256: 13ab4a45116320aa10e8e102b3cab3e965e42d94b6cbe7344c715ef10c11a8f3
+Section: Tweaks
+Description: Nhiều tài khoản trong ứng dụng
+Author: opa334
+Name: Crane VN
+
+Package: net.kenhtao.crane
+Version: 1.3.6-2
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy, com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
+Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
+Filename: package_debian_A7/2624.deb
+Size: 1109556
+MD5sum: 6b3eec4a162fcd77958f666aabcfc6e0
+SHA1: 2ac1e04529481e69e01c2e23ffb6db62bd91bf59
+SHA256: ad546a4c72f58ea602f4836e60fe31fac5fb3e7cc2ea31dc10b6a664b03ff548
+Section: Tweaks
+Description: Nhiều tài khoản trong ứng dụng
+Author: opa334
+Name: Crane VN
+
+Package: net.kenhtao.crane
+Version: 1.3.7
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy, com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
+Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
+Filename: package_debian_A7/2820.deb
+Size: 1107790
+MD5sum: e7b0213f4603d145de9135241e203172
+SHA1: 5420dde838e041146c9b3afd0bfae6922e582d69
+SHA256: 570a88be88e717a22eeab7f5cee157c46fdfe3ea197d1e473b12ab2e088b09a1
+Section: Tweaks
+Description: Nhiều tài khoản cho ứng dụng của bạn.
+Author: opa334
+Name: Crane VN
+
+Package: net.kenhtao.customlockscreenduration
+Version: 1.5
+Architecture: iphoneos-arm
+Installed-Size: 641
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.rpetrich.rocketbootstrap (>= 1.0.4)
+Filename: package_debian_A7/2580.deb
+Size: 72662
+MD5sum: 0529309d51d94f49767300a6d2726fa1
+SHA1: 34f29968a6b74f50933553a35c6f32b1d4871049
+SHA256: 109064bc39ad2e97c2ca3cdbe0f7455818d994ac422a754ca079bfa8b39ced7d
+Section: Tweaks
+Description: Tuỳ chỉnh thời gian tắt màn hình khi thiết bị ở Màn hình khoá
+Author: Andreas Henriksson <andreaskhenriksson@gmail.com>
+Name: CustomLockscreenDuration VN
+
+Package: net.kenhtao.cylinder
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Installed-Size: 1419
+Depends: firmware (>= 3.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: package_debian_A7/2232.deb
+Size: 505264
+MD5sum: aba80cc7871209b12fc870dfea795f69
+SHA1: 549c9d7f9f50c1fc176fd0c4c7e9304dbeaa16a2
+SHA256: 332eca7f61cdd18b92c55b844e14e14580b6ec2b1f6f2670f9c61e6fef7b4b20
+Section: Tweaks
+Description: Tạo hiệu ứng chuyển trang cho iPhone
+Author: Reed Weichler
+Name: Cylinder (iOS 3 - 14.8.1) VN
+
+Package: net.kenhtao.deficient
+Version: 6.4
+Architecture: iphoneos-arm
+Maintainer: stem grade
+Installed-Size: 632
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), com.spark.libsparkcolourpicker, ws.hbang.alderis (>= 1.1)
+Conflicts: weeb.lillie.youtubedislikesreturn, net.kenhtao.youtubedislikesreturn, com.galacticdev.isponsorblock, com.ps.youpip, com.ps.ytuhd
+Filename: package_debian_A7/2251.deb
+Size: 432824
+MD5sum: fe7d5cb5f6be5c9c8ba41885010ffc42
+SHA1: 0a71a87bbfe4f8e1a518ded3858b3a2c70ac4d83
+SHA256: 6d14b6433b9ee12ae1bf51e7d3dff2f5ab80dd867c626ddc37468834cc99c717
+Section: Tweaks
+Author: stem grade
+Name: Deficient VN
+
+Package: net.kenhtao.deluminator
+Version: 4.2.2
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Installed-Size: 1484
+Depends: mobilesubstrate, com.opa334.altlist, preferenceloader, com.foxfort.foxforttools (>= 1.4.1), firmware (>= 13.1)
+Filename: package_debian_A7/2841.deb
+Size: 469380
+MD5sum: d73f3986eb3d533d5b2f5a405848ea40
+SHA1: 86b25a8cad29d8d91e3fc80865a9d82114a25fcc
+SHA256: c0daee81b45574b05ade989705b2338e8893d5f598af7847222897cb61ba4d9a
+Section: Tweaks
+Description: Dark mode for the web
+Author: FoxfortMobile
+Name: Deluminator
+
+Package: net.kenhtao.digitalclock
+Version: 1.0.9
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Installed-Size: 316
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common (>= 1.15.1), ws.hbang.alderis (>= 1.1)
+Conflicts: com.haoict.iconcert, com.ichitaso.icontweak
+Filename: package_debian_A7/2645.deb
+Size: 61720
+MD5sum: 5a43c21d69cdec5f24ffdbd792ef6dd8
+SHA1: 38a865437b682e543e87eed43ff179e61741ff08
+SHA256: d67aa3fb3b2f22ac3b2dbd6afc5c6732827273a4f0b86a4ce7843ad4738d53f2
+Section: Tweaks
+Description: Tuỳ chỉnh thời gian trên biểu tượng đồng hồ.
+Author: Chr1s
+Name: DigitalClock VN
+
+Package: net.kenhtao.dimentio
+Version: 1:0~20230202.7ffffff
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Installed-Size: 64
+Depends: libiosexec1 (>= 1.3.1), libdimentio0 (=1:0~20230202.7ffffff)
+Conflicts: com.michael.dimentio, com.kasiimh1.dimentio, com.0x7ff.dimentio
+Filename: package_debian_A7/2831.deb
+Size: 3002
+MD5sum: 0118af050296d4cd09636c42f20aa68f
+SHA1: 31106cc40f54f28448b6592883df3f5a0dfb58fa
+SHA256: 3fb0fc5b2c2e54b6bd9f50b59780981f829f816245dbe9fbd5b582bd995c79a7
+Section: Utilities
+Priority: optional
+Description: Công cụ PoC để set nonce mà không kích hoạt KPP/KTRR/PAC.
+Author: 0x7ff
+Name: dimentio
+
+Package: net.kenhtao.dockcontroller
+Version: 1.6.2
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Filename: package_debian_A7/2547.deb
+Size: 76696
+MD5sum: c57fe88f16c540ba79e9c87271806c78
+SHA1: 8fdea2856f8b648635b13cdac222a101728cde94
+SHA256: e89f955c854b22fbc02ca092c2640057d633168f90138f3634d1dd6c5ca0da80
+Section: Tweaks
+Description: Cấu hình Thanh Dock của bạn
+Author: Tomasz Poliszuk <tomaszpoliszuk+bigboss@gmail.com>
+Name: Dock Controller VN
+
+Package: net.kenhtao.electrode
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Installed-Size: 432
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Replaces: com.bid3v.electrode
+Filename: package_debian_A7/2531.deb
+Size: 64092
+MD5sum: 50ddb382cb72320df1a4e1eebe7c8f30
+SHA1: f1e62884cb7256965c4737e0920d718bcb8c5dae
+SHA256: 018299f2cee12b40379a08155d9afa25c51cfb5d4b0e5d076aac9f7bbf0112e8
+Section: Tweaks
+Homepage: https://bid3v.github.io/repo/depictions/electrode.html
+Description: Thay thế cảnh báo Pin yếu bằng dạng Biểu ngữ
+Author: biD3V
+Name: Electrode VN
+Sileodepiction: https://bid3v.github.io/repo/depictions/sileo/electrode.json
+
+Package: net.kenhtao.enablebatterypercent
+Version: 2.1.2
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Conflicts: com.ginsu.enablebatterypercent
+Filename: package_debian_A7/2530.deb
+Size: 724752
+MD5sum: fb88e09fa53f94b9de0998ec4399cbf4
+SHA1: 049baad840b0b9da433a2310730b4049c30155b5
+SHA256: cfea6252a456c3c7609d7d9144e4a47df7d828ab6e2108b98b51f334a547a8b7
+Section: Tweaks
+Homepage: https://repo.ginsu.dev/depiction/web/com.ginsu.enablebatterypercent.html
+Description: Hiển thị phần trăm pin trên thanh trạng thái
+Author: Ginsu <njl02@outlook.com>
+Name: EnableBatteryPercent VN
+
+Package: net.kenhtao.everest
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: Kênh Táo
+Installed-Size: 17276
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 2.0)
+Filename: package_debian_A7/2850.deb
+Size: 484166
+MD5sum: 947de7ab466a568077ba5bab9027e261
+SHA1: 5df5eeb3ca31ce522cc6ecc40940db769bfe8573
+SHA256: 73c430b68d4e956df70e3c23014ebae664c9767828734dc692d588a5a307c02f
+Section: Tweaks
+Description: App icon animations
+Author: Christopher Anderson
+Name: Everest
+
+Package: net.kenhtao.filza
+Version: 3.9.7-2
+Architecture: iphoneos-arm
+Maintainer: TIGI Software
+Installed-Size: 34244
+Pre-Depends: net.kenhtao.libfilza
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit
+Filename: package_debian_A7/2220.deb
+Size: 13679060
+MD5sum: e821be91087c302a01ebafb87e6d8427
+SHA1: eb6ebe4723f682255a67eff2967ba51eefd001fa
+SHA256: 397cdc4fbaa2c32bdf84f4693f654d92824207709bb6756f3f9a7ca8d57b11d6
+Section: Utilities
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
+Author: TIGI Software
+Name: Filza File Manager VN
+
+Package: net.kenhtao.flexpatch
+Version: 6.5
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Depends: net.kenhtao.flex3beta | flex3beta
+Filename: package_debian_A7/2575.deb
+Size: 215842
+MD5sum: 3f4cb82426f299cb2bf22ac316ed1125
+SHA1: de7a6b7484b3856c5e43257cf9bda8811405b5ce
+SHA256: 9c012c5da54437f8e693bc48623718dfc9a57aa9b4b25100b36a4e3f365a6337
+Section: Tweak
+Description: Tổng Hợp Các Patch Flex 3 Việt Hoá bởi Team Flex VN
+Author: Team Flex VN
+Name: Patch Flex VN
+
+Package: net.kenhtao.floatingdockxvi
+Version: 1.8
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Installed-Size: 812
+Depends: preferenceloader
+Filename: package_debian_A7/2791.deb
+Size: 415598
+MD5sum: e7feca4761f7b03503b3db3ad91d9a62
+SHA1: 9297a74a5c950e9c41df022c48587ead5ec5d149
+SHA256: 6aff24ab541bbd501234a4a10a8ae7432a1f5d4ed2b2a0f1d3b7a4a87b5f4f22
+Section: Tweaks
+Description: Floating Dock on iOS 16
+Author: Ethan Whited
+Name: FloatingDockXVI
+
+Package: net.kenhtao.forceinpicture
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Installed-Size: 200
+Depends: mobilesubstrate, firmware (>= 9.0)
+Conflicts: com.ps.forceinpicture
+Filename: package_debian_A7/2698.deb
+Size: 6088
+MD5sum: 5bdc9c5b2a81f901fe9b44384752a8fa
+SHA1: b810a2e32636e297b6ffd34392fcfed04a28a92d
+SHA256: 444ee0d44e3bd7a9600cf9d491026937739198ab7f6fba5107e6139de350e64b
+Section: Tweaks
+Description: Gói phụ trợ cho YouPiP
+Author: PoomSmart
+Name: ForceInPicture VN
+
+Package: net.kenhtao.galacticsky
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Depends: mobilesubstrate
+Filename: package_debian_A7/2786.deb
+Size: 4570052
+MD5sum: f77f9af93a766b9da0aff1d72e31fa39
+SHA1: 73187add9c2f9bd74777c208774fc179a3ba0ff8
+SHA256: b6fca7240053bb8f9faface2359231ff2c4e7b8d6bb3ce1ebba3b76733b8deab
+Section: Themes
+Description: Chủ đề Galactic Sky cho Passcode và Điện thoại.
+Author: CG Gió
+Name: Galactic Sky
+
+Package: net.kenhtao.gesturesxv
+Version: 1.6
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Installed-Size: 2756
+Depends: mobilesubstrate
+Filename: package_debian_A7/2796.deb
+Size: 2186768
+MD5sum: ecf4e104810beab3779e3931fab64fae
+SHA1: 936803452de8782bf65ac4665f4d1f8f5c7cd801
+SHA256: d5acbdc216b246f0f83a64f2c4e1192db85466bf1504d54660cab02b3e87b7da
+Section: Tweaks
+Description: Cử chỉ iPhone X được mang đến iPhone cũ hơn tương thích với iOS 15
+Name: GesturesXV VN
+
+Package: net.kenhtao.goosenametag
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Installed-Size: 204
+Depends: net.kenhtao.mobilegoose (>=1.2)
+Conflicts: com.pixelomer.joethegoose
+Replaces: com.pixelomer.joethegoose
+Filename: package_debian_A7/2701.deb
+Size: 11050
+MD5sum: 2b7cf893c91ee425fde94c88e88a18fd
+SHA1: 8d51295a94be4fbd7b3938c639214e84b5b87631
+SHA256: 82ee5ac8d3d8f0cbb80e7bbeeaf8c04b0303838513be6790229b968fdb639896
+Section: Tweaks
+Priority: optional
+Description: Thêm tuỳ chọn giúp hiện Nhãn tên cho MobileGoose
+Author: pixelomer
+Name: Goose Name Tag VN
+
+Package: net.kenhtao.hideserialnumber
+Version: 0.0.2
+Architecture: iphoneos-arm
+Installed-Size: 352
+Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader
+Filename: package_debian_A7/2305.deb
+Size: 71308
+MD5sum: 968ee0a643fa1c0886b80418871e9945
+SHA1: a90c4e57fb9b70276958b30b30042fe22d1eff63
+SHA256: ca9fc5df0a1b3bd9d69f4270866f0bbe22e1e086e47ff1b521c50f561c746a26
+Section: Tweaks
+Homepage: https://cydia.ichitaso.com/depiction/hidesn.html
+Description: Hide Serial Number in Settings About page.
+Tag: purpose::extension, compatible::ios12, compatible::ios13, compatible::ios14
+Author: ichitaso
+Depiction: https://cydia.ichitaso.com/depiction/hidesn.html
+Dev: ichitaso
+Name: HideSerialNumber VN
+
+Package: net.kenhtao.iamlazy
+Version: 2.1.2
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Installed-Size: 395
+Depends: apt, shell-cmds, uikittools, firmware (>= 13.0), firmware (<< 15.0)
+Filename: package_debian_A7/2840.deb
+Size: 172782
+MD5sum: ca8c07ddf1e74f74e0f301fd62f3a407
+SHA1: 7e8b77e05497cc52eff25bcf831479c35609e33d
+SHA256: 83eeb392b634635e78266597e7b0ac1ae69db81b6eef0eea3561a28e6d2515e9
+Section: Utilities
+Description: Sao lưu vào khôi phục tinh chỉnh một cách dễ dàng.
+Author: Lightmann
+Name: IAmLazy VN
+
+Package: net.kenhtao.icleanerpro
+Version: 7.10.0
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: package_debian_A7/2262.deb
+Size: 2155898
+MD5sum: 6db09bcc05480159cdec71ab4115bb6f
+SHA1: 9ec8892768ad6d784dc5e718dde982432705c0b0
+SHA256: dc60e2b7466ec20ab4e949d3ecb397477a8bf40b3a948967a15ec3657276bb20
+Section: Utilities
+Description: Trình dọn dẹp và tối ưu hóa hệ thống iOS tốt nhất.
+Author: Ivano Bilenchi
+Name: iCleaner Pro VN
+
+Package: net.kenhtao.ipa2deb
+Version: 1.0.5
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Depends: dpkg
+Filename: package_debian_A7/2803.deb
+Size: 2396
+MD5sum: d22055a3c3c9ffdf361551c548ea086f
+SHA1: feea131a046a33165c7e869e0f9512d5e230edb7
+SHA256: 83e7e9d323202d5f9414db92289813d5f337b008edaa0e9a27b64190c7d3795f
+Section: Development
+Description: Đổi file IPA sang DEB
+Author: rullinoiz
+Name: ipa2deb
+
+Package: net.kenhtao.libmiroprefs
+Version: 1.0.8
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 1488
+Depends: firmware (>=12.0)
+Filename: package_debian_A7/2255.deb
+Size: 530728
+MD5sum: 5fdad2a4b6c93db8208625ecd2329aff
+SHA1: 5e3f4966971e3476a559605dadedf0803f1c61ed
+SHA256: b537203779c023dd275c94838b72c63ee26466e9d01f1e325d237934f35f979a
+Section: Development
+Description: Shared library for my tweaks' preferences.
+Tag: role::developer, compatible_min::ios12, compatible_max::ios14
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.libmiroprefs
+Name: libMiROPrefs
+
+Package: net.kenhtao.lucgiac
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Filename: package_debian_A7/2264.deb
+Size: 397124
+MD5sum: a9e49b05231bc505640949951fc66da7
+SHA1: 11f1793dade783d059a66ba0e2bc43d6e1ddf20e
+SHA256: 9b2d7465b7334331afdb7814868f0092de9b14bb330e8070d13b0ddf8d3b9266
+Section: Themes
+Description: Mask Lục Giác Kênh Táo.
+Author: Kênh Táo
+Name: Mask Lục Giác
+
+Package: net.kenhtao.lunartimex
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: package_debian_A7/2260.deb
+Size: 20550
+MD5sum: 9e9cd93c66d77ddf92562763d855e322
+SHA1: 38fdb3244d5df9ab9db3ded8af1e5f4c56faf3c9
+SHA256: f8f182e96bd1a910d0dab1b9f7b80b7bb9557877c7bc2d7c1adf3e92d17f54fb
+Section: Tweaks
+Description: Thêm ngày tháng, âm lịch trên thanh trạng thái.
+Author: nqt1195
+Name: LunarTimeX VN
+
+Package: net.kenhtao.nicebattery
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Depends: firmware (>= 14.0)
+Filename: package_debian_A7/2817.deb
+Size: 379520
+MD5sum: b2281e6b273c5927dba07429db8e79c2
+SHA1: 4f820aceee51c4bb2b9b3d0e64a5240d5f5be829
+SHA256: f01ad4e95c0695a0ebdbb37a6a6439635d91f2ffa736cb6f12bd391abfc518dc
+Section: Tweaks
+Description: Nice Battery
+Author: niceios
+Name: NiceBattery
+
+Package: net.kenhtao.noforcedentry
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Installed-Size: 152
+Depends: firmware (<< 14.8.1), mobilesubstrate
+Replaces: in.net.mario.tweak.noforcedentry
+Filename: package_debian_A7/2590.deb
+Size: 5260
+MD5sum: aac3f7381adcf2f8a5a040aaf05d9d4a
+SHA1: aebf6fab8858e163c073c05231afd649169af417
+SHA256: b01b28d40c77420db7e90fc6f9fc536f89c4324e8f16c6e6646cf3f2788dc9c5
+Section: Tweaks
+Description: Vá lỗi khai thác Zero-Click trên các thiết bị iOS / iPadOS
+Author: Mario Cheung
+Name: FORCEDEXIT VN
+
+Package: net.kenhtao.nopassafterrespringsafe
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Depends: mobilesubstrate
+Filename: package_debian_A7/2696.deb
+Size: 11108
+MD5sum: c50092c4acea7da4696b26f4f7eb5c18
+SHA1: 58564ca6921ece75e300a10562e22fccd5150fd2
+SHA256: fc74e2856f7ce48ca77a8f4c40af864748b8ed3cb82edfbf4da117327384705d
+Section: Tweaks
+Description: Bỏ qua việc nhập mật mã sau mỗi lần respring
+Author: Brend0n
+Name: NoPassAfterRespring (Safe) VN
+
+Package: net.kenhtao.otadisabler
+Version: 0.5
+Architecture: iphoneos-arm64e
+Maintainer: Kênh Táo
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: package_debian_A7/2778.deb
+Size: 19522
+MD5sum: 1e4e23dc24057e368c7dc69fb7bea994
+SHA1: d90691a408d275129954a3119049bdc703c0c98d
+SHA256: 600258dea4c2ffa2c4bcdddb22b6a7e9ee830ac6003a95c894e8803b83be8d72
+Section: System
+Description: Vô hiệu hóa OTA và xóa thông báo cập nhật trên màn hình chính, v.v.
+Author: ichitaso
+Name: OTADisabler VN
+
+Package: net.kenhtao.otadisabler
+Version: 0.5
+Architecture: iphoneos-arm64
+Maintainer: Kênh Táo
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: package_debian_A7/2779.deb
+Size: 19638
+MD5sum: b15faee2725be7df1be2eb2720f8af84
+SHA1: a59048805ae439358dfdcf99892589d9ed06320a
+SHA256: 7372c2fa33e7eb5a5bb4c8dcd31932c6b02af56a40c8bd8e10373ee7a0494634
+Section: System
+Description: Vô hiệu hóa OTA và xóa thông báo cập nhật trên màn hình chính, v.v.
+Author: ichitaso
+Name: OTADisabler VN
+
+Package: net.kenhtao.otadisabler
+Version: 0.5
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: package_debian_A7/2780.deb
+Size: 31810
+MD5sum: 258f353ac4005f044f481a6629e271ae
+SHA1: 484eff26e4f8bbd60018c740dc2a587663b60324
+SHA256: 93ead8446ec0f02512f98961596ed882c033ee2afa63b8ccce2864e8bb797678
+Section: System
+Description: Vô hiệu hóa OTA và xóa thông báo cập nhật trên màn hình chính, v.v.
+Author: ichitaso
+Name: OTADisabler VN
+
+Package: net.kenhtao.passcode.giotnuoc
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Kenh Táo
+Filename: package_debian_A7/2598.deb
+Size: 2400988
+MD5sum: 17a5efdd9d81c5304cabb263f7e6703e
+SHA1: a3ca29cebec1149ba5551fbf93ac7acc708af95c
+SHA256: 2391c7cfba8be4dd3fbf90cede2c0c7ff4f22dbe1501f1fe8101d61f63df2a03
+Section: Tweaks
+Description: Theme Passcode Hình Giọt Nước
+Author: Anh Đạt
+Name: Passcode Giọt Nước
+
+Package: net.kenhtao.powercuff
+Version: 0.1.18-1
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.opa334.altlist
+Filename: package_debian_A7/2592.deb
+Size: 36808
+MD5sum: c95eeef7bcd36337952565dd89c5eabb
+SHA1: b3800a6799333f4fecbb03fcbd0e5f3683b2a75b
+SHA256: 68424ec8d069bc7b95795c2bba95e5078087133e04f804d5cc5679023ffc3f00
+Section: Tweaks
+Description: Tinh chỉnh giúp giảm xung thiết bị của bạn
+Author: Ryan Petrich
+Name: Powercuff VN
+
+Package: net.kenhtao.powerselector11
+Version: 1.3.4
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Installed-Size: 2556
+Pre-Depends: firmware (>= 11.0)
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi, com.ichitaso.powerselector11
+Replaces: com.ichitaso.powerselector11
+Filename: package_debian_A7/2381.deb
+Size: 388972
+MD5sum: e75b3430771cd19d7910143cbeb0a40a
+SHA1: 244e09e42a7cb6612740b660942acab9b04fbed7
+SHA256: 7fb5be58a854860c09d09bf5af7fdbe5e020375bc833b75097494ba714fc0e67
+Section: Tweaks
+Homepage: https://cydia.ichitaso.com/depiction/powerselector11.html
+Description: Thêm các tuỳ chọn hữu ích về Nguồn cho thiết bị của bạn
+Author: ichitaso <willfeeltips+ps11@gmail.com>
+Depiction: https://cydia.ichitaso.com/depiction/powerselector11.html
+Name: PowerSelector VN (iOS 11 - 14)
+
+Package: net.kenhtao.powerselector11
+Version: 1.4.0
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Pre-Depends: firmware (>= 11.0)
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
+Replaces: com.ichitaso.powerselector11
+Filename: package_debian_A7/2775.deb
+Size: 376084
+MD5sum: 86a42dbea842ff4d22c29db92cb16af6
+SHA1: 389199857782734c4233c096052a21574a491f1b
+SHA256: c7a22c318b99311958cc98f3a9cdb865f964818429396dff6193da76ec6fdf24
+Section: Utilities
+Description: Respring, Reboot, Uicache thiết bị
+Author: ichitaso <willfeeltips+ps11@gmail.com>
+Name: PowerSelector VN
+
+Package: net.kenhtao.powerselector11
+Version: 1.4.0
+Architecture: iphoneos-arm64
+Maintainer: ichitaso <willfeeltips+ps11@gmail.com>
+Pre-Depends: firmware (>= 11.0)
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
+Replaces: com.ichitaso.powerselector11
+Filename: package_debian_A7/2774.deb
+Size: 361974
+MD5sum: 15f156c3b8d323b10253f4beea3c0606
+SHA1: 11e354695b3ab810b0e8f311ab1094cc4c8b1dea
+SHA256: cc75b9c69412b5b75b51f04e1ecf13baa1f354392f3d05eb08bb86930a35566f
+Section: Utilities
+Description: Respring, reboot, Uicache thiết bị,...
+Author: Kênh Táo
+Name: PowerSelector VN
+
+Package: net.kenhtao.quasar
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Depends: firmware (>=14.0), ws.hbang.common
+Filename: package_debian_A7/2365.deb
+Size: 2044212
+MD5sum: f0e71ea478128e6dc88cf4c92796b43f
+SHA1: 3c73c1e59bfacf56ead65a34640e79bd42bee999
+SHA256: 976ac249c1d4b0977d746979b68b7d6ea54f6f45873d4dcc7c91cb323b71e7e0
+Section: Tweaks
+Priority: optional
+Description: Thiêm nhiều thứ thú vị vào Đa nhiệm. Cracked by Quân
+Author: mtac
+Name: Quasar VN
+
+Package: net.kenhtao.ramundertime
+Version: 3.2
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Installed-Size: 528
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: package_debian_A7/2800.deb
+Size: 89210
+MD5sum: 452f7de90aa4f20368ee34af3ad596be
+SHA1: ebfc664410053f21be71b673a07efc1f7f0bd7d5
+SHA256: 84e1694665789f0b18841aa08618086854303519e521a9799c8cbd8936991970
+Section: Tweaks
+Description: Shows the amount of free RAM in the status bar.
+Author: Ginsu
+Depiction: https://ginsu.dev/repo/depictions/index.html?packageId=com.ginsu.ramundertime
+Name: RAMUnderTime
+Sileodepiction: https://ginsu.dev/repo/depictions/native/com.ginsu.ramundertime.json
+
+Package: net.kenhtao.reprovision
+Version: 0.5.2~EOL
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Depends: firmware (>= 9.0), firmware (<=13.5)
+Replaces: com.matchstic.Extender-Installer
+Provides: com.matchstic.Extender-Installer
+Filename: package_debian_A7/2672.deb
+Size: 14391816
+MD5sum: 30147fbeab36e2c4e5d724367be3f9f8
+SHA1: a854ff817be7ee68cb43c2793d3684a188a32d19
+SHA256: 2cac04b2b3e2b74256efe186901d182c567c35905f54497eee6a90772e7450cc
+Section: Utilities
+Description: Gia hạn và cài đặt ipa trên thiết bị của bạn.
+Author: Matt Clarke, nyuszika7h
+Name: ReProvision VN
+
+Package: net.kenhtao.rocket
+Version: 3.8.27
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Depends: firmware (>= 8.0), mobilesubstrate
+Filename: package_debian_A7/2777.deb
+Size: 2264016
+MD5sum: 4a36a6b2f18130600c09427c89c53edc
+SHA1: 680600c105981671612dd80d35144f3c985b9b0a
+SHA256: 62ff53bac826b0ff04d4f51d7633185ae5e9255c49a967bdb8c704cb8c82bbf6
+Section: Tweaks
+Description: Lưu bài đăng và xem câu chuyện ẩn danh và làm được nhiều hơn thế
+Author: Rocket App
+Name: Rocket for Instagram VN
+
+Package: net.kenhtao.rocket
+Version: 3.8.27
+Architecture: iphoneos-arm64
+Maintainer: Kênh Táo
+Depends: firmware (>= 8.0), mobilesubstrate
+Filename: package_debian_A7/2776.deb
+Size: 2264898
+MD5sum: 3fdca6e340a89f1f0baefc7674b1510c
+SHA1: 7d6689cce2480ce7e2f3573c298d74509cb1bd19
+SHA256: 0d285a73d8f204b8ee070d716115bb08abdb8d9c8e26c3f042a86489cc8381b3
+Section: Tweaks
+Description: Lưu bài đăng và xem câu chuyện ẩn danh và làm được nhiều hơn thế
+Author: Rocket App
+Name: Rocket for Instagram VN
+
+Package: net.kenhtao.runaway
+Version: 0.0.6
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Installed-Size: 356
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader
+Filename: package_debian_A7/2816.deb
+Size: 31608
+MD5sum: a53976926ad60a21c7c46dba46bb674d
+SHA1: 79e8428ff2aa038e2de4a45a50f2bac5de21418a
+SHA256: 3b659e5e9e78fb2c8645785375a44750125bc514abfcec61f3054960fdbdb705
+Section: Tweaks
+Description: Hiển thị tốc độ mạng trên thanh trạng thái của bạn.
+Author: ned
+Name: Runaway VN
+
+Package: net.kenhtao.safariplus
+Version: 1.7.21
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Installed-Size: 5548
+Depends: firmware (>=8.0), mobilesubstrate, preferenceloader, com.opa334.libsandy, com.opa334.libundirect (>=1.1.3) | firmware (<<14.0), ws.hbang.common | firmware (>=11.0), com.creaturesurvive.libcscolorpicker | ws.hbang.alderis (>= 1.1)
+Filename: package_debian_A7/2515.deb
+Size: 1994358
+MD5sum: d2f5a1ee4e9da81a7b629dc8f9ea2b11
+SHA1: c6d446096fb6bf694948122b90e0ad6dd7dde27b
+SHA256: 42db43c27a322f264492933c109602a41bc96073d0f0eeed97fa137c0aac7e64
+Section: Tweaks
+Homepage: https://opa334.github.io/depic/SafariPlus/index.html
+Description: Thêm rất nhiều tính năng hưu ích cho Safari
+Author: opa334 <opa334@protonmail.com>
+Depiction: https://opa334.github.io/depic/SafariPlus/index.html
+Name: Safari Plus VN
+
+Package: net.kenhtao.scope
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Kênh Táo
+Installed-Size: 1704
+Filename: package_debian_A7/2795.deb
+Size: 1194110
+MD5sum: 20eaee3364351e6b41d010e5f8c8d8e3
+SHA1: f977e5f49bae5940623d3532a3e2ace1c3ea668c
+SHA256: 9006e3916f4a23d204aa4a39f2066b0c83ef4a1d6985d7b63cb20aa1af2d6c34
+Section: Utilities
+Description: View & manage iOS Runtime headers directly from your device
+Author: MTAC
+Name: Scope VN
+
+Package: net.kenhtao.signaldots
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Depends: mobilesubstrate
+Filename: package_debian_A7/2196.deb
+Size: 5284
+MD5sum: 3291b74791e39cd293f77c6835559f0a
+SHA1: b89d144bb8f8345dfeed74b8161849fb3d8ce161
+SHA256: fc60deb372f0ffef8611c40d0296424488618f59814b984115bb5e32e0166b22
+Section: Tweaks
+Description: Thay thế thanh sóng mặc định thành sóng tròn của ios 10 cho các ios cao hơn.
+Author: nqt1195
+Name: SignalDots VN
+
+Package: net.kenhtao.trollstorehelper
+Version: 1.0.8
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Installed-Size: 616
+Filename: package_debian_A7/2526.deb
+Size: 250346
+MD5sum: 0481c2a60fca77088e3f540242caf982
+SHA1: 8fea0cf7a3815f72557e33b4578e572ac36143be
+SHA256: 42f436971097fbdcb882a484fc996291b9a7abf4e9d00261225270b0fa796046
+Section: Applications
+Description: Tiện ích trợ giúp để cài đặt và quản lý TrollStore!
+Author: opa334
+Name: TrollStore Helper VN
+
+Package: net.kenhtao.trollstorehelper
+Version: 1.5.1
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Installed-Size: 676
+Filename: package_debian_A7/2845.deb
+Size: 272462
+MD5sum: 79dac356b5d3acd3e5f12aa5bf81eb73
+SHA1: 319a25148e70d20fcdf0e8951b912790a643638c
+SHA256: f6a43ba876854e00dd91ea0e1c7d3ac0546af199ea83da378b9d90d28cb77131
+Section: Applications
+Description: Tiện ích cài đặt và quản lí TrollStore
+Author: opa334
+Name: TrollStore Helper
+
+Package: net.kenhtao.tweaksettings
+Version: 1.0.6
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Installed-Size: 2050
+Depends: firmware (>= 10.0), preferenceloader | com.creaturecoding.preferred
+Filename: package_debian_A7/2186.deb
+Size: 895292
+MD5sum: 75999dcfe8402cc88cd822270356d3d7
+SHA1: 53d7f2eb95ad9979c7a657b1e16e6717077451ba
+SHA256: a8c03fe914a93359089d656fd20b6d16ceb0df9f8dadd9d9cd1f5a9a2d137a01
+Section: Applications
+Priority: optional
+Description: Tiện ích để thiết lập các tinh chỉnh
+Author: CreatureSurvive
+Name: TweakSettings VN
+
+Package: net.kenhtao.uptime
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Installed-Size: 192
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport
+Conflicts: com.mtac.uptime
+Replaces: com.mtac.uptime
+Filename: package_debian_A7/2247.deb
+Size: 35256
+MD5sum: 88837c995dddd996c6e9d0d0561043a4
+SHA1: a55c0c27c6201af0752de3f21ff47b18f10338af
+SHA256: ec2854583f3106412dcd88e844f4bd4e58de2cb053100e1aa84a83a5c77aa1cf
+Section: Tweaks
+Description: Thêm một Mô-đun vào Trung tâm điều khiển giúp bạn xem được thiết bị đã hoạt động bao lâu từ lần khởi nguồn gần nhất!
+Author: MTAC
+Name: Uptime VN
+
+Package: net.kenhtao.vuonggach
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Filename: package_debian_A7/2200.deb
+Size: 31476
+MD5sum: 997f7dbdd45ed78301581abf649de948
+SHA1: 0630af85e83df158e289f8aeba728123bfb66774
+SHA256: cc31d208d31401d75db9f526a6a4cb9e3ca40c61d7d1bdd525c1331a309fc744
+Section: Themes
+Description: Mask Vuông Gạch Kênh Táo.
+Author: Kênh Táo
+Name: Mask Vuông Gạch
+
+Package: net.kenhtao.vuongtrang
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Filename: package_debian_A7/2357.deb
+Size: 8616
+MD5sum: 00e31a84e34d3b7aced1e8687b9ea66a
+SHA1: f8c9f9dff339a51339ff0af3d7735af9bdaabd2d
+SHA256: d7ddefde49d7758327dfc6679fc6514bbeb5e2da22b1d4df77b909eb9d339c3f
+Section: Themes
+Description: Mask Vuông Trắng Kênh Táo.
+Author: Kênh Táo
+Name: Mask Vuông Trắng
+
+Package: net.kenhtao.waktos
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Installed-Size: 696
+Depends: mobilesubstrate, firmware (>= 13.0), com.spark.libsparkcolourpicker, preferenceloader, ws.hbang.common (>= 1.14), com.peterdev.libpddokdo
+Conflicts: com.laughingquoll.watermelon, com.laughingquoll.watermelon.beta, com.rpgfarm.groupingaxon, moe.absolucy.lucient, moe.absolucy.lucient.trial, org.coolstar.ventana-modern, xyz.royalapps.jellyfish, hi.my.name.is.ubik.kalm, love.litten.diary, com.peterdev.grupi
+Filename: package_debian_A7/2524.deb
+Size: 197812
+MD5sum: eaab41d7da2a0706501bb8f157ba7148
+SHA1: 7d306cbd4b81408406d2d2873b5518bdbcb1eff6
+SHA256: e2607d4770f8fbf66885950741064b8ae1944b3a505bc870da83a828405afcc1
+Section: Tweaks
+Description: Màn Hình Khoá Android.
+Author: alimaulana
+Name: Waktos VN
+
+Package: net.kenhtao.youpip
+Version: 1.7.16
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Depends: mobilesubstrate, firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.ps.forceinpicture | com.cabralcole.forceinpicture | net.kenhtao.forceinpicture
+Conflicts: com.spicat.youpip
+Replaces: com.spicat.youpip
+Provides: com.spicat.youpip
+Filename: package_debian_A7/2811.deb
+Size: 35022
+MD5sum: 6f4599c40b2229ba5334abd2662dbd2a
+SHA1: 7403b8bd48d55d4d885403d337212ba35f1a67b8
+SHA256: c439627356d8d8d0f1de592b88b2145351c611848d0608955e41ce124996370c
+Section: Tweaks
+Description: Enable native PiP in YouTube app.
+Author: PoomSmart
+Name: YouPiP VN
+
+Package: net.kenhtao.youtubereborn
+Version: 3.1.9
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Installed-Size: 25296
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Conflicts: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, prasa.youtubeplus, com.unlimapps.ytpp, com.twickd.laki.raspberry, com.laki.raspberry, com.twickd.lazar.raspberry, 0xcc.woodfairy.noytads, weeb.lillie.enhancerforyoutubepremium, weeb.lillie.youtubepremiumplus, com.miro.uyou, com.ps.uyoucompat, com.ps.ytsystemappearance, com.galacticdev.isponsorblock, com.yourepo.mohadu31.dzyoutube, com.lyvendia.ytspeed, com.miro.uyouimport, com.ichitaso.uyouplus, com.stem.deficient, h.ryan.youtubereborn, net.kenhtao.deficient
+Replaces: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, weeb.lillie.enhancerforyoutubepremium, h.ryan.youtubereborn, net.kenhtao.deficient
+Provides: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, weeb.lillie.enhancerforyoutubepremium, h.ryan.youtubereborn, net.kenhtao.deficient
+Filename: package_debian_A7/2323.deb
+Size: 12155026
+MD5sum: 030e3d8b13d6d97c856bbae2412202cd
+SHA1: c46e9784376a413d468ed362fe108a5579acf84b
+SHA256: bbfdd3d477db02e6ebf01bebda4febb232055da44b990e7a7b37fe03d801c298
+Section: Tweaks
+Description: Tinh chỉnh giúp YouTube có nhiều tính năng hơn!
+Author: Lillie
+Name: YouTube Reborn VN
+
+Package: net.kenhtao.ytspeed
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Installed-Size: 200
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: com.lyvendia.ytspeed
+Filename: package_debian_A7/2165.deb
+Size: 16190
+MD5sum: 37ffdcda1c01f729489d04262739ab96
+SHA1: ea23dc7c7d557c64d9d50e5f8dfded26a9f1bde6
+SHA256: ef11538a8bb93827dfa049acf4703bb832fbfc333993d01f1996426538c96624
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ytspeedDp
+Description: Makes YouTube Videos speedy.
+Author: Lyvendia <spechtluna@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ytspeedDp
+Name: YTSpeed VN
+
+Package: net.kenhtao.ytx
+Version: 1.4.2
+Architecture: iphoneos-arm64
+Maintainer: Kênh Táo
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytabgoodies
+Filename: package_debian_A7/2852.deb
+Size: 4518
+MD5sum: 8ecab646a39c51f36bf759a7f062a7e9
+SHA1: a13b00a8665f2b9e1d0844d0a3c3b9ab2d7494a7
+SHA256: 416aec15349a906cb1ff6e40c21babe2a905d06893451b73fd0e8b3607c4d238
+Section: Tweaks
+Description: Một tinh chỉnh cải tiến nhẹ của YouTube.
+Author: PoomSmart
+Name: YouTube X VN
+
+Package: pro.ikghd.youtubekiller
+Version: 1.2.4
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Installed-Size: 29868
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 12.0), ws.hbang.alderis, com.opa334.ccsupport, net.kenhtao.ikgcr, net.kenhtao.cracktool4
+Conflicts: com.spicat.youpip, com.ps.youpip, com.yourepo.ikghd.youtubekillers, com.yourepo.ikghd.youtubekiller, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, prasa.youtubeplus, com.yourepo.ikghd.adb, org.mr.youtobia, org.mr.youtubekiller, org.mr.youtubetools1
+Filename: package_debian_A7/2712.deb
+Size: 13167898
+MD5sum: 3cdbab3a52dd61a57a3ee25ae5ca29e9
+SHA1: ff6d603330356a5ac350c3e37ed2d2f150c137e3
+SHA256: 4b348dfd402091da48ec3b27eafa3fdd8398a5babeb7e37420854d0b0cf4fad2
+Section: Tweaks
+Homepage: https://repo.ikghd.me/depictions/?p=pro.ikghd.youtubekiller
+Description: Bổ sung các tính năng hữu ích cho Youtube
+Tag: purpose::extension, compatible_min::ios12.0, compatible_max::ios14.8
+Author: iKarwan <ikghd3@gmail.com>
+Name: YouTubeKiller VN
+Sileodepiction: https://repo.ikghd.me/sileodepictions/pro.ikghd.youtubekiller.json
+
+Package: wiki.qaq.trapp.jb
+Version: 2.10-499
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 18868
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy, uikittools (>= 2.1.6-3)
+Filename: package_debian_A7/3080.deb
+Size: 4699512
+MD5sum: 9a56d1e8cb74df68876ba378874a876d
+SHA1: e41c517fedb4b3032783a8bd91b70125f0e077c0
+SHA256: 075a87ffd9db032fbba2effeebd83f7384ba3631dab166cdf123d88ad053e694
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
+Package: wiki.qaq.trapp.jb
+Version: 2.10-499
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 18856
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: package_debian_A7/3078.deb
+Size: 4696496
+MD5sum: 3501e1f6c61f85632882bd99141f798f
+SHA1: 7ce2034d131d06438bd9e86f1bca69433063d243
+SHA256: 56fb7577493ccb094fbebd41eec0aed3a3478e68b214e656a996207f940f7138
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
 
 Package: ClearCam-Cracked
 Version: 1.0.2
