@@ -153935,26 +153935,6 @@ Dev: coolstar
 Name: LD64
 Sponsor: thebigboss.org <http://thebigboss.org>
 
-Package: org.coolstar.sileo
-Version: 0.4b2
-Architecture: iphoneos-arm
-Maintainer: CoolStar <coolstarorganization@gmail.com>
-Pre-Depends: debianutils, dpkg (>= 1.14.25-8)
-Depends: org.coolstar.sileo, apt7 (>= 1.7.0), apt7-lib (>= 1.7.0-sileo), apt7-key (>= 1.7.0), dpkg (>= 1.19.2-4), cydia (>= 1.9.1), cy+cpu.arm64
-Conflicts: cydia-gui (<= 1.1.30-3)
-Filename: package_debian_A9/org.coolstar.sileo_0.4b2_iphoneos-arm.deb
-Size: 874292
-MD5sum: 9c4cc6d0b1ff3cc7737158ce6cad47ca
-SHA1: 314897bd9d0ce78461b6f719d143789b4cbeb466
-SHA256: e2b338dd1ace7028f59cec7d8472c16998665c50e61cefc12138d10b862a53c6
-Section: Packaging
-Priority: required
-Description: A proper APT client for iOS 11 and higher. (View this package in Sileo to see the full depiction)
-Tag: cydia::essential
-Author: Sileo Team <getsileoapp@gmail.com>
-Name: Sileo (Beta)
-Sileodepiction: https://coolstar.moe/sileoassets/depictionoverride.php?package=org.coolstar.sileo
-
 Package: org.coolstar.tapvolumetomute
 Version: 1.0.0
 Architecture: iphoneos-arm
