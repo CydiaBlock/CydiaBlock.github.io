@@ -27070,24 +27070,6 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Thieu.Bocap <repo@cydia.vn>
 Depends: gsmicon
-Filename: package_debian_A2/anhkhongniukeonew_1.0.deb
-Size: 1479756
-MD5sum: c499fd1ffe5a3ad652c4ebcdc04fd2aa
-SHA1: 5067e59add7af89d553f57382852cc63b2926c0b
-SHA256: 871fc7d220c1e8ee9d1bf92f7e94d118ce7f57b7daeb14581f0bf1da307e8b0b
-Section: Ringtones
-Description: Nhạc chuông Anh Không Níu Kéo
-Author: Tung.GSM <hotro@gsm.vn>
-Depiction: http://cydia.gsm.vn/t2893/
-Home: http://cydia.vn/blog
-Name: Anh Không Níu Kéo
-Sponsor: Cydia.vn Blog's <http://cydia.vn/blog>
-
-Package: vn.gsm.anhkhongniukeo
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Thieu.Bocap <repo@cydia.vn>
-Depends: gsmicon
 Filename: package_debian_A2/anhkhongniukeo_1.0.deb
 Size: 1005484
 MD5sum: 69cff65583514c9cdc51ae6711701a27
@@ -27097,6 +27079,24 @@ Section: Ringtones
 Description: Nhạc chuông Anh Không Níu Kéo
 Author: Tung.GSM <hotro@gsm.vn>
 Depiction: http://cydia.gsm.vn/t2681/
+Home: http://cydia.vn/blog
+Name: Anh Không Níu Kéo
+Sponsor: Cydia.vn Blog's <http://cydia.vn/blog>
+
+Package: vn.gsm.anhkhongniukeo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Thieu.Bocap <repo@cydia.vn>
+Depends: gsmicon
+Filename: package_debian_A2/anhkhongniukeonew_1.0.deb
+Size: 1479756
+MD5sum: c499fd1ffe5a3ad652c4ebcdc04fd2aa
+SHA1: 5067e59add7af89d553f57382852cc63b2926c0b
+SHA256: 871fc7d220c1e8ee9d1bf92f7e94d118ce7f57b7daeb14581f0bf1da307e8b0b
+Section: Ringtones
+Description: Nhạc chuông Anh Không Níu Kéo
+Author: Tung.GSM <hotro@gsm.vn>
+Depiction: http://cydia.gsm.vn/t2893/
 Home: http://cydia.vn/blog
 Name: Anh Không Níu Kéo
 Sponsor: Cydia.vn Blog's <http://cydia.vn/blog>
@@ -27380,24 +27380,6 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Thieu.Bocap <repo@cydia.vn>
 Depends: gsmicon
-Filename: package_debian_A2/anhthikhong_1.0.deb
-Size: 561876
-MD5sum: 99e53b7b528aa3fcb3bf9f1d754cddaa
-SHA1: 84c8f07d256e871c1c4f8524680af825ccf63c4a
-SHA256: 4c8c2a15caae2329ae961aa094832d550bf2a23f22e2b1bcdaf463c65c8d37d4
-Section: Ringtones
-Description: Nhạc chuông Anh Thì Không
-Author: Tung.GSM <hotro@gsm.vn>
-Depiction: http://cydia.gsm.vn/t2648/
-Home: http://cydia.vn/blog
-Name: Anh Thì Không
-Sponsor: Cydia.vn Blog's <http://cydia.vn/blog>
-
-Package: vn.gsm.anhthikhong
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Thieu.Bocap <repo@cydia.vn>
-Depends: gsmicon
 Filename: package_debian_A2/anhthikhong1_1.0.deb
 Size: 1664244
 MD5sum: aa0df1954672da06d6873621c18c8e70
@@ -27407,6 +27389,24 @@ Section: Ringtones
 Description: Nhạc chuông Anh Thì Không
 Author: Tung.GSM <hotro@gsm.vn>
 Depiction: http://cydia.gsm.vn/t2993/
+Home: http://cydia.vn/blog
+Name: Anh Thì Không
+Sponsor: Cydia.vn Blog's <http://cydia.vn/blog>
+
+Package: vn.gsm.anhthikhong
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Thieu.Bocap <repo@cydia.vn>
+Depends: gsmicon
+Filename: package_debian_A2/anhthikhong_1.0.deb
+Size: 561876
+MD5sum: 99e53b7b528aa3fcb3bf9f1d754cddaa
+SHA1: 84c8f07d256e871c1c4f8524680af825ccf63c4a
+SHA256: 4c8c2a15caae2329ae961aa094832d550bf2a23f22e2b1bcdaf463c65c8d37d4
+Section: Ringtones
+Description: Nhạc chuông Anh Thì Không
+Author: Tung.GSM <hotro@gsm.vn>
+Depiction: http://cydia.gsm.vn/t2648/
 Home: http://cydia.vn/blog
 Name: Anh Thì Không
 Sponsor: Cydia.vn Blog's <http://cydia.vn/blog>
@@ -99200,6 +99200,23 @@ Sponsor: Cydia.vn Blog's <http://cydia.vn/blog>
 Package: vn.gsm.weareyoung
 Version: 1.0
 Architecture: iphoneos-arm
+Maintainer: iPhone GSM.VN <support@gsm.vn>
+Depends: gsmicon
+Filename: package_debian_A6/weareyoungnew_1.0.deb
+Size: 1341954
+MD5sum: 89f044d38e0d42e54a3ee95421fe5339
+SHA1: b023e2770eacf8d9dd2ff49a32202574fd6edaf8
+SHA256: bc37ff49c6d27d09e3207a76906d3bd83aac000ae62f17c413d933638ace95a4
+Section: Ringtones
+Description: Nhạc Chuông We Are Young
+Author: Tung.GSM <support@gsm.vn>
+Depiction: http://cydia.gsm.vn/t3878/
+Name: We Are Young
+Sponsor: iPhone GSM.VN <http://gsm.vn/f339/>
+
+Package: vn.gsm.weareyoung
+Version: 1.0
+Architecture: iphoneos-arm
 Maintainer: Thieu.Bocap <repo@cydia.vn>
 Depends: gsmicon
 Filename: package_debian_A6/weareyoung_1.0.deb
@@ -99214,23 +99231,6 @@ Depiction: http://cydia.gsm.vn/t2942/
 Home: http://cydia.vn/blog
 Name: We Are Young
 Sponsor: Cydia.vn Blog's <http://cydia.vn/blog>
-
-Package: vn.gsm.weareyoung
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: iPhone GSM.VN <support@gsm.vn>
-Depends: gsmicon
-Filename: package_debian_A6/weareyoungnew_1.0.deb
-Size: 1341954
-MD5sum: 89f044d38e0d42e54a3ee95421fe5339
-SHA1: b023e2770eacf8d9dd2ff49a32202574fd6edaf8
-SHA256: bc37ff49c6d27d09e3207a76906d3bd83aac000ae62f17c413d933638ace95a4
-Section: Ringtones
-Description: Nhạc Chuông We Are Young
-Author: Tung.GSM <support@gsm.vn>
-Depiction: http://cydia.gsm.vn/t3878/
-Name: We Are Young
-Sponsor: iPhone GSM.VN <http://gsm.vn/f339/>
 
 Package: vn.gsm.weasel
 Version: 1.1
