@@ -168685,6 +168685,21 @@ Depiction: http://modmyi.com/info/ncagenda.d.php
 Name: NCAgenda
 Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
 
+Package: com.dopaemon.enableswap
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: dopaemon
+Depends: firmware (<= 6.1.6)
+Filename: package_debian_B1/EnableSwap.deb
+Size: 11240
+MD5sum: f39723d8bbaa88a75a351f7f57f08e74
+SHA1: 7c68a19d0244439937cb9fdc6b0a487b7da2b0fe
+SHA256: 9b421b085bc21aa5d1279ca54a904eae2c93a872b2e7475dad2c6ba4d741aee9
+Section: Tweaks
+Description: Enable Virtual RAM (Swap / Page File) to boost performance on legacy devices. IMPORTANT: A manual reboot is strictly required after installation!
+Author: dopaemon
+Name: Enable Virtual RAM (SWAP Enable)
+
 Package: com.doregon.overb0ard
 Version: 1.0.2
 Architecture: iphoneos-arm
