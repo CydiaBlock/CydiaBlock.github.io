@@ -182086,6 +182086,26 @@ Author: puy0 <puy0@install0us.com>
 Depiction: http://iphone.gsm.vn/moreinfo/install0us+appsync.php
 Name: Install0us + Appsync
 
+Package: vn.gsm.retinapad
+Version: 1.3.7l
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Installed-Size: 760
+Pre-Depends: firmware (>= 4.2), vn.gsm.utils (>= 0.0.1-38), cy+model.ipad | gsc.ipad | gsc.wildcat
+Depends: gsmicon, mobilesubstrate (>= 0.9.5001), preferenceloader (>= 2.2.2), applist (>= 1.5.7), cydia (>= 1.1.1), curl, firmware (<< 7.0) | com.rpetrich.rocketbootstrap (>= 1.0.1), firmware (<< 7.0) | libactivator (>= 1.8.3)
+Filename: package_debian_B1/retinapad_1.3.7l.deb
+Size: 222300
+MD5sum: a8b00149fa0bfe7480254b719fe8b710
+SHA1: 749eb533c4d4ef6c759dbe489e63dd99531b3587
+SHA256: 0c9d59800a5030a0987a2260461f47be375abc2d6761034446b6f21df39dc674
+Section: Tools
+Homepage: http://cydia.vn/
+Description: Enable Retina Display for iPhone apps on iPad
+Author: Ryan Petrich
+Depiction: http://cydia.gsm.vn/t976/
+Name: RetinaPad
+Sponsor: dopaemon <https://github.com/dopaemon>
+
 Package: yourtube
 Version: 1.0.0-1
 Architecture: iphoneos-arm
