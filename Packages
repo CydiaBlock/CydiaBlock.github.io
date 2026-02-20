@@ -177431,11 +177431,11 @@ Package: com.ihacksrepo.cleanup
 Version: 1.3
 Architecture: iphoneos-arm
 Maintainer: iHacksRepo.com <noreply@ihacksrepo.com>
-Filename: package_debian_B1/com.ihacksrepo.cleanup_1.3_iphoneos-arm.deb
-Size: 218998
-MD5sum: 152263d44d1898cf9906cd197779dff7
-SHA1: 60044082e3784edbed8bef7f7ddc86a7661af614
-SHA256: 0393c441a12de6213a9a46ad3fb06acce39b4f748f10fee9c9d3baff8fb63d77
+Filename: package_debian_B1/com.ihacksrepo.cleanup_1.3_iphoneos-arm_3.deb
+Size: 218996
+MD5sum: 84e4c09517b143fc7faec45f96f1b6fe
+SHA1: 07eb57122c3a95f0c4288eea913e072354f408c4
+SHA256: 879db6c1d9e72fe97103abb5f45723632b4f5c02b1b1eaacfc48c64d23fcaa85
 Section: IHR
 Priority: optional
 Description: Clean Up your iDevice
@@ -177448,11 +177448,11 @@ Package: com.ihacksrepo.cleanup
 Version: 1.3
 Architecture: iphoneos-arm
 Maintainer: iHacksRepo.com <noreply@ihacksrepo.com>
-Filename: package_debian_B1/com.ihacksrepo.cleanup_1.3_iphoneos-arm_3.deb
-Size: 218996
-MD5sum: 84e4c09517b143fc7faec45f96f1b6fe
-SHA1: 07eb57122c3a95f0c4288eea913e072354f408c4
-SHA256: 879db6c1d9e72fe97103abb5f45723632b4f5c02b1b1eaacfc48c64d23fcaa85
+Filename: package_debian_B1/com.ihacksrepo.cleanup_1.3_iphoneos-arm.deb
+Size: 218998
+MD5sum: 152263d44d1898cf9906cd197779dff7
+SHA1: 60044082e3784edbed8bef7f7ddc86a7661af614
+SHA256: 0393c441a12de6213a9a46ad3fb06acce39b4f748f10fee9c9d3baff8fb63d77
 Section: IHR
 Priority: optional
 Description: Clean Up your iDevice
@@ -177487,6 +177487,24 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: iHacksRepo <noreply@ihacksrepo.com>
 Depends: winterboard
+Filename: package_debian_B1/com.ihacksrepo.hellokittysliderandsms_1.0_iphoneos-arm.deb
+Size: 288860
+MD5sum: a986e9fcb07817ae7be19930bb6099da
+SHA1: 30058ee1c6b10be7360354cf4045897d824d0a2a
+SHA256: 76b2ad05a9089ca496ed7e77273f826bb114b47b598020a39e917e074ee4e87d
+Section: IHR
+Homepage: http://ihacksrepo.com
+Description: Change your iPhone 4 default slider to a Hello Kitty slider.
+Author: Free From iHacksRepo
+Depiction: http://ihacksrepo.com/depiction.php?package=hellokittysliderandsms
+Name: Hello Kitty Slider and SMS
+Sponsor: iHacksRepo <http://ihacksrepo.com>
+
+Package: com.ihacksrepo.hellokittysliderandsms
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iHacksRepo <noreply@ihacksrepo.com>
+Depends: winterboard
 Filename: package_debian_B1/com.ihacksrepo.hellokittysliderandsms_3.deb
 Size: 288876
 MD5sum: 8cd9d0eb89ea0cc54ead55c7d0147802
@@ -177510,24 +177528,6 @@ Size: 288778
 MD5sum: d14635eef41c76acde522dd3546bff30
 SHA1: aae3437e2a0665137c8ecfacd2741fc0723c2c07
 SHA256: 38e659adb9c69bcdccfca7f955cdd01b6f013536477a22165dfd00516bc03083
-Section: IHR
-Homepage: http://ihacksrepo.com
-Description: Change your iPhone 4 default slider to a Hello Kitty slider.
-Author: Free From iHacksRepo
-Depiction: http://ihacksrepo.com/depiction.php?package=hellokittysliderandsms
-Name: Hello Kitty Slider and SMS
-Sponsor: iHacksRepo <http://ihacksrepo.com>
-
-Package: com.ihacksrepo.hellokittysliderandsms
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: iHacksRepo <noreply@ihacksrepo.com>
-Depends: winterboard
-Filename: package_debian_B1/com.ihacksrepo.hellokittysliderandsms_1.0_iphoneos-arm.deb
-Size: 288860
-MD5sum: a986e9fcb07817ae7be19930bb6099da
-SHA1: 30058ee1c6b10be7360354cf4045897d824d0a2a
-SHA256: 76b2ad05a9089ca496ed7e77273f826bb114b47b598020a39e917e074ee4e87d
 Section: IHR
 Homepage: http://ihacksrepo.com
 Description: Change your iPhone 4 default slider to a Hello Kitty slider.
@@ -178937,7 +178937,7 @@ Maintainer: SiNfuL iPhone <whatever@gmail.com>
 Depends: com.sinfuliphone.repoprep
 Conflicts: con.jft.pn
 Replaces: com.jft.pn
-Filename: package_debian_B1/PdaNet_v1.5.3_Cracked.deb
+Filename: package_debian_B1/PdaNet1.5.3_Cracked.deb
 Size: 142606
 MD5sum: 8d80ba1f9262d9b07b50d4a266f6d2b1
 SHA1: 29490ce425d7d69d3a4165b5de8437955ce87519
@@ -178957,7 +178957,7 @@ Maintainer: SiNfuL iPhone <whatever@gmail.com>
 Depends: com.sinfuliphone.repoprep
 Conflicts: con.jft.pn
 Replaces: com.jft.pn
-Filename: package_debian_B1/PdaNet1.5.3_Cracked.deb
+Filename: package_debian_B1/PdaNet_v1.5.3_Cracked.deb
 Size: 142606
 MD5sum: 8d80ba1f9262d9b07b50d4a266f6d2b1
 SHA1: 29490ce425d7d69d3a4165b5de8437955ce87519
@@ -179538,7 +179538,7 @@ Architecture: iphoneos-arm
 Essential: no
 Maintainer: repo@xsellize.com <repo@xsellize.com>
 Depends: com.xsellize.repo, mobilesubstrate, firmware (>= 3.0)
-Filename: package_debian_B1/Inspell_1.2.0.deb
+Filename: package_debian_B1/Inspell.deb
 Size: 1639848
 MD5sum: 5386ff763823659663dce8c78b3295eb
 SHA1: 8f19d49e7c24a28774bd8da710b8da283e3dde9d
@@ -179556,7 +179556,7 @@ Architecture: iphoneos-arm
 Essential: no
 Maintainer: repo@xsellize.com <repo@xsellize.com>
 Depends: com.xsellize.repo, mobilesubstrate, firmware (>= 3.0)
-Filename: package_debian_B1/Inspell.deb
+Filename: package_debian_B1/Inspell_1.2.0.deb
 Size: 1639848
 MD5sum: 5386ff763823659663dce8c78b3295eb
 SHA1: 8f19d49e7c24a28774bd8da710b8da283e3dde9d
@@ -179664,6 +179664,23 @@ Sponsor: Xsellize.com <http://xsellize.com>
 Package: com.xsellize.norotation
 Version: 1:0.1
 Architecture: iphoneos-arm
+Maintainer: repo@xsellize.com
+Depends: com.xsellize.repo, mobilesubstrate, sbsettings
+Filename: package_debian_B1/com.xsellize.norotation.deb
+Size: 36540
+MD5sum: 68078d6b955daba9fd7b1777fc884e38
+SHA1: c43d2d57d50add3f93ba48d9dcf829a950481270
+SHA256: 05b3dba84fdd4ae5b788aa3508695e5dfb6d5f3930aec3b406eddb316e792a0d
+Section: X Modz
+Priority: standard
+Description: Sick of Safari and iPod rotating while laying in bed? Disable the rotation with this SBSettings toggle.
+Depiction: http://apt.xsellize.com/depic/norotation
+Name: NoRotation
+Sponsor: http://xsellize.com
+
+Package: com.xsellize.norotation
+Version: 1:0.1
+Architecture: iphoneos-arm
 Essential: no
 Maintainer: repo@xsellize.com <repo@xsellize.com>
 Depends: com.xsellize.repo, mobilesubstrate, sbsettings
@@ -179678,23 +179695,6 @@ Description: Sick of Safari and iPod rotating while laying in bed? Disable the r
 Depiction: http://xsellize.com/depic/?title=App&app=norotation
 Name: NoRotation
 Sponsor: Xsellize.com <http://xsellize.com>
-
-Package: com.xsellize.norotation
-Version: 1:0.1
-Architecture: iphoneos-arm
-Maintainer: repo@xsellize.com
-Depends: com.xsellize.repo, mobilesubstrate, sbsettings
-Filename: package_debian_B1/com.xsellize.norotation.deb
-Size: 36540
-MD5sum: 68078d6b955daba9fd7b1777fc884e38
-SHA1: c43d2d57d50add3f93ba48d9dcf829a950481270
-SHA256: 05b3dba84fdd4ae5b788aa3508695e5dfb6d5f3930aec3b406eddb316e792a0d
-Section: X Modz
-Priority: standard
-Description: Sick of Safari and iPod rotating while laying in bed? Disable the rotation with this SBSettings toggle.
-Depiction: http://apt.xsellize.com/depic/norotation
-Name: NoRotation
-Sponsor: http://xsellize.com
 
 Package: com.xsellize.notifypro
 Version: 1.25
@@ -180310,22 +180310,6 @@ Package: cycorder
 Version: 0.9-6
 Architecture: iphoneos-arm
 Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
-Filename: package_debian_B1/Cycorder 0.9-6.deb
-Size: 792280
-MD5sum: 6d69ca6c29b0b1ec12ad88c72e357911
-SHA1: 7d71500629bc9ace923a6d71896b927caf30c104
-SHA256: 373e9d48341f81032fd1737b4dd9c9bcef7a36e92a7288bb67546ab2c1bd5c2e
-Section: Multimedia
-Priority: optional
-Homepage: http://www.cycorder.com/
-Description: high-quality video recorder for 2G/3G
-Author: Jay Freeman (saurik) <saurik@saurik.com>
-Name: Cycorder
-
-Package: cycorder
-Version: 0.9-6
-Architecture: iphoneos-arm
-Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
 Filename: package_debian_B1/cycorder_0.9-6_iphoneos-arm.deb
 Size: 792460
 MD5sum: 9512dcbd4a1cf778971b7d8acabfbb77
@@ -180337,6 +180321,22 @@ Homepage: http://www.cycorder.com/
 Description: high-quality video recorder for 2G/3G
 Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: http://cydia.saurik.com/info/cycorder/
+Name: Cycorder
+
+Package: cycorder
+Version: 0.9-6
+Architecture: iphoneos-arm
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Filename: package_debian_B1/Cycorder 0.9-6.deb
+Size: 792280
+MD5sum: 6d69ca6c29b0b1ec12ad88c72e357911
+SHA1: 7d71500629bc9ace923a6d71896b927caf30c104
+SHA256: 373e9d48341f81032fd1737b4dd9c9bcef7a36e92a7288bb67546ab2c1bd5c2e
+Section: Multimedia
+Priority: optional
+Homepage: http://www.cycorder.com/
+Description: high-quality video recorder for 2G/3G
+Author: Jay Freeman (saurik) <saurik@saurik.com>
 Name: Cycorder
 
 Package: cyntact
@@ -181065,6 +181065,23 @@ SHA256: 8b08de743be20b5fa315d4d22e2ceb5e1847f9c10c1631e73ddf0f01433957f2
 Description: First iPhone Call Recorder Ever!
 Name: Audio Recorder
 
+Package: net.namedfork.minivmac
+Version: 1.2.2
+Architecture: iphoneos-arm
+Maintainer: Jesus A. Alvarez <zydeco@namedfork.net>
+Installed-Size: 584
+Filename: package_debian_B1/minivmac-1.2.2.deb
+Size: 276870
+MD5sum: 053255c3c1c23ff7c2890a9d1b358196
+SHA1: 8e3e191e5526fb991b2442e1e83d0c329adcea96
+SHA256: 3734e238238ac3e9e1630929031a02cac277a76fc1fa3c97df80a4591992ae72
+Section: Emulation
+Homepage: http://iphone.namedfork.net/minivmac
+Description: Mini vMac Mac Plus emulator
+Author: Jesus A. Alvarez <zydeco@namedfork.net>
+Depiction: http://iphone.namedfork.net/minivmac/cydia-info.html
+Name: Mini vMac
+
 Package: net.r-ch.iconoclasm
 Version: 1.1
 Architecture: iphoneos-arm
@@ -181631,25 +181648,6 @@ Sponsor: Tweaks <http://hackulo.us>
 Package: us.hackulo.appsync31
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: Genius Blog <appsync@hackulo.us>
-Pre-Depends: firmware (>= 3.1)
-Depends: com.hackulo.us.sourcegui
-Filename: package_debian_B1/us.hackulo.appsync31_1.0_iphoneos-arm.deb
-Size: 296834
-MD5sum: 28a6013aeb0ed65adbf0d962e3f4a1bd
-SHA1: 0df628a82ae76ce62622ed2e695f958680851f0b
-SHA256: fc721ba3dddaff49239b67b775d4d850940923c9fa8f53ae11ca0e68849ad806
-Section: Tweaks
-Priority: standard
-Description: AppSync patches the installd file on your device
-Author: Reilly <appsync@hackulo.us>
-Depiction: http://hackulo.us/depict/appsync31/
-Name: AppSync for OS 3.1
-Sponsor: Tweaks <http://hackulo.us>
-
-Package: us.hackulo.appsync31
-Version: 1.0
-Architecture: iphoneos-arm
 Maintainer: Genius Blog <admin@hackulo.us>
 Pre-Depends: firmware (>= 3.1)
 Filename: package_debian_B1/AppSync3.1-1.0.deb
@@ -181676,6 +181674,25 @@ Size: 296830
 MD5sum: 525edaf333a781ab37fb2840d5305ee2
 SHA1: 339ecc190b76a5d918a6db45ba4da78b57ded4eb
 SHA256: 2364d5f77be42e234d1da5d91ef25d4d46549208a29cf01364dca8a33ab9635f
+Section: Tweaks
+Priority: standard
+Description: AppSync patches the installd file on your device
+Author: Reilly <appsync@hackulo.us>
+Depiction: http://hackulo.us/depict/appsync31/
+Name: AppSync for OS 3.1
+Sponsor: Tweaks <http://hackulo.us>
+
+Package: us.hackulo.appsync31
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Genius Blog <appsync@hackulo.us>
+Pre-Depends: firmware (>= 3.1)
+Depends: com.hackulo.us.sourcegui
+Filename: package_debian_B1/us.hackulo.appsync31_1.0_iphoneos-arm.deb
+Size: 296834
+MD5sum: 28a6013aeb0ed65adbf0d962e3f4a1bd
+SHA1: 0df628a82ae76ce62622ed2e695f958680851f0b
+SHA256: fc721ba3dddaff49239b67b775d4d850940923c9fa8f53ae11ca0e68849ad806
 Section: Tweaks
 Priority: standard
 Description: AppSync patches the installd file on your device
