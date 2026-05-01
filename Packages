@@ -2590,25 +2590,6 @@ Website: http://www.hackers.nl/
 
 Package: com.greg0109.raiselight
 Version: 1.1
-Architecture: iphoneos-arm64e
-Maintainer: ichitaso
-Installed-Size: 168
-Pre-Depends: firmware (>= 12.0)
-Depends: mobilesubstrate
-Filename: package_debian_A1/com.greg0109.raiselight_1.1_iphoneos-arm64e.deb
-Size: 3298
-MD5sum: aa7568e16f6cb9e9bf2ac576d2e1ab10
-SHA1: 99e6f9bdb59622bbcbaef8a9432133c24df4c8ba
-SHA256: 6dc02f7f2a110bf87995d3b4f3ee7e268017f886f04e97fbcfefc1eba7945b4d
-Section: Tweaks
-Description: DIsables the Raise To Wake feature of the flashlight is on. It also disables the Tap To Wake feature on iPhone X and above.
-Author: ichitaso, Greg0109
-Depiction: https://cydia.ichitaso.com/depiction/raiselight.html
-Name: RaiseLight
-Sileodepiction: https://cydia.ichitaso.com/depiction/raiselight.json
-
-Package: com.greg0109.raiselight
-Version: 1.1
 Architecture: iphoneos-arm64
 Maintainer: ichitaso
 Installed-Size: 168
@@ -2638,6 +2619,25 @@ Size: 3394
 MD5sum: 13545f3b6de36cff7567231e1b0cc528
 SHA1: a8b20f9fedf19eed129b1635de94aea49d4d256e
 SHA256: 1fa2c2f62c361c6eef6b652a67c411371c9e01d1035e1163cb0b866903d5ada4
+Section: Tweaks
+Description: DIsables the Raise To Wake feature of the flashlight is on. It also disables the Tap To Wake feature on iPhone X and above.
+Author: ichitaso, Greg0109
+Depiction: https://cydia.ichitaso.com/depiction/raiselight.html
+Name: RaiseLight
+Sileodepiction: https://cydia.ichitaso.com/depiction/raiselight.json
+
+Package: com.greg0109.raiselight
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: ichitaso
+Installed-Size: 168
+Pre-Depends: firmware (>= 12.0)
+Depends: mobilesubstrate
+Filename: package_debian_A1/com.greg0109.raiselight_1.1_iphoneos-arm64e.deb
+Size: 3298
+MD5sum: aa7568e16f6cb9e9bf2ac576d2e1ab10
+SHA1: 99e6f9bdb59622bbcbaef8a9432133c24df4c8ba
+SHA256: 6dc02f7f2a110bf87995d3b4f3ee7e268017f886f04e97fbcfefc1eba7945b4d
 Section: Tweaks
 Description: DIsables the Raise To Wake feature of the flashlight is on. It also disables the Tap To Wake feature on iPhone X and above.
 Author: ichitaso, Greg0109
@@ -3502,17 +3502,17 @@ Name: AltStore
 
 Package: com.ichitaso.apollopatcher
 Version: 0.0.9
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: ichitaso
-Installed-Size: 128
+Installed-Size: 240
 Depends: mobilesubstrate
 Conflicts: com.ethanarbuckle.apollo-customapicredentials, com.ryannair05.apolloapi, com.icraze.artemis, ca.jeffrey.apollo-improvedcustomapi
 Replaces: com.ethanarbuckle.apollo-customapicredentials, com.ryannair05.apolloapi, com.icraze.artemis, ca.jeffrey.apollo-improvedcustomapi
-Filename: package_debian_A1/com.ichitaso.apollopatcher_0.0.9_iphoneos-arm64.deb
-Size: 28356
-MD5sum: c79828e2dd1b7e8904b6b438357abe33
-SHA1: 04cf175438bb34e8fd95e2cd36208f396e54ffba
-SHA256: 8c60b7c4e43acf73b92015b6448a3560086493a5b1b51b8615ae6d74403e868d
+Filename: package_debian_A1/com.ichitaso.apollopatcher_0.0.9_iphoneos-arm.deb
+Size: 51828
+MD5sum: 42a8b335b655591c1d752d87b04ba752
+SHA1: 06816c1c245e95ff2924d0b10b1a582538a03f8a
+SHA256: bed1029b3ca9d8c13b2e96da4b8a645e3d308d2fdf8e6f309e6dfce6d110d570
 Section: Tweaks
 Description: Apollo for Reddit tweak with in-app configurable API keys
 Author: ichitaso
@@ -3542,17 +3542,17 @@ Sileodepiction: https://cydia.ichitaso.com/depiction/apollopatcher.json
 
 Package: com.ichitaso.apollopatcher
 Version: 0.0.9
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: ichitaso
-Installed-Size: 240
+Installed-Size: 128
 Depends: mobilesubstrate
 Conflicts: com.ethanarbuckle.apollo-customapicredentials, com.ryannair05.apolloapi, com.icraze.artemis, ca.jeffrey.apollo-improvedcustomapi
 Replaces: com.ethanarbuckle.apollo-customapicredentials, com.ryannair05.apolloapi, com.icraze.artemis, ca.jeffrey.apollo-improvedcustomapi
-Filename: package_debian_A1/com.ichitaso.apollopatcher_0.0.9_iphoneos-arm.deb
-Size: 51828
-MD5sum: 42a8b335b655591c1d752d87b04ba752
-SHA1: 06816c1c245e95ff2924d0b10b1a582538a03f8a
-SHA256: bed1029b3ca9d8c13b2e96da4b8a645e3d308d2fdf8e6f309e6dfce6d110d570
+Filename: package_debian_A1/com.ichitaso.apollopatcher_0.0.9_iphoneos-arm64.deb
+Size: 28356
+MD5sum: c79828e2dd1b7e8904b6b438357abe33
+SHA1: 04cf175438bb34e8fd95e2cd36208f396e54ffba
+SHA256: 8c60b7c4e43acf73b92015b6448a3560086493a5b1b51b8615ae6d74403e868d
 Section: Tweaks
 Description: Apollo for Reddit tweak with in-app configurable API keys
 Author: ichitaso
@@ -3580,27 +3580,6 @@ Name: AppleRings & iPhoneX Respring Themes
 
 Package: com.ichitaso.autobrightness11
 Version: 0.1-6
-Architecture: iphoneos-arm
-Maintainer: ichitaso
-Installed-Size: 152
-Pre-Depends: firmware (>= 11.0)
-Depends: com.opa334.ccsupport
-Filename: package_debian_A1/com.ichitaso.autobrightness11_0.1-6_iphoneos-arm.deb
-Size: 13200
-MD5sum: 96b257f980d306b15e7330b38fff77fe
-SHA1: 9b5aa2a88e01924e487df6d1d75422769c0a72ba
-SHA256: e67575fba13d57536236e61b907b3d490fed51976b9a15717260037f6ea67d41
-Section: Addons (ControlCenter)
-Homepage: https://ichitaso.com
-Description: Turn on / off Auto-Brightness from the control center.
-Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios16.5
-Author: ichitaso
-Depiction: https://cydia.ichitaso.com/depiction/autobrightness11.html
-Dev: ichitaso
-Name: AutoBrightnessToggle (CCSupport)
-
-Package: com.ichitaso.autobrightness11
-Version: 0.1-6
 Architecture: iphoneos-arm64
 Maintainer: ichitaso
 Installed-Size: 184
@@ -3621,17 +3600,17 @@ Dev: ichitaso
 Name: AutoBrightnessToggle (CCSupport)
 
 Package: com.ichitaso.autobrightness11
-Version: 0.1-7
-Architecture: iphoneos-arm64e
+Version: 0.1-6
+Architecture: iphoneos-arm
 Maintainer: ichitaso
-Installed-Size: 184
+Installed-Size: 152
 Pre-Depends: firmware (>= 11.0)
 Depends: com.opa334.ccsupport
-Filename: package_debian_A1/com.ichitaso.autobrightness11_0.1-7_iphoneos-arm64e.deb
-Size: 13064
-MD5sum: 925385829fcfe607abb8980c1ef25e82
-SHA1: 36b81d6301e44aec1110ae2d0957477124d710c3
-SHA256: bdeb376c5a0b6a73512ee0ef1d2391699009c8dae3a33994d78b095ded36d5de
+Filename: package_debian_A1/com.ichitaso.autobrightness11_0.1-6_iphoneos-arm.deb
+Size: 13200
+MD5sum: 96b257f980d306b15e7330b38fff77fe
+SHA1: 9b5aa2a88e01924e487df6d1d75422769c0a72ba
+SHA256: e67575fba13d57536236e61b907b3d490fed51976b9a15717260037f6ea67d41
 Section: Addons (ControlCenter)
 Homepage: https://ichitaso.com
 Description: Turn on / off Auto-Brightness from the control center.
@@ -3664,6 +3643,27 @@ Name: AutoBrightnessToggle (CCSupport)
 
 Package: com.ichitaso.autobrightness11
 Version: 0.1-7
+Architecture: iphoneos-arm64e
+Maintainer: ichitaso
+Installed-Size: 184
+Pre-Depends: firmware (>= 11.0)
+Depends: com.opa334.ccsupport
+Filename: package_debian_A1/com.ichitaso.autobrightness11_0.1-7_iphoneos-arm64e.deb
+Size: 13064
+MD5sum: 925385829fcfe607abb8980c1ef25e82
+SHA1: 36b81d6301e44aec1110ae2d0957477124d710c3
+SHA256: bdeb376c5a0b6a73512ee0ef1d2391699009c8dae3a33994d78b095ded36d5de
+Section: Addons (ControlCenter)
+Homepage: https://ichitaso.com
+Description: Turn on / off Auto-Brightness from the control center.
+Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios16.5
+Author: ichitaso
+Depiction: https://cydia.ichitaso.com/depiction/autobrightness11.html
+Dev: ichitaso
+Name: AutoBrightnessToggle (CCSupport)
+
+Package: com.ichitaso.autobrightness11
+Version: 0.1-7
 Architecture: iphoneos-arm64
 Maintainer: ichitaso
 Installed-Size: 184
@@ -3685,16 +3685,16 @@ Name: AutoBrightnessToggle (CCSupport)
 
 Package: com.ichitaso.autolockcc
 Version: 0.2
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: ichitaso
-Installed-Size: 160
+Installed-Size: 192
 Pre-Depends: firmware (>= 11.0)
 Depends: com.opa334.ccsupport
-Filename: package_debian_A1/com.ichitaso.autolockcc_0.2_iphoneos-arm.deb
-Size: 21522
-MD5sum: f7ba730698f1175f9393b971a2de03da
-SHA1: bc70460ba336f74c0d841f2387dc46fd80f47eba
-SHA256: 2f2a57c26f14266a59e08166864b9cd40373cdf301b5fe5c44e9025bcf225f9e
+Filename: package_debian_A1/com.ichitaso.autolockcc_0.2_iphoneos-arm64.deb
+Size: 21342
+MD5sum: a5547b62d7174fa0fa9351818c7c99b1
+SHA1: eee4ce3fcd7d98f1df865e2113ae1549abbf240c
+SHA256: 98ff8e7272bf7304d1e6d58f690b0b5738f193ff41dac296f3048b7c7f44b9d4
 Section: Addons (ControlCenter)
 Homepage: https://ichitaso.com
 Description: Turn on / off Auto lock from the control center.
@@ -3706,16 +3706,16 @@ Name: AutoLockToggle (CCSupport)
 
 Package: com.ichitaso.autolockcc
 Version: 0.2
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: ichitaso
-Installed-Size: 192
+Installed-Size: 160
 Pre-Depends: firmware (>= 11.0)
 Depends: com.opa334.ccsupport
-Filename: package_debian_A1/com.ichitaso.autolockcc_0.2_iphoneos-arm64.deb
-Size: 21342
-MD5sum: a5547b62d7174fa0fa9351818c7c99b1
-SHA1: eee4ce3fcd7d98f1df865e2113ae1549abbf240c
-SHA256: 98ff8e7272bf7304d1e6d58f690b0b5738f193ff41dac296f3048b7c7f44b9d4
+Filename: package_debian_A1/com.ichitaso.autolockcc_0.2_iphoneos-arm.deb
+Size: 21522
+MD5sum: f7ba730698f1175f9393b971a2de03da
+SHA1: bc70460ba336f74c0d841f2387dc46fd80f47eba
+SHA256: 2f2a57c26f14266a59e08166864b9cd40373cdf301b5fe5c44e9025bcf225f9e
 Section: Addons (ControlCenter)
 Homepage: https://ichitaso.com
 Description: Turn on / off Auto lock from the control center.
@@ -3851,28 +3851,6 @@ Name: BB2CAdKiller
 
 Package: com.ichitaso.cattlegrid
 Version: 1.1.1
-Architecture: iphoneos-arm
-Maintainer: ichitaso
-Installed-Size: 504
-Depends: firmware (>= 13.0), gsc.nfc
-Conflicts: org.ericbetts.CattleGrid
-Replaces: com.ichitaso.cattlegrid
-Filename: package_debian_A1/com.ichitaso.cattlegrid_1.1.1_iphoneos-arm.deb
-Size: 254260
-MD5sum: 834c946aa553ae73822e50b79e22a52a
-SHA1: cb0284511f1bfbf4d405a6c78ab62b0f64d14729
-SHA256: 1a24cfaf2d1b41812a3b8d075bc4cb6a9818b3d036523082842d0240bb2762ff
-Section: Utilities
-Homepage: https://ichitaso.com
-Description: nintendo amiibo ntag writing app
-Author: Eric Betts
-Depiction: https://cydia.ichitaso.com/depiction/cattlegrid.html
-Dev: Eric Betts <https://gitlab.com/bettse>
-Name: CattleGrid
-Sileodepiction: https://cydia.ichitaso.com/depiction/cattlegrid.json
-
-Package: com.ichitaso.cattlegrid
-Version: 1.1.1
 Architecture: iphoneos-arm64
 Maintainer: ichitaso
 Installed-Size: 504
@@ -3884,6 +3862,28 @@ Size: 254710
 MD5sum: 29a4269c40cff5e94f770d0cf6e01d95
 SHA1: 2819d0cd075d517632e2730a7114cb59f2ccd58b
 SHA256: 765d3353318cd68c6726b0ab67b6c4e322dfc7576d59f319517d4f8a01a475de
+Section: Utilities
+Homepage: https://ichitaso.com
+Description: nintendo amiibo ntag writing app
+Author: Eric Betts
+Depiction: https://cydia.ichitaso.com/depiction/cattlegrid.html
+Dev: Eric Betts <https://gitlab.com/bettse>
+Name: CattleGrid
+Sileodepiction: https://cydia.ichitaso.com/depiction/cattlegrid.json
+
+Package: com.ichitaso.cattlegrid
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: ichitaso
+Installed-Size: 504
+Depends: firmware (>= 13.0), gsc.nfc
+Conflicts: org.ericbetts.CattleGrid
+Replaces: com.ichitaso.cattlegrid
+Filename: package_debian_A1/com.ichitaso.cattlegrid_1.1.1_iphoneos-arm.deb
+Size: 254260
+MD5sum: 834c946aa553ae73822e50b79e22a52a
+SHA1: cb0284511f1bfbf4d405a6c78ab62b0f64d14729
+SHA256: 1a24cfaf2d1b41812a3b8d075bc4cb6a9818b3d036523082842d0240bb2762ff
 Section: Utilities
 Homepage: https://ichitaso.com
 Description: nintendo amiibo ntag writing app
@@ -4183,15 +4183,15 @@ Sileodepiction: https://cydia.ichitaso.com/depiction/hidesn.json
 
 Package: com.ichitaso.hideserialnumber
 Version: 0.0.4
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64e
 Maintainer: ichitaso
-Installed-Size: 408
+Installed-Size: 472
 Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader
-Filename: package_debian_A1/com.ichitaso.hideserialnumber_0.0.4_iphoneos-arm.deb
-Size: 61516
-MD5sum: 46627006dc4c7d3c3461cfbd12f04c79
-SHA1: 60bd8370a9226c68cd5b2ece455977ca4a616d17
-SHA256: d636f759f4fc4bb62bd451651a5d359b8680cece85951018a447022f4ef8962d
+Filename: package_debian_A1/com.ichitaso.hideserialnumber_0.0.4_iphoneos-arm64e.deb
+Size: 54938
+MD5sum: abbe1ed43af9e59f5dc62eead4c0eb37
+SHA1: ff961f278b9a3ae36aa5ff58ade12491cfab9c98
+SHA256: 4a2dc7eb08ad1e3f760ee26824cc92f6b5a55865ff58ea7e9f1ad1140a6d5483
 Section: Tweaks
 Homepage: https://cydia.ichitaso.com/depiction/hidesn.html
 Description: Hide Serial Number in Settings About page.
@@ -4204,15 +4204,15 @@ Sileodepiction: https://cydia.ichitaso.com/depiction/hidesn.json
 
 Package: com.ichitaso.hideserialnumber
 Version: 0.0.4
-Architecture: iphoneos-arm64e
+Architecture: iphoneos-arm
 Maintainer: ichitaso
-Installed-Size: 472
+Installed-Size: 408
 Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader
-Filename: package_debian_A1/com.ichitaso.hideserialnumber_0.0.4_iphoneos-arm64e.deb
-Size: 54938
-MD5sum: abbe1ed43af9e59f5dc62eead4c0eb37
-SHA1: ff961f278b9a3ae36aa5ff58ade12491cfab9c98
-SHA256: 4a2dc7eb08ad1e3f760ee26824cc92f6b5a55865ff58ea7e9f1ad1140a6d5483
+Filename: package_debian_A1/com.ichitaso.hideserialnumber_0.0.4_iphoneos-arm.deb
+Size: 61516
+MD5sum: 46627006dc4c7d3c3461cfbd12f04c79
+SHA1: 60bd8370a9226c68cd5b2ece455977ca4a616d17
+SHA256: d636f759f4fc4bb62bd451651a5d359b8680cece85951018a447022f4ef8962d
 Section: Tweaks
 Homepage: https://cydia.ichitaso.com/depiction/hidesn.html
 Description: Hide Serial Number in Settings About page.
@@ -4246,6 +4246,31 @@ Author: ichitaso
 Depiction: https://cydia.ichitaso.com/depiction/iconanus.html
 Dev: ichitaso
 Name: IconAnus
+
+Package: com.ichitaso.iconorder
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: Havoc
+Installed-Size: 168
+Pre-Depends: firmware (>= 12.0)
+Depends: mobilesubstrate
+Conflicts: me.nepeta.iconstate, com.chpwn.iconsupport, com.muirey03.iconsupportfix, com.ryannair05.gridiculousfix, com.ichitaso.iconanus
+Replaces: me.nepeta.iconstate, com.chpwn.iconsupport, com.muirey03.iconsupportfix, com.ryannair05.gridiculousfix, com.ichitaso.iconanus
+Provides: me.nepeta.iconstate, com.chpwn.iconsupport, com.muirey03.iconsupportfix, com.ryannair05.gridiculousfix, com.ichitaso.iconanus
+Filename: package_debian_A1/com.ichitaso.iconorder_1.0.3_iphoneos-arm64.deb
+Size: 11184
+MD5sum: 2295dfb7f43203f1b46d04be4eb7235c
+SHA1: a05e0535f8a5a28be13a3cd4fe8de874c6e9d3a6
+SHA256: 12b059340a6ff0faa5ca4256b1959a41d17702b4dea94e107bfb08f524dd628c
+Section: Tweaks
+Homepage: https://ichitaso.com/
+Description: Preserve custom icon layouts by Springboard Crash or reboots etc
+Tag: purpose::extension, compatible_min::ios12.0, compatible_max::ios17.5.1
+Author: ichitaso
+Depiction: https://cydia.ichitaso.com/depiction/iconorder.html
+Dev: ichitaso
+Name: IconOrder
+Sileodepiction: https://cydia.ichitaso.com/depiction/iconorder.json
 
 Package: com.ichitaso.iconorder
 Version: 1.0.3
@@ -4287,31 +4312,6 @@ Size: 9794
 MD5sum: 1abe7d90eacb571d1e32207d2f49b7e9
 SHA1: 183b656ea217c02c0b364f0ad153bb1118bd6a89
 SHA256: a04c765d9ccf94711fcba0e362a55a1466f7cbdd22ff15aa00549507e0eaec8c
-Section: Tweaks
-Homepage: https://ichitaso.com/
-Description: Preserve custom icon layouts by Springboard Crash or reboots etc
-Tag: purpose::extension, compatible_min::ios12.0, compatible_max::ios17.5.1
-Author: ichitaso
-Depiction: https://cydia.ichitaso.com/depiction/iconorder.html
-Dev: ichitaso
-Name: IconOrder
-Sileodepiction: https://cydia.ichitaso.com/depiction/iconorder.json
-
-Package: com.ichitaso.iconorder
-Version: 1.0.3
-Architecture: iphoneos-arm64
-Maintainer: Havoc
-Installed-Size: 168
-Pre-Depends: firmware (>= 12.0)
-Depends: mobilesubstrate
-Conflicts: me.nepeta.iconstate, com.chpwn.iconsupport, com.muirey03.iconsupportfix, com.ryannair05.gridiculousfix, com.ichitaso.iconanus
-Replaces: me.nepeta.iconstate, com.chpwn.iconsupport, com.muirey03.iconsupportfix, com.ryannair05.gridiculousfix, com.ichitaso.iconanus
-Provides: me.nepeta.iconstate, com.chpwn.iconsupport, com.muirey03.iconsupportfix, com.ryannair05.gridiculousfix, com.ichitaso.iconanus
-Filename: package_debian_A1/com.ichitaso.iconorder_1.0.3_iphoneos-arm64.deb
-Size: 11184
-MD5sum: 2295dfb7f43203f1b46d04be4eb7235c
-SHA1: a05e0535f8a5a28be13a3cd4fe8de874c6e9d3a6
-SHA256: 12b059340a6ff0faa5ca4256b1959a41d17702b4dea94e107bfb08f524dd628c
 Section: Tweaks
 Homepage: https://ichitaso.com/
 Description: Preserve custom icon layouts by Springboard Crash or reboots etc
@@ -4447,16 +4447,16 @@ Name: LocationService (CCSupport)
 
 Package: com.ichitaso.locationservicecc
 Version: 0.1-7
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm64e
 Maintainer: ichitaso
 Installed-Size: 248
 Pre-Depends: firmware (>= 11.0)
 Depends: com.opa334.ccsupport (>= 1.2)
-Filename: package_debian_A1/com.ichitaso.locationservicecc_0.1-7_iphoneos-arm64.deb
-Size: 34472
-MD5sum: c9c27e02e8e88b1502632963b86b8e2c
-SHA1: 1fe9710df63f606c24903d63905de93d5c0bfca8
-SHA256: 50096f0d27bf4d6095f4b91de344dc8904aa3e7034e6c9ee4c05f86afc62210a
+Filename: package_debian_A1/com.ichitaso.locationservicecc_0.1-7_iphoneos-arm64e.deb
+Size: 33438
+MD5sum: c84d94ab5b0a3e37865e74bbbaec9a56
+SHA1: b35c6c6076c559c67cc43f85586eb1027f47cff8
+SHA256: 3eea58e7c51ad740115c549500f239ff8788ed32746f688dc49d7242f281e153
 Section: Addons (ControlCenter)
 Homepage: https://ichitaso.com
 Description: Turn on / off LocationService from the control center.
@@ -4468,16 +4468,16 @@ Name: LocationService (CCSupport)
 
 Package: com.ichitaso.locationservicecc
 Version: 0.1-7
-Architecture: iphoneos-arm64e
+Architecture: iphoneos-arm64
 Maintainer: ichitaso
 Installed-Size: 248
 Pre-Depends: firmware (>= 11.0)
 Depends: com.opa334.ccsupport (>= 1.2)
-Filename: package_debian_A1/com.ichitaso.locationservicecc_0.1-7_iphoneos-arm64e.deb
-Size: 33438
-MD5sum: c84d94ab5b0a3e37865e74bbbaec9a56
-SHA1: b35c6c6076c559c67cc43f85586eb1027f47cff8
-SHA256: 3eea58e7c51ad740115c549500f239ff8788ed32746f688dc49d7242f281e153
+Filename: package_debian_A1/com.ichitaso.locationservicecc_0.1-7_iphoneos-arm64.deb
+Size: 34472
+MD5sum: c9c27e02e8e88b1502632963b86b8e2c
+SHA1: 1fe9710df63f606c24903d63905de93d5c0bfca8
+SHA256: 50096f0d27bf4d6095f4b91de344dc8904aa3e7034e6c9ee4c05f86afc62210a
 Section: Addons (ControlCenter)
 Homepage: https://ichitaso.com
 Description: Turn on / off LocationService from the control center.
@@ -4748,15 +4748,15 @@ Sileodepiction: https://cydia.ichitaso.com/depiction/opa334.json
 
 Package: com.ichitaso.otadisabler
 Version: 0.5
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: ichitaso
-Installed-Size: 200
+Installed-Size: 168
 Depends: firmware (>= 9.0), mobilesubstrate
-Filename: package_debian_A1/com.ichitaso.otadisabler_0.5_iphoneos-arm.deb
-Size: 27744
-MD5sum: 28fe6b6093f468275c0f287019be7e47
-SHA1: 8ae22d59e2a7d762c23dc084922082f87c70ab8b
-SHA256: 8124e0fa1ad7604265daba6cccbb106636b91065d8b712afdcb3edad1cbd1f0d
+Filename: package_debian_A1/com.ichitaso.otadisabler_0.5_iphoneos-arm64.deb
+Size: 16982
+MD5sum: 5589db00b99482a5b7ad13b5dfe3beca
+SHA1: 9189c4de6092838fbcc272b6fe04a6535972e97a
+SHA256: a96752c8fe6f6018322b4f6a12cca3d9eeb1825b9e68275da34fed2f9ca4324c
 Section: System
 Homepage: https://ichitaso.com
 Description: Disable OTA and remove badges on home screen, etc.
@@ -4767,15 +4767,15 @@ Sileodepiction: https://cydia.ichitaso.com/depiction/otadisabler.json
 
 Package: com.ichitaso.otadisabler
 Version: 0.5
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: ichitaso
-Installed-Size: 168
+Installed-Size: 200
 Depends: firmware (>= 9.0), mobilesubstrate
-Filename: package_debian_A1/com.ichitaso.otadisabler_0.5_iphoneos-arm64.deb
-Size: 16982
-MD5sum: 5589db00b99482a5b7ad13b5dfe3beca
-SHA1: 9189c4de6092838fbcc272b6fe04a6535972e97a
-SHA256: a96752c8fe6f6018322b4f6a12cca3d9eeb1825b9e68275da34fed2f9ca4324c
+Filename: package_debian_A1/com.ichitaso.otadisabler_0.5_iphoneos-arm.deb
+Size: 27744
+MD5sum: 28fe6b6093f468275c0f287019be7e47
+SHA1: 8ae22d59e2a7d762c23dc084922082f87c70ab8b
+SHA256: 8124e0fa1ad7604265daba6cccbb106636b91065d8b712afdcb3edad1cbd1f0d
 Section: System
 Homepage: https://ichitaso.com
 Description: Disable OTA and remove badges on home screen, etc.
@@ -4993,17 +4993,17 @@ Name: PrimalFolder 2
 
 Package: com.ichitaso.primalfolder2
 Version: 0.1.2
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm64e
 Maintainer: ichitaso
 Installed-Size: 500
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
 Conflicts: com.ichitaso.primalfolder, me.qusic.taptapfolder, com.lizynz.folder6plus, info.rpdev.betterfourbyyfourfolders
 Replaces: com.ichitaso.primalfolder2
-Filename: package_debian_A1/com.ichitaso.primalfolder2_0.1.2_iphoneos-arm64.deb
-Size: 50850
-MD5sum: 2b25b3826891c97620e5b17c4adf89a3
-SHA1: 9e3224b46d9fca00dc4734a6cdd7aec2dd7e035c
-SHA256: 3a7dd2cc863b7a0dab12885ffb2fe4bc77548ad26993e9cf111b45fd95e0a9c7
+Filename: package_debian_A1/com.ichitaso.primalfolder2_0.1.2_iphoneos-arm64e.deb
+Size: 49572
+MD5sum: 2ef5194b34d5a039841fe7d4304ec008
+SHA1: ed9ebc5684de3b19ae3732bbd98e9d1a426234fb
+SHA256: 61d075ba310b4d4819aab669ae126a6b099cd88876f18cf4b17557db7599fdf2
 Section: Tweaks
 Homepage: https://ichitaso.com
 Description: Display to folder as icon and launch action for Folders
@@ -5039,17 +5039,17 @@ Sileodepiction: https://cydia.ichitaso.com/depiction/primalfolder2.json
 
 Package: com.ichitaso.primalfolder2
 Version: 0.1.2
-Architecture: iphoneos-arm64e
+Architecture: iphoneos-arm64
 Maintainer: ichitaso
 Installed-Size: 500
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
 Conflicts: com.ichitaso.primalfolder, me.qusic.taptapfolder, com.lizynz.folder6plus, info.rpdev.betterfourbyyfourfolders
 Replaces: com.ichitaso.primalfolder2
-Filename: package_debian_A1/com.ichitaso.primalfolder2_0.1.2_iphoneos-arm64e.deb
-Size: 49572
-MD5sum: 2ef5194b34d5a039841fe7d4304ec008
-SHA1: ed9ebc5684de3b19ae3732bbd98e9d1a426234fb
-SHA256: 61d075ba310b4d4819aab669ae126a6b099cd88876f18cf4b17557db7599fdf2
+Filename: package_debian_A1/com.ichitaso.primalfolder2_0.1.2_iphoneos-arm64.deb
+Size: 50850
+MD5sum: 2b25b3826891c97620e5b17c4adf89a3
+SHA1: 9e3224b46d9fca00dc4734a6cdd7aec2dd7e035c
+SHA256: 3a7dd2cc863b7a0dab12885ffb2fe4bc77548ad26993e9cf111b45fd95e0a9c7
 Section: Tweaks
 Homepage: https://ichitaso.com
 Description: Display to folder as icon and launch action for Folders
@@ -5149,28 +5149,6 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.ichitaso.raisetowakecc
 Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: ichitaso
-Installed-Size: 232
-Pre-Depends: firmware (>= 11.0)
-Depends: com.opa334.ccsupport
-Filename: package_debian_A1/com.ichitaso.raisetowakecc_1.0.0_iphoneos-arm.deb
-Size: 49016
-MD5sum: 1a3b8f99f56f7c15ae5313bf6469c6fa
-SHA1: 5aee82e49791497a4266be31b1615a197b048c3d
-SHA256: e444f1ff2639ff52b5c8773d2be75e58d60ed9c8b8e638ebf68e61d51724d758
-Section: Addons (ControlCenter)
-Homepage: https://ichitaso.com
-Description: Turn on / off Raise to Wake from the control center.
-Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios16
-Author: ichitaso
-Depiction: https://cydia.ichitaso.com/depiction/raisetowakecc.html
-Dev: ichitaso
-Name: RaiseToWake (CCSupport)
-Sileodepiction: https://cydia.ichitaso.com/depiction/raisetowakecc.json
-
-Package: com.ichitaso.raisetowakecc
-Version: 1.0.0
 Architecture: iphoneos-arm64e
 Maintainer: ichitaso
 Installed-Size: 264
@@ -5213,24 +5191,27 @@ Dev: ichitaso
 Name: RaiseToWake (CCSupport)
 Sileodepiction: https://cydia.ichitaso.com/depiction/raisetowakecc.json
 
-Package: com.ichitaso.regionchanger
-Version: 0.0.2
+Package: com.ichitaso.raisetowakecc
+Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: ichitaso
-Installed-Size: 236
-Depends: firmware (>= 15.0)
-Filename: package_debian_A1/com.ichitaso.regionchanger_0.0.2_iphoneos-arm.deb
-Size: 117760
-MD5sum: 6e79e730fd8956980791f47feb0d4ff3
-SHA1: 9e5be950ab5aed41f350e573c968889f6b6f53f7
-SHA256: 41e91b8cb5c635053046f139f2c8618e6fd92d579dd6f0a241f297da1d49e9e5
-Section: Utilities
-Homepage: https://ichitaso.com/
-Description: Set the System Region of your device to US. Mute the shutter sound of the camera in silent mode, etc.
+Installed-Size: 232
+Pre-Depends: firmware (>= 11.0)
+Depends: com.opa334.ccsupport
+Filename: package_debian_A1/com.ichitaso.raisetowakecc_1.0.0_iphoneos-arm.deb
+Size: 49016
+MD5sum: 1a3b8f99f56f7c15ae5313bf6469c6fa
+SHA1: 5aee82e49791497a4266be31b1615a197b048c3d
+SHA256: e444f1ff2639ff52b5c8773d2be75e58d60ed9c8b8e638ebf68e61d51724d758
+Section: Addons (ControlCenter)
+Homepage: https://ichitaso.com
+Description: Turn on / off Raise to Wake from the control center.
+Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios16
 Author: ichitaso
-Depiction: https://cydia.ichitaso.com/depiction/regionchanger.html
+Depiction: https://cydia.ichitaso.com/depiction/raisetowakecc.html
 Dev: ichitaso
-Name: RegionChanger
+Name: RaiseToWake (CCSupport)
+Sileodepiction: https://cydia.ichitaso.com/depiction/raisetowakecc.json
 
 Package: com.ichitaso.regionchanger
 Version: 0.0.2
@@ -5250,6 +5231,47 @@ Author: ichitaso
 Depiction: https://cydia.ichitaso.com/depiction/regionchanger.html
 Dev: ichitaso
 Name: RegionChanger
+
+Package: com.ichitaso.regionchanger
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: ichitaso
+Installed-Size: 236
+Depends: firmware (>= 15.0)
+Filename: package_debian_A1/com.ichitaso.regionchanger_0.0.2_iphoneos-arm.deb
+Size: 117760
+MD5sum: 6e79e730fd8956980791f47feb0d4ff3
+SHA1: 9e5be950ab5aed41f350e573c968889f6b6f53f7
+SHA256: 41e91b8cb5c635053046f139f2c8618e6fd92d579dd6f0a241f297da1d49e9e5
+Section: Utilities
+Homepage: https://ichitaso.com/
+Description: Set the System Region of your device to US. Mute the shutter sound of the camera in silent mode, etc.
+Author: ichitaso
+Depiction: https://cydia.ichitaso.com/depiction/regionchanger.html
+Dev: ichitaso
+Name: RegionChanger
+
+Package: com.ichitaso.ringertoggle
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: ichitaso
+Installed-Size: 164
+Pre-Depends: firmware (>= 11.0)
+Depends: com.opa334.ccsupport
+Filename: package_debian_A1/com.ichitaso.ringertoggle_0.2_iphoneos-arm.deb
+Size: 19160
+MD5sum: ca7cbbf8744e39440ba2150437294542
+SHA1: 0171c0b9bda5710fb67207c34a4abec3ddae6c5f
+SHA256: 05b11fe636b85826b8b70242df0fc322fb9a126a9ca7181f6355a33aebeb81d3
+Section: Addons (ControlCenter)
+Homepage: https://ichitaso.com
+Description: Turn on / off Silent Switch from the control center.
+Tag: purpose::extension, compatible_min::ios11, compatible_max::ios16
+Author: ichitaso
+Depiction: https://cydia.ichitaso.com/depiction/ringertoggle.html
+Dev: ichitaso
+Name: RingerToggle (CCSupport)
+Sileodepiction: https://cydia.ichitaso.com/depiction/ringertoggle.json
 
 Package: com.ichitaso.ringertoggle
 Version: 0.2
@@ -5296,39 +5318,17 @@ Name: RingerToggle (CCSupport)
 Sileodepiction: https://cydia.ichitaso.com/depiction/ringertoggle.json
 
 Package: com.ichitaso.ringertoggle
-Version: 0.2
-Architecture: iphoneos-arm
-Maintainer: ichitaso
-Installed-Size: 164
-Pre-Depends: firmware (>= 11.0)
-Depends: com.opa334.ccsupport
-Filename: package_debian_A1/com.ichitaso.ringertoggle_0.2_iphoneos-arm.deb
-Size: 19160
-MD5sum: ca7cbbf8744e39440ba2150437294542
-SHA1: 0171c0b9bda5710fb67207c34a4abec3ddae6c5f
-SHA256: 05b11fe636b85826b8b70242df0fc322fb9a126a9ca7181f6355a33aebeb81d3
-Section: Addons (ControlCenter)
-Homepage: https://ichitaso.com
-Description: Turn on / off Silent Switch from the control center.
-Tag: purpose::extension, compatible_min::ios11, compatible_max::ios16
-Author: ichitaso
-Depiction: https://cydia.ichitaso.com/depiction/ringertoggle.html
-Dev: ichitaso
-Name: RingerToggle (CCSupport)
-Sileodepiction: https://cydia.ichitaso.com/depiction/ringertoggle.json
-
-Package: com.ichitaso.ringertoggle
 Version: 0.3
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm64e
 Maintainer: ichitaso
 Installed-Size: 196
 Pre-Depends: firmware (>= 11.0)
 Depends: com.opa334.ccsupport
-Filename: package_debian_A1/com.ichitaso.ringertoggle_0.3_iphoneos-arm64.deb
-Size: 19392
-MD5sum: 9010c6e7886057f4279f527d192b8c0f
-SHA1: e768ff84b75dd0071f1c6f7447a5f5b06c5da428
-SHA256: 0cbefcaa277a624aa45e3e8b9e7479853576710280ff67f8fba23f31b43bec30
+Filename: package_debian_A1/com.ichitaso.ringertoggle_0.3_iphoneos-arm64e.deb
+Size: 19318
+MD5sum: 858302ccfd39b87b9310ce8970df5b00
+SHA1: 89e53f04645868fe8213cb1d9c26830a3e71df14
+SHA256: 933c57ef124de4f786f4ce6be2d929e2aaf5bc876678efb7107ac44a5515a018
 Section: Addons (ControlCenter)
 Homepage: https://ichitaso.com
 Description: Turn on / off Silent Switch from the control center.
@@ -5363,16 +5363,16 @@ Sileodepiction: https://cydia.ichitaso.com/depiction/ringertoggle.json
 
 Package: com.ichitaso.ringertoggle
 Version: 0.3
-Architecture: iphoneos-arm64e
+Architecture: iphoneos-arm64
 Maintainer: ichitaso
 Installed-Size: 196
 Pre-Depends: firmware (>= 11.0)
 Depends: com.opa334.ccsupport
-Filename: package_debian_A1/com.ichitaso.ringertoggle_0.3_iphoneos-arm64e.deb
-Size: 19318
-MD5sum: 858302ccfd39b87b9310ce8970df5b00
-SHA1: 89e53f04645868fe8213cb1d9c26830a3e71df14
-SHA256: 933c57ef124de4f786f4ce6be2d929e2aaf5bc876678efb7107ac44a5515a018
+Filename: package_debian_A1/com.ichitaso.ringertoggle_0.3_iphoneos-arm64.deb
+Size: 19392
+MD5sum: 9010c6e7886057f4279f527d192b8c0f
+SHA1: e768ff84b75dd0071f1c6f7447a5f5b06c5da428
+SHA256: 0cbefcaa277a624aa45e3e8b9e7479853576710280ff67f8fba23f31b43bec30
 Section: Addons (ControlCenter)
 Homepage: https://ichitaso.com
 Description: Turn on / off Silent Switch from the control center.
@@ -5935,24 +5935,6 @@ Sileodepiction: https://cydia.ichitaso.com/depiction/youtubepatcher.json
 
 Package: com.ichitaso.youtubepatcher
 Version: 0.5
-Architecture: iphoneos-arm
-Maintainer: ichitaso
-Installed-Size: 56
-Depends: mobilesubstrate
-Filename: package_debian_A1/com.ichitaso.youtubepatcher_0.5_iphoneos-arm.deb
-Size: 5528
-MD5sum: 0eb133dd563ff849ff6a048366c3c032
-SHA1: 7280a03ecd3b5fb319d4ee288dbb86d92cd1dcd3
-SHA256: ffceb534a0b69b85e20f799b213488dc973ff47b0460eb04e662aae36b407601
-Section: Tweaks
-Description: No inline Ads/Background Play back for YouTube & YouTube Music
-Author: ichitaso
-Depiction: https://cydia.ichitaso.com/depiction/youtubepatcher.html
-Name: YouTubePatcher
-Sileodepiction: https://cydia.ichitaso.com/depiction/youtubepatcher.json
-
-Package: com.ichitaso.youtubepatcher
-Version: 0.5
 Architecture: iphoneos-arm64e
 Maintainer: ichitaso
 Installed-Size: 72
@@ -5970,16 +5952,16 @@ Name: YouTubePatcher
 Sileodepiction: https://cydia.ichitaso.com/depiction/youtubepatcher.json
 
 Package: com.ichitaso.youtubepatcher
-Version: 0.6
+Version: 0.5
 Architecture: iphoneos-arm
 Maintainer: ichitaso
 Installed-Size: 56
 Depends: mobilesubstrate
-Filename: package_debian_A1/com.ichitaso.youtubepatcher_0.6_iphoneos-arm.deb
-Size: 5562
-MD5sum: ba2e5386e401ebd85c2295719c624fac
-SHA1: 430d27cd8026810da5190f1c7dec044b9afe4257
-SHA256: 8c50d506327ef45afc3524a8d4a9cb2d29de546447c17b9858c46ef1155aea6f
+Filename: package_debian_A1/com.ichitaso.youtubepatcher_0.5_iphoneos-arm.deb
+Size: 5528
+MD5sum: 0eb133dd563ff849ff6a048366c3c032
+SHA1: 7280a03ecd3b5fb319d4ee288dbb86d92cd1dcd3
+SHA256: ffceb534a0b69b85e20f799b213488dc973ff47b0460eb04e662aae36b407601
 Section: Tweaks
 Description: No inline Ads/Background Play back for YouTube & YouTube Music
 Author: ichitaso
@@ -5998,6 +5980,24 @@ Size: 5312
 MD5sum: 2d84ad9b0eb861db4933790a4e731186
 SHA1: cc90ead1f22846b3bb475e1253b06fe93f6af328
 SHA256: 318fc1e7f7411ccf77c2117ea3c247f388c4e47cf1504f3ac25fe55f32aca367
+Section: Tweaks
+Description: No inline Ads/Background Play back for YouTube & YouTube Music
+Author: ichitaso
+Depiction: https://cydia.ichitaso.com/depiction/youtubepatcher.html
+Name: YouTubePatcher
+Sileodepiction: https://cydia.ichitaso.com/depiction/youtubepatcher.json
+
+Package: com.ichitaso.youtubepatcher
+Version: 0.6
+Architecture: iphoneos-arm
+Maintainer: ichitaso
+Installed-Size: 56
+Depends: mobilesubstrate
+Filename: package_debian_A1/com.ichitaso.youtubepatcher_0.6_iphoneos-arm.deb
+Size: 5562
+MD5sum: ba2e5386e401ebd85c2295719c624fac
+SHA1: 430d27cd8026810da5190f1c7dec044b9afe4257
+SHA256: 8c50d506327ef45afc3524a8d4a9cb2d29de546447c17b9858c46ef1155aea6f
 Section: Tweaks
 Description: No inline Ads/Background Play back for YouTube & YouTube Music
 Author: ichitaso
@@ -9006,23 +9006,6 @@ Name: vWallpaper 2 for iOS5/ARMV7
 
 Package: com.sop.killapps
 Version: 1.7.8
-Architecture: iphoneos-arm
-Maintainer: SOPPPra
-Installed-Size: 560
-Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist, com.mrgcgamer.libgcuniversal
-Filename: package_debian_A1/com.sop.killapps_1.7.8.deb
-Size: 184730
-MD5sum: c267892b16939c1ca964fc34e9e312cf
-SHA1: fec54a65e471255ab172717d9caee7b866c157ff
-SHA256: a32f49eb9b618fcb9940504e3d90c5819fa58821588595df3b8152537f285973
-Section: Tweaks
-Description: Customize your app switcher with a variety of options, including the ability to close apps with a downswipe, adding buttons, a grid switcher, and many other features.
-Author: SOPPPra
-Name: killapps
-Sileodepiction: https://sopppra.mooo.com/depictions/com.sop.killapps.json
-
-Package: com.sop.killapps
-Version: 1.7.8
 Architecture: iphoneos-arm64
 Maintainer: SOPPPra
 Installed-Size: 432
@@ -9032,6 +9015,23 @@ Size: 165448
 MD5sum: fcc2ee17e1acdbba6f34b02ee79e08c6
 SHA1: dc09741987f149f142c2a652d6400e35d803dcab
 SHA256: fc0ee0a7e099aee8ef42b100a29f5cf8083c19c3bf40872dc40c49e5e4715093
+Section: Tweaks
+Description: Customize your app switcher with a variety of options, including the ability to close apps with a downswipe, adding buttons, a grid switcher, and many other features.
+Author: SOPPPra
+Name: killapps
+Sileodepiction: https://sopppra.mooo.com/depictions/com.sop.killapps.json
+
+Package: com.sop.killapps
+Version: 1.7.8
+Architecture: iphoneos-arm
+Maintainer: SOPPPra
+Installed-Size: 560
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist, com.mrgcgamer.libgcuniversal
+Filename: package_debian_A1/com.sop.killapps_1.7.8.deb
+Size: 184730
+MD5sum: c267892b16939c1ca964fc34e9e312cf
+SHA1: fec54a65e471255ab172717d9caee7b866c157ff
+SHA256: a32f49eb9b618fcb9940504e3d90c5819fa58821588595df3b8152537f285973
 Section: Tweaks
 Description: Customize your app switcher with a variety of options, including the ability to close apps with a downswipe, adding buttons, a grid switcher, and many other features.
 Author: SOPPPra
@@ -9078,25 +9078,6 @@ Sileodepiction: https://sopppra.mooo.com/depictions/com.sop.settingsrevamp.json
 
 Package: com.sop.settingsrevamp
 Version: 3.0.0
-Architecture: iphoneos-arm64
-Maintainer: SOPPPra
-Installed-Size: 936
-Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
-Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, zb.preferenceloader
-Filename: package_debian_A1/com.sop.settingsrevamp_3.0.0_iphoneos-arm64.deb
-Size: 249162
-MD5sum: 425f5329fcaa901c33113236e17407f5
-SHA1: 8f83cb59450759679b4b7a2cc92e4089f1df3420
-SHA256: 4a8d3236de86655c8122c8fe44ca3b7d56705b8e0513a6e51ae8a52aeee9bf15
-Section: Tweaks
-Description: Customize the ios settings page
-Author: SOPPPra
-Depiction: https://sopppra.mooo.com/depictions/web/com.sop.settingsrevamp.html
-Name: SettingsRevamp
-Sileodepiction: https://sopppra.mooo.com/depictions/com.sop.settingsrevamp.json
-
-Package: com.sop.settingsrevamp
-Version: 3.0.0
 Architecture: iphoneos-arm
 Maintainer: SOPPPra
 Installed-Size: 936
@@ -9107,6 +9088,25 @@ Size: 248802
 MD5sum: c4255830ff77ee3a3a98c0061d848967
 SHA1: 2dede196d73544e8d3d3d566ee5402bf63753e7a
 SHA256: 4567b5c9c3ef39e1524d7ffe2dab56b6333aa4af05f816949e728d5141a46ddf
+Section: Tweaks
+Description: Customize the ios settings page
+Author: SOPPPra
+Depiction: https://sopppra.mooo.com/depictions/web/com.sop.settingsrevamp.html
+Name: SettingsRevamp
+Sileodepiction: https://sopppra.mooo.com/depictions/com.sop.settingsrevamp.json
+
+Package: com.sop.settingsrevamp
+Version: 3.0.0
+Architecture: iphoneos-arm64
+Maintainer: SOPPPra
+Installed-Size: 936
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
+Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, zb.preferenceloader
+Filename: package_debian_A1/com.sop.settingsrevamp_3.0.0_iphoneos-arm64.deb
+Size: 249162
+MD5sum: 425f5329fcaa901c33113236e17407f5
+SHA1: 8f83cb59450759679b4b7a2cc92e4089f1df3420
+SHA256: 4a8d3236de86655c8122c8fe44ca3b7d56705b8e0513a6e51ae8a52aeee9bf15
 Section: Tweaks
 Description: Customize the ios settings page
 Author: SOPPPra
@@ -9135,25 +9135,6 @@ Sileodepiction: https://sopppra.mooo.com/depictions/com.sop.settingsrevamp.json
 
 Package: com.sop.settingsrevamp
 Version: 3.0.1
-Architecture: iphoneos-arm64
-Maintainer: SOPPPra
-Installed-Size: 888
-Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
-Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, zb.preferenceloader
-Filename: package_debian_A1/com.sop.settingsrevamp_3.0.1_iphoneos-arm64.deb
-Size: 206226
-MD5sum: b0ec9be7663c423da1c2b60c680d0a9e
-SHA1: d234ba43ca25b48824a04017b2252f9b575459df
-SHA256: 4830d1d2765000746965d7d52d58e1d4f7d74934555a2cb154fa4c8216eb986f
-Section: Tweaks
-Description: Customize the ios settings page
-Author: SOPPPra
-Depiction: https://sopppra.mooo.com/depictions/web/com.sop.settingsrevamp.html
-Name: SettingsRevamp
-Sileodepiction: https://sopppra.mooo.com/depictions/com.sop.settingsrevamp.json
-
-Package: com.sop.settingsrevamp
-Version: 3.0.1
 Architecture: iphoneos-arm64e
 Maintainer: SOPPPra
 Installed-Size: 888
@@ -9171,22 +9152,24 @@ Depiction: https://sopppra.mooo.com/depictions/web/com.sop.settingsrevamp.html
 Name: SettingsRevamp
 Sileodepiction: https://sopppra.mooo.com/depictions/com.sop.settingsrevamp.json
 
-Package: com.sop.tweakhub
-Version: 1.0.2
-Architecture: iphoneos-arm
+Package: com.sop.settingsrevamp
+Version: 3.0.1
+Architecture: iphoneos-arm64
 Maintainer: SOPPPra
-Installed-Size: 464
-Depends: mobilesubstrate, com.mrgcgamer.libgcuniversal
-Filename: package_debian_A1/com.sop.tweakhub_1.0.2_iphoneos-arm.deb
-Size: 76806
-MD5sum: c28d4112ae7191802d11715d5a712668
-SHA1: a8b15acf207c7aafb19be881199cc5ec6a39b132
-SHA256: a4b0fac0517f3c06507130246a6bfa0098c4f0eab31ad7cf5a2bc79c2fa60e20
+Installed-Size: 888
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
+Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, zb.preferenceloader
+Filename: package_debian_A1/com.sop.settingsrevamp_3.0.1_iphoneos-arm64.deb
+Size: 206226
+MD5sum: b0ec9be7663c423da1c2b60c680d0a9e
+SHA1: d234ba43ca25b48824a04017b2252f9b575459df
+SHA256: 4830d1d2765000746965d7d52d58e1d4f7d74934555a2cb154fa4c8216eb986f
 Section: Tweaks
-Description: List all installed tweaks and access their settings directly. With this tweak, you can view a popup that displays all installed tweaks on your system. Quickly access the settings of each tweak with just a tap.
+Description: Customize the ios settings page
 Author: SOPPPra
-Name: TweakHub
-Sileodepiction: https://sopppra.mooo.com/depictions/com.sop.tweakhub.json
+Depiction: https://sopppra.mooo.com/depictions/web/com.sop.settingsrevamp.html
+Name: SettingsRevamp
+Sileodepiction: https://sopppra.mooo.com/depictions/com.sop.settingsrevamp.json
 
 Package: com.sop.tweakhub
 Version: 1.0.2
@@ -9199,6 +9182,23 @@ Size: 45912
 MD5sum: 38fbbea9394ded5ad47dda276e0eba36
 SHA1: 23ccf4ac967adbf489afa3b2c5eab6acc5772956
 SHA256: 6f00ebb98bd119904bb578b6d9433787fc00bb27616a37a3331b2b036c8b18fa
+Section: Tweaks
+Description: List all installed tweaks and access their settings directly. With this tweak, you can view a popup that displays all installed tweaks on your system. Quickly access the settings of each tweak with just a tap.
+Author: SOPPPra
+Name: TweakHub
+Sileodepiction: https://sopppra.mooo.com/depictions/com.sop.tweakhub.json
+
+Package: com.sop.tweakhub
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: SOPPPra
+Installed-Size: 464
+Depends: mobilesubstrate, com.mrgcgamer.libgcuniversal
+Filename: package_debian_A1/com.sop.tweakhub_1.0.2_iphoneos-arm.deb
+Size: 76806
+MD5sum: c28d4112ae7191802d11715d5a712668
+SHA1: a8b15acf207c7aafb19be881199cc5ec6a39b132
+SHA256: a4b0fac0517f3c06507130246a6bfa0098c4f0eab31ad7cf5a2bc79c2fa60e20
 Section: Tweaks
 Description: List all installed tweaks and access their settings directly. With this tweak, you can view a popup that displays all installed tweaks on your system. Quickly access the settings of each tweak with just a tap.
 Author: SOPPPra
@@ -20814,7 +20814,7 @@ Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: Chris Kohlhepp <chrisk@manx.net>
 Depends: uk.qmole.libx11, uk.qmole.libxext
-Filename: package_debian_A1/uk.qmole.libXxf86misc_1.0.1_iphoneos-arm.deb
+Filename: package_debian_A1/uk.qmole.libxxf86misc_1.0.1_iphoneos-arm.deb
 Size: 7926
 MD5sum: e3297c96d41c3cf232b1ba94ba0d4474
 SHA1: 43007056f24c089fcb252a6d6d58ad1d9fb4611c
@@ -20833,7 +20833,7 @@ Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: Chris Kohlhepp <chrisk@manx.net>
 Depends: uk.qmole.libx11, uk.qmole.libxext
-Filename: package_debian_A1/uk.qmole.libxxf86misc_1.0.1_iphoneos-arm.deb
+Filename: package_debian_A1/uk.qmole.libXxf86misc_1.0.1_iphoneos-arm.deb
 Size: 7926
 MD5sum: e3297c96d41c3cf232b1ba94ba0d4474
 SHA1: 43007056f24c089fcb252a6d6d58ad1d9fb4611c
@@ -22472,15 +22472,15 @@ Version: 2.1
 Architecture: iphoneos-arm
 Maintainer: Genius Blog <apps@hackulo.us>
 Pre-Depends: firmware (>= 5.0)
-Depends: mobilesubstrate (>= 0.9.3990)
-Conflicts: us.hackulo.appsync50
+Depends: mobilesubstrate (<< 0.9.3990)
+Conflicts: us.hackulo.appsync50, semitether
 Replaces: us.hackulo.appsync50
 Provides: appsync
-Filename: package_debian_A1/appsync50plus-2.1.deb
-Size: 4486
-MD5sum: 7da99b36f31882ba6d4ecb3c80d66e84
-SHA1: d0d63b4e48dfda2418bf9b06c859f5beaad6d033
-SHA256: 97ca267699d6522b79a5b49c9ae935767028814ca2998fbd9a894a70fbd5840c
+Filename: package_debian_A1/appsync50plus-2.1-legacy.deb
+Size: 4384
+MD5sum: 1452c7f3998f18f0c6f138bf0654a424
+SHA1: 769628c6e77558964bdd50b222dd1e03b2968460
+SHA256: 52642810cc7bd890aac7e1d16a5871d483e2a3cc7494cd137008228f64cabb6e
 Section: Tweaks
 Priority: standard
 Description: AppSync allows you to sync and install cracked iOS applications.
@@ -22493,15 +22493,15 @@ Version: 2.1
 Architecture: iphoneos-arm
 Maintainer: Genius Blog <apps@hackulo.us>
 Pre-Depends: firmware (>= 5.0)
-Depends: mobilesubstrate (<< 0.9.3990)
-Conflicts: us.hackulo.appsync50, semitether
+Depends: mobilesubstrate (>= 0.9.3990)
+Conflicts: us.hackulo.appsync50
 Replaces: us.hackulo.appsync50
 Provides: appsync
-Filename: package_debian_A1/appsync50plus-2.1-legacy.deb
-Size: 4384
-MD5sum: 1452c7f3998f18f0c6f138bf0654a424
-SHA1: 769628c6e77558964bdd50b222dd1e03b2968460
-SHA256: 52642810cc7bd890aac7e1d16a5871d483e2a3cc7494cd137008228f64cabb6e
+Filename: package_debian_A1/appsync50plus-2.1.deb
+Size: 4486
+MD5sum: 7da99b36f31882ba6d4ecb3c80d66e84
+SHA1: d0d63b4e48dfda2418bf9b06c859f5beaad6d033
+SHA256: 97ca267699d6522b79a5b49c9ae935767028814ca2998fbd9a894a70fbd5840c
 Section: Tweaks
 Priority: standard
 Description: AppSync allows you to sync and install cracked iOS applications.
@@ -27380,24 +27380,6 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Thieu.Bocap <repo@cydia.vn>
 Depends: gsmicon
-Filename: package_debian_A2/anhthikhong_1.0.deb
-Size: 561876
-MD5sum: 99e53b7b528aa3fcb3bf9f1d754cddaa
-SHA1: 84c8f07d256e871c1c4f8524680af825ccf63c4a
-SHA256: 4c8c2a15caae2329ae961aa094832d550bf2a23f22e2b1bcdaf463c65c8d37d4
-Section: Ringtones
-Description: Nhạc chuông Anh Thì Không
-Author: Tung.GSM <hotro@gsm.vn>
-Depiction: http://cydia.gsm.vn/t2648/
-Home: http://cydia.vn/blog
-Name: Anh Thì Không
-Sponsor: Cydia.vn Blog's <http://cydia.vn/blog>
-
-Package: vn.gsm.anhthikhong
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Thieu.Bocap <repo@cydia.vn>
-Depends: gsmicon
 Filename: package_debian_A2/anhthikhong1_1.0.deb
 Size: 1664244
 MD5sum: aa0df1954672da06d6873621c18c8e70
@@ -27407,6 +27389,24 @@ Section: Ringtones
 Description: Nhạc chuông Anh Thì Không
 Author: Tung.GSM <hotro@gsm.vn>
 Depiction: http://cydia.gsm.vn/t2993/
+Home: http://cydia.vn/blog
+Name: Anh Thì Không
+Sponsor: Cydia.vn Blog's <http://cydia.vn/blog>
+
+Package: vn.gsm.anhthikhong
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Thieu.Bocap <repo@cydia.vn>
+Depends: gsmicon
+Filename: package_debian_A2/anhthikhong_1.0.deb
+Size: 561876
+MD5sum: 99e53b7b528aa3fcb3bf9f1d754cddaa
+SHA1: 84c8f07d256e871c1c4f8524680af825ccf63c4a
+SHA256: 4c8c2a15caae2329ae961aa094832d550bf2a23f22e2b1bcdaf463c65c8d37d4
+Section: Ringtones
+Description: Nhạc chuông Anh Thì Không
+Author: Tung.GSM <hotro@gsm.vn>
+Depiction: http://cydia.gsm.vn/t2648/
 Home: http://cydia.vn/blog
 Name: Anh Thì Không
 Sponsor: Cydia.vn Blog's <http://cydia.vn/blog>
@@ -64667,23 +64667,6 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: iPhone GSM.VN <support@gsm.vn>
 Depends: gsmicon
-Filename: package_debian_A5/ngayayseden_1.0.deb
-Size: 2106672
-MD5sum: 5abe6bd41c0452858d175edaf1251c74
-SHA1: dd4cf5c0bbbabfd6e826f43c955d9eafe9c6a28e
-SHA256: cdeddc19249adf1770aa43a990c505a15a9039e013cfd35b78a8164ab034bbc6
-Section: Ringtones
-Description: Nhạc Chuông Ngày Ấy Sẽ Đến - Hồ Quang Hiếu
-Author: Tung.GSM <support@gsm.vn>
-Depiction: http://cydia.gsm.vn/t4450/
-Name: Ngày Ấy Sẽ Đến - Hồ Quang Hiếu
-Sponsor: iPhone GSM.VN <http://gsm.vn/f339/>
-
-Package: vn.gsm.inaworldlikethis
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: iPhone GSM.VN <support@gsm.vn>
-Depends: gsmicon
 Filename: package_debian_A5/tearsandrain_1.0.deb
 Size: 1042238
 MD5sum: 5893315c954bcbe49692e533209ce58e
@@ -64694,6 +64677,23 @@ Description: Nhạc Chuông Tears and Rain - James Blunt
 Author: Tung.GSM <support@gsm.vn>
 Depiction: http://cydia.gsm.vn/t4451/
 Name: Tears and Rain - James Blunt
+Sponsor: iPhone GSM.VN <http://gsm.vn/f339/>
+
+Package: vn.gsm.inaworldlikethis
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iPhone GSM.VN <support@gsm.vn>
+Depends: gsmicon
+Filename: package_debian_A5/ngayayseden_1.0.deb
+Size: 2106672
+MD5sum: 5abe6bd41c0452858d175edaf1251c74
+SHA1: dd4cf5c0bbbabfd6e826f43c955d9eafe9c6a28e
+SHA256: cdeddc19249adf1770aa43a990c505a15a9039e013cfd35b78a8164ab034bbc6
+Section: Ringtones
+Description: Nhạc Chuông Ngày Ấy Sẽ Đến - Hồ Quang Hiếu
+Author: Tung.GSM <support@gsm.vn>
+Depiction: http://cydia.gsm.vn/t4450/
+Name: Ngày Ấy Sẽ Đến - Hồ Quang Hiếu
 Sponsor: iPhone GSM.VN <http://gsm.vn/f339/>
 
 Package: vn.gsm.inconsolable
@@ -70528,23 +70528,6 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: iPhone GSM.VN <support@gsm.vn>
 Depends: gsmicon
-Filename: package_debian_A5/ring_moingaytoichon1niemvui_1.0.deb
-Size: 620622
-MD5sum: 205ae87537045a21079d8e5c618d901a
-SHA1: 42f70a945a013822c17055b77f26336458c94c27
-SHA256: 8752b2e3f16742aad19176a416f4656593cb37ad157e6e16d241d99722bb41fc
-Section: Ringtones
-Description: Nhạc chuông Mỗi Ngày Tôi Chọn Một Niềm Vui
-Author: Tùng.GSM <support@gsm.vn>
-Depiction: http://cydia.gsm.vn/t1208/
-Name: Mỗi Ngày Tôi Chọn Một Niềm Vui
-Sponsor: iPhone GSM.VN <http://gsm.vn/f339/>
-
-Package: vn.gsm.moingaytoichon1niemvui
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: iPhone GSM.VN <support@gsm.vn>
-Depends: gsmicon
 Filename: package_debian_A5/ring_nhomuathuhanoi_1.0.deb
 Size: 965252
 MD5sum: c8a4219b64bd0c338b8fc198e4288467
@@ -70555,6 +70538,23 @@ Description: Nhạc chuông Nhớ Mùa Thu Hà Nội
 Author: Tùng.GSM <support@gsm.vn>
 Depiction: http://cydia.gsm.vn/t1209/
 Name: Nhớ Mùa Thu Hà Nội
+Sponsor: iPhone GSM.VN <http://gsm.vn/f339/>
+
+Package: vn.gsm.moingaytoichon1niemvui
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iPhone GSM.VN <support@gsm.vn>
+Depends: gsmicon
+Filename: package_debian_A5/ring_moingaytoichon1niemvui_1.0.deb
+Size: 620622
+MD5sum: 205ae87537045a21079d8e5c618d901a
+SHA1: 42f70a945a013822c17055b77f26336458c94c27
+SHA256: 8752b2e3f16742aad19176a416f4656593cb37ad157e6e16d241d99722bb41fc
+Section: Ringtones
+Description: Nhạc chuông Mỗi Ngày Tôi Chọn Một Niềm Vui
+Author: Tùng.GSM <support@gsm.vn>
+Depiction: http://cydia.gsm.vn/t1208/
+Name: Mỗi Ngày Tôi Chọn Một Niềm Vui
 Sponsor: iPhone GSM.VN <http://gsm.vn/f339/>
 
 Package: vn.gsm.momentum
@@ -75270,23 +75270,6 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: iPhone GSM.VN <support@gsm.vn>
 Depends: gsmicon
-Filename: package_debian_A5/noitinhyeubatdaubat_1.0.deb
-Size: 1604244
-MD5sum: ba0e8af36603096d45ebc44b3d3f8bfc
-SHA1: 61c9a63b6d8cf9eafadb14fbc3da6371335780cd
-SHA256: 03123fd507f53e6a3f3bf550fc8b2d9346047daf8888745ffa23b1ac20baf2f7
-Section: Ringtones
-Description: Nhạc Chuông Nơi Tình Yêu Bắt Đầu (New)
-Author: Tung.GSM <support@gsm.vn>
-Depiction: http://cydia.gsm.vn/t3784/
-Name: Nơi Tình Yêu Bắt Đầu (New)
-Sponsor: iPhone GSM.VN <http://gsm.vn/f339/>
-
-Package: vn.gsm.noitinhyeubatdaubat
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: iPhone GSM.VN <support@gsm.vn>
-Depends: gsmicon
 Filename: package_debian_A5/phuongbuon_1.0.deb
 Size: 1555586
 MD5sum: 6bca140d71a1b96274d38df05b352786
@@ -75297,6 +75280,23 @@ Description: Nhạc Chuông Phượng Buồn
 Author: Tung.GSM <support@gsm.vn>
 Depiction: http://cydia.gsm.vn/t3785/
 Name: Phượng Buồn
+Sponsor: iPhone GSM.VN <http://gsm.vn/f339/>
+
+Package: vn.gsm.noitinhyeubatdaubat
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iPhone GSM.VN <support@gsm.vn>
+Depends: gsmicon
+Filename: package_debian_A5/noitinhyeubatdaubat_1.0.deb
+Size: 1604244
+MD5sum: ba0e8af36603096d45ebc44b3d3f8bfc
+SHA1: 61c9a63b6d8cf9eafadb14fbc3da6371335780cd
+SHA256: 03123fd507f53e6a3f3bf550fc8b2d9346047daf8888745ffa23b1ac20baf2f7
+Section: Ringtones
+Description: Nhạc Chuông Nơi Tình Yêu Bắt Đầu (New)
+Author: Tung.GSM <support@gsm.vn>
+Depiction: http://cydia.gsm.vn/t3784/
+Name: Nơi Tình Yêu Bắt Đầu (New)
 Sponsor: iPhone GSM.VN <http://gsm.vn/f339/>
 
 Package: vn.gsm.noivongtaylon
@@ -81549,23 +81549,6 @@ Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 Package: vn.gsm.rememberwhen
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: iPhone GSM.VN <support@gsm.vn>
-Depends: gsmicon
-Filename: package_debian_A5/ring_rememberwhen_1.0.deb
-Size: 582354
-MD5sum: 38ebee475a8f5505efd071d4ffddbe16
-SHA1: 0f0cd9bb7916d35bd13cb3b2b92fd27a6c495160
-SHA256: 9cc309e56380ccbca29171df83c5b9208ff63d44fd9c0877e983ce4ca2219e53
-Section: Ringtones
-Description: Nhạc chuông Remember When
-Author: Tùng GSM <support@gsm.vn>
-Depiction: http://cydia.gsm.vn/t1230/
-Name: Remember When
-Sponsor: iPhone GSM.VN <http://gsm.vn/f339/>
-
-Package: vn.gsm.rememberwhen
-Version: 1.0
-Architecture: iphoneos-arm
 Maintainer: Thieu.Bocap <repo@cydia.vn>
 Depends: gsmicon
 Filename: package_debian_A5/rememberwhen_1.0.deb
@@ -81580,6 +81563,23 @@ Depiction: http://cydia.gsm.vn/t2685/
 Home: http://cydia.vn/blog
 Name: Remember When
 Sponsor: Cydia.vn Blog's <http://cydia.vn/blog>
+
+Package: vn.gsm.rememberwhen
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iPhone GSM.VN <support@gsm.vn>
+Depends: gsmicon
+Filename: package_debian_A5/ring_rememberwhen_1.0.deb
+Size: 582354
+MD5sum: 38ebee475a8f5505efd071d4ffddbe16
+SHA1: 0f0cd9bb7916d35bd13cb3b2b92fd27a6c495160
+SHA256: 9cc309e56380ccbca29171df83c5b9208ff63d44fd9c0877e983ce4ca2219e53
+Section: Ringtones
+Description: Nhạc chuông Remember When
+Author: Tùng GSM <support@gsm.vn>
+Depiction: http://cydia.gsm.vn/t1230/
+Name: Remember When
+Sponsor: iPhone GSM.VN <http://gsm.vn/f339/>
 
 Package: vn.gsm.remindmelater
 Version: 1.2.3-11
@@ -92126,11 +92126,11 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: iPhone GSM.VN <support@gsm.vn>
 Depends: gsmicon
-Filename: package_debian_A5/ring_thao_1.0.deb
-Size: 382668
-MD5sum: 14ba440e21dbd2dbcc0d25a32cd7869c
-SHA1: 850c196f48aa77fa04e9a5b4ea8d3d48262e8b81
-SHA256: 2288e8b1eb58b3b4a1e6984648055df2beda6b246379043321d449f9ccce5938
+Filename: package_debian_A5/ring_thu_1.0.deb
+Size: 278826
+MD5sum: ee99d2ac85d2c024bc3d54a0a5604b16
+SHA1: 34c52b3f138bab6b56e2469d333473f3550ab514
+SHA256: b4d815a958f46ae1860c9e2d16c34fbb4dba30ea68fe107c4537e84ea5d9f3b7
 Section: Ringtones
 Description: Nhạc chuông theo tên Thu!
 Author: Thieu.Bocap <support@gsm.vn>
@@ -92143,11 +92143,11 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: iPhone GSM.VN <support@gsm.vn>
 Depends: gsmicon
-Filename: package_debian_A5/ring_thu_1.0.deb
-Size: 278826
-MD5sum: ee99d2ac85d2c024bc3d54a0a5604b16
-SHA1: 34c52b3f138bab6b56e2469d333473f3550ab514
-SHA256: b4d815a958f46ae1860c9e2d16c34fbb4dba30ea68fe107c4537e84ea5d9f3b7
+Filename: package_debian_A5/ring_thao_1.0.deb
+Size: 382668
+MD5sum: 14ba440e21dbd2dbcc0d25a32cd7869c
+SHA1: 850c196f48aa77fa04e9a5b4ea8d3d48262e8b81
+SHA256: 2288e8b1eb58b3b4a1e6984648055df2beda6b246379043321d449f9ccce5938
 Section: Ringtones
 Description: Nhạc chuông theo tên Thu!
 Author: Thieu.Bocap <support@gsm.vn>
@@ -92296,23 +92296,6 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: iPhone GSM.VN <support@gsm.vn>
 Depends: gsmicon
-Filename: package_debian_A5/ring_tuan_1.0.deb
-Size: 560304
-MD5sum: a4ffb9faad339057e0393b2c05ae4739
-SHA1: 1145219967ff626f8311765b9dc86ba9290c782e
-SHA256: 65697e4e1a16253effb51f072e9d9a95d73d102cf1293b902d2d34a5a5f50a22
-Section: Ringtones
-Description: Nhạc chuông theo tên Tuấn!
-Author: Thieu.Bocap <support@gsm.vn>
-Depiction: http://cydia.gsm.vn/t891/
-Name: Ringtone Tuấn
-Sponsor: iPhone GSM.VN <http://gsm.vn/f339/>
-
-Package: vn.gsm.tentu
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: iPhone GSM.VN <support@gsm.vn>
-Depends: gsmicon
 Filename: package_debian_A5/ring_tu_1.0.deb
 Size: 560364
 MD5sum: 58897aa40685d8a82c1bf244dfcbd480
@@ -92323,6 +92306,23 @@ Description: Nhạc chuông theo tên Tú!
 Author: Thieu.Bocap <support@gsm.vn>
 Depiction: http://cydia.gsm.vn/t890/
 Name: Ringtone Tú
+Sponsor: iPhone GSM.VN <http://gsm.vn/f339/>
+
+Package: vn.gsm.tentu
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iPhone GSM.VN <support@gsm.vn>
+Depends: gsmicon
+Filename: package_debian_A5/ring_tuan_1.0.deb
+Size: 560304
+MD5sum: a4ffb9faad339057e0393b2c05ae4739
+SHA1: 1145219967ff626f8311765b9dc86ba9290c782e
+SHA256: 65697e4e1a16253effb51f072e9d9a95d73d102cf1293b902d2d34a5a5f50a22
+Section: Ringtones
+Description: Nhạc chuông theo tên Tuấn!
+Author: Thieu.Bocap <support@gsm.vn>
+Depiction: http://cydia.gsm.vn/t891/
+Name: Ringtone Tuấn
 Sponsor: iPhone GSM.VN <http://gsm.vn/f339/>
 
 Package: vn.gsm.tentung
@@ -102340,24 +102340,6 @@ Name: SugarCane
 
 Package: com.mrgcgamer.libgcuniversal
 Version: 1.7.0
-Architecture: iphoneos-arm
-Maintainer: MrGcGamer
-Installed-Size: 456
-Depends: firmware (>= 14.0) | ws.hbang.alderis, firmware (>= 12.0)
-Provides: com.mrgcgamer.libgcimagepicker, com.mrgcgamer.libgccolorpicker
-Filename: package_debian_A7/3015.deb
-Size: 81300
-MD5sum: 267f0d51d3dec17b9813a1cc727900d1
-SHA1: b22525f04e3b00b83cbbb4356d9fd2bc9302d6f2
-SHA256: 86889cb4c3222ac7be026eba3e08d8521bb932f8fc1d589ef6c5dbdd6d7aeb17
-Section: Development
-Description: An awesome library of some sort!!
-Tag: role::developer
-Author: MrGcGamer
-Name: LibGcUniversal
-
-Package: com.mrgcgamer.libgcuniversal
-Version: 1.7.0
 Architecture: iphoneos-arm64
 Maintainer: MrGcGamer
 Installed-Size: 380
@@ -102368,6 +102350,24 @@ Size: 54510
 MD5sum: 58a32a3d0689abb8e4622dedb3f38ccb
 SHA1: a327a6e11310c7128b82d48b2b195b0f24445b68
 SHA256: a1fdb8d5e5062f26113c90c6514ab16585507df8af0c3db00b55e4f51fafaa16
+Section: Development
+Description: An awesome library of some sort!!
+Tag: role::developer
+Author: MrGcGamer
+Name: LibGcUniversal
+
+Package: com.mrgcgamer.libgcuniversal
+Version: 1.7.0
+Architecture: iphoneos-arm
+Maintainer: MrGcGamer
+Installed-Size: 456
+Depends: firmware (>= 14.0) | ws.hbang.alderis, firmware (>= 12.0)
+Provides: com.mrgcgamer.libgcimagepicker, com.mrgcgamer.libgccolorpicker
+Filename: package_debian_A7/3015.deb
+Size: 81300
+MD5sum: 267f0d51d3dec17b9813a1cc727900d1
+SHA1: b22525f04e3b00b83cbbb4356d9fd2bc9302d6f2
+SHA256: 86889cb4c3222ac7be026eba3e08d8521bb932f8fc1d589ef6c5dbdd6d7aeb17
 Section: Development
 Description: An awesome library of some sort!!
 Tag: role::developer
@@ -103561,6 +103561,21 @@ Name: NoPassAfterRespring (Safe) VN
 
 Package: net.kenhtao.otadisabler
 Version: 0.5
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: package_debian_A7/2780.deb
+Size: 31810
+MD5sum: 258f353ac4005f044f481a6629e271ae
+SHA1: 484eff26e4f8bbd60018c740dc2a587663b60324
+SHA256: 93ead8446ec0f02512f98961596ed882c033ee2afa63b8ccce2864e8bb797678
+Section: System
+Description: Vô hiệu hóa OTA và xóa thông báo cập nhật trên màn hình chính, v.v.
+Author: ichitaso
+Name: OTADisabler VN
+
+Package: net.kenhtao.otadisabler
+Version: 0.5
 Architecture: iphoneos-arm64e
 Maintainer: Kênh Táo
 Depends: firmware (>= 9.0), mobilesubstrate
@@ -103584,21 +103599,6 @@ Size: 19638
 MD5sum: b15faee2725be7df1be2eb2720f8af84
 SHA1: a59048805ae439358dfdcf99892589d9ed06320a
 SHA256: 7372c2fa33e7eb5a5bb4c8dcd31932c6b02af56a40c8bd8e10373ee7a0494634
-Section: System
-Description: Vô hiệu hóa OTA và xóa thông báo cập nhật trên màn hình chính, v.v.
-Author: ichitaso
-Name: OTADisabler VN
-
-Package: net.kenhtao.otadisabler
-Version: 0.5
-Architecture: iphoneos-arm
-Maintainer: Kênh Táo
-Depends: firmware (>= 9.0), mobilesubstrate
-Filename: package_debian_A7/2780.deb
-Size: 31810
-MD5sum: 258f353ac4005f044f481a6629e271ae
-SHA1: 484eff26e4f8bbd60018c740dc2a587663b60324
-SHA256: 93ead8446ec0f02512f98961596ed882c033ee2afa63b8ccce2864e8bb797678
 Section: System
 Description: Vô hiệu hóa OTA và xóa thông báo cập nhật trên màn hình chính, v.v.
 Author: ichitaso
@@ -103656,24 +103656,6 @@ Name: PowerSelector VN (iOS 11 - 14)
 
 Package: net.kenhtao.powerselector11
 Version: 1.4.0
-Architecture: iphoneos-arm
-Maintainer: Kênh Táo
-Pre-Depends: firmware (>= 11.0)
-Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
-Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
-Replaces: com.ichitaso.powerselector11
-Filename: package_debian_A7/2775.deb
-Size: 376084
-MD5sum: 86a42dbea842ff4d22c29db92cb16af6
-SHA1: 389199857782734c4233c096052a21574a491f1b
-SHA256: c7a22c318b99311958cc98f3a9cdb865f964818429396dff6193da76ec6fdf24
-Section: Utilities
-Description: Respring, Reboot, Uicache thiết bị
-Author: ichitaso <willfeeltips+ps11@gmail.com>
-Name: PowerSelector VN
-
-Package: net.kenhtao.powerselector11
-Version: 1.4.0
 Architecture: iphoneos-arm64
 Maintainer: ichitaso <willfeeltips+ps11@gmail.com>
 Pre-Depends: firmware (>= 11.0)
@@ -103688,6 +103670,24 @@ SHA256: cc75b9c69412b5b75b51f04e1ecf13baa1f354392f3d05eb08bb86930a35566f
 Section: Utilities
 Description: Respring, reboot, Uicache thiết bị,...
 Author: Kênh Táo
+Name: PowerSelector VN
+
+Package: net.kenhtao.powerselector11
+Version: 1.4.0
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Pre-Depends: firmware (>= 11.0)
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
+Replaces: com.ichitaso.powerselector11
+Filename: package_debian_A7/2775.deb
+Size: 376084
+MD5sum: 86a42dbea842ff4d22c29db92cb16af6
+SHA1: 389199857782734c4233c096052a21574a491f1b
+SHA256: c7a22c318b99311958cc98f3a9cdb865f964818429396dff6193da76ec6fdf24
+Section: Utilities
+Description: Respring, Reboot, Uicache thiết bị
+Author: ichitaso <willfeeltips+ps11@gmail.com>
 Name: PowerSelector VN
 
 Package: net.kenhtao.quasar
@@ -104039,22 +104039,6 @@ Sileodepiction: https://repo.ikghd.me/sileodepictions/pro.ikghd.youtubekiller.js
 
 Package: wiki.qaq.trapp.jb
 Version: 2.10-499
-Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 18856
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
-Filename: package_debian_A7/3078.deb
-Size: 4696496
-MD5sum: 3501e1f6c61f85632882bd99141f798f
-SHA1: 7ce2034d131d06438bd9e86f1bca69433063d243
-SHA256: 56fb7577493ccb094fbebd41eec0aed3a3478e68b214e656a996207f940f7138
-Section: Applications
-Description: Record your phone calls like never before.
-Author: Lessica <82flex@gmail.com>
-Name: TrollRecorder JB
-
-Package: wiki.qaq.trapp.jb
-Version: 2.10-499
 Architecture: iphoneos-arm64e
 Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 18868
@@ -104064,6 +104048,22 @@ Size: 4699512
 MD5sum: 9a56d1e8cb74df68876ba378874a876d
 SHA1: e41c517fedb4b3032783a8bd91b70125f0e077c0
 SHA256: 075a87ffd9db032fbba2effeebd83f7384ba3631dab166cdf123d88ad053e694
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
+Package: wiki.qaq.trapp.jb
+Version: 2.10-499
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 18856
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: package_debian_A7/3078.deb
+Size: 4696496
+MD5sum: 3501e1f6c61f85632882bd99141f798f
+SHA1: 7ce2034d131d06438bd9e86f1bca69433063d243
+SHA256: 56fb7577493ccb094fbebd41eec0aed3a3478e68b214e656a996207f940f7138
 Section: Applications
 Description: Record your phone calls like never before.
 Author: Lessica <82flex@gmail.com>
@@ -104711,11 +104711,11 @@ Maintainer: biteSMS <help@bitesms.com>
 Installed-Size: 1684
 Pre-Depends: dpkg (>= 1.13.25-5)
 Depends: mobilesubstrate (>= 0.9.2587-1)
-Filename: package_debian_A8/bitesms_4.2_wortel.deb
-Size: 931486
-MD5sum: 312cd474b525bb34fdf74322473be380
-SHA1: 4e7e5483e9cf17cca8cea2c7c1357258fe084d73
-SHA256: 51a26ecba5c513b2ecd553effcde86dd6b29b067a00aed9ab50cca23a3842e4a
+Filename: package_debian_A8/bitesms_4.2.1.deb
+Size: 931618
+MD5sum: 266df544328c07217bfb6a2ce8155684
+SHA1: 49674e02a02132aef0861a4feff2e8efd000697d
+SHA256: 5b550eea52f65fae6a40af0851e1501ee8bd305229728447e98dc945b249928e
 Section: Messaging
 Priority: optional
 Homepage: http://www.bitesms.com/changelog
@@ -104732,11 +104732,11 @@ Maintainer: biteSMS <help@bitesms.com>
 Installed-Size: 1684
 Pre-Depends: dpkg (>= 1.13.25-5)
 Depends: mobilesubstrate (>= 0.9.2587-1)
-Filename: package_debian_A8/bitesms_4.2.1.deb
-Size: 931618
-MD5sum: 266df544328c07217bfb6a2ce8155684
-SHA1: 49674e02a02132aef0861a4feff2e8efd000697d
-SHA256: 5b550eea52f65fae6a40af0851e1501ee8bd305229728447e98dc945b249928e
+Filename: package_debian_A8/bitesms_4.2_wortel.deb
+Size: 931486
+MD5sum: 312cd474b525bb34fdf74322473be380
+SHA1: 4e7e5483e9cf17cca8cea2c7c1357258fe084d73
+SHA256: 51a26ecba5c513b2ecd553effcde86dd6b29b067a00aed9ab50cca23a3842e4a
 Section: Messaging
 Priority: optional
 Homepage: http://www.bitesms.com/changelog
@@ -104858,11 +104858,11 @@ Maintainer: biteSMS <help@bitesms.com>
 Installed-Size: 11456
 Pre-Depends: dpkg (>= 1.13.25-5)
 Depends: mobilesubstrate (>= 0.9.2587-1)
-Filename: package_debian_A8/BiteSMS_8.3_Cracked_BigBoss.deb
-Size: 7967590
-MD5sum: b5fae17f3bf54a812753aad909c800f7
-SHA1: 2172708eec496b6e30cab176909fb4f716e1b0a5
-SHA256: 8d7e9f5843a758f3051220ab0734dfd163370bce66d84d10425c4301a497c89f
+Filename: package_debian_A8/biteSMS8.3.deb
+Size: 7432492
+MD5sum: 2d638ef504cb5105d53f58fea732e2be
+SHA1: 2140f6b456683a59f69cb25514343e9ead2d63ec
+SHA256: 0320c42e8194a31c3ebff8199e1fb2e0ffde6df762906be00b44960df2431ccd
 Section: Messaging
 Priority: optional
 Homepage: http://www.bitesms.com/changelog
@@ -104879,11 +104879,11 @@ Maintainer: biteSMS <help@bitesms.com>
 Installed-Size: 11456
 Pre-Depends: dpkg (>= 1.13.25-5)
 Depends: mobilesubstrate (>= 0.9.2587-1)
-Filename: package_debian_A8/biteSMS8.3.deb
-Size: 7432492
-MD5sum: 2d638ef504cb5105d53f58fea732e2be
-SHA1: 2140f6b456683a59f69cb25514343e9ead2d63ec
-SHA256: 0320c42e8194a31c3ebff8199e1fb2e0ffde6df762906be00b44960df2431ccd
+Filename: package_debian_A8/BiteSMS_8.3_Cracked_BigBoss.deb
+Size: 7967590
+MD5sum: b5fae17f3bf54a812753aad909c800f7
+SHA1: 2172708eec496b6e30cab176909fb4f716e1b0a5
+SHA256: 8d7e9f5843a758f3051220ab0734dfd163370bce66d84d10425c4301a497c89f
 Section: Messaging
 Priority: optional
 Homepage: http://www.bitesms.com/changelog
@@ -105978,7 +105978,7 @@ Installed-Size: 24
 Depends: mobilesubstrate
 Conflicts: com.TheZimm.8icondock , com.TheZimm.6icondock
 Provides: 7IconDock
-Filename: package_debian_A8/7IconDock_1.0_iphoneos-arm.deb
+Filename: package_debian_A8/7IconDock_1.0.deb
 Size: 6626
 MD5sum: 89202837b014713b64e98b2bdcfc5973
 SHA1: f2983e64a47a2b56f47041fec6d8a57c44d5b420
@@ -105996,7 +105996,7 @@ Installed-Size: 24
 Depends: mobilesubstrate
 Conflicts: com.TheZimm.8icondock , com.TheZimm.6icondock
 Provides: 7IconDock
-Filename: package_debian_A8/7IconDock_1.0.deb
+Filename: package_debian_A8/7IconDock_1.0_iphoneos-arm.deb
 Size: 6626
 MD5sum: 89202837b014713b64e98b2bdcfc5973
 SHA1: f2983e64a47a2b56f47041fec6d8a57c44d5b420
@@ -116050,11 +116050,11 @@ Package: com.ihacksrepo.cleanup
 Version: 1.3
 Architecture: iphoneos-arm
 Maintainer: iHacksRepo.com <noreply@ihacksrepo.com>
-Filename: package_debian_A8/com.ihacksrepo.cleanup_1.3_iphoneos-arm.deb
-Size: 218998
-MD5sum: 152263d44d1898cf9906cd197779dff7
-SHA1: 60044082e3784edbed8bef7f7ddc86a7661af614
-SHA256: 0393c441a12de6213a9a46ad3fb06acce39b4f748f10fee9c9d3baff8fb63d77
+Filename: package_debian_A8/com.ihacksrepo.cleanup_1.3_iphoneos-arm_3.deb
+Size: 218996
+MD5sum: 84e4c09517b143fc7faec45f96f1b6fe
+SHA1: 07eb57122c3a95f0c4288eea913e072354f408c4
+SHA256: 879db6c1d9e72fe97103abb5f45723632b4f5c02b1b1eaacfc48c64d23fcaa85
 Section: IHR
 Priority: optional
 Description: Clean Up your iDevice
@@ -116067,11 +116067,11 @@ Package: com.ihacksrepo.cleanup
 Version: 1.3
 Architecture: iphoneos-arm
 Maintainer: iHacksRepo.com <noreply@ihacksrepo.com>
-Filename: package_debian_A8/com.ihacksrepo.cleanup_1.3_iphoneos-arm_3.deb
-Size: 218996
-MD5sum: 84e4c09517b143fc7faec45f96f1b6fe
-SHA1: 07eb57122c3a95f0c4288eea913e072354f408c4
-SHA256: 879db6c1d9e72fe97103abb5f45723632b4f5c02b1b1eaacfc48c64d23fcaa85
+Filename: package_debian_A8/com.ihacksrepo.cleanup_1.3_iphoneos-arm.deb
+Size: 218998
+MD5sum: 152263d44d1898cf9906cd197779dff7
+SHA1: 60044082e3784edbed8bef7f7ddc86a7661af614
+SHA256: 0393c441a12de6213a9a46ad3fb06acce39b4f748f10fee9c9d3baff8fb63d77
 Section: IHR
 Priority: optional
 Description: Clean Up your iDevice
@@ -117079,7 +117079,7 @@ Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader, libstatusbar, com
 Conflicts: com.intelliborn.intellishared, com.intelliborn.messagesplus
 Breaks: com.chronic-dev.greenpois0n.corona (<< 1.0-6)
 Provides: com.intelliborn.messagespluslib
-Filename: package_debian_A8/com.intelliscreenx_6.01.04_iphoneos-arm_2.deb
+Filename: package_debian_A8/com.intelliscreenx_6.01.04_iphoneos-arm (2).deb
 Size: 892
 MD5sum: 418e8b9bfd44b7d354acc8c84ba3116a
 SHA1: af8dd4bc56024e8d16bcf4e27583c2e9a7561aed
@@ -117101,7 +117101,7 @@ Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader, libstatusbar, com
 Conflicts: com.intelliborn.intellishared, com.intelliborn.messagesplus
 Breaks: com.chronic-dev.greenpois0n.corona (<< 1.0-6)
 Provides: com.intelliborn.messagespluslib
-Filename: package_debian_A8/com.intelliscreenx_6.01.04_iphoneos-arm (2).deb
+Filename: package_debian_A8/com.intelliscreenx_6.01.04_iphoneos-arm_2.deb
 Size: 892
 MD5sum: 418e8b9bfd44b7d354acc8c84ba3116a
 SHA1: af8dd4bc56024e8d16bcf4e27583c2e9a7561aed
@@ -117218,7 +117218,7 @@ Package: com.iphonecake.AppCake
 Version: 1.0Final
 Architecture: iphoneos-arm
 Maintainer: hotsjf <iphonecake@gmail.com>
-Filename: package_debian_A8/AppCake1.0.deb
+Filename: package_debian_A8/AppCake_1.0.deb
 Size: 622628
 MD5sum: acb6a3fbfa8e5eef88504d244766587a
 SHA1: a0fe069022e818701448f7157c5b18498c426524
@@ -117233,7 +117233,7 @@ Package: com.iphonecake.AppCake
 Version: 1.0Final
 Architecture: iphoneos-arm
 Maintainer: hotsjf <iphonecake@gmail.com>
-Filename: package_debian_A8/AppCake_1.0.deb
+Filename: package_debian_A8/AppCake1.0.deb
 Size: 622628
 MD5sum: acb6a3fbfa8e5eef88504d244766587a
 SHA1: a0fe069022e818701448f7157c5b18498c426524
@@ -130015,7 +130015,7 @@ Package: com.woodensoldierslabs.sirisays
 Version: 1.7
 Architecture: iphoneos-arm
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
-Filename: package_debian_A8/sirisays_1.7_iphoneos-arm.deb
+Filename: package_debian_A8/com.woodensoldierslabs.sirisays_1.7_iphoneos-arm.deb
 Size: 5479034
 MD5sum: 0d251bf36719166bd29cbc3a00ce54e4
 SHA1: 1cbf5151ba907e8a0f6aa974215f4945caef4770
@@ -130033,7 +130033,7 @@ Package: com.woodensoldierslabs.sirisays
 Version: 1.7
 Architecture: iphoneos-arm
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
-Filename: package_debian_A8/com.woodensoldierslabs.sirisays_1.7_iphoneos-arm.deb
+Filename: package_debian_A8/sirisays_1.7_iphoneos-arm.deb
 Size: 5479034
 MD5sum: 0d251bf36719166bd29cbc3a00ce54e4
 SHA1: 1cbf5151ba907e8a0f6aa974215f4945caef4770
@@ -130321,7 +130321,7 @@ Architecture: iphoneos-arm
 Essential: no
 Maintainer: repo@xsellize.com <repo@xsellize.com>
 Depends: com.xsellize.repo, mobilesubstrate, firmware (>= 3.0)
-Filename: package_debian_A8/Inspell_1.2.0.deb
+Filename: package_debian_A8/Inspell.deb
 Size: 1639848
 MD5sum: 5386ff763823659663dce8c78b3295eb
 SHA1: 8f19d49e7c24a28774bd8da710b8da283e3dde9d
@@ -130339,7 +130339,7 @@ Architecture: iphoneos-arm
 Essential: no
 Maintainer: repo@xsellize.com <repo@xsellize.com>
 Depends: com.xsellize.repo, mobilesubstrate, firmware (>= 3.0)
-Filename: package_debian_A8/Inspell.deb
+Filename: package_debian_A8/Inspell_1.2.0.deb
 Size: 1639848
 MD5sum: 5386ff763823659663dce8c78b3295eb
 SHA1: 8f19d49e7c24a28774bd8da710b8da283e3dde9d
@@ -134207,7 +134207,7 @@ Architecture: iphoneos-arm
 Maintainer: Aqua Sta <trong@hackphone.us>
 Depends: firmware(>= 3.0), mobilesubstrate, preferenceloader, libhide
 Conflicts: net.limneos.sbrotator (<= 2.1.5), com.aaronash.barrel, vn.gsm.barrel, com.heaveniphone.barrel, net.vnmagic.barrel
-Filename: package_debian_A8/barrel_1.6.1-1_iphoneos-arm.deb
+Filename: package_debian_A8/barrel.deb
 Size: 401728
 MD5sum: ff0ff9dc1f3556c777e28f62959d233c
 SHA1: e45a81042966a7b156cd316b29eddfbb618124c3
@@ -134224,7 +134224,7 @@ Architecture: iphoneos-arm
 Maintainer: Aqua Sta <trong@hackphone.us>
 Depends: firmware(>= 3.0), mobilesubstrate, preferenceloader, libhide
 Conflicts: net.limneos.sbrotator (<= 2.1.5), com.aaronash.barrel, vn.gsm.barrel, com.heaveniphone.barrel, net.vnmagic.barrel
-Filename: package_debian_A8/barrel.deb
+Filename: package_debian_A8/barrel_1.6.1-1_iphoneos-arm.deb
 Size: 401728
 MD5sum: ff0ff9dc1f3556c777e28f62959d233c
 SHA1: e45a81042966a7b156cd316b29eddfbb618124c3
@@ -134524,7 +134524,7 @@ Version: 1.01
 Architecture: iphoneos-arm
 Maintainer: NetMage <scw@scw.us>
 Depends: com.ericasadun.utilities
-Filename: package_debian_A8/us.scw.afctwoadd_1.01_iphoneos-arm.deb
+Filename: package_debian_A8/afc2add_1.01.deb
 Size: 1136
 MD5sum: 624641d8ce8ee0c4035faf1997bf5df6
 SHA1: 047c1a67a69370d4104d198dbe90637b5adf6349
@@ -134542,7 +134542,7 @@ Version: 1.01
 Architecture: iphoneos-arm
 Maintainer: NetMage <scw@scw.us>
 Depends: com.ericasadun.utilities
-Filename: package_debian_A8/afc2add_1.01.deb
+Filename: package_debian_A8/us.scw.afctwoadd_1.01_iphoneos-arm.deb
 Size: 1136
 MD5sum: 624641d8ce8ee0c4035faf1997bf5df6
 SHA1: 047c1a67a69370d4104d198dbe90637b5adf6349
@@ -134656,7 +134656,7 @@ Maintainer: Thieu.Bocap <support@gsm.vn>
 Pre-Depends: firmware (>= 4.0)
 Depends: gsmicon, vn.gsm.appsync40plus
 Replaces: appsync, vn.gsm.install0us, vn.gsm.appstorevn, vn.gsm.appstorevn3x, vn.gsm.appsync30, vn.gsm.appsync31, vn.gsm.appsync32, vn.gsm.appsync40, vn.gsm.appsync41, vn.gsm.appsync42
-Filename: package_debian_A8/appstorevn4x-2.6.1.deb
+Filename: package_debian_A8/appstorevn4x-2.6.1-quangphuc91.deb
 Size: 672672
 MD5sum: 8337db63551cab9d09540c380071dafd
 SHA1: c2da60d376707e4502346a245c0f8fbf46fcd4a2
@@ -134676,7 +134676,7 @@ Maintainer: Thieu.Bocap <support@gsm.vn>
 Pre-Depends: firmware (>= 4.0)
 Depends: gsmicon, vn.gsm.appsync40plus
 Replaces: appsync, vn.gsm.install0us, vn.gsm.appstorevn, vn.gsm.appstorevn3x, vn.gsm.appsync30, vn.gsm.appsync31, vn.gsm.appsync32, vn.gsm.appsync40, vn.gsm.appsync41, vn.gsm.appsync42
-Filename: package_debian_A8/appstorevn4x-2.6.1-quangphuc91.deb
+Filename: package_debian_A8/appstorevn4x-2.6.1.deb
 Size: 672672
 MD5sum: 8337db63551cab9d09540c380071dafd
 SHA1: c2da60d376707e4502346a245c0f8fbf46fcd4a2
@@ -134839,7 +134839,7 @@ Package: vn.gsm.carriervn
 Version: 3.1.2
 Architecture: iphoneos-arm
 Maintainer: Thieu.Bocap <icontactiphone@gmail.com>
-Filename: package_debian_A8/carriervn3.1.2_Carrier VN.deb
+Filename: package_debian_A8/carriervn_3.1.2.deb
 Size: 58400
 MD5sum: aec20325bc0ef228dd9d7fc7ff2ff7f8
 SHA1: 1c0ec455025458c4a1f007b9c406dc06b3490a51
@@ -134854,7 +134854,7 @@ Package: vn.gsm.carriervn
 Version: 3.1.2
 Architecture: iphoneos-arm
 Maintainer: Thieu.Bocap <icontactiphone@gmail.com>
-Filename: package_debian_A8/carriervn_3.1.2.deb
+Filename: package_debian_A8/carriervn3.1.2_Carrier VN.deb
 Size: 58400
 MD5sum: aec20325bc0ef228dd9d7fc7ff2ff7f8
 SHA1: 1c0ec455025458c4a1f007b9c406dc06b3490a51
@@ -139562,7 +139562,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 52
-Filename: package_debian_A9/smokingcydget_1.0.deb
+Filename: package_debian_A9/smokingcydget_1.0_iphoneos-arm.deb
 Size: 4808
 MD5sum: b8cd63c63129fdd5459f0aa4975040a1
 SHA1: 34a91dcb3c497c5aaf006d75c887530d9b2f350c
@@ -139581,7 +139581,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 52
-Filename: package_debian_A9/smokingcydget_1.0_iphoneos-arm.deb
+Filename: package_debian_A9/smokingcydget_1.0.deb
 Size: 4808
 MD5sum: b8cd63c63129fdd5459f0aa4975040a1
 SHA1: 34a91dcb3c497c5aaf006d75c887530d9b2f350c
@@ -142136,7 +142136,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: ipodtouchmaster05 <madpike05@aol.com>
 Installed-Size: 351
-Filename: package_debian_A9/volumemediasettings_1.0_iphoneos-arm.deb
+Filename: package_debian_A9/volumemediasettings_1.0.deb
 Size: 117136
 MD5sum: c22f68f8f7ae8dde46d130f130d79f15
 SHA1: 500143a15f096d1793e2df28eff9c8309a5de38c
@@ -142155,7 +142155,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: ipodtouchmaster05 <madpike05@aol.com>
 Installed-Size: 351
-Filename: package_debian_A9/volumemediasettings_1.0.deb
+Filename: package_debian_A9/volumemediasettings_1.0_iphoneos-arm.deb
 Size: 117136
 MD5sum: c22f68f8f7ae8dde46d130f130d79f15
 SHA1: 500143a15f096d1793e2df28eff9c8309a5de38c
@@ -143888,11 +143888,11 @@ Essential: no
 Maintainer: Intelliborn <bugs@intelliborn.com>
 Depends: com.rockyourphone.rockextensions (>= 1.01)
 Conflicts: com.jft.pn, com.mywinorock
-Filename: package_debian_A9/mywi.3.4.1_Cracked.deb
-Size: 656576
-MD5sum: 843d2bfe7a9269dcad6c7b515a6faa4b
-SHA1: 6f12edf7dc9f720e22ab246195ff448852633752
-SHA256: 548eb4ef64a9f26dda830371148bfeb26e2a4ed5d741dcf5f17e39b92ab8226b
+Filename: package_debian_A9/mywi_3.4.1.deb
+Size: 327742
+MD5sum: ce3b5133223a8c40ed0a3fd225018f97
+SHA1: 5b9685f2d8c5db3ea5c9eae2984370080f65c252
+SHA256: a861ac8b15b57628aca55c4efb0cb63591be337fde4a580e43b7d88522cab69d
 Section: System
 Priority: standard
 Homepage: http://modmyi.com/info/mywi.php
@@ -143910,11 +143910,11 @@ Essential: no
 Maintainer: Intelliborn <bugs@intelliborn.com>
 Depends: com.rockyourphone.rockextensions (>= 1.01)
 Conflicts: com.jft.pn, com.mywinorock
-Filename: package_debian_A9/mywi_3.4.1.deb
-Size: 327742
-MD5sum: ce3b5133223a8c40ed0a3fd225018f97
-SHA1: 5b9685f2d8c5db3ea5c9eae2984370080f65c252
-SHA256: a861ac8b15b57628aca55c4efb0cb63591be337fde4a580e43b7d88522cab69d
+Filename: package_debian_A9/mywi.3.4.1_Cracked.deb
+Size: 656576
+MD5sum: 843d2bfe7a9269dcad6c7b515a6faa4b
+SHA1: 6f12edf7dc9f720e22ab246195ff448852633752
+SHA256: 548eb4ef64a9f26dda830371148bfeb26e2a4ed5d741dcf5f17e39b92ab8226b
 Section: System
 Priority: standard
 Homepage: http://modmyi.com/info/mywi.php
@@ -146678,7 +146678,7 @@ Package: com.sadun.makeitmine
 Version: 2.1
 Architecture: iphoneos-arm
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
-Filename: package_debian_A9/com.sadun.makeitmine_2.1_iphoneos-arm.deb
+Filename: package_debian_A9/makeitmine_2.1.deb
 Size: 47522
 MD5sum: bfe08e1b54fd03c91a22632b1be0f800
 SHA1: 604f4c13baa297df111dfa1461ad8d73381430fd
@@ -146694,7 +146694,7 @@ Package: com.sadun.makeitmine
 Version: 2.1
 Architecture: iphoneos-arm
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
-Filename: package_debian_A9/makeitmine_2.1.deb
+Filename: package_debian_A9/com.sadun.makeitmine_2.1_iphoneos-arm.deb
 Size: 47522
 MD5sum: bfe08e1b54fd03c91a22632b1be0f800
 SHA1: 604f4c13baa297df111dfa1461ad8d73381430fd
@@ -147475,24 +147475,6 @@ Package: com.storm.iphonebash
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
-Depends: winterboard
-Filename: package_debian_A9/iphonebash1.0.deb
-Size: 374236
-MD5sum: fd816b2a7aab1f8c1517f1ef73345fc3
-SHA1: 8af897a6e808e1758bec533bcce8e6f59a5f20da
-SHA256: 0a41ba28c3e7e0c7b52f4df32c7c39d7324a45e23db18274cd15d011c799285f
-Section: Games
-Homepage: http://modmyi.com/info/iphonebash.php
-Description: A game where you tap your iPhone or iPod as much as you can in 10 seconds.
-Author: Storm <billy.stormcloud@googlemail.com>
-Depiction: http://modmyi.com/info/iphonebash.d.php
-Name: iPhone Bash
-Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
-
-Package: com.storm.iphonebash
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: poetic_folly <poetic_folly@modmyi.com>
 Installed-Size: 856
 Depends: winterboard
 Filename: package_debian_A9/iphonebash1.1.deb
@@ -147503,6 +147485,24 @@ SHA256: 25bd2380aaf8992ca76056d82a0cac34bc2ccf835a0dd86b3df622701e724ba8
 Section: Games
 Homepage: http://modmyi.com/info/iphonebash.php
 Description: iPhone Bash is a simple game with one aim, to tap the most in 10 seconds. Once the start button is pressed a countdown will begin. When the word "Tap" appears, tap your iphone as fast as possible for 10 seconds. You can now submit your score to the high score server.
+Author: Storm <billy.stormcloud@googlemail.com>
+Depiction: http://modmyi.com/info/iphonebash.d.php
+Name: iPhone Bash
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: com.storm.iphonebash
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Depends: winterboard
+Filename: package_debian_A9/iphonebash1.0.deb
+Size: 374236
+MD5sum: fd816b2a7aab1f8c1517f1ef73345fc3
+SHA1: 8af897a6e808e1758bec533bcce8e6f59a5f20da
+SHA256: 0a41ba28c3e7e0c7b52f4df32c7c39d7324a45e23db18274cd15d011c799285f
+Section: Games
+Homepage: http://modmyi.com/info/iphonebash.php
+Description: A game where you tap your iPhone or iPod as much as you can in 10 seconds.
 Author: Storm <billy.stormcloud@googlemail.com>
 Depiction: http://modmyi.com/info/iphonebash.d.php
 Name: iPhone Bash
@@ -149623,7 +149623,7 @@ Package: com.yourepo.speedmx.localiapstore
 Version: 1.4-4
 Architecture: iphoneos-arm
 Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
-Filename: package_debian_A9/com.yourepo.speedmx.localiapstore_1.4-4_iphoneos-arm (2).deb
+Filename: package_debian_A9/com.yourepo.speedmx.localiapstore_1.4-4_iphoneos-arm.deb
 Size: 70246
 MD5sum: c0fdcf2869d44fa70ddc6ca855b2e78c
 SHA1: ca1c0fa0f46e4c0cf9512921e8950cc7b402d63e
@@ -149638,7 +149638,7 @@ Package: com.yourepo.speedmx.localiapstore
 Version: 1.4-4
 Architecture: iphoneos-arm
 Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
-Filename: package_debian_A9/com.yourepo.speedmx.localiapstore_1.4-4_iphoneos-arm.deb
+Filename: package_debian_A9/com.yourepo.speedmx.localiapstore_1.4-4_iphoneos-arm (2).deb
 Size: 70246
 MD5sum: c0fdcf2869d44fa70ddc6ca855b2e78c
 SHA1: ca1c0fa0f46e4c0cf9512921e8950cc7b402d63e
@@ -150791,7 +150791,7 @@ Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
 Installed-Size: 2472
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: ncurses
-Filename: package_debian_A9/gettext.deb
+Filename: package_debian_A9/gettext_0.17-6_iphoneos-arm.deb
 Size: 772506
 MD5sum: 8d9ca321e75d69d3dfe34da62f41e86b
 SHA1: 234c12203db66a77d719f51f1b3abb7abd383fc1
@@ -150808,7 +150808,7 @@ Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
 Installed-Size: 2472
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: ncurses
-Filename: package_debian_A9/gettext_0.17-6_iphoneos-arm.deb
+Filename: package_debian_A9/gettext.deb
 Size: 772506
 MD5sum: 8d9ca321e75d69d3dfe34da62f41e86b
 SHA1: 234c12203db66a77d719f51f1b3abb7abd383fc1
@@ -151331,7 +151331,7 @@ Package: iwipe
 Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
-Filename: package_debian_A9/iWipe_1.0-1.deb
+Filename: package_debian_A9/iWipe_1.0-1_iphone-radio.nl_By_M@$TeR_M@Rk.deb
 Size: 20520
 MD5sum: fec675f73721d5f53107f119de285315
 SHA1: 926856337554cad5ef30b45eeb528f113bc0b7d0
@@ -151348,7 +151348,7 @@ Package: iwipe
 Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
-Filename: package_debian_A9/iWipe_1.0-1_iphone-radio.nl_By_M@$TeR_M@Rk.deb
+Filename: package_debian_A9/iWipe_1.0-1.deb
 Size: 20520
 MD5sum: fec675f73721d5f53107f119de285315
 SHA1: 926856337554cad5ef30b45eeb528f113bc0b7d0
@@ -152553,7 +152553,7 @@ Package: me.dmytro.cardexport
 Version: 1.0beta3
 Architecture: iphoneos-arm
 Maintainer: dmp <dmytro.me@gmail.com>
-Filename: package_debian_A9/usb_drive_1.0beta3.deb
+Filename: package_debian_A9/usbdrive_1.0beta3_iphoneos-arm.deb
 Size: 495388
 MD5sum: b04ebf6f23b986605ecef50f256b758c
 SHA1: 9144ce2f26ad78b8bbb93556c24ce13e894e9aae
@@ -152568,7 +152568,7 @@ Package: me.dmytro.cardexport
 Version: 1.0beta3
 Architecture: iphoneos-arm
 Maintainer: dmp <dmytro.me@gmail.com>
-Filename: package_debian_A9/usbdrive_1.0beta3_iphoneos-arm.deb
+Filename: package_debian_A9/usb_drive_1.0beta3.deb
 Size: 495388
 MD5sum: b04ebf6f23b986605ecef50f256b758c
 SHA1: 9144ce2f26ad78b8bbb93556c24ce13e894e9aae
@@ -156693,7 +156693,7 @@ Maintainer: Aqua Sta <trong@hackphone.us>
 Depends: mobilesubstrate, firmware (>= 3.0)
 Conflicts: com.mcleaner.mquickdo-os3.0, app.weiphone.clezz.quickdo, com.clezz.quickdo-beta, com.clezz.quickdoipad, com.clezz.quickdo, vn.cydia.quickdo, com.heaveniphone.quickdo
 Replaces: app.weiphone.clezz.quickdo, com.clezz.quickdo-beta, us.hackphone.quickdo
-Filename: package_debian_A9/us.hackphone.quickdo_3.0.3.deb
+Filename: package_debian_A9/quickdo3.0.3.deb
 Size: 797916
 MD5sum: 2a366de8458619f8605e909834ed6505
 SHA1: 1ad3e3ef419bd5f11e53a5c0f2b99f7487e1e738
@@ -156713,7 +156713,7 @@ Maintainer: Aqua Sta <trong@hackphone.us>
 Depends: mobilesubstrate, firmware (>= 3.0)
 Conflicts: com.mcleaner.mquickdo-os3.0, app.weiphone.clezz.quickdo, com.clezz.quickdo-beta, com.clezz.quickdoipad, com.clezz.quickdo, vn.cydia.quickdo, com.heaveniphone.quickdo
 Replaces: app.weiphone.clezz.quickdo, com.clezz.quickdo-beta, us.hackphone.quickdo
-Filename: package_debian_A9/quickdo3.0.3.deb
+Filename: package_debian_A9/us.hackphone.quickdo_3.0.3.deb
 Size: 797916
 MD5sum: 2a366de8458619f8605e909834ed6505
 SHA1: 1ad3e3ef419bd5f11e53a5c0f2b99f7487e1e738
@@ -177487,24 +177487,6 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: iHacksRepo <noreply@ihacksrepo.com>
 Depends: winterboard
-Filename: package_debian_B1/com.ihacksrepo.hellokittysliderandsms_3.deb
-Size: 288876
-MD5sum: 8cd9d0eb89ea0cc54ead55c7d0147802
-SHA1: 6264819ba4cbf8c26d089a11bf8cede91b1619eb
-SHA256: 42484d332db51f4aaf49b332a37b7988d6ba996d370b67c75343cb5c11ffcde6
-Section: IHR
-Homepage: http://ihacksrepo.com
-Description: Change your iPhone 4 default slider to a Hello Kitty slider.
-Author: Free From iHacksRepo
-Depiction: http://ihacksrepo.com/depiction.php?package=hellokittysliderandsms
-Name: Hello Kitty Slider and SMS
-Sponsor: iHacksRepo <http://ihacksrepo.com>
-
-Package: com.ihacksrepo.hellokittysliderandsms
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: iHacksRepo <noreply@ihacksrepo.com>
-Depends: winterboard
 Filename: package_debian_B1/com.ihacksrepo.hellokittysliderandsms.deb
 Size: 288778
 MD5sum: d14635eef41c76acde522dd3546bff30
@@ -177528,6 +177510,24 @@ Size: 288860
 MD5sum: a986e9fcb07817ae7be19930bb6099da
 SHA1: 30058ee1c6b10be7360354cf4045897d824d0a2a
 SHA256: 76b2ad05a9089ca496ed7e77273f826bb114b47b598020a39e917e074ee4e87d
+Section: IHR
+Homepage: http://ihacksrepo.com
+Description: Change your iPhone 4 default slider to a Hello Kitty slider.
+Author: Free From iHacksRepo
+Depiction: http://ihacksrepo.com/depiction.php?package=hellokittysliderandsms
+Name: Hello Kitty Slider and SMS
+Sponsor: iHacksRepo <http://ihacksrepo.com>
+
+Package: com.ihacksrepo.hellokittysliderandsms
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iHacksRepo <noreply@ihacksrepo.com>
+Depends: winterboard
+Filename: package_debian_B1/com.ihacksrepo.hellokittysliderandsms_3.deb
+Size: 288876
+MD5sum: 8cd9d0eb89ea0cc54ead55c7d0147802
+SHA1: 6264819ba4cbf8c26d089a11bf8cede91b1619eb
+SHA256: 42484d332db51f4aaf49b332a37b7988d6ba996d370b67c75343cb5c11ffcde6
 Section: IHR
 Homepage: http://ihacksrepo.com
 Description: Change your iPhone 4 default slider to a Hello Kitty slider.
@@ -178937,7 +178937,7 @@ Maintainer: SiNfuL iPhone <whatever@gmail.com>
 Depends: com.sinfuliphone.repoprep
 Conflicts: con.jft.pn
 Replaces: com.jft.pn
-Filename: package_debian_B1/PdaNet_v1.5.3_Cracked.deb
+Filename: package_debian_B1/PdaNet1.5.3_Cracked.deb
 Size: 142606
 MD5sum: 8d80ba1f9262d9b07b50d4a266f6d2b1
 SHA1: 29490ce425d7d69d3a4165b5de8437955ce87519
@@ -178957,7 +178957,7 @@ Maintainer: SiNfuL iPhone <whatever@gmail.com>
 Depends: com.sinfuliphone.repoprep
 Conflicts: con.jft.pn
 Replaces: com.jft.pn
-Filename: package_debian_B1/PdaNet1.5.3_Cracked.deb
+Filename: package_debian_B1/PdaNet_v1.5.3_Cracked.deb
 Size: 142606
 MD5sum: 8d80ba1f9262d9b07b50d4a266f6d2b1
 SHA1: 29490ce425d7d69d3a4165b5de8437955ce87519
@@ -179538,7 +179538,7 @@ Architecture: iphoneos-arm
 Essential: no
 Maintainer: repo@xsellize.com <repo@xsellize.com>
 Depends: com.xsellize.repo, mobilesubstrate, firmware (>= 3.0)
-Filename: package_debian_B1/Inspell.deb
+Filename: package_debian_B1/Inspell_1.2.0.deb
 Size: 1639848
 MD5sum: 5386ff763823659663dce8c78b3295eb
 SHA1: 8f19d49e7c24a28774bd8da710b8da283e3dde9d
@@ -179556,7 +179556,7 @@ Architecture: iphoneos-arm
 Essential: no
 Maintainer: repo@xsellize.com <repo@xsellize.com>
 Depends: com.xsellize.repo, mobilesubstrate, firmware (>= 3.0)
-Filename: package_debian_B1/Inspell_1.2.0.deb
+Filename: package_debian_B1/Inspell.deb
 Size: 1639848
 MD5sum: 5386ff763823659663dce8c78b3295eb
 SHA1: 8f19d49e7c24a28774bd8da710b8da283e3dde9d
@@ -181666,14 +181666,14 @@ Sponsor: Tweaks <http://hackulo.us>
 Package: us.hackulo.appsync31
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: Genius Blog <admin@hackulo.us>
+Maintainer: Genius Blog <appsync@hackulo.us>
 Pre-Depends: firmware (>= 3.1)
 Depends: com.hackulo.us.sourcegui
-Filename: package_debian_B1/appsync.os.3.1.deb
-Size: 296830
-MD5sum: 525edaf333a781ab37fb2840d5305ee2
-SHA1: 339ecc190b76a5d918a6db45ba4da78b57ded4eb
-SHA256: 2364d5f77be42e234d1da5d91ef25d4d46549208a29cf01364dca8a33ab9635f
+Filename: package_debian_B1/us.hackulo.appsync31_1.0_iphoneos-arm.deb
+Size: 296834
+MD5sum: 28a6013aeb0ed65adbf0d962e3f4a1bd
+SHA1: 0df628a82ae76ce62622ed2e695f958680851f0b
+SHA256: fc721ba3dddaff49239b67b775d4d850940923c9fa8f53ae11ca0e68849ad806
 Section: Tweaks
 Priority: standard
 Description: AppSync patches the installd file on your device
@@ -181685,14 +181685,14 @@ Sponsor: Tweaks <http://hackulo.us>
 Package: us.hackulo.appsync31
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: Genius Blog <appsync@hackulo.us>
+Maintainer: Genius Blog <admin@hackulo.us>
 Pre-Depends: firmware (>= 3.1)
 Depends: com.hackulo.us.sourcegui
-Filename: package_debian_B1/us.hackulo.appsync31_1.0_iphoneos-arm.deb
-Size: 296834
-MD5sum: 28a6013aeb0ed65adbf0d962e3f4a1bd
-SHA1: 0df628a82ae76ce62622ed2e695f958680851f0b
-SHA256: fc721ba3dddaff49239b67b775d4d850940923c9fa8f53ae11ca0e68849ad806
+Filename: package_debian_B1/appsync.os.3.1.deb
+Size: 296830
+MD5sum: 525edaf333a781ab37fb2840d5305ee2
+SHA1: 339ecc190b76a5d918a6db45ba4da78b57ded4eb
+SHA256: 2364d5f77be42e234d1da5d91ef25d4d46549208a29cf01364dca8a33ab9635f
 Section: Tweaks
 Priority: standard
 Description: AppSync patches the installd file on your device
@@ -182095,7 +182095,7 @@ Pre-Depends: firmware (>= 3.0)
 Depends: mobilesubstrate
 Conflicts: com.pumpkin.yourtube
 Replaces: com.pumpkin.yourtube
-Filename: package_debian_B1/yourtube2_1.0.0-1_iphoneos-arm.deb
+Filename: package_debian_B1/YourTube 1.0.0-1.deb
 Size: 33692
 MD5sum: cb72ebae7011c43ced959558f245f88c
 SHA1: 8970e632f904c3f8d6916e9b4dc8ee689ad4f5aa
@@ -182118,7 +182118,7 @@ Pre-Depends: firmware (>= 3.0)
 Depends: mobilesubstrate
 Conflicts: com.pumpkin.yourtube
 Replaces: com.pumpkin.yourtube
-Filename: package_debian_B1/YourTube 1.0.0-1.deb
+Filename: package_debian_B1/yourtube2_1.0.0-1_iphoneos-arm.deb
 Size: 33692
 MD5sum: cb72ebae7011c43ced959558f245f88c
 SHA1: 8970e632f904c3f8d6916e9b4dc8ee689ad4f5aa
