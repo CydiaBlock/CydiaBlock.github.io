@@ -10,7 +10,7 @@ env:
   REPO_HREF: package_debian
   CLUSTERS: "A B"
   REPO_A_COUNT: 9
-  REPO_B_COUNT: 1
+  REPO_B_COUNT: 4
 
 jobs:
   build:
