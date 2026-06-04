@@ -8,9 +8,10 @@ on:
 env:
   REPO_SOURCE: https://cydiablock.github.io
   REPO_HREF: package_debian
-  CLUSTERS: "A B"
+  CLUSTERS: "A B C"
   REPO_A_COUNT: 9
-  REPO_B_COUNT: 4
+  REPO_B_COUNT: 9
+  REPO_C_COUNT: 3
 
 jobs:
   build:
