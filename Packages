@@ -194184,22 +194184,6 @@ Description: Usatelo per installare le iPa sul FW 3.1
 Author: iDevid <davide.sibilio@gmail.com>
 Name: AppSync 3.1
 
-Package: com.hackyouriphone.IconRepo
-Version: 8.0.4
-Architecture: iphoneos-arm
-Maintainer: iDevid <repo@hackyouriphone.org>
-Filename: package_debian_B5/com.hackyouriphone.IconRepo_8.0.4_iphoneos-arm.deb
-Size: 101852
-MD5sum: ba8ae542ec75ffe839a3c6a5bdc565ed
-SHA1: 506e9ec6d3a6e5c616c5380468747c14fefa1fee
-SHA256: 692bb8a3cb9067e16807d0ff09f35b0325f1ac22e268acfa382d2059e5fd2785
-Section: System (HYI)
-Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=IconRepo
-Description: Officials HYI Repo Icons
-Author: HackYouriPhone <repo@hackyouriphone.org>
-Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=IconRepo
-Name: HYI Repo Icons
-
 Package: com.hackyouriphone.MobileLog
 Version: 3.1.1
 Architecture: iphoneos-arm
@@ -284502,22 +284486,6 @@ Description: IconControl Pro is especially made for the Haz3 themes from Haze-de
 Author: iHaz3 & iBitGirl <repo@hackyouriphone.org>
 Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=iconcontrolpro
 Name: IconControl Pro
-
-Package: com.hackyouriphone.iconrepo
-Version: 8.0.1
-Architecture: iphoneos-arm
-Maintainer: iDevid <repo@hackyouriphone.org>
-Filename: package_debian_B8/com.hackyouriphone.iconrepo_8.0.1_iphoneos-arm.deb
-Size: 37968
-MD5sum: cdcde520a036bf6bf0cfb07597fb31a6
-SHA1: 178b3b40e2edcc677f2f25ae3193615d8efbc6b9
-SHA256: 1f3360d37ce3771ac6fef636c23a024c5d9ed99b01b1109b6ab89b94064b355c
-Section: System (HYI)
-Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=iconrepo
-Description: Officials HYI Repo Icons
-Author: HackYouriPhone <repo@hackyouriphone.org>
-Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=iconrepo
-Name: HYI Repo Icons
 
 Package: com.hackyouriphone.icontoggles
 Version: 1.1-1
@@ -380542,23 +380510,6 @@ Depiction: http://hackulo.us/depict/sourcegui
 Name: Source GUI
 Sponsor: Tweaks <http://hackulo.us>
 
-Package: com.hackyouriphone.iconrepo
-Version: 5.1
-Architecture: iphoneos-arm
-Essential: yes
-Maintainer: iDevid <repo@hackyouriphone.org>
-Filename: package_debian_C4/com.hackyouriphone.iconrepo_5.1_iphoneos-arm.deb
-Size: 112832
-MD5sum: 8892111bda102ca33d1f8bd23e22b9a9
-SHA1: 9ed7768ff3189643562b27a9af436c76dd5366f1
-SHA256: 92038f89c614ff630d5fcf06fa6fc2bf7ff4d0d361b5ab8e44bad0778339a118
-Section: HYI
-Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=IconRepo
-Description: Officials HYI Repo Icons
-Author: HackYouriPhone <repo@hackyouriphone.org>
-Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=IconRepo
-Name: HYI Repo Icons
-
 Package: com.ihacksrepo.reposetupfiles
 Version: 2.0
 Architecture: iphoneos-arm
@@ -383472,5 +383423,6 @@ SHA256: c5abcbe1c401b9433051a0a3ba13a4edf91077e3349fe8336821cc8050d88456
 Section: Archiving
 Priority: important
 Description: standard Windows compression tool
+
 
 
