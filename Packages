@@ -384570,19 +384570,6 @@ Section: Applications
 Description: Đóng gói từ IPA bởi PhucNguyenVlog
 Name: Tiktok
 
-Package: com.phucnguyenvlog.youtube
-Version: 1.4.0
-Architecture: iphoneos-arm
-Maintainer: PhucNguyen
-Filename: package_debian_C5/tomkids.youtube_1.4.0_iphoneos-arm_modified.deb
-Size: 7961000
-MD5sum: bebb4a6e1dd16e44bdc0b255c6c4e4ec
-SHA1: 8c3dab8a8222f1fb9c10333194d2a6d5feefd77f
-SHA256: fd1a845a0a307c041316911860de9fc5a60631556acda78c3bb3378597328a44
-Section: Applications
-Description: youtube cho ios 6 tro len da fix loi va tich hop chay nen
-Name: Youtube
-
 Package: com.pmbonneau.iOS5Bootstrap
 Version: 1.0
 Architecture: iphoneos-arm
