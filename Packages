@@ -380626,6 +380626,66 @@ Description: remove ads in Youtube app
 Author: Linus Yang
 Name: YoutubeNoAd
 
+Package: com.manh.edgeflow
+Version: 0.4.5-72+debug-3+debug
+Architecture: iphoneos-arm
+Maintainer: ManhSDZ
+Installed-Size: 744
+Depends: mobilesubstrate, preferenceloader
+Filename: package_debian_C4/com.manh.edgeflow_0.4.5-72-3+debug_iphoneos-arm.deb
+Size: 346690
+MD5sum: ad7f33c974759b18adde640c655588a1
+SHA1: 877f52d2b42fb5ee79c2fa4d74f28c18bbfdc21d
+SHA256: b2f0ff7d7eb79f6c30c04e8e25da9461a9b64c28caaa30676eee5a3b76e5425f
+Section: Tweaks
+Priority: optional
+Homepage: https://manhsdz.github.io/repo/
+Description: iPhone X style Control Center and gestures for iOS 10
+Tag: purpose::extension, role::enduser
+Author: ManhSDZ
+Depiction: https://manhsdz.github.io/repo/
+Name: EdgeFlow
+
+Package: com.manh.lockweather
+Version: 0.1.4-36+debug
+Architecture: iphoneos-arm
+Maintainer: ManhSDZ
+Installed-Size: 212
+Depends: mobilesubstrate
+Filename: package_debian_C4/com.manh.lockweather_0.1.4-36+debug_iphoneos-arm.deb
+Size: 36688
+MD5sum: 586f7d34a3caf9cb41eb61caf56aa2ad
+SHA1: ae4bb7350f91c9286eb2f5a05ae7234ef9b7c45f
+SHA256: 781dc34bc91e873b82daa93263396f044401fc72142df021daf3cd3d433ca16c
+Section: Tweaks
+Priority: optional
+Homepage: https://manhsdz.github.io/repo/
+Description: Weather panel for Lock Screen and Notification Center
+Tag: purpose::extension, role::enduser
+Author: ManhSDZ
+Depiction: https://manhsdz.github.io/repo/
+Name: MWeather
+
+Package: com.manh.mtune
+Version: 0.3.8-2+debug
+Architecture: iphoneos-arm
+Maintainer: ManhSDZ
+Installed-Size: 192
+Depends: mobilesubstrate, preferenceloader
+Filename: package_debian_C4/com.manh.mtune_0.3.8-2+debug_iphoneos-arm.deb
+Size: 27942
+MD5sum: d1d8dcd8ab5c4252fb2f6fd7244e3d5f
+SHA1: 148ff3b3f2705d5c8b8ef88aafb88f33272a0c83
+SHA256: d8ef57e419fb94d68dcbb576faf65c014ac4d1d288bc9308cbb3de06b6b1e01c
+Section: Tweaks
+Priority: optional
+Homepage: https://manhsdz.github.io/repo/
+Description: Clean cache, logs, temp files, block OTA updates, and respring tools for older iOS.
+Tag: purpose::extension, role::enduser
+Author: ManhSDZ
+Depiction: https://manhsdz.github.io/repo/
+Name: Mtune
+
 Package: com.officialscheduler.mterminal
 Version: 1.4-5
 Architecture: iphoneos-arm
@@ -383500,6 +383560,199 @@ Description: Cài đặt app chơi cờ Caro
 Author: Caro_1.0
 Name: Caro1.0
 
+Package: Tomkids.Chrome
+Version: 29.1547.11
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: package_debian_C5/Tomkids.Chrome_29.1547.11_iphoneos-arm.deb
+Size: 16016282
+MD5sum: 0d9b486b7d3b7b125ccc1fdc74fea6a1
+SHA1: cfb1462fe8963f9f10dd040a8eab424c63706dc1
+SHA256: 74e8b19e89b17c44fe6b5bea88bff07ed1a265c105cf88b3282fd7f4437dbe1c
+Section: Applications
+Description: Google Chrome for low ios
+ .
+ Converted by Tomkids
+Author: Converted ipa to deb by Tomkids's tool
+Name: Chrome
+
+Package: Tomkids.DaoVang
+Version: 2.2
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: package_debian_C5/Tomkids.DaoVang_2.2_iphoneos-arm.deb
+Size: 11376764
+MD5sum: 5c44ee9d8fc4a37dcc936e2a6549f9a3
+SHA1: 53661a84ae3276be60dff9168c540840ae5bbff4
+SHA256: 73d175b44b15fba4233f435eaf67ccd311a79db5ca90143cd330715e054269cb
+Section: Applications
+Description: Game Đào vàng dành cho IOS thấp
+ Converted from ipa to deb by Tomkids
+ .
+ Converted by Tomkids
+Author: Converted ipa to deb by Tomkids's tool
+Name: Đào vàng
+
+Package: Tomkids.DoVuiNgayTet
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: package_debian_C5/Tomkids.DoVuiNgayTet_1.0_iphoneos-arm.deb
+Size: 16030940
+MD5sum: 358e3271f46293e3fd8e10d8cf3a9393
+SHA1: 66cf00f75e8eae2f2fa9c7079293debe52e50ff9
+SHA256: 826f6900d92a54df67ef576392ba4d3d13142bfeb6503c0006674f4655dcac56
+Section: Applications
+Description: App vui
+ .
+ Converted by Tomkids
+Author: Converted by Tomkids
+Name: Do vui ngay tet
+
+Package: Tomkids.FLACPlayer
+Version: 1.8
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: package_debian_C5/tomkids.flacplayer_1.8_iphoneos-arm.deb
+Size: 3370982
+MD5sum: 47185f9e85bd58206666a2fc87bc63d3
+SHA1: f3ec1ed39b970ee41696a341558399224b66a2c2
+SHA256: c7cdeee16de8e5c4cd75eadcfd86982548ecbe413e48c4542f609d1a1c3412d8
+Section: Applications
+Description: Music App for low ios
+ .
+ Converted by Tomkids
+Author: Converted ipa to deb by Tomkids's tool
+Name: FLAC Player
+
+Package: Tomkids.Fifa10
+Version: 1
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: package_debian_C5/Tomkids.Fifa10_1_iphoneos-arm.deb
+Size: 63782036
+MD5sum: f517769ff82b536d8e7164cf8d329552
+SHA1: 9887ac75670f91f20e8b3f1fa4e709cd10283f9c
+SHA256: a96b09e22283a68eb86cdacd1eb8f587c117d3049612c192006487892a4614f3
+Section: Applications
+Description: Mô tả ngắn gọn về app/tweak
+ .
+ Converted by Tomkids
+Author: Converted ipa to deb by Tomkids's tool
+Name: FIFA 1O
+
+Package: Tomkids.GoTV
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: package_debian_C5/Tomkids.GoTV_1.0_iphoneos-arm.deb
+Size: 20235134
+MD5sum: 5cb21be3d74e6411e8c9a510eb6fbd60
+SHA1: ca62d02f78e2c72583144896062d9209324eacc5
+SHA256: 44905ae65b4656439b752a8fef972e0a951343e686e9e3086aea8a932e8b6dae
+Section: Applications
+Description: TV app for IOS 8
+ .
+ Converted by Tomkids
+Author: Converted ipa to deb by Tomkids's tool
+Name: GoTV
+
+Package: Tomkids.Messenger
+Version: 2.7.2
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: package_debian_C5/Tomkids.Messenger_2.7.2_iphoneos-arm.deb
+Size: 15391120
+MD5sum: c6d6b23876e18ae74b43ff0dffcb565c
+SHA1: 5e26a81411b4fee8167d568e866b3763c89e6864
+SHA256: 3923af30b4608c05d54138c64e108f1c2016989e95d713c6b469672c951c486a
+Section: Applications
+Description: App for low ios
+ .
+ Converted by Tomkids
+Author: Converted ipa to deb by Tomkids's tool
+Name: Messenger
+
+Package: Tomkids.OperaMini
+Version: 7.0.3.40701
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: package_debian_C5/Tomkids.OperaMini_7.0.3.40701_iphoneos-arm.deb
+Size: 2907252
+MD5sum: 56a3c16721b2630ce62a12374952ea29
+SHA1: 2c8da56c3eb788c5fbe75d670da0c733236204a9
+SHA256: 9cb0bc23cb03c5102b281101462acce832c6f8d6e9dbd5ac3a0860377584f972
+Section: Applications
+Description: Opera mini for low ios
+ .
+ Converted by Tomkids
+Author: Converted ipa to deb by Tomkids's tool
+Name: Opera Mini
+
+Package: Tomkids.PvZ
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: package_debian_C5/Tomkids.PvZ_1.0_iphoneos-arm.deb
+Size: 35085114
+MD5sum: e438f49642e9f337ea3882f34b304f41
+SHA1: 583fc3ba23f0ad94d77e7d353fc164a1217689f5
+SHA256: bf4438d09786c302ee4e6364e8640fc1279677c5853a1ed4348351f424552d53
+Section: Applications
+Description: Game for low ios
+ .
+ Converted by Tomkids
+Author: Converted ipa to deb by Tomkids's tool
+Name: PvZ
+
+Package: Tomkids.Snake
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: package_debian_C5/Tomkids.Snake_2.0_iphoneos-arm.deb
+Size: 266354
+MD5sum: 5ce5a193ed173ef2ab79c55ab42cbcd4
+SHA1: b09e07e9ba41c0a15efd2d6cf9d3b6427c0288d1
+SHA256: f89376293d2ada64857725e8de21fc2b52a46948dc983a0d93cf37cc2240fd7b
+Section: Applications
+Description: Mô tả ngắn gọn về app/tweak
+ .
+ Repackaged via Tomkids' Cydia Repo Manager
+Author: Converted by Tomkids
+Name: Snake
+
+Package: Tomkids.TruyenVN
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: package_debian_C5/Tomkids.TruyenVN_1.0_iphoneos-arm.deb
+Size: 13267852
+MD5sum: a0ef111a7c8a20d112316bc1e77adc6b
+SHA1: 64574a6496381cb9e31034462abaf4951427101c
+SHA256: 4a3dcd06e5b090b8c5a8f7ce0f5b0b1d88ed02658c56b7f14dd6130856634487
+Section: Applications
+Description: Mô tả ngắn gọn về app/tweak
+ .
+ Converted by Tomkids
+Author: Unknown
+Name: Truyện Việt Nam
+
+Package: Tomkids.ZingMp3
+Version: 3.2.1
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: package_debian_C5/Tomkids.ZingMp3_3.2.1_iphoneos-arm.deb
+Size: 4808154
+MD5sum: 07955071d6cce838743a1993aba25314
+SHA1: dab26e4b71b188565cfae4578d20bdf0a00e38c7
+SHA256: 9083e9f9875ffe867e8cf756fb9d69bf1c4494f1e5d47b0f5251b582551faccc
+Section: Applications
+Description: Zing Mp3 for low ios
+ .
+ Converted by Tomkids
+Author: Converted ipa to deb by Tomkids's tool
+Name: Zing Mp3
+
 Package: Tomkids.bowman
 Version: 1.2
 Architecture: iphoneos-arm
@@ -385433,21 +385686,6 @@ Section: Applications
 Description: FaceBook app for Low iOS
 Author: Tomkids
 Name: FaceBook
-
-Package: tomkids.flacplayer
-Version: 1.8
-Architecture: iphoneos-arm
-Maintainer: Tomkids
-Depends: firmware (< 9.0)
-Filename: package_debian_C5/tomkids.flacplayer_1.8_iphoneos-arm.deb
-Size: 3377030
-MD5sum: 8f92c0d96f951e808c9a2ae7507c4b66
-SHA1: fd135f624f0f7e3e35e16e09b9396b0bebd241dd
-SHA256: 0892249e9b3559a77c1cd1e1f700c7c75486e4c429b6f008536b88dfa581c96d
-Section: Applications
-Description: FLAC Player app for Low iOS
-Author: Tomkids
-Name: FLAC Player
 
 Package: tomkids.iBooks
 Version: 3.1.3
