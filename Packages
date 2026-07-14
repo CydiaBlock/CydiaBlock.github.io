@@ -384874,20 +384874,6 @@ Description: Converted from IPA
 Author: Unknown
 Name: Pac-Man
 
-Package: com.tomkids.repoicon
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: Tomkids
-Filename: package_debian_C5/tomkids.repoicon_1.0.1_iphoneos-arm.deb
-Size: 823592
-MD5sum: 84d926d8a7dc6e2d920433b85cb1d860
-SHA1: c70547e36f9a268a4bdc111696abe8688510927a
-SHA256: f7d1cdc36798fbb0456bf59050595831d534ab5678f6cb20f0d1224556c1e517
-Section: System
-Description: Copy Tomkids repo icon to Cydia Sections folder.
-Author: Tomkids
-Name: Tomkids Repo Icon
-
 Package: com.tqm-mos.batterydragon
 Version: 1.0
 Architecture: iphoneos-arm
