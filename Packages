@@ -297632,6 +297632,42 @@ Author: LazyNagy <repo@hackyouriphone.org>
 Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=zooppro
 Name: ZOOP PRO
 
+Package: xz-utils
+Version: 5.3.0
+Architecture: iphoneos-arm
+Maintainer: Samuel Bingner
+Installed-Size: 1452
+Depends: grep, sed, lzma
+Filename: package_debian_B8/xz-utils_5.3.0_iphoneos-arm.deb
+Size: 773938
+MD5sum: 8450015646406f2b50df0a48821d4637
+SHA1: 3376f524f0715ba3ff2fbed35a192eea2cdbdec1
+SHA256: 58bd5895e3217583ec41e2b8d904f0586676b5794b64c87c582b13dd3bac340a
+Section: utils
+Priority: optional
+Homepage: http://tukaani.org/xz/
+Description: XZ-format compression utilities
+ XZ is the successor to the Lempel-Ziv/Markov-chain Algorithm
+ compression format, which provides memory-hungry but powerful
+ compression (often better than bzip2) and fast, easy decompression.
+ .
+ This package provides the command line tools for working with XZ
+ compression, including xz, unxz, xzcat, xzgrep, and so on. They can
+ also handle the older LZMA format, and if invoked via appropriate
+ symlinks will emulate the behavior of the commands in the lzma
+ package.
+ .
+ The XZ format is similar to the older LZMA format but includes some
+ improvements for general use:
+ .
+ * 'file' magic for detecting XZ files;
+ * crc64 data integrity check;
+ * limited random-access reading support;
+ * improved support for multithreading (not used in xz-utils);
+ * support for flushing the encoder.processes viewer
+Tag: purpose::console, role::hacker
+Name: XZ Utils
+
 
 Package: com.hackyouriphone.08blueapplerespringcolor
 Version: 1.0
