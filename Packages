@@ -874,7 +874,7 @@ Architecture: iphoneos-arm
 Maintainer: Applications <andydam@gmail.com>
 Pre-Depends: ldid
 Depends: adv-cmds, com.ericasadun.utilities, coreutils, gawk, gdb, zip
-Filename: package_debian_A1/appcrackr_131.deb
+Filename: package_debian_A1/appcrackr_1.3.1.deb
 Size: 129384
 MD5sum: e4e59e67f0ce3014a916333aa90d4e90
 SHA1: d55784802ad5f0c876e3ae77499052ce95622b2b
@@ -893,7 +893,7 @@ Architecture: iphoneos-arm
 Maintainer: Applications <andydam@gmail.com>
 Pre-Depends: ldid
 Depends: adv-cmds, com.ericasadun.utilities, coreutils, gawk, gdb, zip
-Filename: package_debian_A1/appcrackr_1.3.1.deb
+Filename: package_debian_A1/appcrackr_131.deb
 Size: 129384
 MD5sum: e4e59e67f0ce3014a916333aa90d4e90
 SHA1: d55784802ad5f0c876e3ae77499052ce95622b2b
@@ -1806,6 +1806,24 @@ Name: KissXML
 
 Package: com.eamontracey.secretshot
 Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: ichitaso
+Installed-Size: 412
+Depends: mobilesubstrate, preferenceloader
+Filename: package_debian_A1/com.eamontracey.secretshot_1.1.1_iphoneos-arm64.deb
+Size: 46612
+MD5sum: 3b7a3e00736a07c9cd81849765fbfb23
+SHA1: ca139ceca8876f9ecf35c0130489450045dbbb9e
+SHA256: 5c1ff96bd3b97cd3848051d3f6d527fb577ffba5b48bdd67433c8b79b7917177
+Section: Tweaks
+Description: Block Snapchat screenshot and screen recording detection
+Author: Eamon Tracey
+Depiction: https://cydia.ichitaso.com/depiction/secretshot.html
+Name: SecretShot
+Sileodepiction: https://cydia.ichitaso.com/depiction/secretshot.json
+
+Package: com.eamontracey.secretshot
+Version: 1.1.1
 Architecture: iphoneos-arm
 Maintainer: ichitaso
 Installed-Size: 412
@@ -1833,24 +1851,6 @@ Size: 44806
 MD5sum: d2f8802f1a47f1f59a5de28e18b08a54
 SHA1: 12a73c962ceb57d91f954e1afa9dfee0d1336b4e
 SHA256: 7e9093efec4a1e4f0ec3db34098b5a7ed6297205276db7d0cfc958f5c6c62f6b
-Section: Tweaks
-Description: Block Snapchat screenshot and screen recording detection
-Author: Eamon Tracey
-Depiction: https://cydia.ichitaso.com/depiction/secretshot.html
-Name: SecretShot
-Sileodepiction: https://cydia.ichitaso.com/depiction/secretshot.json
-
-Package: com.eamontracey.secretshot
-Version: 1.1.1
-Architecture: iphoneos-arm64
-Maintainer: ichitaso
-Installed-Size: 412
-Depends: mobilesubstrate, preferenceloader
-Filename: package_debian_A1/com.eamontracey.secretshot_1.1.1_iphoneos-arm64.deb
-Size: 46612
-MD5sum: 3b7a3e00736a07c9cd81849765fbfb23
-SHA1: ca139ceca8876f9ecf35c0130489450045dbbb9e
-SHA256: 5c1ff96bd3b97cd3848051d3f6d527fb577ffba5b48bdd67433c8b79b7917177
 Section: Tweaks
 Description: Block Snapchat screenshot and screen recording detection
 Author: Eamon Tracey
@@ -1894,25 +1894,6 @@ Name: evasi0n 7.x Untether
 
 Package: com.exile90.icleanerpro
 Version: 7.10.0
-Architecture: iphoneos-arm64
-Maintainer: Ivano Bilenchi <support@ib-soft.net>
-Depends: firmware (>= 4.0), findutils, apt | apt7
-Conflicts: org.altervista.exilecom.icleaner
-Replaces: org.altervista.exilecom.icleaner
-Filename: package_debian_A1/com.exile90.icleanerpro_7.10.0_iphoneos-arm64.deb
-Size: 1259402
-MD5sum: 6bf10790aabb8bf265fd84726c967a9b
-SHA1: d0c239d59f2a9d4aa291e9048fc4614c7db59dce
-SHA256: a1e8934fc9cb6eed5a1d39ba4c62fcf4e0125cbb1c085339fa4aa93d645e70fe
-Section: Utilities
-Homepage: http://ib-soft.net/icleaner
-Description: The first real iOS system cleanup and management utility
-Author: Ivano Bilenchi <support@ib-soft.net>
-Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
-Name: iCleaner Pro
-
-Package: com.exile90.icleanerpro
-Version: 7.10.0
 Architecture: iphoneos-arm
 Maintainer: Ivano Bilenchi <support@ib-soft.net>
 Depends: firmware (>= 4.0), findutils, apt | apt7
@@ -1923,6 +1904,25 @@ Size: 2450460
 MD5sum: 830ebd462d173a9211f5f7c41ce64d1a
 SHA1: 437f5c5097cdab433698b11dab81c3cb8fc82917
 SHA256: 99c90c0f4629d47af1c52772f374eb74828f7cdafc469fcc42af0eea6d417c66
+Section: Utilities
+Homepage: http://ib-soft.net/icleaner
+Description: The first real iOS system cleanup and management utility
+Author: Ivano Bilenchi <support@ib-soft.net>
+Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Name: iCleaner Pro
+
+Package: com.exile90.icleanerpro
+Version: 7.10.0
+Architecture: iphoneos-arm64
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: package_debian_A1/com.exile90.icleanerpro_7.10.0_iphoneos-arm64.deb
+Size: 1259402
+MD5sum: 6bf10790aabb8bf265fd84726c967a9b
+SHA1: d0c239d59f2a9d4aa291e9048fc4614c7db59dce
+SHA256: a1e8934fc9cb6eed5a1d39ba4c62fcf4e0125cbb1c085339fa4aa93d645e70fe
 Section: Utilities
 Homepage: http://ib-soft.net/icleaner
 Description: The first real iOS system cleanup and management utility
@@ -3502,26 +3502,6 @@ Name: AltStore
 
 Package: com.ichitaso.apollopatcher
 Version: 0.0.9
-Architecture: iphoneos-arm64e
-Maintainer: ichitaso
-Installed-Size: 128
-Depends: mobilesubstrate
-Conflicts: com.ethanarbuckle.apollo-customapicredentials, com.ryannair05.apolloapi, com.icraze.artemis, ca.jeffrey.apollo-improvedcustomapi
-Replaces: com.ethanarbuckle.apollo-customapicredentials, com.ryannair05.apolloapi, com.icraze.artemis, ca.jeffrey.apollo-improvedcustomapi
-Filename: package_debian_A1/com.ichitaso.apollopatcher_0.0.9_iphoneos-arm64e.deb
-Size: 28252
-MD5sum: 67dd781647e4765c6d327b1a83891da0
-SHA1: 788b2bdd1c447867e63e304dc1a4cef6344064d4
-SHA256: eba90f310ea66b6a6d0208ede3af0cba20bba012e3af2c00e8b39b00875e5b07
-Section: Tweaks
-Description: Apollo for Reddit tweak with in-app configurable API keys
-Author: ichitaso
-Depiction: https://cydia.ichitaso.com/depiction/apollopatcher.html
-Name: ApolloPatcher
-Sileodepiction: https://cydia.ichitaso.com/depiction/apollopatcher.json
-
-Package: com.ichitaso.apollopatcher
-Version: 0.0.9
 Architecture: iphoneos-arm
 Maintainer: ichitaso
 Installed-Size: 240
@@ -3553,6 +3533,26 @@ Size: 28356
 MD5sum: c79828e2dd1b7e8904b6b438357abe33
 SHA1: 04cf175438bb34e8fd95e2cd36208f396e54ffba
 SHA256: 8c60b7c4e43acf73b92015b6448a3560086493a5b1b51b8615ae6d74403e868d
+Section: Tweaks
+Description: Apollo for Reddit tweak with in-app configurable API keys
+Author: ichitaso
+Depiction: https://cydia.ichitaso.com/depiction/apollopatcher.html
+Name: ApolloPatcher
+Sileodepiction: https://cydia.ichitaso.com/depiction/apollopatcher.json
+
+Package: com.ichitaso.apollopatcher
+Version: 0.0.9
+Architecture: iphoneos-arm64e
+Maintainer: ichitaso
+Installed-Size: 128
+Depends: mobilesubstrate
+Conflicts: com.ethanarbuckle.apollo-customapicredentials, com.ryannair05.apolloapi, com.icraze.artemis, ca.jeffrey.apollo-improvedcustomapi
+Replaces: com.ethanarbuckle.apollo-customapicredentials, com.ryannair05.apolloapi, com.icraze.artemis, ca.jeffrey.apollo-improvedcustomapi
+Filename: package_debian_A1/com.ichitaso.apollopatcher_0.0.9_iphoneos-arm64e.deb
+Size: 28252
+MD5sum: 67dd781647e4765c6d327b1a83891da0
+SHA1: 788b2bdd1c447867e63e304dc1a4cef6344064d4
+SHA256: eba90f310ea66b6a6d0208ede3af0cba20bba012e3af2c00e8b39b00875e5b07
 Section: Tweaks
 Description: Apollo for Reddit tweak with in-app configurable API keys
 Author: ichitaso
@@ -3622,6 +3622,27 @@ Name: AutoBrightnessToggle (CCSupport)
 
 Package: com.ichitaso.autobrightness11
 Version: 0.1-7
+Architecture: iphoneos-arm
+Maintainer: ichitaso
+Installed-Size: 152
+Pre-Depends: firmware (>= 11.0)
+Depends: com.opa334.ccsupport
+Filename: package_debian_A1/com.ichitaso.autobrightness11_0.1-7_iphoneos-arm.deb
+Size: 13156
+MD5sum: 42d91ac4e2d36eaefc9d1b36dba10487
+SHA1: 349b1201c57ed9337c49d17751dab891cc1bd500
+SHA256: a45c93d0539ded032aae41cbe9a810faa24c6ec737c1cd9f0d763fa865faacee
+Section: Addons (ControlCenter)
+Homepage: https://ichitaso.com
+Description: Turn on / off Auto-Brightness from the control center.
+Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios16.5
+Author: ichitaso
+Depiction: https://cydia.ichitaso.com/depiction/autobrightness11.html
+Dev: ichitaso
+Name: AutoBrightnessToggle (CCSupport)
+
+Package: com.ichitaso.autobrightness11
+Version: 0.1-7
 Architecture: iphoneos-arm64e
 Maintainer: ichitaso
 Installed-Size: 184
@@ -3653,27 +3674,6 @@ Size: 13146
 MD5sum: ed7b11427f21b4e35f0e46baf20344ba
 SHA1: dbba698d98ad4e14218fb1ff6656d5e8c84417f5
 SHA256: c01b242f8a554da28f369782670450a2e8484fda711b22c7ae9c45af7dae6409
-Section: Addons (ControlCenter)
-Homepage: https://ichitaso.com
-Description: Turn on / off Auto-Brightness from the control center.
-Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios16.5
-Author: ichitaso
-Depiction: https://cydia.ichitaso.com/depiction/autobrightness11.html
-Dev: ichitaso
-Name: AutoBrightnessToggle (CCSupport)
-
-Package: com.ichitaso.autobrightness11
-Version: 0.1-7
-Architecture: iphoneos-arm
-Maintainer: ichitaso
-Installed-Size: 152
-Pre-Depends: firmware (>= 11.0)
-Depends: com.opa334.ccsupport
-Filename: package_debian_A1/com.ichitaso.autobrightness11_0.1-7_iphoneos-arm.deb
-Size: 13156
-MD5sum: 42d91ac4e2d36eaefc9d1b36dba10487
-SHA1: 349b1201c57ed9337c49d17751dab891cc1bd500
-SHA256: a45c93d0539ded032aae41cbe9a810faa24c6ec737c1cd9f0d763fa865faacee
 Section: Addons (ControlCenter)
 Homepage: https://ichitaso.com
 Description: Turn on / off Auto-Brightness from the control center.
@@ -3727,16 +3727,16 @@ Name: AutoLockToggle (CCSupport)
 
 Package: com.ichitaso.autolockcc
 Version: 0.2-1
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: ichitaso
-Installed-Size: 160
+Installed-Size: 192
 Pre-Depends: firmware (>= 11.0)
 Depends: com.opa334.ccsupport
-Filename: package_debian_A1/com.ichitaso.autolockcc_0.2-1_iphoneos-arm.deb
-Size: 23180
-MD5sum: af424004e8d3ace8f5b50be8627f8fa3
-SHA1: b377f585cdba2f9137e29424fb7733d5e5d91718
-SHA256: 793ecd9b5936158a485d3d91eec4561b7b52fa8e11894b8520db3a50b42407b9
+Filename: package_debian_A1/com.ichitaso.autolockcc_0.2-1_iphoneos-arm64.deb
+Size: 22716
+MD5sum: e6fbee1849be01b01e17d234303f0fcc
+SHA1: 8be947548223926ac805673ef53f815ef1862f7c
+SHA256: c8bd3309a4512b3461cf63e4e7ba90b83c9d8f2b3ac566c6639bce195f7afd58
 Section: Addons (ControlCenter)
 Homepage: https://ichitaso.com
 Description: Turn on / off Auto lock from the control center.
@@ -3748,16 +3748,16 @@ Name: AutoLockToggle (CCSupport)
 
 Package: com.ichitaso.autolockcc
 Version: 0.2-1
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: ichitaso
-Installed-Size: 192
+Installed-Size: 160
 Pre-Depends: firmware (>= 11.0)
 Depends: com.opa334.ccsupport
-Filename: package_debian_A1/com.ichitaso.autolockcc_0.2-1_iphoneos-arm64.deb
-Size: 22716
-MD5sum: e6fbee1849be01b01e17d234303f0fcc
-SHA1: 8be947548223926ac805673ef53f815ef1862f7c
-SHA256: c8bd3309a4512b3461cf63e4e7ba90b83c9d8f2b3ac566c6639bce195f7afd58
+Filename: package_debian_A1/com.ichitaso.autolockcc_0.2-1_iphoneos-arm.deb
+Size: 23180
+MD5sum: af424004e8d3ace8f5b50be8627f8fa3
+SHA1: b377f585cdba2f9137e29424fb7733d5e5d91718
+SHA256: 793ecd9b5936158a485d3d91eec4561b7b52fa8e11894b8520db3a50b42407b9
 Section: Addons (ControlCenter)
 Homepage: https://ichitaso.com
 Description: Turn on / off Auto lock from the control center.
@@ -4102,16 +4102,16 @@ Name: HidePageDots13
 
 Package: com.ichitaso.hidekbsettings
 Version: 1.0.6
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: ichitaso
-Installed-Size: 428
+Installed-Size: 364
 Pre-Depends: firmware (>= 11.0)
 Depends: mobilesubstrate, preferenceloader
-Filename: package_debian_A1/com.ichitaso.hidekbsettings_1.0.6_iphoneos-arm64.deb
-Size: 40926
-MD5sum: 586e3600795295a9a235847e11045b27
-SHA1: 3abcf8b521685d19cb9719c52077d12dda336b5a
-SHA256: df12801d49670fd548f001a10bca416441af6bcb203833566dc2d203fcfef0db
+Filename: package_debian_A1/com.ichitaso.hidekbsettings_1.0.6_iphoneos-arm.deb
+Size: 41696
+MD5sum: b09943e0995f1b43f2b549d517e4bb21
+SHA1: 89a236f5d998544a7b79ea1e85e60e479d013a23
+SHA256: e855bd501a7bb7c69bee76f3d1b92cddf7ab8c3aecdb533c5c15c26d1049f033
 Section: Tweaks
 Homepage: https://ichitaso.com/
 Description: Hide "Keyboard Settings" from the globe button switcher
@@ -4123,16 +4123,16 @@ Name: HideKBSettings (iOS 11 to 16)
 
 Package: com.ichitaso.hidekbsettings
 Version: 1.0.6
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: ichitaso
-Installed-Size: 364
+Installed-Size: 428
 Pre-Depends: firmware (>= 11.0)
 Depends: mobilesubstrate, preferenceloader
-Filename: package_debian_A1/com.ichitaso.hidekbsettings_1.0.6_iphoneos-arm.deb
-Size: 41696
-MD5sum: b09943e0995f1b43f2b549d517e4bb21
-SHA1: 89a236f5d998544a7b79ea1e85e60e479d013a23
-SHA256: e855bd501a7bb7c69bee76f3d1b92cddf7ab8c3aecdb533c5c15c26d1049f033
+Filename: package_debian_A1/com.ichitaso.hidekbsettings_1.0.6_iphoneos-arm64.deb
+Size: 40926
+MD5sum: 586e3600795295a9a235847e11045b27
+SHA1: 3abcf8b521685d19cb9719c52077d12dda336b5a
+SHA256: df12801d49670fd548f001a10bca416441af6bcb203833566dc2d203fcfef0db
 Section: Tweaks
 Homepage: https://ichitaso.com/
 Description: Hide "Keyboard Settings" from the globe button switcher
@@ -4162,15 +4162,15 @@ Name: HideMcDonaldsDialog
 
 Package: com.ichitaso.hideserialnumber
 Version: 0.0.4
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64e
 Maintainer: ichitaso
-Installed-Size: 408
+Installed-Size: 472
 Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader
-Filename: package_debian_A1/com.ichitaso.hideserialnumber_0.0.4_iphoneos-arm.deb
-Size: 61516
-MD5sum: 46627006dc4c7d3c3461cfbd12f04c79
-SHA1: 60bd8370a9226c68cd5b2ece455977ca4a616d17
-SHA256: d636f759f4fc4bb62bd451651a5d359b8680cece85951018a447022f4ef8962d
+Filename: package_debian_A1/com.ichitaso.hideserialnumber_0.0.4_iphoneos-arm64e.deb
+Size: 54938
+MD5sum: abbe1ed43af9e59f5dc62eead4c0eb37
+SHA1: ff961f278b9a3ae36aa5ff58ade12491cfab9c98
+SHA256: 4a2dc7eb08ad1e3f760ee26824cc92f6b5a55865ff58ea7e9f1ad1140a6d5483
 Section: Tweaks
 Homepage: https://cydia.ichitaso.com/depiction/hidesn.html
 Description: Hide Serial Number in Settings About page.
@@ -4183,15 +4183,15 @@ Sileodepiction: https://cydia.ichitaso.com/depiction/hidesn.json
 
 Package: com.ichitaso.hideserialnumber
 Version: 0.0.4
-Architecture: iphoneos-arm64e
+Architecture: iphoneos-arm
 Maintainer: ichitaso
-Installed-Size: 472
+Installed-Size: 408
 Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader
-Filename: package_debian_A1/com.ichitaso.hideserialnumber_0.0.4_iphoneos-arm64e.deb
-Size: 54938
-MD5sum: abbe1ed43af9e59f5dc62eead4c0eb37
-SHA1: ff961f278b9a3ae36aa5ff58ade12491cfab9c98
-SHA256: 4a2dc7eb08ad1e3f760ee26824cc92f6b5a55865ff58ea7e9f1ad1140a6d5483
+Filename: package_debian_A1/com.ichitaso.hideserialnumber_0.0.4_iphoneos-arm.deb
+Size: 61516
+MD5sum: 46627006dc4c7d3c3461cfbd12f04c79
+SHA1: 60bd8370a9226c68cd5b2ece455977ca4a616d17
+SHA256: d636f759f4fc4bb62bd451651a5d359b8680cece85951018a447022f4ef8962d
 Section: Tweaks
 Homepage: https://cydia.ichitaso.com/depiction/hidesn.html
 Description: Hide Serial Number in Settings About page.
@@ -4249,19 +4249,19 @@ Name: IconAnus
 
 Package: com.ichitaso.iconorder
 Version: 1.0.3
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64e
 Maintainer: Havoc
-Installed-Size: 136
+Installed-Size: 168
 Pre-Depends: firmware (>= 12.0)
 Depends: mobilesubstrate
 Conflicts: me.nepeta.iconstate, com.chpwn.iconsupport, com.muirey03.iconsupportfix, com.ryannair05.gridiculousfix, com.ichitaso.iconanus
 Replaces: me.nepeta.iconstate, com.chpwn.iconsupport, com.muirey03.iconsupportfix, com.ryannair05.gridiculousfix, com.ichitaso.iconanus
 Provides: me.nepeta.iconstate, com.chpwn.iconsupport, com.muirey03.iconsupportfix, com.ryannair05.gridiculousfix, com.ichitaso.iconanus
-Filename: package_debian_A1/com.ichitaso.iconorder_1.0.3_iphoneos-arm.deb
-Size: 11334
-MD5sum: f8bd350fc8cbbe0194bc7ffc9c1fc835
-SHA1: 2de5ee77386539a245a7e03821a657217a30d31c
-SHA256: 6897338fcfb619f9e598135e1358f59c80a26d59d50b1dc1abc4b45f1be20a9f
+Filename: package_debian_A1/com.ichitaso.iconorder_1.0.3_iphoneos-arm64e.deb
+Size: 9794
+MD5sum: 1abe7d90eacb571d1e32207d2f49b7e9
+SHA1: 183b656ea217c02c0b364f0ad153bb1118bd6a89
+SHA256: a04c765d9ccf94711fcba0e362a55a1466f7cbdd22ff15aa00549507e0eaec8c
 Section: Tweaks
 Homepage: https://ichitaso.com/
 Description: Preserve custom icon layouts by Springboard Crash or reboots etc
@@ -4299,19 +4299,19 @@ Sileodepiction: https://cydia.ichitaso.com/depiction/iconorder.json
 
 Package: com.ichitaso.iconorder
 Version: 1.0.3
-Architecture: iphoneos-arm64e
+Architecture: iphoneos-arm
 Maintainer: Havoc
-Installed-Size: 168
+Installed-Size: 136
 Pre-Depends: firmware (>= 12.0)
 Depends: mobilesubstrate
 Conflicts: me.nepeta.iconstate, com.chpwn.iconsupport, com.muirey03.iconsupportfix, com.ryannair05.gridiculousfix, com.ichitaso.iconanus
 Replaces: me.nepeta.iconstate, com.chpwn.iconsupport, com.muirey03.iconsupportfix, com.ryannair05.gridiculousfix, com.ichitaso.iconanus
 Provides: me.nepeta.iconstate, com.chpwn.iconsupport, com.muirey03.iconsupportfix, com.ryannair05.gridiculousfix, com.ichitaso.iconanus
-Filename: package_debian_A1/com.ichitaso.iconorder_1.0.3_iphoneos-arm64e.deb
-Size: 9794
-MD5sum: 1abe7d90eacb571d1e32207d2f49b7e9
-SHA1: 183b656ea217c02c0b364f0ad153bb1118bd6a89
-SHA256: a04c765d9ccf94711fcba0e362a55a1466f7cbdd22ff15aa00549507e0eaec8c
+Filename: package_debian_A1/com.ichitaso.iconorder_1.0.3_iphoneos-arm.deb
+Size: 11334
+MD5sum: f8bd350fc8cbbe0194bc7ffc9c1fc835
+SHA1: 2de5ee77386539a245a7e03821a657217a30d31c
+SHA256: 6897338fcfb619f9e598135e1358f59c80a26d59d50b1dc1abc4b45f1be20a9f
 Section: Tweaks
 Homepage: https://ichitaso.com/
 Description: Preserve custom icon layouts by Springboard Crash or reboots etc
@@ -4405,27 +4405,6 @@ Name: LINE Switcher
 
 Package: com.ichitaso.locationservicecc
 Version: 0.1-6
-Architecture: iphoneos-arm64
-Maintainer: ichitaso
-Installed-Size: 248
-Pre-Depends: firmware (>= 11.0)
-Depends: com.opa334.ccsupport (>= 1.2)
-Filename: package_debian_A1/com.ichitaso.locationservicecc_0.1-6_iphoneos-arm64.deb
-Size: 34280
-MD5sum: b522f428c5cdab06763cb355e9c9aa16
-SHA1: 0e700d97f8855f081d362ec94b47707518f40f25
-SHA256: 8679802c4b392760f4707108296fa97ec8dc2332e880e0212d86030cfd48e5ec
-Section: Addons (ControlCenter)
-Homepage: https://ichitaso.com
-Description: Turn on / off LocationService from the control center.
-Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios16.5
-Author: ichitaso
-Depiction: https://cydia.ichitaso.com/depiction/locationservicecc.html
-Dev: ichitaso
-Name: LocationService (CCSupport)
-
-Package: com.ichitaso.locationservicecc
-Version: 0.1-6
 Architecture: iphoneos-arm
 Maintainer: ichitaso
 Installed-Size: 216
@@ -4446,17 +4425,17 @@ Dev: ichitaso
 Name: LocationService (CCSupport)
 
 Package: com.ichitaso.locationservicecc
-Version: 0.1-7
+Version: 0.1-6
 Architecture: iphoneos-arm64
 Maintainer: ichitaso
 Installed-Size: 248
 Pre-Depends: firmware (>= 11.0)
 Depends: com.opa334.ccsupport (>= 1.2)
-Filename: package_debian_A1/com.ichitaso.locationservicecc_0.1-7_iphoneos-arm64.deb
-Size: 34472
-MD5sum: c9c27e02e8e88b1502632963b86b8e2c
-SHA1: 1fe9710df63f606c24903d63905de93d5c0bfca8
-SHA256: 50096f0d27bf4d6095f4b91de344dc8904aa3e7034e6c9ee4c05f86afc62210a
+Filename: package_debian_A1/com.ichitaso.locationservicecc_0.1-6_iphoneos-arm64.deb
+Size: 34280
+MD5sum: b522f428c5cdab06763cb355e9c9aa16
+SHA1: 0e700d97f8855f081d362ec94b47707518f40f25
+SHA256: 8679802c4b392760f4707108296fa97ec8dc2332e880e0212d86030cfd48e5ec
 Section: Addons (ControlCenter)
 Homepage: https://ichitaso.com
 Description: Turn on / off LocationService from the control center.
@@ -4478,6 +4457,27 @@ Size: 37326
 MD5sum: 6705ffcc4ef4e9ffc3845c3f44dbefcf
 SHA1: de4f7893461132f83626560c5589b6428e116ca0
 SHA256: 35672949226a9d00f5afb3ceec9e82ea35dd79f24b19fa26659c92c5325b30ad
+Section: Addons (ControlCenter)
+Homepage: https://ichitaso.com
+Description: Turn on / off LocationService from the control center.
+Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios16.5
+Author: ichitaso
+Depiction: https://cydia.ichitaso.com/depiction/locationservicecc.html
+Dev: ichitaso
+Name: LocationService (CCSupport)
+
+Package: com.ichitaso.locationservicecc
+Version: 0.1-7
+Architecture: iphoneos-arm64
+Maintainer: ichitaso
+Installed-Size: 248
+Pre-Depends: firmware (>= 11.0)
+Depends: com.opa334.ccsupport (>= 1.2)
+Filename: package_debian_A1/com.ichitaso.locationservicecc_0.1-7_iphoneos-arm64.deb
+Size: 34472
+MD5sum: c9c27e02e8e88b1502632963b86b8e2c
+SHA1: 1fe9710df63f606c24903d63905de93d5c0bfca8
+SHA256: 50096f0d27bf4d6095f4b91de344dc8904aa3e7034e6c9ee4c05f86afc62210a
 Section: Addons (ControlCenter)
 Homepage: https://ichitaso.com
 Description: Turn on / off LocationService from the control center.
@@ -4582,15 +4582,15 @@ Name: NonceSet143
 
 Package: com.ichitaso.noupdatemark9
 Version: 0.1-3
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: ichitaso
-Installed-Size: 200
+Installed-Size: 168
 Depends: mobilesubstrate
-Filename: package_debian_A1/com.ichitaso.noupdatemark9_0.1-3_iphoneos-arm.deb
-Size: 3662
-MD5sum: ddd756c7a55ab12644c9fa74652898bb
-SHA1: 439d0921b21a4edcd42b475f2d4a5d4c26de2511
-SHA256: e5cb76bdb2783baf4ed6486472e4d5736377fd67500303232e40ef3a65e12bf7
+Filename: package_debian_A1/com.ichitaso.noupdatemark9_0.1-3_iphoneos-arm64.deb
+Size: 2608
+MD5sum: 017d9b3023863858440c575f1238baa2
+SHA1: ffd3a64292066057a90452a7552fd1dd0d2a86ce
+SHA256: 763243a0959560d8b937d3144a84d668fba86866976e2c1cfd9327ffb3863565
 Section: Tweaks
 Homepage: https://ichitaso.com
 Description: No more annoying install/update Mark
@@ -4601,15 +4601,15 @@ Name: NoUpdateMark (iOS9 to 16)
 
 Package: com.ichitaso.noupdatemark9
 Version: 0.1-3
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: ichitaso
-Installed-Size: 168
+Installed-Size: 200
 Depends: mobilesubstrate
-Filename: package_debian_A1/com.ichitaso.noupdatemark9_0.1-3_iphoneos-arm64.deb
-Size: 2608
-MD5sum: 017d9b3023863858440c575f1238baa2
-SHA1: ffd3a64292066057a90452a7552fd1dd0d2a86ce
-SHA256: 763243a0959560d8b937d3144a84d668fba86866976e2c1cfd9327ffb3863565
+Filename: package_debian_A1/com.ichitaso.noupdatemark9_0.1-3_iphoneos-arm.deb
+Size: 3662
+MD5sum: ddd756c7a55ab12644c9fa74652898bb
+SHA1: 439d0921b21a4edcd42b475f2d4a5d4c26de2511
+SHA256: e5cb76bdb2783baf4ed6486472e4d5736377fd67500303232e40ef3a65e12bf7
 Section: Tweaks
 Homepage: https://ichitaso.com
 Description: No more annoying install/update Mark
@@ -4682,16 +4682,16 @@ Name: ondeviceconsole Signed
 
 Package: com.ichitaso.opa334
 Version: 1.0.1
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm64e
 Maintainer: ichitaso
 Installed-Size: 172
 Pre-Depends: firmware (>= 14.0)
 Depends: mobilesubstrate
-Filename: package_debian_A1/com.ichitaso.opa334_1.0.1_iphoneos-arm64.deb
-Size: 10990
-MD5sum: bfb554ce93433a4d7b3d50f269f8862d
-SHA1: 6eb662170fc752fa99bb4ebed97c2864fe0313b2
-SHA256: 6f3e82f30fc6be0bebfe3d5316a82033e0e2e2c7d3ba64c69ac01f7c25de8467
+Filename: package_debian_A1/com.ichitaso.opa334_1.0.1_iphoneos-arm64e.deb
+Size: 10918
+MD5sum: 9d96290323dd168875a17983b847b072
+SHA1: 8a0085e30524c44877712bf5bf39dd0f3a0d63fe
+SHA256: 0c25e83b66dcfe0446eede30b936981c00609b0327ec7765a255367b34694039
 Section: Tweaks
 Homepage: https://ichitaso.com
 Description: SpringBoard tweaks / always thanks Opa334
@@ -4726,16 +4726,16 @@ Sileodepiction: https://cydia.ichitaso.com/depiction/opa334.json
 
 Package: com.ichitaso.opa334
 Version: 1.0.1
-Architecture: iphoneos-arm64e
+Architecture: iphoneos-arm64
 Maintainer: ichitaso
 Installed-Size: 172
 Pre-Depends: firmware (>= 14.0)
 Depends: mobilesubstrate
-Filename: package_debian_A1/com.ichitaso.opa334_1.0.1_iphoneos-arm64e.deb
-Size: 10918
-MD5sum: 9d96290323dd168875a17983b847b072
-SHA1: 8a0085e30524c44877712bf5bf39dd0f3a0d63fe
-SHA256: 0c25e83b66dcfe0446eede30b936981c00609b0327ec7765a255367b34694039
+Filename: package_debian_A1/com.ichitaso.opa334_1.0.1_iphoneos-arm64.deb
+Size: 10990
+MD5sum: bfb554ce93433a4d7b3d50f269f8862d
+SHA1: 6eb662170fc752fa99bb4ebed97c2864fe0313b2
+SHA256: 6f3e82f30fc6be0bebfe3d5316a82033e0e2e2c7d3ba64c69ac01f7c25de8467
 Section: Tweaks
 Homepage: https://ichitaso.com
 Description: SpringBoard tweaks / always thanks Opa334
@@ -4748,15 +4748,15 @@ Sileodepiction: https://cydia.ichitaso.com/depiction/opa334.json
 
 Package: com.ichitaso.otadisabler
 Version: 0.5
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: ichitaso
-Installed-Size: 168
+Installed-Size: 200
 Depends: firmware (>= 9.0), mobilesubstrate
-Filename: package_debian_A1/com.ichitaso.otadisabler_0.5_iphoneos-arm64.deb
-Size: 16982
-MD5sum: 5589db00b99482a5b7ad13b5dfe3beca
-SHA1: 9189c4de6092838fbcc272b6fe04a6535972e97a
-SHA256: a96752c8fe6f6018322b4f6a12cca3d9eeb1825b9e68275da34fed2f9ca4324c
+Filename: package_debian_A1/com.ichitaso.otadisabler_0.5_iphoneos-arm.deb
+Size: 27744
+MD5sum: 28fe6b6093f468275c0f287019be7e47
+SHA1: 8ae22d59e2a7d762c23dc084922082f87c70ab8b
+SHA256: 8124e0fa1ad7604265daba6cccbb106636b91065d8b712afdcb3edad1cbd1f0d
 Section: System
 Homepage: https://ichitaso.com
 Description: Disable OTA and remove badges on home screen, etc.
@@ -4767,15 +4767,15 @@ Sileodepiction: https://cydia.ichitaso.com/depiction/otadisabler.json
 
 Package: com.ichitaso.otadisabler
 Version: 0.5
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: ichitaso
-Installed-Size: 200
+Installed-Size: 168
 Depends: firmware (>= 9.0), mobilesubstrate
-Filename: package_debian_A1/com.ichitaso.otadisabler_0.5_iphoneos-arm.deb
-Size: 27744
-MD5sum: 28fe6b6093f468275c0f287019be7e47
-SHA1: 8ae22d59e2a7d762c23dc084922082f87c70ab8b
-SHA256: 8124e0fa1ad7604265daba6cccbb106636b91065d8b712afdcb3edad1cbd1f0d
+Filename: package_debian_A1/com.ichitaso.otadisabler_0.5_iphoneos-arm64.deb
+Size: 16982
+MD5sum: 5589db00b99482a5b7ad13b5dfe3beca
+SHA1: 9189c4de6092838fbcc272b6fe04a6535972e97a
+SHA256: a96752c8fe6f6018322b4f6a12cca3d9eeb1825b9e68275da34fed2f9ca4324c
 Section: System
 Homepage: https://ichitaso.com
 Description: Disable OTA and remove badges on home screen, etc.
@@ -4878,30 +4878,6 @@ Name: PokeGo LS GIF
 
 Package: com.ichitaso.powerselector11
 Version: 1.4.0
-Architecture: iphoneos-arm64
-Maintainer: ichitaso <willfeeltips+ps11@gmail.com>
-Installed-Size: 2212
-Pre-Depends: firmware (>= 11.0)
-Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
-Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
-Replaces: com.ichitaso.powerselector11
-Filename: package_debian_A1/com.ichitaso.powerselector11_1.4.0_iphoneos-arm64.deb
-Size: 201760
-MD5sum: 8239543ce656dcdfc767153ca91bf4e6
-SHA1: a903b8356ebf69ceb1df8c0b70629c27fba7c1b8
-SHA256: fc84a4e3f985998449beb6bfc84b79b13356efb94a3482aa1cbd50ff5e8b928a
-Section: Utilities
-Homepage: https://cydia.ichitaso.com/depiction/powerselector11.html
-Description: The power supply relation of a device is operated.
-Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios17.1.2
-Author: ichitaso <willfeeltips+ps11@gmail.com>
-Depiction: https://cydia.ichitaso.com/depiction/powerselector11.html
-Dev: ichitaso
-Name: PowerSelector
-Sileodepiction: https://cydia.ichitaso.com/depiction/powerselector11.json
-
-Package: com.ichitaso.powerselector11
-Version: 1.4.0
 Architecture: iphoneos-arm
 Maintainer: ichitaso <willfeeltips+ps11@gmail.com>
 Installed-Size: 2052
@@ -4914,6 +4890,30 @@ Size: 209910
 MD5sum: b1cad2144672a0428cfa744b13f31761
 SHA1: c355d0054b1292a07602d41aedf0178feaf3be5c
 SHA256: 51021face46741e811db5bac32a88bdc91ae178788001371f4acd648772e4129
+Section: Utilities
+Homepage: https://cydia.ichitaso.com/depiction/powerselector11.html
+Description: The power supply relation of a device is operated.
+Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios17.1.2
+Author: ichitaso <willfeeltips+ps11@gmail.com>
+Depiction: https://cydia.ichitaso.com/depiction/powerselector11.html
+Dev: ichitaso
+Name: PowerSelector
+Sileodepiction: https://cydia.ichitaso.com/depiction/powerselector11.json
+
+Package: com.ichitaso.powerselector11
+Version: 1.4.0
+Architecture: iphoneos-arm64
+Maintainer: ichitaso <willfeeltips+ps11@gmail.com>
+Installed-Size: 2212
+Pre-Depends: firmware (>= 11.0)
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
+Replaces: com.ichitaso.powerselector11
+Filename: package_debian_A1/com.ichitaso.powerselector11_1.4.0_iphoneos-arm64.deb
+Size: 201760
+MD5sum: 8239543ce656dcdfc767153ca91bf4e6
+SHA1: a903b8356ebf69ceb1df8c0b70629c27fba7c1b8
+SHA256: fc84a4e3f985998449beb6bfc84b79b13356efb94a3482aa1cbd50ff5e8b928a
 Section: Utilities
 Homepage: https://cydia.ichitaso.com/depiction/powerselector11.html
 Description: The power supply relation of a device is operated.
@@ -4949,28 +4949,6 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.ichitaso.primalfolder2
 Version: 0.1.1
-Architecture: iphoneos-arm
-Maintainer: ichitaso
-Installed-Size: 464
-Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
-Conflicts: com.ichitaso.primalfolder, me.qusic.taptapfolder, com.lizynz.folder6plus, info.rpdev.betterfourbyyfourfolders
-Replaces: com.ichitaso.primalfolder2
-Filename: package_debian_A1/com.ichitaso.primalfolder2_0.1.1_iphoneos-arm.deb
-Size: 50858
-MD5sum: cb2f8dedfc39de951ade2c887f943517
-SHA1: 3379c23815c360da61174e4ff9c46a38911d9d8b
-SHA256: b0220390b04935eaefef5d2f3e02fbaef273c02fb50637fc49ca5ad7266e8baf
-Section: Tweaks
-Homepage: https://ichitaso.com
-Description: Display to folder as icon and launch action for Folders
-Tag: purpose::extension, compatible_min::ios13.0, compatible_max::ios16.4
-Author: ichitaso
-Depiction: https://cydia.ichitaso.com/depiction/primalfolder2.html
-Dev: ichitaso
-Name: PrimalFolder 2
-
-Package: com.ichitaso.primalfolder2
-Version: 0.1.1
 Architecture: iphoneos-arm64
 Maintainer: ichitaso
 Installed-Size: 464
@@ -4992,27 +4970,26 @@ Dev: ichitaso
 Name: PrimalFolder 2
 
 Package: com.ichitaso.primalfolder2
-Version: 0.1.2
-Architecture: iphoneos-arm64e
+Version: 0.1.1
+Architecture: iphoneos-arm
 Maintainer: ichitaso
-Installed-Size: 500
+Installed-Size: 464
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
 Conflicts: com.ichitaso.primalfolder, me.qusic.taptapfolder, com.lizynz.folder6plus, info.rpdev.betterfourbyyfourfolders
 Replaces: com.ichitaso.primalfolder2
-Filename: package_debian_A1/com.ichitaso.primalfolder2_0.1.2_iphoneos-arm64e.deb
-Size: 49572
-MD5sum: 2ef5194b34d5a039841fe7d4304ec008
-SHA1: ed9ebc5684de3b19ae3732bbd98e9d1a426234fb
-SHA256: 61d075ba310b4d4819aab669ae126a6b099cd88876f18cf4b17557db7599fdf2
+Filename: package_debian_A1/com.ichitaso.primalfolder2_0.1.1_iphoneos-arm.deb
+Size: 50858
+MD5sum: cb2f8dedfc39de951ade2c887f943517
+SHA1: 3379c23815c360da61174e4ff9c46a38911d9d8b
+SHA256: b0220390b04935eaefef5d2f3e02fbaef273c02fb50637fc49ca5ad7266e8baf
 Section: Tweaks
 Homepage: https://ichitaso.com
 Description: Display to folder as icon and launch action for Folders
-Tag: purpose::extension, compatible_min::ios13, compatible_max::ios16
+Tag: purpose::extension, compatible_min::ios13.0, compatible_max::ios16.4
 Author: ichitaso
 Depiction: https://cydia.ichitaso.com/depiction/primalfolder2.html
 Dev: ichitaso
 Name: PrimalFolder 2
-Sileodepiction: https://cydia.ichitaso.com/depiction/primalfolder2.json
 
 Package: com.ichitaso.primalfolder2
 Version: 0.1.2
@@ -5050,6 +5027,29 @@ Size: 54988
 MD5sum: 2f16fd015d23b53d5649984ad9e3e2b1
 SHA1: 7633896b96550c0f0451d6200a1f8538db61c5f5
 SHA256: 985a1e7241150fd5c2b12e71ab92319d338737c8a1662282c1c9b157f4e8657a
+Section: Tweaks
+Homepage: https://ichitaso.com
+Description: Display to folder as icon and launch action for Folders
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios16
+Author: ichitaso
+Depiction: https://cydia.ichitaso.com/depiction/primalfolder2.html
+Dev: ichitaso
+Name: PrimalFolder 2
+Sileodepiction: https://cydia.ichitaso.com/depiction/primalfolder2.json
+
+Package: com.ichitaso.primalfolder2
+Version: 0.1.2
+Architecture: iphoneos-arm64e
+Maintainer: ichitaso
+Installed-Size: 500
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Conflicts: com.ichitaso.primalfolder, me.qusic.taptapfolder, com.lizynz.folder6plus, info.rpdev.betterfourbyyfourfolders
+Replaces: com.ichitaso.primalfolder2
+Filename: package_debian_A1/com.ichitaso.primalfolder2_0.1.2_iphoneos-arm64e.deb
+Size: 49572
+MD5sum: 2ef5194b34d5a039841fe7d4304ec008
+SHA1: ed9ebc5684de3b19ae3732bbd98e9d1a426234fb
+SHA256: 61d075ba310b4d4819aab669ae126a6b099cd88876f18cf4b17557db7599fdf2
 Section: Tweaks
 Homepage: https://ichitaso.com
 Description: Display to folder as icon and launch action for Folders
@@ -5149,6 +5149,28 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.ichitaso.raisetowakecc
 Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: ichitaso
+Installed-Size: 264
+Pre-Depends: firmware (>= 11.0)
+Depends: com.opa334.ccsupport
+Filename: package_debian_A1/com.ichitaso.raisetowakecc_1.0.0_iphoneos-arm64.deb
+Size: 45788
+MD5sum: 7ef92eb57fe02e2c2097d566c270347d
+SHA1: b7a10bdd8532bf171559d162cb610edac308dfb2
+SHA256: ad8bd9e2369316ab4d141c34d9f32f6b76c5eb8cbf370b45a29dc054ee63d61e
+Section: Addons (ControlCenter)
+Homepage: https://ichitaso.com
+Description: Turn on / off Raise to Wake from the control center.
+Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios16
+Author: ichitaso
+Depiction: https://cydia.ichitaso.com/depiction/raisetowakecc.html
+Dev: ichitaso
+Name: RaiseToWake (CCSupport)
+Sileodepiction: https://cydia.ichitaso.com/depiction/raisetowakecc.json
+
+Package: com.ichitaso.raisetowakecc
+Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: ichitaso
 Installed-Size: 232
@@ -5191,27 +5213,24 @@ Dev: ichitaso
 Name: RaiseToWake (CCSupport)
 Sileodepiction: https://cydia.ichitaso.com/depiction/raisetowakecc.json
 
-Package: com.ichitaso.raisetowakecc
-Version: 1.0.0
-Architecture: iphoneos-arm64
+Package: com.ichitaso.regionchanger
+Version: 0.0.2
+Architecture: iphoneos-arm
 Maintainer: ichitaso
-Installed-Size: 264
-Pre-Depends: firmware (>= 11.0)
-Depends: com.opa334.ccsupport
-Filename: package_debian_A1/com.ichitaso.raisetowakecc_1.0.0_iphoneos-arm64.deb
-Size: 45788
-MD5sum: 7ef92eb57fe02e2c2097d566c270347d
-SHA1: b7a10bdd8532bf171559d162cb610edac308dfb2
-SHA256: ad8bd9e2369316ab4d141c34d9f32f6b76c5eb8cbf370b45a29dc054ee63d61e
-Section: Addons (ControlCenter)
-Homepage: https://ichitaso.com
-Description: Turn on / off Raise to Wake from the control center.
-Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios16
+Installed-Size: 236
+Depends: firmware (>= 15.0)
+Filename: package_debian_A1/com.ichitaso.regionchanger_0.0.2_iphoneos-arm.deb
+Size: 117760
+MD5sum: 6e79e730fd8956980791f47feb0d4ff3
+SHA1: 9e5be950ab5aed41f350e573c968889f6b6f53f7
+SHA256: 41e91b8cb5c635053046f139f2c8618e6fd92d579dd6f0a241f297da1d49e9e5
+Section: Utilities
+Homepage: https://ichitaso.com/
+Description: Set the System Region of your device to US. Mute the shutter sound of the camera in silent mode, etc.
 Author: ichitaso
-Depiction: https://cydia.ichitaso.com/depiction/raisetowakecc.html
+Depiction: https://cydia.ichitaso.com/depiction/regionchanger.html
 Dev: ichitaso
-Name: RaiseToWake (CCSupport)
-Sileodepiction: https://cydia.ichitaso.com/depiction/raisetowakecc.json
+Name: RegionChanger
 
 Package: com.ichitaso.regionchanger
 Version: 0.0.2
@@ -5224,25 +5243,6 @@ Size: 117828
 MD5sum: cb1a2accf436f2b92bd55f34e7690331
 SHA1: 073ef3db5044c488bf2c27edd92cfc278856ae87
 SHA256: abc49b8c0967cee828bff1b949e5c20523a1921b43eda3e885357fc156c96d5c
-Section: Utilities
-Homepage: https://ichitaso.com/
-Description: Set the System Region of your device to US. Mute the shutter sound of the camera in silent mode, etc.
-Author: ichitaso
-Depiction: https://cydia.ichitaso.com/depiction/regionchanger.html
-Dev: ichitaso
-Name: RegionChanger
-
-Package: com.ichitaso.regionchanger
-Version: 0.0.2
-Architecture: iphoneos-arm
-Maintainer: ichitaso
-Installed-Size: 236
-Depends: firmware (>= 15.0)
-Filename: package_debian_A1/com.ichitaso.regionchanger_0.0.2_iphoneos-arm.deb
-Size: 117760
-MD5sum: 6e79e730fd8956980791f47feb0d4ff3
-SHA1: 9e5be950ab5aed41f350e573c968889f6b6f53f7
-SHA256: 41e91b8cb5c635053046f139f2c8618e6fd92d579dd6f0a241f297da1d49e9e5
 Section: Utilities
 Homepage: https://ichitaso.com/
 Description: Set the System Region of your device to US. Mute the shutter sound of the camera in silent mode, etc.
@@ -5917,6 +5917,24 @@ Name: WinterBoard App
 
 Package: com.ichitaso.youtubepatcher
 Version: 0.5
+Architecture: iphoneos-arm64
+Maintainer: ichitaso
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: package_debian_A1/com.ichitaso.youtubepatcher_0.5_iphoneos-arm64.deb
+Size: 5360
+MD5sum: a9df4f2087ded4de966aba1bcbe04648
+SHA1: 3c34939962ce65e946263eb9d8d668e5e5611e36
+SHA256: 26c8a8472da6e0a212980f49461a2b7b44ff00bf983bf988d3deb11e81ef764c
+Section: Tweaks
+Description: No inline Ads/Background Play back for YouTube & YouTube Music
+Author: ichitaso
+Depiction: https://cydia.ichitaso.com/depiction/youtubepatcher.html
+Name: YouTubePatcher
+Sileodepiction: https://cydia.ichitaso.com/depiction/youtubepatcher.json
+
+Package: com.ichitaso.youtubepatcher
+Version: 0.5
 Architecture: iphoneos-arm64e
 Maintainer: ichitaso
 Installed-Size: 72
@@ -5944,42 +5962,6 @@ Size: 5528
 MD5sum: 0eb133dd563ff849ff6a048366c3c032
 SHA1: 7280a03ecd3b5fb319d4ee288dbb86d92cd1dcd3
 SHA256: ffceb534a0b69b85e20f799b213488dc973ff47b0460eb04e662aae36b407601
-Section: Tweaks
-Description: No inline Ads/Background Play back for YouTube & YouTube Music
-Author: ichitaso
-Depiction: https://cydia.ichitaso.com/depiction/youtubepatcher.html
-Name: YouTubePatcher
-Sileodepiction: https://cydia.ichitaso.com/depiction/youtubepatcher.json
-
-Package: com.ichitaso.youtubepatcher
-Version: 0.5
-Architecture: iphoneos-arm64
-Maintainer: ichitaso
-Installed-Size: 72
-Depends: mobilesubstrate
-Filename: package_debian_A1/com.ichitaso.youtubepatcher_0.5_iphoneos-arm64.deb
-Size: 5360
-MD5sum: a9df4f2087ded4de966aba1bcbe04648
-SHA1: 3c34939962ce65e946263eb9d8d668e5e5611e36
-SHA256: 26c8a8472da6e0a212980f49461a2b7b44ff00bf983bf988d3deb11e81ef764c
-Section: Tweaks
-Description: No inline Ads/Background Play back for YouTube & YouTube Music
-Author: ichitaso
-Depiction: https://cydia.ichitaso.com/depiction/youtubepatcher.html
-Name: YouTubePatcher
-Sileodepiction: https://cydia.ichitaso.com/depiction/youtubepatcher.json
-
-Package: com.ichitaso.youtubepatcher
-Version: 0.6
-Architecture: iphoneos-arm64
-Maintainer: ichitaso
-Installed-Size: 72
-Depends: mobilesubstrate
-Filename: package_debian_A1/com.ichitaso.youtubepatcher_0.6_iphoneos-arm64.deb
-Size: 5382
-MD5sum: 177cb5416063391572ca97d1d38f42d7
-SHA1: 3252ea0ea7c7c518a2ee3c9e58d102a545faa75c
-SHA256: d46c8ffe7b0795e3dbd5b1e64b58fdd6ce141fc56c56aed829993b33a29f3c37
 Section: Tweaks
 Description: No inline Ads/Background Play back for YouTube & YouTube Music
 Author: ichitaso
@@ -6016,6 +5998,24 @@ Size: 5312
 MD5sum: 2d84ad9b0eb861db4933790a4e731186
 SHA1: cc90ead1f22846b3bb475e1253b06fe93f6af328
 SHA256: 318fc1e7f7411ccf77c2117ea3c247f388c4e47cf1504f3ac25fe55f32aca367
+Section: Tweaks
+Description: No inline Ads/Background Play back for YouTube & YouTube Music
+Author: ichitaso
+Depiction: https://cydia.ichitaso.com/depiction/youtubepatcher.html
+Name: YouTubePatcher
+Sileodepiction: https://cydia.ichitaso.com/depiction/youtubepatcher.json
+
+Package: com.ichitaso.youtubepatcher
+Version: 0.6
+Architecture: iphoneos-arm64
+Maintainer: ichitaso
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: package_debian_A1/com.ichitaso.youtubepatcher_0.6_iphoneos-arm64.deb
+Size: 5382
+MD5sum: 177cb5416063391572ca97d1d38f42d7
+SHA1: 3252ea0ea7c7c518a2ee3c9e58d102a545faa75c
+SHA256: d46c8ffe7b0795e3dbd5b1e64b58fdd6ce141fc56c56aed829993b33a29f3c37
 Section: Tweaks
 Description: No inline Ads/Background Play back for YouTube & YouTube Music
 Author: ichitaso
@@ -9040,25 +9040,6 @@ Sileodepiction: https://sopppra.mooo.com/depictions/com.sop.killapps.json
 
 Package: com.sop.settingsrevamp
 Version: 2.1.1
-Architecture: iphoneos-arm
-Maintainer: SOPPPra
-Installed-Size: 540
-Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
-Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, zb.preferenceloader
-Filename: package_debian_A1/com.sop.settingsrevamp_2.1.1_iphoneos-arm.deb
-Size: 97230
-MD5sum: 0d085c3ce959fdae95b0fbac5343007e
-SHA1: fa5bcade7a6548d508f3ac74df81a9984144ad12
-SHA256: 1c4f4721b48449ddc461c7d0a3bb4efc719e7eece2e247d187a2f39603ef124e
-Section: Tweaks
-Description: Customize the ios settings page
-Author: SOPPPra
-Depiction: https://sopppra.mooo.com/depictions/web/com.sop.settingsrevamp.html
-Name: SettingsRevamp
-Sileodepiction: https://sopppra.mooo.com/depictions/com.sop.settingsrevamp.json
-
-Package: com.sop.settingsrevamp
-Version: 2.1.1
 Architecture: iphoneos-arm64
 Maintainer: SOPPPra
 Installed-Size: 540
@@ -9077,17 +9058,17 @@ Name: SettingsRevamp
 Sileodepiction: https://sopppra.mooo.com/depictions/com.sop.settingsrevamp.json
 
 Package: com.sop.settingsrevamp
-Version: 3.0.0
+Version: 2.1.1
 Architecture: iphoneos-arm
 Maintainer: SOPPPra
-Installed-Size: 936
+Installed-Size: 540
 Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
 Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, zb.preferenceloader
-Filename: package_debian_A1/com.sop.settingsrevamp_3.0.0_iphoneos-arm.deb
-Size: 248802
-MD5sum: c4255830ff77ee3a3a98c0061d848967
-SHA1: 2dede196d73544e8d3d3d566ee5402bf63753e7a
-SHA256: 4567b5c9c3ef39e1524d7ffe2dab56b6333aa4af05f816949e728d5141a46ddf
+Filename: package_debian_A1/com.sop.settingsrevamp_2.1.1_iphoneos-arm.deb
+Size: 97230
+MD5sum: 0d085c3ce959fdae95b0fbac5343007e
+SHA1: fa5bcade7a6548d508f3ac74df81a9984144ad12
+SHA256: 1c4f4721b48449ddc461c7d0a3bb4efc719e7eece2e247d187a2f39603ef124e
 Section: Tweaks
 Description: Customize the ios settings page
 Author: SOPPPra
@@ -9107,6 +9088,25 @@ Size: 249162
 MD5sum: 425f5329fcaa901c33113236e17407f5
 SHA1: 8f83cb59450759679b4b7a2cc92e4089f1df3420
 SHA256: 4a8d3236de86655c8122c8fe44ca3b7d56705b8e0513a6e51ae8a52aeee9bf15
+Section: Tweaks
+Description: Customize the ios settings page
+Author: SOPPPra
+Depiction: https://sopppra.mooo.com/depictions/web/com.sop.settingsrevamp.html
+Name: SettingsRevamp
+Sileodepiction: https://sopppra.mooo.com/depictions/com.sop.settingsrevamp.json
+
+Package: com.sop.settingsrevamp
+Version: 3.0.0
+Architecture: iphoneos-arm
+Maintainer: SOPPPra
+Installed-Size: 936
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
+Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, zb.preferenceloader
+Filename: package_debian_A1/com.sop.settingsrevamp_3.0.0_iphoneos-arm.deb
+Size: 248802
+MD5sum: c4255830ff77ee3a3a98c0061d848967
+SHA1: 2dede196d73544e8d3d3d566ee5402bf63753e7a
+SHA256: 4567b5c9c3ef39e1524d7ffe2dab56b6333aa4af05f816949e728d5141a46ddf
 Section: Tweaks
 Description: Customize the ios settings page
 Author: SOPPPra
@@ -9135,25 +9135,6 @@ Sileodepiction: https://sopppra.mooo.com/depictions/com.sop.settingsrevamp.json
 
 Package: com.sop.settingsrevamp
 Version: 3.0.1
-Architecture: iphoneos-arm64e
-Maintainer: SOPPPra
-Installed-Size: 888
-Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
-Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, zb.preferenceloader
-Filename: package_debian_A1/com.sop.settingsrevamp_3.0.1_iphoneos-arm64e.deb
-Size: 205830
-MD5sum: f329b1f62f51dd347f1c668a9e23ccc1
-SHA1: a0190133f73c24eef98aade987d0577c6a9e214d
-SHA256: c472108f4370dcd94a06bf9ce07798319cae8a1fc3a7a9b49c15c74f2c8689c5
-Section: Tweaks
-Description: Customize the ios settings page
-Author: SOPPPra
-Depiction: https://sopppra.mooo.com/depictions/web/com.sop.settingsrevamp.html
-Name: SettingsRevamp
-Sileodepiction: https://sopppra.mooo.com/depictions/com.sop.settingsrevamp.json
-
-Package: com.sop.settingsrevamp
-Version: 3.0.1
 Architecture: iphoneos-arm
 Maintainer: SOPPPra
 Installed-Size: 888
@@ -9171,22 +9152,24 @@ Depiction: https://sopppra.mooo.com/depictions/web/com.sop.settingsrevamp.html
 Name: SettingsRevamp
 Sileodepiction: https://sopppra.mooo.com/depictions/com.sop.settingsrevamp.json
 
-Package: com.sop.tweakhub
-Version: 1.0.2
-Architecture: iphoneos-arm
+Package: com.sop.settingsrevamp
+Version: 3.0.1
+Architecture: iphoneos-arm64e
 Maintainer: SOPPPra
-Installed-Size: 464
-Depends: mobilesubstrate, com.mrgcgamer.libgcuniversal
-Filename: package_debian_A1/com.sop.tweakhub_1.0.2_iphoneos-arm.deb
-Size: 76806
-MD5sum: c28d4112ae7191802d11715d5a712668
-SHA1: a8b15acf207c7aafb19be881199cc5ec6a39b132
-SHA256: a4b0fac0517f3c06507130246a6bfa0098c4f0eab31ad7cf5a2bc79c2fa60e20
+Installed-Size: 888
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
+Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, zb.preferenceloader
+Filename: package_debian_A1/com.sop.settingsrevamp_3.0.1_iphoneos-arm64e.deb
+Size: 205830
+MD5sum: f329b1f62f51dd347f1c668a9e23ccc1
+SHA1: a0190133f73c24eef98aade987d0577c6a9e214d
+SHA256: c472108f4370dcd94a06bf9ce07798319cae8a1fc3a7a9b49c15c74f2c8689c5
 Section: Tweaks
-Description: List all installed tweaks and access their settings directly. With this tweak, you can view a popup that displays all installed tweaks on your system. Quickly access the settings of each tweak with just a tap.
+Description: Customize the ios settings page
 Author: SOPPPra
-Name: TweakHub
-Sileodepiction: https://sopppra.mooo.com/depictions/com.sop.tweakhub.json
+Depiction: https://sopppra.mooo.com/depictions/web/com.sop.settingsrevamp.html
+Name: SettingsRevamp
+Sileodepiction: https://sopppra.mooo.com/depictions/com.sop.settingsrevamp.json
 
 Package: com.sop.tweakhub
 Version: 1.0.2
@@ -9199,6 +9182,23 @@ Size: 45912
 MD5sum: 38fbbea9394ded5ad47dda276e0eba36
 SHA1: 23ccf4ac967adbf489afa3b2c5eab6acc5772956
 SHA256: 6f00ebb98bd119904bb578b6d9433787fc00bb27616a37a3331b2b036c8b18fa
+Section: Tweaks
+Description: List all installed tweaks and access their settings directly. With this tweak, you can view a popup that displays all installed tweaks on your system. Quickly access the settings of each tweak with just a tap.
+Author: SOPPPra
+Name: TweakHub
+Sileodepiction: https://sopppra.mooo.com/depictions/com.sop.tweakhub.json
+
+Package: com.sop.tweakhub
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: SOPPPra
+Installed-Size: 464
+Depends: mobilesubstrate, com.mrgcgamer.libgcuniversal
+Filename: package_debian_A1/com.sop.tweakhub_1.0.2_iphoneos-arm.deb
+Size: 76806
+MD5sum: c28d4112ae7191802d11715d5a712668
+SHA1: a8b15acf207c7aafb19be881199cc5ec6a39b132
+SHA256: a4b0fac0517f3c06507130246a6bfa0098c4f0eab31ad7cf5a2bc79c2fa60e20
 Section: Tweaks
 Description: List all installed tweaks and access their settings directly. With this tweak, you can view a popup that displays all installed tweaks on your system. Quickly access the settings of each tweak with just a tap.
 Author: SOPPPra
@@ -20608,7 +20608,7 @@ Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: Chris Kohlhepp <chrisk@manx.net>
 Depends: uk.qmole.libx11, uk.qmole.libxext
-Filename: package_debian_A1/uk.qmole.libxxf86misc_1.0.1_iphoneos-arm.deb
+Filename: package_debian_A1/uk.qmole.libXxf86misc_1.0.1_iphoneos-arm.deb
 Size: 7926
 MD5sum: e3297c96d41c3cf232b1ba94ba0d4474
 SHA1: 43007056f24c089fcb252a6d6d58ad1d9fb4611c
@@ -20627,7 +20627,7 @@ Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: Chris Kohlhepp <chrisk@manx.net>
 Depends: uk.qmole.libx11, uk.qmole.libxext
-Filename: package_debian_A1/uk.qmole.libXxf86misc_1.0.1_iphoneos-arm.deb
+Filename: package_debian_A1/uk.qmole.libxxf86misc_1.0.1_iphoneos-arm.deb
 Size: 7926
 MD5sum: e3297c96d41c3cf232b1ba94ba0d4474
 SHA1: 43007056f24c089fcb252a6d6d58ad1d9fb4611c
@@ -191869,7 +191869,7 @@ Architecture: iphoneos-arm
 Maintainer: System Administrator
 Installed-Size: 120
 Depends: mobilesubstrate
-Filename: package_debian_B4/InApp(ios11+).deb
+Filename: package_debian_B4/com.kael.inapp_0.0.1-2+debug_iphoneos-arm.deb
 Size: 2894
 MD5sum: c141e59c8de5e743184946c7bb8c51a8
 SHA1: 97bf95d6de75e0a3ef41025527b5337e768660df
@@ -191885,7 +191885,7 @@ Architecture: iphoneos-arm
 Maintainer: System Administrator
 Installed-Size: 120
 Depends: mobilesubstrate
-Filename: package_debian_B4/com.kael.inapp_0.0.1-2+debug_iphoneos-arm.deb
+Filename: package_debian_B4/InApp(ios11+).deb
 Size: 2894
 MD5sum: c141e59c8de5e743184946c7bb8c51a8
 SHA1: 97bf95d6de75e0a3ef41025527b5337e768660df
@@ -384128,11 +384128,11 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: package_debian_C5/tomkids.weepreferenceloader_1.1_iphoneos-arm.deb
-Size: 34568
-MD5sum: cef1b082bc028c22ae0eda383df0e491
-SHA1: f7e773071127ebc8910ca86b1f69b01301aa9f6e
-SHA256: 7ed9065b10acfd0d58c7ac01b69cd921639dc881f4b7087970d9f44ee455117a
+Filename: package_debian_C5/tomkids.com.arichardson.weepreferenceloader_1.1_iphoneos-arm.deb
+Size: 34562
+MD5sum: 1deaeb81dd1dcd9fe7f9521fa8be6524
+SHA1: 10b0ecae5a95031c1f7485e6e735ba64779fcf79
+SHA256: 4971aec5462de7fba3593fb18bf6091d9c40ef59e48d57725eedea95bb71cb7d
 Section: Tweaks
 Priority: extra
 Homepage: http://modmyi.com/info/weepreferenceloader.php
@@ -384147,11 +384147,11 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: package_debian_C5/tomkids.com.arichardson.weepreferenceloader_1.1_iphoneos-arm.deb
-Size: 34562
-MD5sum: 1deaeb81dd1dcd9fe7f9521fa8be6524
-SHA1: 10b0ecae5a95031c1f7485e6e735ba64779fcf79
-SHA256: 4971aec5462de7fba3593fb18bf6091d9c40ef59e48d57725eedea95bb71cb7d
+Filename: package_debian_C5/tomkids.weepreferenceloader_1.1_iphoneos-arm.deb
+Size: 34568
+MD5sum: cef1b082bc028c22ae0eda383df0e491
+SHA1: f7e773071127ebc8910ca86b1f69b01301aa9f6e
+SHA256: 7ed9065b10acfd0d58c7ac01b69cd921639dc881f4b7087970d9f44ee455117a
 Section: Tweaks
 Priority: extra
 Homepage: http://modmyi.com/info/weepreferenceloader.php
@@ -384341,11 +384341,11 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 4712
 Depends: mobilesubstrate, firmware (>= 5.0), firmware (<< 7.0)
 Conflicts: app.weiphone.jinshan.kbatterydoctorpro, app.weiphone.myrepospace.oyoung.guan, app.weiphone.ijinshan.kbatterydoctorpro, com.ijinshan.kbatterydoctorpro, com.ijinshan.kbatterydoctorpro.universal, com.myrepospace.oyoung.guan, kbatterydoctorpro.appvv
-Filename: package_debian_C5/tomkids.com.ijinshan.kbatterydoctorpro.universal_4.6.1-11_iphoneos-arm.deb
-Size: 3061322
-MD5sum: 2a9e30d319b3109977621ae167273c18
-SHA1: cf38635d7bdded30a93390a1262ade27f3786dce
-SHA256: 3d0fb10836e31bb288b4dd51aa2d5c05080f98b3a27e5e8e7e2dd78b1ef1a74e
+Filename: package_debian_C5/tomkids.kbatterydoctorpro.universal_4.6.1-11_iphoneos-arm.deb
+Size: 3061312
+MD5sum: f80aeb25dd05d44bf7b0f5754ccfbfed
+SHA1: 8db2ec0d20cd2d86e9eab6644fa8597bf782b569
+SHA256: 252da0a358d73c8465b21fe2f96d422178ef493739ce5c45107227a23e000948
 Section: Tweaks
 Priority: optional
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=batterydoctorprouniversalDp
@@ -384364,11 +384364,11 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 4712
 Depends: mobilesubstrate, firmware (>= 5.0), firmware (<< 7.0)
 Conflicts: app.weiphone.jinshan.kbatterydoctorpro, app.weiphone.myrepospace.oyoung.guan, app.weiphone.ijinshan.kbatterydoctorpro, com.ijinshan.kbatterydoctorpro, com.ijinshan.kbatterydoctorpro.universal, com.myrepospace.oyoung.guan, kbatterydoctorpro.appvv
-Filename: package_debian_C5/tomkids.kbatterydoctorpro.universal_4.6.1-11_iphoneos-arm.deb
-Size: 3061312
-MD5sum: f80aeb25dd05d44bf7b0f5754ccfbfed
-SHA1: 8db2ec0d20cd2d86e9eab6644fa8597bf782b569
-SHA256: 252da0a358d73c8465b21fe2f96d422178ef493739ce5c45107227a23e000948
+Filename: package_debian_C5/tomkids.com.ijinshan.kbatterydoctorpro.universal_4.6.1-11_iphoneos-arm.deb
+Size: 3061322
+MD5sum: 2a9e30d319b3109977621ae167273c18
+SHA1: cf38635d7bdded30a93390a1262ade27f3786dce
+SHA256: 3d0fb10836e31bb288b4dd51aa2d5c05080f98b3a27e5e8e7e2dd78b1ef1a74e
 Section: Tweaks
 Priority: optional
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=batterydoctorprouniversalDp
@@ -384520,7 +384520,7 @@ Maintainer: Linus Yang
 Installed-Size: 344
 Depends: mobilesubstrate
 Conflicts: me.alfhaily.adblockforyoutube
-Filename: package_debian_C5/tomkids.ytbnoad_0.1_iphoneos-arm.deb
+Filename: package_debian_C5/tomkids.com.linusyang.ytbnoad_0.1_iphoneos-arm.deb
 Size: 50654
 MD5sum: 39e43deaa545fc126991b2fe2343d4c4
 SHA1: 848ecf5a0343fe1ac5e4b1cda292d2485938f2a5
@@ -384537,7 +384537,7 @@ Maintainer: Linus Yang
 Installed-Size: 344
 Depends: mobilesubstrate
 Conflicts: me.alfhaily.adblockforyoutube
-Filename: package_debian_C5/tomkids.com.linusyang.ytbnoad_0.1_iphoneos-arm.deb
+Filename: package_debian_C5/tomkids.ytbnoad_0.1_iphoneos-arm.deb
 Size: 50654
 MD5sum: 39e43deaa545fc126991b2fe2343d4c4
 SHA1: 848ecf5a0343fe1ac5e4b1cda292d2485938f2a5
@@ -384738,7 +384738,7 @@ Version: 1.5.2
 Architecture: iphoneos-arm
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 Depends: mobilesubstrate
-Filename: package_debian_C5/tomkids.com.ravirajm.torch_1.5.2_iphoneos-arm (1).deb
+Filename: package_debian_C5/tomkids.com.ravirajm.torch_1.5.2_iphoneos-arm.deb
 Size: 34688
 MD5sum: a77b7ce2b9388d5a7c9d12e663df52c5
 SHA1: 8cf8ef240cf89a83bbd25edcbc2b6b3566695e51
@@ -384757,7 +384757,7 @@ Version: 1.5.2
 Architecture: iphoneos-arm
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 Depends: mobilesubstrate
-Filename: package_debian_C5/tomkids.com.ravirajm.torch_1.5.2_iphoneos-arm.deb
+Filename: package_debian_C5/tomkids.com.ravirajm.torch_1.5.2_iphoneos-arm (1).deb
 Size: 34688
 MD5sum: a77b7ce2b9388d5a7c9d12e663df52c5
 SHA1: 8cf8ef240cf89a83bbd25edcbc2b6b3566695e51
@@ -384840,11 +384840,11 @@ Architecture: iphoneos-arm
 Maintainer: Requis
 Depends: mobilesubstrate (>= 0.9.2586), firmware (>= 2.0), firmware (<= 7.9), preferenceloader
 Conflicts: com.ixmoe.1pwn.weatherx, com.skyglow.stocksx
-Filename: package_debian_C5/tomkids.WeatherX-Legacy.deb
-Size: 155622
-MD5sum: a6d5f494a673da237ffa95d289538447
-SHA1: 9fb97aee0ce011ea1b6bf8224e8da0ef5af2652b
-SHA256: b530eb8231e01a11562e16f23767c925f548e3261b224aaf3f7047afa514a6a0
+Filename: package_debian_C5/tomkids.com.skyglow.weatherx_3.5_iphoneos-arm.deb
+Size: 155742
+MD5sum: 689171cd5f391aed223f3c0ad7e4ce3b
+SHA1: cef43a162338ef6001d56d4a4085a97e234d0340
+SHA256: 2da0aab5c140809c5d461a13a2c69029a1e4f8db9c56695c222648c37e04d9ea
 Section: Tweaks
 Description: Fix iOS's Weather & Stocks apps from iPhoneOS 2 to iOS 7, the widgets in the notification center, and the temperature in the iPad clock app!
 Author: Requis, Electimon
@@ -384857,11 +384857,11 @@ Architecture: iphoneos-arm
 Maintainer: Requis
 Depends: mobilesubstrate (>= 0.9.2586), firmware (>= 2.0), firmware (<= 7.9), preferenceloader
 Conflicts: com.ixmoe.1pwn.weatherx, com.skyglow.stocksx
-Filename: package_debian_C5/tomkids.com.skyglow.weatherx_3.5_iphoneos-arm.deb
-Size: 155742
-MD5sum: 689171cd5f391aed223f3c0ad7e4ce3b
-SHA1: cef43a162338ef6001d56d4a4085a97e234d0340
-SHA256: 2da0aab5c140809c5d461a13a2c69029a1e4f8db9c56695c222648c37e04d9ea
+Filename: package_debian_C5/tomkids.WeatherX-Legacy.deb
+Size: 155622
+MD5sum: a6d5f494a673da237ffa95d289538447
+SHA1: 9fb97aee0ce011ea1b6bf8224e8da0ef5af2652b
+SHA256: b530eb8231e01a11562e16f23767c925f548e3261b224aaf3f7047afa514a6a0
 Section: Tweaks
 Description: Fix iOS's Weather & Stocks apps from iPhoneOS 2 to iOS 7, the widgets in the notification center, and the temperature in the iPad clock app!
 Author: Requis, Electimon
@@ -386250,6 +386250,25 @@ Version: 1.3.3-3
 Architecture: iphoneos-arm
 Maintainer: Cydia.vn <repo@cydia.vn>
 Installed-Size: 2919
+Depends: firmware (>= 5.0), mobilesubstrate, com.chpwn.weeloader, preferenceloader
+Filename: package_debian_C5/tomkids.flipclockwidget_1.3.3-3_iphoneos-arm_FIXED.deb
+Size: 2586722
+MD5sum: 0d076a06b7259b82da30c44e78032721
+SHA1: 14e8c23b79ad61dd541b5a6c7387679d8ace54ff
+SHA256: e437972494acc418e19ffccdeaa6a35c7ad4ec172177edc695c79b7af07b2f3c
+Section: Tools
+Homepage: http://cydia.vn/
+Description: beautiful animated flip clock widget for the notification center.
+Author: VladMax Soft
+Depiction: http://cydia.gsm.vn/t4132/
+Name: Flip Clock for Notification Center
+Sponsor: Cydia.vn Blog's <http://cydia.vn/>
+
+Package: vn.gsm.flipclockwidget
+Version: 1.3.3-3
+Architecture: iphoneos-arm
+Maintainer: Cydia.vn <repo@cydia.vn>
+Installed-Size: 2919
 Depends: gsmicon, firmware (>= 5.0), mobilesubstrate, com.chpwn.weeloader, preferenceloader
 Filename: package_debian_C5/tomkids.flipclockwidget_1.3.3-3_iphoneos-arm.deb
 Size: 2743734
@@ -386275,25 +386294,6 @@ Size: 2771400
 MD5sum: efc0573c0fefe794a3841fc25b23758d
 SHA1: a97086257445d79a00f72041bca1eb391c5edfee
 SHA256: d6afe3350c040d645734ad79977b0c9ee2726bfb456184875012d805927e1f7f
-Section: Tools
-Homepage: http://cydia.vn/
-Description: beautiful animated flip clock widget for the notification center.
-Author: VladMax Soft
-Depiction: http://cydia.gsm.vn/t4132/
-Name: Flip Clock for Notification Center
-Sponsor: Cydia.vn Blog's <http://cydia.vn/>
-
-Package: vn.gsm.flipclockwidget
-Version: 1.3.3-3
-Architecture: iphoneos-arm
-Maintainer: Cydia.vn <repo@cydia.vn>
-Installed-Size: 2919
-Depends: firmware (>= 5.0), mobilesubstrate, com.chpwn.weeloader, preferenceloader
-Filename: package_debian_C5/tomkids.flipclockwidget_1.3.3-3_iphoneos-arm_FIXED.deb
-Size: 2586722
-MD5sum: 0d076a06b7259b82da30c44e78032721
-SHA1: 14e8c23b79ad61dd541b5a6c7387679d8ace54ff
-SHA256: e437972494acc418e19ffccdeaa6a35c7ad4ec172177edc695c79b7af07b2f3c
 Section: Tools
 Homepage: http://cydia.vn/
 Description: beautiful animated flip clock widget for the notification center.
