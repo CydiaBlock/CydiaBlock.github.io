@@ -390686,39 +390686,6 @@ Homepage: http://www.gnu.org/software/diffutils/
 Description: compare two files for differences
 Name: Diff Utilities
 
-Package: diskdev-cmds
-Version: 576-1
-Architecture: iphoneos-arm
-Essential: yes
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 1736
-Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: package_debian_C6/diskdev-cmds_576-1_iphoneos-arm.deb
-Size: 92190
-MD5sum: e4f90f9db7843ba5744ab555d3ab390c
-SHA1: 51c37002b2d47efae471c1e1c104e57c23b21c61
-SHA256: d6e10ed876df2c7987d03d1d563ef227298de59d1216b178e7f2dc43d06b9000
-Section: System
-Priority: required
-Multi-Arch: foreign
-Description: mount, quota, fsck, fstyp, fdisk, tunefs
-
-Package: diskdev-cmds
-Version: 593.221.1-1
-Architecture: iphoneos-arm
-Essential: yes
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 1752
-Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: package_debian_C6/diskdev-cmds_593.221.1-1_iphoneos-arm.deb
-Size: 98030
-MD5sum: b22b7992e750ceb328928b719762fc18
-SHA1: db727d2fe133ed7e7601c017b1d933e724b5f77b
-SHA256: faa368d60914c59e309e9ef31ffaaa82378d0bc66472c0b8f0df2428869c4d54
-Section: System
-Priority: required
-Description: mount, quota, fsck, fstyp, fdisk, tunefs
-
 Package: dmg2img
 Version: 0-1
 Architecture: iphoneos-arm
