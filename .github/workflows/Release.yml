@@ -11,7 +11,7 @@ env:
   CLUSTERS: "A B C"
   REPO_A_COUNT: 9
   REPO_B_COUNT: 9
-  REPO_C_COUNT: 5
+  REPO_C_COUNT: 6
 
 jobs:
   build:
