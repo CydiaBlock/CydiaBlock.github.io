@@ -33,6 +33,7 @@ jobs:
 
       - name: Build Cluster Packages
         run: |
+          wget -O appstore https://raw.githubusercontent.com/CydiaBlock/AppStore/refs/heads/main/Packages
           for CLUSTER in $CLUSTERS; do
             COUNT_VAR="REPO_${CLUSTER}_COUNT"
             COUNT=${!COUNT_VAR}
@@ -49,40 +50,41 @@ jobs:
               done
             fi
           done
+          cat appstore >> Packages
 
 
-      - name: Format and Clean Packages
-        run: |
-          sed -i 's/: !CydiaVn-/: /g' Packages
-          sed -i 's/: !GSMVN-/: /g' Packages
-          sed -i 's/: !GSMVN For OS3.0/: Tools/g' Packages
-          sed -i 's/: HiPhone-Tools/: Tools/g' Packages
-          sed -i 's/: iSystem/: System/g' Packages
-          sed -i 's/: iOS4/: Tweaks/g' Packages
-          sed -i 's/: GSMVN-/: /g' Packages
-          sed -i 's/: VietHoa/: Packaging/g' Packages
-          sed -i 's/: Apps/: Applications/g' Packages
-          sed -i 's/: Emulators/: System/g' Packages
-          sed -i 's/: !Cydia-/: /g' Packages
-          sed -i 's/: Applicationstore/: Applications/g' Packages
-          sed -i 's/: andydam/: Applications/g' Packages
-          sed -i 's/: CrackTouch Repo/: Themes/g' Packages
-          sed -i 's/: Hackers.nl/: Hacks/g' Packages
-          sed -i 's/: iClarified.nl/: Hacks/g' Packages
-          sed -i 's/: iDWANEO.org/: Hacks/g' Packages
-          sed -i 's/: IHR-Utilities/: Hacks/g' Packages
-          sed -i 's/: iTweaks/: Tweaks/g' Packages
-          sed -i 's/: iUtilities/: Tweaks/g' Packages
-          sed -i 's/: LockInfo/: Tweaks/g' Packages
-          sed -i 's/: MinecraftPE/: Hacks/g' Packages
-          sed -i 's/: PF Apps/: Tweaks/g' Packages
-          sed -i 's/: Terminals/: System/g' Packages
-          sed -i 's/: MCPE/: Hacks/g' Packages
-          sed -i 's/: Core System/: System/g' Packages
-          sed -i 's/: Hackulo.us/: Tweaks/g' Packages
-          sed -i 's/: iClarified/: Tweaks/g' Packages
-          sed -i 's/: iMods/: DLC/g' Packages
-          sed -i '/^Icon:/d' Packages
+      # - name: Format and Clean Packages
+        # run: |
+          # sed -i 's/: !CydiaVn-/: /g' Packages
+          # sed -i 's/: !GSMVN-/: /g' Packages
+          # sed -i 's/: !GSMVN For OS3.0/: Tools/g' Packages
+          # sed -i 's/: HiPhone-Tools/: Tools/g' Packages
+          # sed -i 's/: iSystem/: System/g' Packages
+          # sed -i 's/: iOS4/: Tweaks/g' Packages
+          # sed -i 's/: GSMVN-/: /g' Packages
+          # sed -i 's/: VietHoa/: Packaging/g' Packages
+          # sed -i 's/: Apps/: Applications/g' Packages
+          # sed -i 's/: Emulators/: System/g' Packages
+          # sed -i 's/: !Cydia-/: /g' Packages
+          # sed -i 's/: Applicationstore/: Applications/g' Packages
+          # sed -i 's/: andydam/: Applications/g' Packages
+          # sed -i 's/: CrackTouch Repo/: Themes/g' Packages
+          # sed -i 's/: Hackers.nl/: Hacks/g' Packages
+          # sed -i 's/: iClarified.nl/: Hacks/g' Packages
+          # sed -i 's/: iDWANEO.org/: Hacks/g' Packages
+          # sed -i 's/: IHR-Utilities/: Hacks/g' Packages
+          # sed -i 's/: iTweaks/: Tweaks/g' Packages
+          # sed -i 's/: iUtilities/: Tweaks/g' Packages
+          # sed -i 's/: LockInfo/: Tweaks/g' Packages
+          # sed -i 's/: MinecraftPE/: Hacks/g' Packages
+          # sed -i 's/: PF Apps/: Tweaks/g' Packages
+          # sed -i 's/: Terminals/: System/g' Packages
+          # sed -i 's/: MCPE/: Hacks/g' Packages
+          # sed -i 's/: Core System/: System/g' Packages
+          # sed -i 's/: Hackulo.us/: Tweaks/g' Packages
+          # sed -i 's/: iClarified/: Tweaks/g' Packages
+          # sed -i 's/: iMods/: DLC/g' Packages
+          # sed -i '/^Icon:/d' Packages
 
       - name: Compress
         run: bzip2 -fks Packages
