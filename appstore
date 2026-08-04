@@ -178,3 +178,21 @@ Depiction: https://github.com/CydiaBlock/AppStore
 Name: Z.Tsunami v14 (iOS 6.0)
 Sponsor: dopaemon <polarisdp@gmail.com>
 
+Package: com.gameloft.OneVsHundred
+Version: 1.1.4
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 2.2.1), uikittools, appsync
+Filename: ./game/com.gameloft.OneVsHundred-1.1.4-iOS-2.2.1.deb
+Size: 102797208
+MD5sum: c0f36f450c4eaa06e0673c57ebc6ca27
+SHA1: c193fbd0c13b8a0956546e91fc835f6b6fb79938
+SHA256: bd1c50b0d302c6c53ca9b1a07729a961d275acf0bd800f50babb3be0150801f6
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: 1%20vs%20100™_v.1.1.4.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: 1 vs 100 v1.1.4 (iOS 2.2.1)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
