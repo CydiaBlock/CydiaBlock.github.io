@@ -196,3 +196,21 @@ Depiction: https://github.com/CydiaBlock/AppStore
 Name: 1 vs 100 v1.1.4 (iOS 2.2.1)
 Sponsor: dopaemon <polarisdp@gmail.com>
 
+Package: com.glu.ewarriors4
+Version: 1170
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 6.0), uikittools, appsync
+Filename: ./game/com.glu.ewarriors4-1170-iOS-6.0.deb
+Size: 176072564
+MD5sum: 13d47fae59c554e697e231e1b82e936a
+SHA1: 0229e0778c48bec0243bcc062db5804d380854cf
+SHA256: f354543132ac65ec5198bc6a6332fff352e0da9712f013ea8634a70ae60a09d8
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: Eternity_Warriors__Hero_s_Call_0.1.0_ios_6.0.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: Warriors 4 v1170 (iOS 6.0)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
