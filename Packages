@@ -415017,3 +415017,60 @@ Depiction: https://github.com/CydiaBlock/AppStore
 Name: 321Jump v2.0 (iOS 2.0)
 Sponsor: dopaemon <polarisdp@gmail.com>
 
+
+Package: com.rockstargames.gta3vc
+Version: 1.5.1
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 5.1.1), uikittools, appsync
+Filename: ./game/com.rockstargames.gta3vc-1.5.1-iOS-5.1.1.deb
+Size: 923935922
+MD5sum: 4ad6c6e7d6000a9e520a3efd9c67c3e7
+SHA1: 640ad2b82d97d9779d2c5ee36367b66a21231b89
+SHA256: 8c75f616a77e6981a5be5ae26052782e361435abe4b48d5bc60dcb6bfa089a22
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: GTA%20Vice%20City-v1.5.1--iOS5.1.1-(Clutch-1.4.6).ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: GTA Vice City v1.5.1 (iOS 5.1.1)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
+
+Package: com.rockstargames.gta3vc
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 4.3), uikittools, appsync
+Filename: ./game/com.rockstargames.gta3vc-1.3-iOS-4.3.deb
+Size: 923405350
+MD5sum: d2d96abf44e6e0453e00328700255ef2
+SHA1: f36c4639dae2636ac02c1d61c1dbe05868fc61f5
+SHA256: 942ead9fc7f3966909b105d3ec1a279236c6b55d022be7a2177fb0c69720125b
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: Grand%20Theft%20Auto%20-%20Vice%20City%20v1.3%20(IOS%204.3+).ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: GTA Vice City v1.3 (iOS 4.3)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
+
+Package: net.mobigame.ZombieCarnaval
+Version: 14
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 6.0), uikittools, appsync
+Filename: ./game/net.mobigame.ZombieCarnaval-14-iOS-6.0.deb
+Size: 72634336
+MD5sum: bc76216958427a49c32e90ba907c33e1
+SHA1: fa40a9b934427e0e2eaec1b8effeaf5ce60b57c9
+SHA256: 3e1efa1aa0e9912881c58659870245dc28260dd64f9dc8d8271fafda007b0357
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: Z.Tsunami%203.3.0.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: Z.Tsunami v14 (iOS 6.0)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
