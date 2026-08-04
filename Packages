@@ -414960,3 +414960,60 @@ Author: dopaemon <polarisdp@gmail.com>
 Depiction: https://github.com/CydiaBlock/AppStore
 Name: PvZ HD v4111.1.32 (iOS 5.1.1)
 Sponsor: dopaemon <polarisdp@gmail.com>
+
+Package: com.popcap.PvZiPad
+Version: 4111.1.32
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 5.1.1), uikittools, appsync
+Filename: ./game/com.popcap.PvZiPad-4111.1.32-iOS-5.1.1.deb
+Size: 154278748
+MD5sum: 7a379cc851f3069212d7769d5a7ac312
+SHA1: f31a73b802d2c9040d2765382d54e140f488f1fc
+SHA256: f2ba4d2f8f9ebbc89ad01f0d629d6bc36ac241a3c4d889436d01ae2316c3d811
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: PvZ%20HD%201.9.9.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: PvZ HD v4111.1.32 (iOS 5.1.1)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
+
+Package: com.treehouse.1951
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 3.0), uikittools, appsync
+Filename: ./game/com.treehouse.1951-1.0-iOS-3.0.deb
+Size: 15627470
+MD5sum: b1affe861d52236a11c11d8f992490e5
+SHA1: dc08158e6a995be4413dca3aaf42850a1dd8e418
+SHA256: bf0b974352ab9146d55b4ed4710bc73804ec4caf791358ec4ac25ad239c483b2
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: 1951_1.0_AppOnly.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: 1951 v1.0 (iOS 3.0)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
+
+Package: com.masq.321jump
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 2.0), uikittools, appsync
+Filename: ./game/com.masq.321jump-2.0-iOS-2.0.deb
+Size: 4612768
+MD5sum: b9620bda9e34182a49075475dec32aa8
+SHA1: dc0898d8c9679d5f4749b7a49c2223c66de7c44b
+SHA256: 7d0c98cfa4b87e705366deff4a647a71732cc6982ffc9ca8626eb20ff495babf
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: 321Jump_2.0_AppOnly.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: 321Jump v2.0 (iOS 2.0)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
