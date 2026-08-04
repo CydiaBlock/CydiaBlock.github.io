@@ -4,7 +4,7 @@ Version: 1
 Architecture: iphoneos-arm
 Maintainer: dopaemon <actions@github.com>
 Depends: firmware (>= 6.0), uikittools, appsync
-Filename: https://github.com/CydiaBlock/AppStore/releases/download/game/com.nordicgames.nfh-1-iOS-6.0.deb
+Filename: https://cydia.cloudpanic.org/game/com.nordicgames.nfh-1-iOS-6.0.deb
 Size: 299863014
 MD5sum: a964c2a76cca81608f0bd547b71f0a5d
 SHA1: 9f1de53b82ba5788385513956a94afd3d7867c2d
@@ -23,7 +23,7 @@ Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: dopaemon <actions@github.com>
 Depends: firmware (>= 6.0), uikittools, appsync
-Filename: https://github.com/CydiaBlock/AppStore/releases/download/game/com.dotgears.flap-1.0.0-iOS-6.0.deb
+Filename: https://cydia.cloudpanic.org/game/com.dotgears.flap-1.0.0-iOS-6.0.deb
 Size: 1403834
 MD5sum: eb143054b30012ee23edb0b4cd444fb6
 SHA1: b853ae7e024c92d7b7a8605f88e745a18edd51cb
@@ -42,7 +42,7 @@ Version: 4111.1.32
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 5.1.1), uikittools, appsync
-Filename: https://github.com/CydiaBlock/AppStore/releases/download/game/com.popcap.PvZiPad-4111.1.32-iOS-5.1.1.deb
+Filename: https://cydia.cloudpanic.org/game/com.popcap.PvZiPad-4111.1.32-iOS-5.1.1.deb
 Size: 154278694
 MD5sum: a77747c43f9b8cbfc226f066c359b5b6
 SHA1: 10af4c81c7d9e70ced524799300c807c12e3dae2
@@ -54,4 +54,3 @@ Author: dopaemon <polarisdp@gmail.com>
 Depiction: https://github.com/CydiaBlock/AppStore
 Name: PvZ HD v4111.1.32 (iOS 5.1.1)
 Sponsor: dopaemon <polarisdp@gmail.com>
-
