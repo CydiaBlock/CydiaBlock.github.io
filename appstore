@@ -34,24 +34,6 @@ Depiction: https://github.com/CydiaBlock/AppStore
 Name: 321Jump v2.0 (iOS 2.0)
 Sponsor: dopaemon <polarisdp@gmail.com>
 
-Package: com.nordicgames.nfh
-Version: 1
-Architecture: iphoneos-arm
-Maintainer: dopaemon <actions@github.com>
-Depends: firmware (>= 6.0), uikittools, appsync
-Filename: ./game/com.nordicgames.nfh-1-iOS-6.0.deb
-Size: 299863014
-MD5sum: a964c2a76cca81608f0bd547b71f0a5d
-SHA1: 9f1de53b82ba5788385513956a94afd3d7867c2d
-SHA256: 603054ec570286506c5fc362c39979ccefaabefb9be53fede452e32a1a9fd024
-Section: AppStore Apps
-Homepage: https://github.com/CydiaBlock/AppStore
-Description: The decrypted ipa file: Neighbours_From_Hell_3.5_ios_6.0.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
-Author: dopaemon <actions@github.com>
-Depiction: https://github.com/CydiaBlock/AppStore
-Name: Neighbours From Hell v1 (iOS 6.0)
-Sponsor: dopaemon <actions@github.com>
-
 Package: com.popcap.PvZiPad
 Version: 4111.1.32
 Architecture: iphoneos-arm
@@ -106,31 +88,12 @@ Depiction: https://github.com/CydiaBlock/AppStore
 Name: GTA Vice City v1.5.1 (iOS 5.1.1)
 Sponsor: dopaemon <polarisdp@gmail.com>
 
-Package: net.mobigame.ZombieCarnaval
-Version: 14
-Architecture: iphoneos-arm
-Maintainer: dopaemon <polarisdp@gmail.com>
-Depends: firmware (>= 6.0), uikittools, appsync
-Filename: ./game/net.mobigame.ZombieCarnaval-14-iOS-6.0.deb
-Size: 57148954
-MD5sum: 77de7675cf3743936edefabbca197bba
-SHA1: ff5a3b3af02ec98d2d523a363495f8d76ab2748d
-SHA256: 6c11b8db829597dd14742b1026da4a07c851110d1ad55465ef31c41730a0e7c0
-Section: AppStore Apps
-Homepage: https://github.com/CydiaBlock/AppStore
-Description: The decrypted ipa file: Z.Tsunami-v3.3.0-no-name-cracker-(Clutch-1.4.1).ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
-Author: dopaemon <polarisdp@gmail.com>
-Depiction: https://github.com/CydiaBlock/AppStore
-Name: Z.Tsunami v14 (iOS 6.0)
-Sponsor: dopaemon <polarisdp@gmail.com>
-
-
 Package: com.treehouse.1951
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 3.0), uikittools, appsync
-Filename: ./application/com.treehouse.1951-1.0-iOS-3.0.deb
+Filename: ./game/com.treehouse.1951-1.0-iOS-3.0.deb
 Size: 15627470
 MD5sum: b1affe861d52236a11c11d8f992490e5
 SHA1: dc08158e6a995be4413dca3aaf42850a1dd8e418
@@ -143,4 +106,75 @@ Depiction: https://github.com/CydiaBlock/AppStore
 Name: 1951 v1.0 (iOS 3.0)
 Sponsor: dopaemon <polarisdp@gmail.com>
 
+Package: com.ketchapp.2048
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 4.3), uikittools, appsync
+Filename: ./game/com.ketchapp.2048-1.4-iOS-4.3.deb
+Size: 2170342
+MD5sum: 5e855da17d4a205d228ba845ddf2d8a5
+SHA1: 5fb5ff860029b5ada3d49e1ad2bea0660de1e231
+SHA256: 147b1a5dda9b907949d9be33c19a009018f8b8b69316c5aa2d333792e65ca5b6
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: com.ketchapp.2048_1.4_ios-4.3_2048_762fdc1e.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: 2048 v1.4 (iOS 4.3)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
+Package: com.outfit7.talkinggina
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 4.1), uikittools, appsync
+Filename: ./game/com.outfit7.talkinggina-2.0-iOS-4.1.deb
+Size: 41826700
+MD5sum: bb7f621a1b011becf1e29cae225111a5
+SHA1: e7d486e5e5da5230eaec399ad4f6464202f1a9f3
+SHA256: 8e16697e7e85306f063bc170b3de157acc890a90ed0aff2d1977a3c55490e36e
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: 402688503%2B2.0%2BTalking+Gina+the+Giraffe+New%2BAP.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: Talking Gina v2.0 (iOS 4.1)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
+Package: com.nordicgames.nfh
+Version: 1
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 6.0), uikittools, appsync
+Filename: ./game/com.nordicgames.nfh-1-iOS-6.0.deb
+Size: 299862956
+MD5sum: 30e6bc52e88a850d0d013d05dd55a8f1
+SHA1: 8f732a4e0e24cf16f3b4c98c1e94b03b82d27264
+SHA256: bb21cf842e1c2ce6cf520577c384983eb0f397dc40d6aaf9d8deaac2c1d8cd32
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: Neighbours_From_Hell_3.5_ios_6.0.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: Neighbours From Hell v1 (iOS 6.0)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
+Package: net.mobigame.ZombieCarnaval
+Version: 14
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 6.0), uikittools, appsync
+Filename: ./game/net.mobigame.ZombieCarnaval-14-iOS-6.0.deb
+Size: 68050474
+MD5sum: 609fce38a1cb9b79e0c30f293eb2e055
+SHA1: a4a6986307cfac63ee7b47cca7213f4fec992983
+SHA256: 434c53ae0ef6400772e8d878a517966c6a78b90e40f55dda91c3c336b097930c
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: Z.Tsunami-(net.mobigame.ZombieCarnaval)-14-(iOS_6.0)-2476488bcea0c06745c661d13c4e3959.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: Z.Tsunami v14 (iOS 6.0)
+Sponsor: dopaemon <polarisdp@gmail.com>
 
