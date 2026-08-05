@@ -736,3 +736,93 @@ Depiction: https://github.com/CydiaBlock/AppStore
 Name: Asphalt7 v1.8.1 (iOS 5.0)
 Sponsor: dopaemon <polarisdp@gmail.com>
 
+Package: com.gameloft.asphalt8
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 5.0), uikittools, appsync
+Filename: ./game/com.gameloft.asphalt8-1.0.0-iOS-5.0.deb
+Size: 878462642
+MD5sum: b79afa201e44f829b9dbe627373b77f2
+SHA1: af57e68e602ae47d7f5045be1d891fd7d083efde
+SHA256: a2958204442e17cd422329dfcf5fc24e398446c0ca50e1f3919d37090f977269
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: com.gameloft.asphalt8-iOS5.0-(Clutch-2.0.4).ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: Asphalt 8 v1.0.0 (iOS 5.0)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
+Package: com.gameloft.asphalt8
+Version: 1.4.0
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 5.0), uikittools, appsync
+Filename: ./game/com.gameloft.asphalt8-1.4.0-iOS-5.0.deb
+Size: 862261194
+MD5sum: 7c28399ebe568f63ba37a13e5cd388c5
+SHA1: f7ba7ea675aa19146caccdec2679978fbda6780d
+SHA256: 994f428c40c056b77242a22a711df391c92b4bf1c30e6f8312422655774b77ce
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: Asphalt%208%201.4.0.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: Asphalt 8 v1.4.0 (iOS 5.0)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
+Package: com.gameloft.asphalt8
+Version: 1.7.2
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 5.0), uikittools, appsync
+Filename: ./game/com.gameloft.asphalt8-1.7.2-iOS-5.0.deb
+Size: 1144814314
+MD5sum: 9003b3660a84e7de80dd50eab48beb7e
+SHA1: 80f7537c37ed4a74016743185b75c6a7d39e782c
+SHA256: 8d8d41c4fb0f5ccbb4538b1a4e407be93db81820ff21bb7af563f059182ed231
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: Asphalt%208-v1.7.2--iOS5.0-(Clutch-1.4.6)_namanh.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: Asphalt 8 v1.7.2 (iOS 5.0)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
+Package: com.gameloft.AsphaltAudiRS3
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 3.1.3), uikittools, appsync
+Filename: ./game/com.gameloft.AsphaltAudiRS3-1.0.1-iOS-3.1.3.deb
+Size: 228479630
+MD5sum: a56c890092e779932243e78ae6b0aa5d
+SHA1: 1f18bd5f17a5113935e26e1d3248ce96c07619e1
+SHA256: c79321689d7cb99871b61ce825aed799ae36bef163bf29fb2a68a5623b9f6279
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: AsphaltAudiRS3-(com.gameloft.AsphaltAudiRS3)-1.0.1-(iOS_3.1.3)-69101d4a34688279b9a21e151fc6ce09.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: AsphaltAudiRS3 v1.0.1 (iOS 3.1.3)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
+Package: com.gameloft.asphaltexplosion
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 6.0), uikittools, appsync
+Filename: ./game/com.gameloft.asphaltexplosion-1.0.2-iOS-6.0.deb
+Size: 87747818
+MD5sum: 93a14abd247a07dc815dc4b3fc2c4b66
+SHA1: 6302d773d62c5a0ec4826a519da8e99b016ba4a8
+SHA256: 2ad29ae2b3b9898d93291ced37e79ed457dd17f2dc6b8b1c74680a9503fc9be4
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: com.gameloft.asphaltexplosion_1.0.2_ios-6.0_asphalt-o_afb1949f.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: Asphalt O v1.0.2 (iOS 6.0)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
