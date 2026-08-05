@@ -51,7 +51,7 @@ jobs:
             fi
           done
           cat appstore >> Packages
-
+          rm -rf appstore
 
       # - name: Format and Clean Packages
         # run: |
