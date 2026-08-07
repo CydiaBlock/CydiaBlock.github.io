@@ -415150,6 +415150,60 @@ Depiction: https://github.com/CydiaBlock/AppStore
 Name: ASPHALT4 v1.3.8 (iOS 2.1)
 Sponsor: dopaemon <polarisdp@gmail.com>
 
+Package: com.gameloft.AVATAR
+Version: 1.4.9
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 3.1.3), uikittools, appsync
+Filename: ./game/com.gameloft.AVATAR-1.4.9-iOS-3.1.3.deb
+Size: 203080708
+MD5sum: 35da62a7aaaadd2e5f8ec8f9f4ffd17b
+SHA1: c7022cab621d71f9a722a94641d702821490fd65
+SHA256: a46c45dfe4ecf572264b190768ecc91e33391768da6e79beb0215b4b6d153940
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: AVATAR_v1.4.9_os313.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: AVATAR v1.4.9 (iOS 3.1.3)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
+Package: com.gameloft.AVATARiPad
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 3.2), uikittools, appsync
+Filename: ./game/com.gameloft.AVATARiPad-1.1.0-iOS-3.2.deb
+Size: 211245234
+MD5sum: 411bd5aa6b6571319ee2ebc4a2c3a198
+SHA1: d758f39de40cff72907ad016414af09a491797ed
+SHA256: cbf2922f0364defbfa06e3f895f00af9e4bfae78bfedd56f4ff58a3b819051f7
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: AVATARiPad_v1.1.0_os32_namanh.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: AVATARiPad v1.1.0 (iOS 3.2)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
+Package: com.gameloft.AmazingSpiderMan
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 4.0), uikittools, appsync
+Filename: ./game/com.gameloft.AmazingSpiderMan-1.0.3-iOS-4.0.deb
+Size: 824989406
+MD5sum: e30cf5279bc22601f160f65d9e0c84a0
+SHA1: 2f31b0e90d2db49fca7f459263065a2a38d78bed
+SHA256: 2d628c8b58de391a44e99b2f392a5c88f145ef0f3d53d8a6b01c536878ec1980
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: AmazingSpiderMan_v1.0.3_os40.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: AmazingSpiderMan v1.0.3 (iOS 4.0)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
 Package: com.gameloft.Asphalt5
 Version: 1.2.6
 Architecture: iphoneos-arm
@@ -415204,6 +415258,78 @@ Depiction: https://github.com/CydiaBlock/AppStore
 Name: Asphalt 6 v1.5.1 (iOS 3.2)
 Sponsor: dopaemon <polarisdp@gmail.com>
 
+Package: com.gameloft.Asphalt7
+Version: 1.8.1
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 5.0), uikittools, appsync
+Filename: ./game/com.gameloft.Asphalt7-1.8.1-iOS-5.0.deb
+Size: 1404837484
+MD5sum: 563f7dab1205f9101037cf29c77ee60b
+SHA1: 293d3fce3f87039f0e31e39cd2c1aaafb2a6c3de
+SHA256: ac4bbba6de05f96acfc97ad29f948371ae8ac5f3018a4ec4fceb3926a34f5aaa
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: Asphalt7-v1.8.1--iOS5.0-(Clutch-1.4.6).ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: Asphalt7 v1.8.1 (iOS 5.0)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
+Package: com.gameloft.AsphaltAudiRS3
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 3.1.3), uikittools, appsync
+Filename: ./game/com.gameloft.AsphaltAudiRS3-1.0.1-iOS-3.1.3.deb
+Size: 228479630
+MD5sum: a56c890092e779932243e78ae6b0aa5d
+SHA1: 1f18bd5f17a5113935e26e1d3248ce96c07619e1
+SHA256: c79321689d7cb99871b61ce825aed799ae36bef163bf29fb2a68a5623b9f6279
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: AsphaltAudiRS3-(com.gameloft.AsphaltAudiRS3)-1.0.1-(iOS_3.1.3)-69101d4a34688279b9a21e151fc6ce09.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: AsphaltAudiRS3 v1.0.1 (iOS 3.1.3)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
+Package: com.gameloft.AssassinsCreed
+Version: 1.3.3
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 3.0), uikittools, appsync
+Filename: ./game/com.gameloft.AssassinsCreed-1.3.3-iOS-3.0.deb
+Size: 165780100
+MD5sum: 04aae843b16325ccf89d1478f18da6c4
+SHA1: d6940bb8ebcafe7a537aebc1ed0e8e57bff223e4
+SHA256: 39bcbb667cd03323be1881aefd7167f26127ac3390479a6bbf7efd73291f0d20
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: com.gameloft.AssassinsCreed-iOS3.0-(Clutch-2.0.4).ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: AssassinsCreed v1.3.3 (iOS 3.0)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
+Package: com.gameloft.AssassinsCreediPad
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 4.3), uikittools, appsync
+Filename: ./game/com.gameloft.AssassinsCreediPad-1.0.1-iOS-4.3.deb
+Size: 273456700
+MD5sum: c7e4a58a77c11dd2801ebb8529373e4d
+SHA1: 30fb2cef23c3121d1da49e83b2374ffb8366d068
+SHA256: b9ed40a7076c62370117e68b1c576c2b86d1367d7b5cbe41684039180caeeb0b
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: Assassins_Creed_Altairs_Chronicles_HD_1.0.1_namanh.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: Assassins Creed HD v1.0.1 (iOS 4.3)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
 Package: com.gameloft.BIA
 Version: 1.3.5
 Architecture: iphoneos-arm
@@ -415220,6 +415346,42 @@ Description: The decrypted ipa file: Brothers%20In%20Arms%20-%20Hour%20of%20Hero
 Author: dopaemon <polarisdp@gmail.com>
 Depiction: https://github.com/CydiaBlock/AppStore
 Name: BIA v1.3.5 (iOS 3.1.2)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
+Package: com.gameloft.BIA2
+Version: 1.1.3
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 3.1.2), uikittools, appsync
+Filename: ./game/com.gameloft.BIA2-1.1.3-iOS-3.1.2.deb
+Size: 266806438
+MD5sum: 1dc096f0c42b85b1a7240d23d683bf34
+SHA1: 95d18e2a57bfe83501cbf81e6b329bba64811328
+SHA256: db9aeca6541b9fe95daa0aece71b2cf079e552bf6132cd8f2900feaf369b8d8b
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: com.gameloft.BIA2-iOS3.1.2-(Clutch-2.0.4).ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: BIA2 v1.1.3 (iOS 3.1.2)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
+Package: com.gameloft.BIA2ipad
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 3.2), uikittools, appsync
+Filename: ./game/com.gameloft.BIA2ipad-1.0.2-iOS-3.2.deb
+Size: 264084480
+MD5sum: 7e3a914c1dc93547af8efe3d027567cd
+SHA1: 66ae13868ac47150ac75671168e92992f9e23eea
+SHA256: 515614856d71cb43f86195b829304400cec38e3fe34069a268b27e4a28f47563
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: BIA2HD_v1.0.2_os32_namanh.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: BIA2HD v1.0.2 (iOS 3.2)
 Sponsor: dopaemon <polarisdp@gmail.com>
 
 Package: com.gameloft.BackStab
@@ -415274,6 +415436,132 @@ Description: The decrypted ipa file: 1%20vs%20100™_v.1.1.4.ipa converted to .d
 Author: dopaemon <polarisdp@gmail.com>
 Depiction: https://github.com/CydiaBlock/AppStore
 Name: 1 vs 100 v1.1.4 (iOS 2.2.1)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
+Package: com.gameloft.asphalt8
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 5.0), uikittools, appsync
+Filename: ./game/com.gameloft.asphalt8-1.0.0-iOS-5.0.deb
+Size: 878462642
+MD5sum: b79afa201e44f829b9dbe627373b77f2
+SHA1: af57e68e602ae47d7f5045be1d891fd7d083efde
+SHA256: a2958204442e17cd422329dfcf5fc24e398446c0ca50e1f3919d37090f977269
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: com.gameloft.asphalt8-iOS5.0-(Clutch-2.0.4).ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: Asphalt 8 v1.0.0 (iOS 5.0)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
+Package: com.gameloft.asphalt8
+Version: 1.4.0
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 5.0), uikittools, appsync
+Filename: ./game/com.gameloft.asphalt8-1.4.0-iOS-5.0.deb
+Size: 862261194
+MD5sum: 7c28399ebe568f63ba37a13e5cd388c5
+SHA1: f7ba7ea675aa19146caccdec2679978fbda6780d
+SHA256: 994f428c40c056b77242a22a711df391c92b4bf1c30e6f8312422655774b77ce
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: Asphalt%208%201.4.0.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: Asphalt 8 v1.4.0 (iOS 5.0)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
+Package: com.gameloft.asphalt8
+Version: 1.7.2
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 5.0), uikittools, appsync
+Filename: ./game/com.gameloft.asphalt8-1.7.2-iOS-5.0.deb
+Size: 1144814314
+MD5sum: 9003b3660a84e7de80dd50eab48beb7e
+SHA1: 80f7537c37ed4a74016743185b75c6a7d39e782c
+SHA256: 8d8d41c4fb0f5ccbb4538b1a4e407be93db81820ff21bb7af563f059182ed231
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: Asphalt%208-v1.7.2--iOS5.0-(Clutch-1.4.6)_namanh.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: Asphalt 8 v1.7.2 (iOS 5.0)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
+Package: com.gameloft.asphaltexplosion
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 6.0), uikittools, appsync
+Filename: ./game/com.gameloft.asphaltexplosion-1.0.2-iOS-6.0.deb
+Size: 87747818
+MD5sum: 93a14abd247a07dc815dc4b3fc2c4b66
+SHA1: 6302d773d62c5a0ec4826a519da8e99b016ba4a8
+SHA256: 2ad29ae2b3b9898d93291ced37e79ed457dd17f2dc6b8b1c74680a9503fc9be4
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: com.gameloft.asphaltexplosion_1.0.2_ios-6.0_asphalt-o_afb1949f.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: Asphalt O v1.0.2 (iOS 6.0)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
+Package: com.gameloft.bia3
+Version: 1.4.0
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 6.0), uikittools, appsync
+Filename: ./game/com.gameloft.bia3-1.4.0-iOS-6.0.deb
+Size: 827118718
+MD5sum: 7aaf486b5d77cb68b3c7c9eaa3f8d6d3
+SHA1: 5ccb121e835ec7c2e9ab533b5fceda532461f26d
+SHA256: cfdeb757d2e7f02bac8eb031545ce01518fba02aab01ab6ee430831a5f16a0fb
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: com.gameloft.bia3_namanh.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: bia3 v1.4.0 (iOS 6.0)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
+Package: com.gameloft.gangstar4
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 5.0), uikittools, appsync
+Filename: ./game/com.gameloft.gangstar4-1.0.0-iOS-5.0.deb
+Size: 1392494718
+MD5sum: 301ddc3017bafe7df135a13b26e0ee3c
+SHA1: ba15a332451c107254a821c0adcc042916ad5893
+SHA256: ea30c5701a43302188e18c3dc9c411bc074f2cd726fe0585f9e68c179d4f9fef
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: gangstar4-(com.gameloft.gangstar4)-1.0.0-(iOS_5.0)-4487b3ee852a3bd071064020040a05df.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: gangstar4 v1.0.0 (iOS 5.0)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
+Package: com.gameloft.gangstar4
+Version: 1.5.0
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 6.0), uikittools, appsync
+Filename: ./game/com.gameloft.gangstar4-1.5.0-iOS-6.0.deb
+Size: 1291526390
+MD5sum: 9626a7861c8011b164d70ae7f9ddc084
+SHA1: 7108195d1c9a44ca5488cc9cc0307f0997cb4241
+SHA256: a8f65ac13b099113730f288044a7ffbf4288ac21155f01bb32fc0e45377901e2
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: Gangstar%20Vegas%201.5.0_namanh.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: gangstar4 v1.5.0 (iOS 6.0)
 Sponsor: dopaemon <polarisdp@gmail.com>
 
 Package: com.glu.ewarriors4
@@ -415582,12 +415870,13 @@ Depiction: https://github.com/CydiaBlock/AppStore
 Name: Z.Tsunami v14 (iOS 6.0)
 Sponsor: dopaemon <polarisdp@gmail.com>
 
+
 Package: com.apple.iBooks
 Version: 1929
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 5.0), uikittools, appsync
-Filename: ./game/com.apple.iBooks-1929-iOS-5.0.deb
+Filename: ./application/com.apple.iBooks-1929-iOS-5.0.deb
 Size: 29762498
 MD5sum: 735a1dd350e73eb843523b0a9b02ed37
 SHA1: 8c9b2efa8df0b0a5fe5fcf39e58ee0cc50607a25
@@ -415600,30 +415889,12 @@ Depiction: https://github.com/CydiaBlock/AppStore
 Name: iBooks v1929 (iOS 5.0)
 Sponsor: dopaemon <polarisdp@gmail.com>
 
-Package: com.treehouse.1951
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: dopaemon <polarisdp@gmail.com>
-Depends: firmware (>= 3.0), uikittools, appsync
-Filename: ./game/com.treehouse.1951-1.0-iOS-3.0.deb
-Size: 15627470
-MD5sum: b1affe861d52236a11c11d8f992490e5
-SHA1: dc08158e6a995be4413dca3aaf42850a1dd8e418
-SHA256: bf0b974352ab9146d55b4ed4710bc73804ec4caf791358ec4ac25ad239c483b2
-Section: AppStore Apps
-Homepage: https://github.com/CydiaBlock/AppStore
-Description: The decrypted ipa file: 1951_1.0_AppOnly.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
-Author: dopaemon <polarisdp@gmail.com>
-Depiction: https://github.com/CydiaBlock/AppStore
-Name: 1951 v1.0 (iOS 3.0)
-Sponsor: dopaemon <polarisdp@gmail.com>
-
 Package: com.gameloft.Asphalt6
 Version: 1.3.8
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 3.1.3), uikittools, appsync
-Filename: ./game/com.gameloft.Asphalt6-1.3.8-iOS-3.1.3.deb
+Filename: ./application/com.gameloft.Asphalt6-1.3.8-iOS-3.1.3.deb
 Size: 617744958
 MD5sum: 4dee29062388ad678b1c103dd900968a
 SHA1: 402cc17c798cf7cd6724d00f0654b55467a9441c
@@ -415636,273 +415907,22 @@ Depiction: https://github.com/CydiaBlock/AppStore
 Name: Asphalt 6 v1.3.8 (iOS 3.1.3)
 Sponsor: dopaemon <polarisdp@gmail.com>
 
-Package: com.gameloft.Asphalt7
-Version: 1.8.1
-Architecture: iphoneos-arm
-Maintainer: dopaemon <polarisdp@gmail.com>
-Depends: firmware (>= 5.0), uikittools, appsync
-Filename: ./game/com.gameloft.Asphalt7-1.8.1-iOS-5.0.deb
-Size: 1404837484
-MD5sum: 563f7dab1205f9101037cf29c77ee60b
-SHA1: 293d3fce3f87039f0e31e39cd2c1aaafb2a6c3de
-SHA256: ac4bbba6de05f96acfc97ad29f948371ae8ac5f3018a4ec4fceb3926a34f5aaa
-Section: AppStore Apps
-Homepage: https://github.com/CydiaBlock/AppStore
-Description: The decrypted ipa file: Asphalt7-v1.8.1--iOS5.0-(Clutch-1.4.6).ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
-Author: dopaemon <polarisdp@gmail.com>
-Depiction: https://github.com/CydiaBlock/AppStore
-Name: Asphalt7 v1.8.1 (iOS 5.0)
-Sponsor: dopaemon <polarisdp@gmail.com>
-
-Package: com.gameloft.asphalt8
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: dopaemon <polarisdp@gmail.com>
-Depends: firmware (>= 5.0), uikittools, appsync
-Filename: ./game/com.gameloft.asphalt8-1.0.0-iOS-5.0.deb
-Size: 878462642
-MD5sum: b79afa201e44f829b9dbe627373b77f2
-SHA1: af57e68e602ae47d7f5045be1d891fd7d083efde
-SHA256: a2958204442e17cd422329dfcf5fc24e398446c0ca50e1f3919d37090f977269
-Section: AppStore Apps
-Homepage: https://github.com/CydiaBlock/AppStore
-Description: The decrypted ipa file: com.gameloft.asphalt8-iOS5.0-(Clutch-2.0.4).ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
-Author: dopaemon <polarisdp@gmail.com>
-Depiction: https://github.com/CydiaBlock/AppStore
-Name: Asphalt 8 v1.0.0 (iOS 5.0)
-Sponsor: dopaemon <polarisdp@gmail.com>
-
-Package: com.gameloft.asphalt8
-Version: 1.4.0
-Architecture: iphoneos-arm
-Maintainer: dopaemon <polarisdp@gmail.com>
-Depends: firmware (>= 5.0), uikittools, appsync
-Filename: ./game/com.gameloft.asphalt8-1.4.0-iOS-5.0.deb
-Size: 862261194
-MD5sum: 7c28399ebe568f63ba37a13e5cd388c5
-SHA1: f7ba7ea675aa19146caccdec2679978fbda6780d
-SHA256: 994f428c40c056b77242a22a711df391c92b4bf1c30e6f8312422655774b77ce
-Section: AppStore Apps
-Homepage: https://github.com/CydiaBlock/AppStore
-Description: The decrypted ipa file: Asphalt%208%201.4.0.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
-Author: dopaemon <polarisdp@gmail.com>
-Depiction: https://github.com/CydiaBlock/AppStore
-Name: Asphalt 8 v1.4.0 (iOS 5.0)
-Sponsor: dopaemon <polarisdp@gmail.com>
-
-Package: com.gameloft.asphalt8
-Version: 1.7.2
-Architecture: iphoneos-arm
-Maintainer: dopaemon <polarisdp@gmail.com>
-Depends: firmware (>= 5.0), uikittools, appsync
-Filename: ./game/com.gameloft.asphalt8-1.7.2-iOS-5.0.deb
-Size: 1144814314
-MD5sum: 9003b3660a84e7de80dd50eab48beb7e
-SHA1: 80f7537c37ed4a74016743185b75c6a7d39e782c
-SHA256: 8d8d41c4fb0f5ccbb4538b1a4e407be93db81820ff21bb7af563f059182ed231
-Section: AppStore Apps
-Homepage: https://github.com/CydiaBlock/AppStore
-Description: The decrypted ipa file: Asphalt%208-v1.7.2--iOS5.0-(Clutch-1.4.6)_namanh.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
-Author: dopaemon <polarisdp@gmail.com>
-Depiction: https://github.com/CydiaBlock/AppStore
-Name: Asphalt 8 v1.7.2 (iOS 5.0)
-Sponsor: dopaemon <polarisdp@gmail.com>
-
-Package: com.gameloft.AsphaltAudiRS3
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: dopaemon <polarisdp@gmail.com>
-Depends: firmware (>= 3.1.3), uikittools, appsync
-Filename: ./game/com.gameloft.AsphaltAudiRS3-1.0.1-iOS-3.1.3.deb
-Size: 228479630
-MD5sum: a56c890092e779932243e78ae6b0aa5d
-SHA1: 1f18bd5f17a5113935e26e1d3248ce96c07619e1
-SHA256: c79321689d7cb99871b61ce825aed799ae36bef163bf29fb2a68a5623b9f6279
-Section: AppStore Apps
-Homepage: https://github.com/CydiaBlock/AppStore
-Description: The decrypted ipa file: AsphaltAudiRS3-(com.gameloft.AsphaltAudiRS3)-1.0.1-(iOS_3.1.3)-69101d4a34688279b9a21e151fc6ce09.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
-Author: dopaemon <polarisdp@gmail.com>
-Depiction: https://github.com/CydiaBlock/AppStore
-Name: AsphaltAudiRS3 v1.0.1 (iOS 3.1.3)
-Sponsor: dopaemon <polarisdp@gmail.com>
-
-Package: com.gameloft.asphaltexplosion
-Version: 1.0.2
-Architecture: iphoneos-arm
-Maintainer: dopaemon <polarisdp@gmail.com>
-Depends: firmware (>= 6.0), uikittools, appsync
-Filename: ./game/com.gameloft.asphaltexplosion-1.0.2-iOS-6.0.deb
-Size: 87747818
-MD5sum: 93a14abd247a07dc815dc4b3fc2c4b66
-SHA1: 6302d773d62c5a0ec4826a519da8e99b016ba4a8
-SHA256: 2ad29ae2b3b9898d93291ced37e79ed457dd17f2dc6b8b1c74680a9503fc9be4
-Section: AppStore Apps
-Homepage: https://github.com/CydiaBlock/AppStore
-Description: The decrypted ipa file: com.gameloft.asphaltexplosion_1.0.2_ios-6.0_asphalt-o_afb1949f.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
-Author: dopaemon <polarisdp@gmail.com>
-Depiction: https://github.com/CydiaBlock/AppStore
-Name: Asphalt O v1.0.2 (iOS 6.0)
-Sponsor: dopaemon <polarisdp@gmail.com>
-
-Package: com.gameloft.AmazingSpiderMan
-Version: 1.0.3
-Architecture: iphoneos-arm
-Maintainer: dopaemon <polarisdp@gmail.com>
-Depends: firmware (>= 4.0), uikittools, appsync
-Filename: ./game/com.gameloft.AmazingSpiderMan-1.0.3-iOS-4.0.deb
-Size: 824989406
-MD5sum: e30cf5279bc22601f160f65d9e0c84a0
-SHA1: 2f31b0e90d2db49fca7f459263065a2a38d78bed
-SHA256: 2d628c8b58de391a44e99b2f392a5c88f145ef0f3d53d8a6b01c536878ec1980
-Section: AppStore Apps
-Homepage: https://github.com/CydiaBlock/AppStore
-Description: The decrypted ipa file: AmazingSpiderMan_v1.0.3_os40.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
-Author: dopaemon <polarisdp@gmail.com>
-Depiction: https://github.com/CydiaBlock/AppStore
-Name: AmazingSpiderMan v1.0.3 (iOS 4.0)
-Sponsor: dopaemon <polarisdp@gmail.com>
-
-Package: com.gameloft.AssassinsCreed
-Version: 1.3.3
+Package: com.treehouse.1951
+Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 3.0), uikittools, appsync
-Filename: ./game/com.gameloft.AssassinsCreed-1.3.3-iOS-3.0.deb
-Size: 165780100
-MD5sum: 04aae843b16325ccf89d1478f18da6c4
-SHA1: d6940bb8ebcafe7a537aebc1ed0e8e57bff223e4
-SHA256: 39bcbb667cd03323be1881aefd7167f26127ac3390479a6bbf7efd73291f0d20
+Filename: ./application/com.treehouse.1951-1.0-iOS-3.0.deb
+Size: 15627470
+MD5sum: b1affe861d52236a11c11d8f992490e5
+SHA1: dc08158e6a995be4413dca3aaf42850a1dd8e418
+SHA256: bf0b974352ab9146d55b4ed4710bc73804ec4caf791358ec4ac25ad239c483b2
 Section: AppStore Apps
 Homepage: https://github.com/CydiaBlock/AppStore
-Description: The decrypted ipa file: com.gameloft.AssassinsCreed-iOS3.0-(Clutch-2.0.4).ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Description: The decrypted ipa file: 1951_1.0_AppOnly.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
 Author: dopaemon <polarisdp@gmail.com>
 Depiction: https://github.com/CydiaBlock/AppStore
-Name: AssassinsCreed v1.3.3 (iOS 3.0)
+Name: 1951 v1.0 (iOS 3.0)
 Sponsor: dopaemon <polarisdp@gmail.com>
 
-Package: com.gameloft.AssassinsCreediPad
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: dopaemon <polarisdp@gmail.com>
-Depends: firmware (>= 4.3), uikittools, appsync
-Filename: ./game/com.gameloft.AssassinsCreediPad-1.0.1-iOS-4.3.deb
-Size: 273456700
-MD5sum: c7e4a58a77c11dd2801ebb8529373e4d
-SHA1: 30fb2cef23c3121d1da49e83b2374ffb8366d068
-SHA256: b9ed40a7076c62370117e68b1c576c2b86d1367d7b5cbe41684039180caeeb0b
-Section: AppStore Apps
-Homepage: https://github.com/CydiaBlock/AppStore
-Description: The decrypted ipa file: Assassins_Creed_Altairs_Chronicles_HD_1.0.1_namanh.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
-Author: dopaemon <polarisdp@gmail.com>
-Depiction: https://github.com/CydiaBlock/AppStore
-Name: Assassins Creed HD v1.0.1 (iOS 4.3)
-Sponsor: dopaemon <polarisdp@gmail.com>
-
-Package: com.gameloft.AVATAR
-Version: 1.4.9
-Architecture: iphoneos-arm
-Maintainer: dopaemon <polarisdp@gmail.com>
-Depends: firmware (>= 3.1.3), uikittools, appsync
-Filename: ./game/com.gameloft.AVATAR-1.4.9-iOS-3.1.3.deb
-Size: 203080708
-MD5sum: 35da62a7aaaadd2e5f8ec8f9f4ffd17b
-SHA1: c7022cab621d71f9a722a94641d702821490fd65
-SHA256: a46c45dfe4ecf572264b190768ecc91e33391768da6e79beb0215b4b6d153940
-Section: AppStore Apps
-Homepage: https://github.com/CydiaBlock/AppStore
-Description: The decrypted ipa file: AVATAR_v1.4.9_os313.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
-Author: dopaemon <polarisdp@gmail.com>
-Depiction: https://github.com/CydiaBlock/AppStore
-Name: AVATAR v1.4.9 (iOS 3.1.3)
-Sponsor: dopaemon <polarisdp@gmail.com>
-
-Package: com.gameloft.AVATARiPad
-Version: 1.1.0
-Architecture: iphoneos-arm
-Maintainer: dopaemon <polarisdp@gmail.com>
-Depends: firmware (>= 3.2), uikittools, appsync
-Filename: ./game/com.gameloft.AVATARiPad-1.1.0-iOS-3.2.deb
-Size: 211245234
-MD5sum: 411bd5aa6b6571319ee2ebc4a2c3a198
-SHA1: d758f39de40cff72907ad016414af09a491797ed
-SHA256: cbf2922f0364defbfa06e3f895f00af9e4bfae78bfedd56f4ff58a3b819051f7
-Section: AppStore Apps
-Homepage: https://github.com/CydiaBlock/AppStore
-Description: The decrypted ipa file: AVATARiPad_v1.1.0_os32_namanh.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
-Author: dopaemon <polarisdp@gmail.com>
-Depiction: https://github.com/CydiaBlock/AppStore
-Name: AVATARiPad v1.1.0 (iOS 3.2)
-Sponsor: dopaemon <polarisdp@gmail.com>
-
-Package: com.gameloft.BIA2ipad
-Version: 1.0.2
-Architecture: iphoneos-arm
-Maintainer: dopaemon <polarisdp@gmail.com>
-Depends: firmware (>= 3.2), uikittools, appsync
-Filename: ./game/com.gameloft.BIA2ipad-1.0.2-iOS-3.2.deb
-Size: 264084480
-MD5sum: 7e3a914c1dc93547af8efe3d027567cd
-SHA1: 66ae13868ac47150ac75671168e92992f9e23eea
-SHA256: 515614856d71cb43f86195b829304400cec38e3fe34069a268b27e4a28f47563
-Section: AppStore Apps
-Homepage: https://github.com/CydiaBlock/AppStore
-Description: The decrypted ipa file: BIA2HD_v1.0.2_os32_namanh.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
-Author: dopaemon <polarisdp@gmail.com>
-Depiction: https://github.com/CydiaBlock/AppStore
-Name: BIA2HD v1.0.2 (iOS 3.2)
-Sponsor: dopaemon <polarisdp@gmail.com>
-
-Package: com.gameloft.BIA2
-Version: 1.1.3
-Architecture: iphoneos-arm
-Maintainer: dopaemon <polarisdp@gmail.com>
-Depends: firmware (>= 3.1.2), uikittools, appsync
-Filename: ./game/com.gameloft.BIA2-1.1.3-iOS-3.1.2.deb
-Size: 266806438
-MD5sum: 1dc096f0c42b85b1a7240d23d683bf34
-SHA1: 95d18e2a57bfe83501cbf81e6b329bba64811328
-SHA256: db9aeca6541b9fe95daa0aece71b2cf079e552bf6132cd8f2900feaf369b8d8b
-Section: AppStore Apps
-Homepage: https://github.com/CydiaBlock/AppStore
-Description: The decrypted ipa file: com.gameloft.BIA2-iOS3.1.2-(Clutch-2.0.4).ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
-Author: dopaemon <polarisdp@gmail.com>
-Depiction: https://github.com/CydiaBlock/AppStore
-Name: BIA2 v1.1.3 (iOS 3.1.2)
-Sponsor: dopaemon <polarisdp@gmail.com>
-
-Package: com.gameloft.bia3
-Version: 1.4.0
-Architecture: iphoneos-arm
-Maintainer: dopaemon <polarisdp@gmail.com>
-Depends: firmware (>= 6.0), uikittools, appsync
-Filename: ./game/com.gameloft.bia3-1.4.0-iOS-6.0.deb
-Size: 827118718
-MD5sum: 7aaf486b5d77cb68b3c7c9eaa3f8d6d3
-SHA1: 5ccb121e835ec7c2e9ab533b5fceda532461f26d
-SHA256: cfdeb757d2e7f02bac8eb031545ce01518fba02aab01ab6ee430831a5f16a0fb
-Section: AppStore Apps
-Homepage: https://github.com/CydiaBlock/AppStore
-Description: The decrypted ipa file: com.gameloft.bia3_namanh.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
-Author: dopaemon <polarisdp@gmail.com>
-Depiction: https://github.com/CydiaBlock/AppStore
-Name: bia3 v1.4.0 (iOS 6.0)
-Sponsor: dopaemon <polarisdp@gmail.com>
-
-Package: com.gameloft.gangstar4
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: dopaemon <polarisdp@gmail.com>
-Depends: firmware (>= 5.0), uikittools, appsync
-Filename: ./game/com.gameloft.gangstar4-1.0.0-iOS-5.0.deb
-Size: 1392494718
-MD5sum: 301ddc3017bafe7df135a13b26e0ee3c
-SHA1: ba15a332451c107254a821c0adcc042916ad5893
-SHA256: ea30c5701a43302188e18c3dc9c411bc074f2cd726fe0585f9e68c179d4f9fef
-Section: AppStore Apps
-Homepage: https://github.com/CydiaBlock/AppStore
-Description: The decrypted ipa file: gangstar4-(com.gameloft.gangstar4)-1.0.0-(iOS_5.0)-4487b3ee852a3bd071064020040a05df.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
-Author: dopaemon <polarisdp@gmail.com>
-Depiction: https://github.com/CydiaBlock/AppStore
-Name: gangstar4 v1.0.0 (iOS 5.0)
-Sponsor: dopaemon <polarisdp@gmail.com>
 
