@@ -414939,7 +414939,7 @@ Version: 1.03
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 5.0), uikittools, appsync
-Filename: ./application/com.FireproofStudios.TheRoom-1.03-iOS-5.0.deb
+Filename: ./game/com.FireproofStudios.TheRoom-1.03-iOS-5.0.deb
 Size: 176137200
 MD5sum: 804e8be50aaee7e45934e874f525baa2
 SHA1: 9cc9bb7ee54a00196fd78163bbf49e846446afcc
@@ -414957,7 +414957,7 @@ Version: 1.04
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 5.1.1), uikittools, appsync
-Filename: ./application/com.FireproofStudios.TheRoom-1.04-iOS-5.1.1.deb
+Filename: ./game/com.FireproofStudios.TheRoom-1.04-iOS-5.1.1.deb
 Size: 180914232
 MD5sum: 51011772a03c22afcbf6e03629e13fec
 SHA1: 6b3ae8b633134b0a5731502455149534f194b859
@@ -414975,7 +414975,7 @@ Version: 6
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 5.1.1), uikittools, appsync
-Filename: ./application/com.FireproofStudios.TheRoom2-6-iOS-5.1.1.deb
+Filename: ./game/com.FireproofStudios.TheRoom2-6-iOS-5.1.1.deb
 Size: 310950622
 MD5sum: 0039f536a76ca50d79e43a7529370f96
 SHA1: 4031e39fdb9b3344d4732234b54cc5b15d168d27
@@ -414993,7 +414993,7 @@ Version: 8
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 5.1.1), uikittools, appsync
-Filename: ./application/com.FireproofStudios.TheRoom3-8-iOS-5.1.1.deb
+Filename: ./game/com.FireproofStudios.TheRoom3-8-iOS-5.1.1.deb
 Size: 571069710
 MD5sum: f84942a03e72e01c0baca87bf2e3fa70
 SHA1: 8d5acb5d3899736c182032ee56dfef693156c3a8
@@ -415011,7 +415011,7 @@ Version: 0.3
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 5.1), uikittools, appsync
-Filename: ./application/com.FireproofStudios.TheRoomiPhone-0.3-iOS-5.1.deb
+Filename: ./game/com.FireproofStudios.TheRoomiPhone-0.3-iOS-5.1.deb
 Size: 141840046
 MD5sum: e17b871b63c8752b1be4599c65c7581f
 SHA1: 094b457fdb3a0e90e75bfa8d7e48998f851b5a40
@@ -415029,7 +415029,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 3.0), uikittools, appsync
-Filename: ./application/com.afoli.pikachu-1.0-iOS-3.0.deb
+Filename: ./game/com.afoli.pikachu-1.0-iOS-3.0.deb
 Size: 3216234
 MD5sum: 227769a9f8988ebc7915207d77a0c647
 SHA1: 50a5941ca8f4e3abfc344cb0ab60b6edfc3d832e
@@ -415047,7 +415047,7 @@ Version: 2.3.2
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 4.3), uikittools, appsync
-Filename: ./application/com.chillingo.cuttherope-2.3.2-iOS-4.3.deb
+Filename: ./game/com.chillingo.cuttherope-2.3.2-iOS-4.3.deb
 Size: 28653188
 MD5sum: 474b016c53457a550f91ea0e5ea35bcb
 SHA1: a3e96bae16eaaf35fd12bbaaaa92dd689ac0cb3f
@@ -415065,7 +415065,7 @@ Version: 2.5
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 5.0), uikittools, appsync
-Filename: ./application/com.chillingo.cuttherope-2.5-iOS-5.0.deb
+Filename: ./game/com.chillingo.cuttherope-2.5-iOS-5.0.deb
 Size: 42212512
 MD5sum: 77b5fdeccc1d42c6b919b3347eb7eea4
 SHA1: ca7f8c35253c736eb55bb541b39d51238091949e
@@ -415083,7 +415083,7 @@ Version: 2.6
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 6.0), uikittools, appsync
-Filename: ./application/com.chillingo.cuttherope-2.6-iOS-6.0.deb
+Filename: ./game/com.chillingo.cuttherope-2.6-iOS-6.0.deb
 Size: 43284172
 MD5sum: 039a473760a6a23eb08aefd18f68ed77
 SHA1: 736002aed434cae0326cdc8f65387c00c48f44d9
@@ -415101,7 +415101,7 @@ Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: dopaemon <actions@github.com>
 Depends: firmware (>= 6.0), uikittools, appsync
-Filename: ./application/com.dotgears.flap-1.0.0-iOS-6.0.deb
+Filename: ./game/com.dotgears.flap-1.0.0-iOS-6.0.deb
 Size: 1403834
 MD5sum: eb143054b30012ee23edb0b4cd444fb6
 SHA1: b853ae7e024c92d7b7a8605f88e745a18edd51cb
@@ -415119,7 +415119,7 @@ Version: 1.0.3
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 5.1), uikittools, appsync
-Filename: ./application/com.gameloft.9mm-1.0.3-iOS-5.1.deb
+Filename: ./game/com.gameloft.9mm-1.0.3-iOS-5.1.deb
 Size: 753905952
 MD5sum: 3c599c2fca1cff81bf25056fed28125e
 SHA1: d654c2c7215337bc12a46cd613e9ee93a4385c1e
@@ -415137,7 +415137,7 @@ Version: 1.3.8
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 2.1), uikittools, appsync
-Filename: ./application/com.gameloft.ASPHALT4-1.3.8-iOS-2.1.deb
+Filename: ./game/com.gameloft.ASPHALT4-1.3.8-iOS-2.1.deb
 Size: 91251554
 MD5sum: 0f5e3a1b3cf6bd71c009601f830dbeb4
 SHA1: 012e2dba9894aa153a77a5a6a1d709edd570f261
@@ -415155,7 +415155,7 @@ Version: 1.4.9
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 3.1.3), uikittools, appsync
-Filename: ./application/com.gameloft.AVATAR-1.4.9-iOS-3.1.3.deb
+Filename: ./game/com.gameloft.AVATAR-1.4.9-iOS-3.1.3.deb
 Size: 203080708
 MD5sum: 35da62a7aaaadd2e5f8ec8f9f4ffd17b
 SHA1: c7022cab621d71f9a722a94641d702821490fd65
@@ -415173,7 +415173,7 @@ Version: 1.1.0
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 3.2), uikittools, appsync
-Filename: ./application/com.gameloft.AVATARiPad-1.1.0-iOS-3.2.deb
+Filename: ./game/com.gameloft.AVATARiPad-1.1.0-iOS-3.2.deb
 Size: 211245234
 MD5sum: 411bd5aa6b6571319ee2ebc4a2c3a198
 SHA1: d758f39de40cff72907ad016414af09a491797ed
@@ -415191,7 +415191,7 @@ Version: 1.0.3
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 4.0), uikittools, appsync
-Filename: ./application/com.gameloft.AmazingSpiderMan-1.0.3-iOS-4.0.deb
+Filename: ./game/com.gameloft.AmazingSpiderMan-1.0.3-iOS-4.0.deb
 Size: 824989406
 MD5sum: e30cf5279bc22601f160f65d9e0c84a0
 SHA1: 2f31b0e90d2db49fca7f459263065a2a38d78bed
@@ -415209,7 +415209,7 @@ Version: 1.2.6
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 3.0), uikittools, appsync
-Filename: ./application/com.gameloft.Asphalt5-1.2.6-iOS-3.0.deb
+Filename: ./game/com.gameloft.Asphalt5-1.2.6-iOS-3.0.deb
 Size: 279858036
 MD5sum: 14e2fac30bacb8fc8c98b0a9c4a5cffd
 SHA1: 258954842158152c3703688288d9e53f6738e27a
@@ -415227,7 +415227,7 @@ Version: 1.1.1
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 3.2), uikittools, appsync
-Filename: ./application/com.gameloft.Asphalt5iPad-1.1.1-iOS-3.2.deb
+Filename: ./game/com.gameloft.Asphalt5iPad-1.1.1-iOS-3.2.deb
 Size: 363971446
 MD5sum: d93a0f9c0e1e452c000d35016c6cefb5
 SHA1: 99395e3d5898310f0cdbd923453a44df848a642c
@@ -415245,7 +415245,7 @@ Version: 1.5.1
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 3.2), uikittools, appsync
-Filename: ./application/com.gameloft.Asphalt6ipad-1.5.1-iOS-3.2.deb
+Filename: ./game/com.gameloft.Asphalt6ipad-1.5.1-iOS-3.2.deb
 Size: 909985144
 MD5sum: e9f58fc5aecc70d5020c2664242d904a
 SHA1: 9e8b8ceec368a17e582b14d9bd077b6d489fbcd4
@@ -415263,7 +415263,7 @@ Version: 1.8.1
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 5.0), uikittools, appsync
-Filename: ./application/com.gameloft.Asphalt7-1.8.1-iOS-5.0.deb
+Filename: ./game/com.gameloft.Asphalt7-1.8.1-iOS-5.0.deb
 Size: 1404837484
 MD5sum: 563f7dab1205f9101037cf29c77ee60b
 SHA1: 293d3fce3f87039f0e31e39cd2c1aaafb2a6c3de
@@ -415281,7 +415281,7 @@ Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 3.1.3), uikittools, appsync
-Filename: ./application/com.gameloft.AsphaltAudiRS3-1.0.1-iOS-3.1.3.deb
+Filename: ./game/com.gameloft.AsphaltAudiRS3-1.0.1-iOS-3.1.3.deb
 Size: 228479630
 MD5sum: a56c890092e779932243e78ae6b0aa5d
 SHA1: 1f18bd5f17a5113935e26e1d3248ce96c07619e1
@@ -415299,7 +415299,7 @@ Version: 1.3.3
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 3.0), uikittools, appsync
-Filename: ./application/com.gameloft.AssassinsCreed-1.3.3-iOS-3.0.deb
+Filename: ./game/com.gameloft.AssassinsCreed-1.3.3-iOS-3.0.deb
 Size: 165780100
 MD5sum: 04aae843b16325ccf89d1478f18da6c4
 SHA1: d6940bb8ebcafe7a537aebc1ed0e8e57bff223e4
@@ -415317,7 +415317,7 @@ Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 4.3), uikittools, appsync
-Filename: ./application/com.gameloft.AssassinsCreediPad-1.0.1-iOS-4.3.deb
+Filename: ./game/com.gameloft.AssassinsCreediPad-1.0.1-iOS-4.3.deb
 Size: 273456700
 MD5sum: c7e4a58a77c11dd2801ebb8529373e4d
 SHA1: 30fb2cef23c3121d1da49e83b2374ffb8366d068
@@ -415335,7 +415335,7 @@ Version: 1.3.5
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 3.1.2), uikittools, appsync
-Filename: ./application/com.gameloft.BIA-1.3.5-iOS-3.1.2.deb
+Filename: ./game/com.gameloft.BIA-1.3.5-iOS-3.1.2.deb
 Size: 91113258
 MD5sum: cfc87b0a173c4039ea5d1023955ed020
 SHA1: 623ef467c90f149f8a7dc2f32a367a78eb2735eb
@@ -415353,7 +415353,7 @@ Version: 1.1.3
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 3.1.2), uikittools, appsync
-Filename: ./application/com.gameloft.BIA2-1.1.3-iOS-3.1.2.deb
+Filename: ./game/com.gameloft.BIA2-1.1.3-iOS-3.1.2.deb
 Size: 266806438
 MD5sum: 1dc096f0c42b85b1a7240d23d683bf34
 SHA1: 95d18e2a57bfe83501cbf81e6b329bba64811328
@@ -415371,7 +415371,7 @@ Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 3.2), uikittools, appsync
-Filename: ./application/com.gameloft.BIA2ipad-1.0.2-iOS-3.2.deb
+Filename: ./game/com.gameloft.BIA2ipad-1.0.2-iOS-3.2.deb
 Size: 264084480
 MD5sum: 7e3a914c1dc93547af8efe3d027567cd
 SHA1: 66ae13868ac47150ac75671168e92992f9e23eea
@@ -415389,7 +415389,7 @@ Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 3.1.3), uikittools, appsync
-Filename: ./application/com.gameloft.BackStab-1.0.0-iOS-3.1.3.deb
+Filename: ./game/com.gameloft.BackStab-1.0.0-iOS-3.1.3.deb
 Size: 609553076
 MD5sum: 6a209531eac7b3ceef5d2af1abb57a3f
 SHA1: a44cbc8e0bf2df08234e98bcafc59e62b2cd2516
@@ -415407,7 +415407,7 @@ Version: 1.1.3
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 2.2.1), uikittools, appsync
-Filename: ./application/com.gameloft.BladesOfFury-1.1.3-iOS-2.2.1.deb
+Filename: ./game/com.gameloft.BladesOfFury-1.1.3-iOS-2.2.1.deb
 Size: 125795498
 MD5sum: 6028f6dd6ce06cd9d483e5f1e805374c
 SHA1: da5966e1a3f68c4df16fdf011abb1c3f92d5d143
@@ -415425,7 +415425,7 @@ Version: 1.1.4
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 2.2.1), uikittools, appsync
-Filename: ./application/com.gameloft.OneVsHundred-1.1.4-iOS-2.2.1.deb
+Filename: ./game/com.gameloft.OneVsHundred-1.1.4-iOS-2.2.1.deb
 Size: 102797208
 MD5sum: c0f36f450c4eaa06e0673c57ebc6ca27
 SHA1: c193fbd0c13b8a0956546e91fc835f6b6fb79938
@@ -415443,7 +415443,7 @@ Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 5.0), uikittools, appsync
-Filename: ./application/com.gameloft.asphalt8-1.0.0-iOS-5.0.deb
+Filename: ./game/com.gameloft.asphalt8-1.0.0-iOS-5.0.deb
 Size: 878462642
 MD5sum: b79afa201e44f829b9dbe627373b77f2
 SHA1: af57e68e602ae47d7f5045be1d891fd7d083efde
@@ -415461,7 +415461,7 @@ Version: 1.4.0
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 5.0), uikittools, appsync
-Filename: ./application/com.gameloft.asphalt8-1.4.0-iOS-5.0.deb
+Filename: ./game/com.gameloft.asphalt8-1.4.0-iOS-5.0.deb
 Size: 862261194
 MD5sum: 7c28399ebe568f63ba37a13e5cd388c5
 SHA1: f7ba7ea675aa19146caccdec2679978fbda6780d
@@ -415479,7 +415479,7 @@ Version: 1.7.2
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 5.0), uikittools, appsync
-Filename: ./application/com.gameloft.asphalt8-1.7.2-iOS-5.0.deb
+Filename: ./game/com.gameloft.asphalt8-1.7.2-iOS-5.0.deb
 Size: 1144814314
 MD5sum: 9003b3660a84e7de80dd50eab48beb7e
 SHA1: 80f7537c37ed4a74016743185b75c6a7d39e782c
@@ -415497,7 +415497,7 @@ Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 6.0), uikittools, appsync
-Filename: ./application/com.gameloft.asphaltexplosion-1.0.2-iOS-6.0.deb
+Filename: ./game/com.gameloft.asphaltexplosion-1.0.2-iOS-6.0.deb
 Size: 87747818
 MD5sum: 93a14abd247a07dc815dc4b3fc2c4b66
 SHA1: 6302d773d62c5a0ec4826a519da8e99b016ba4a8
@@ -415515,7 +415515,7 @@ Version: 1.4.0
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 6.0), uikittools, appsync
-Filename: ./application/com.gameloft.bia3-1.4.0-iOS-6.0.deb
+Filename: ./game/com.gameloft.bia3-1.4.0-iOS-6.0.deb
 Size: 827118718
 MD5sum: 7aaf486b5d77cb68b3c7c9eaa3f8d6d3
 SHA1: 5ccb121e835ec7c2e9ab533b5fceda532461f26d
@@ -415533,7 +415533,7 @@ Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 5.0), uikittools, appsync
-Filename: ./application/com.gameloft.gangstar4-1.0.0-iOS-5.0.deb
+Filename: ./game/com.gameloft.gangstar4-1.0.0-iOS-5.0.deb
 Size: 1392494718
 MD5sum: 301ddc3017bafe7df135a13b26e0ee3c
 SHA1: ba15a332451c107254a821c0adcc042916ad5893
@@ -415551,7 +415551,7 @@ Version: 1.5.0
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 6.0), uikittools, appsync
-Filename: ./application/com.gameloft.gangstar4-1.5.0-iOS-6.0.deb
+Filename: ./game/com.gameloft.gangstar4-1.5.0-iOS-6.0.deb
 Size: 1291526390
 MD5sum: 9626a7861c8011b164d70ae7f9ddc084
 SHA1: 7108195d1c9a44ca5488cc9cc0307f0997cb4241
@@ -415569,7 +415569,7 @@ Version: 1170
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 6.0), uikittools, appsync
-Filename: ./application/com.glu.ewarriors4-1170-iOS-6.0.deb
+Filename: ./game/com.glu.ewarriors4-1170-iOS-6.0.deb
 Size: 176072564
 MD5sum: 13d47fae59c554e697e231e1b82e936a
 SHA1: 0229e0778c48bec0243bcc062db5804d380854cf
@@ -415587,7 +415587,7 @@ Version: 121
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 5.0), uikittools, appsync
-Filename: ./application/com.hzapptech.tetris-lite-121-iOS-5.0.deb
+Filename: ./game/com.hzapptech.tetris-lite-121-iOS-5.0.deb
 Size: 18886518
 MD5sum: 517d88e604609ab10ae6f0e726df8bc7
 SHA1: 04a32e70c0e267954e9e7c7a2f77c591fa9e6ec5
@@ -415605,7 +415605,7 @@ Version: 1.4
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 4.3), uikittools, appsync
-Filename: ./application/com.ketchapp.2048-1.4-iOS-4.3.deb
+Filename: ./game/com.ketchapp.2048-1.4-iOS-4.3.deb
 Size: 2170342
 MD5sum: 5e855da17d4a205d228ba845ddf2d8a5
 SHA1: 5fb5ff860029b5ada3d49e1ad2bea0660de1e231
@@ -415623,7 +415623,7 @@ Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 2.0), uikittools, appsync
-Filename: ./application/com.masq.321jump-2.0-iOS-2.0.deb
+Filename: ./game/com.masq.321jump-2.0-iOS-2.0.deb
 Size: 4612768
 MD5sum: b9620bda9e34182a49075475dec32aa8
 SHA1: dc0898d8c9679d5f4749b7a49c2223c66de7c44b
@@ -415641,7 +415641,7 @@ Version: 1.10.1
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 4.3), uikittools, appsync
-Filename: ./application/com.ndemiccreations.plagueinc-1.10.1-iOS-4.3.deb
+Filename: ./game/com.ndemiccreations.plagueinc-1.10.1-iOS-4.3.deb
 Size: 52995418
 MD5sum: 414ab4f9243944818e4ca568e2384a23
 SHA1: 11ef9d32adfde80a1b85a647f044b0c82aae7e02
@@ -415659,7 +415659,7 @@ Version: 1.12.6
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 6.0), uikittools, appsync
-Filename: ./application/com.ndemiccreations.plagueinc-1.12.6-iOS-6.0.deb
+Filename: ./game/com.ndemiccreations.plagueinc-1.12.6-iOS-6.0.deb
 Size: 55149338
 MD5sum: 0aed6c113a2449c3ba50b2b9788c3a46
 SHA1: 16c6bd459f3d8009bcd7e6776e828a504e8f760d
@@ -415677,7 +415677,7 @@ Version: 13454
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 4.3), uikittools, appsync
-Filename: ./application/com.ninjakiwi.bloonstd5-13454-iOS-4.3.deb
+Filename: ./game/com.ninjakiwi.bloonstd5-13454-iOS-4.3.deb
 Size: 93077588
 MD5sum: 7172c13412fa10a55329fe8fb8ac65d2
 SHA1: b30d32a2bd5152b9ef3f1123279d3c6b051a4f99
@@ -415695,7 +415695,7 @@ Version: 20421
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 6.0), uikittools, appsync
-Filename: ./application/com.ninjakiwi.bloonstd5-20421-iOS-6.0.deb
+Filename: ./game/com.ninjakiwi.bloonstd5-20421-iOS-6.0.deb
 Size: 91839770
 MD5sum: 351a9991fd4c3d8abbff449ee483e696
 SHA1: e63c8b5e1371f91899a1130a0ed32c8de47ac4cf
@@ -415713,7 +415713,7 @@ Version: 13198
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 4.3), uikittools, appsync
-Filename: ./application/com.ninjakiwi.bloonstd5hd-13198-iOS-4.3.deb
+Filename: ./game/com.ninjakiwi.bloonstd5hd-13198-iOS-4.3.deb
 Size: 237304478
 MD5sum: bad645189575e02a362ed5cb1bbbbc48
 SHA1: 19540c263397ad814e46c1dd56543381e38a608c
@@ -415731,7 +415731,7 @@ Version: 1.0.6
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 5.0), uikittools, appsync
-Filename: ./application/com.nordcurrent.101in1HD-1.0.6-iOS-5.0.deb
+Filename: ./game/com.nordcurrent.101in1HD-1.0.6-iOS-5.0.deb
 Size: 224201134
 MD5sum: c4f510a752e0c54b749e2de7b3810ea8
 SHA1: bce49fe0219f6fbe002ca89b04a933a871514573
@@ -415749,7 +415749,7 @@ Version: 1
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 6.0), uikittools, appsync
-Filename: ./application/com.nordicgames.nfh-1-iOS-6.0.deb
+Filename: ./game/com.nordicgames.nfh-1-iOS-6.0.deb
 Size: 299862956
 MD5sum: 30e6bc52e88a850d0d013d05dd55a8f1
 SHA1: 8f732a4e0e24cf16f3b4c98c1e94b03b82d27264
@@ -415767,7 +415767,7 @@ Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 4.1), uikittools, appsync
-Filename: ./application/com.outfit7.talkinggina-2.0-iOS-4.1.deb
+Filename: ./game/com.outfit7.talkinggina-2.0-iOS-4.1.deb
 Size: 41826700
 MD5sum: bb7f621a1b011becf1e29cae225111a5
 SHA1: e7d486e5e5da5230eaec399ad4f6464202f1a9f3
@@ -415785,7 +415785,7 @@ Version: 4111.1.32
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 5.1.1), uikittools, appsync
-Filename: ./application/com.popcap.PvZiPad-4111.1.32-iOS-5.1.1.deb
+Filename: ./game/com.popcap.PvZiPad-4111.1.32-iOS-5.1.1.deb
 Size: 154278748
 MD5sum: 7a379cc851f3069212d7769d5a7ac312
 SHA1: f31a73b802d2c9040d2765382d54e140f488f1fc
@@ -415803,7 +415803,7 @@ Version: 1.3
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 4.3), uikittools, appsync
-Filename: ./application/com.rockstargames.gta3vc-1.3-iOS-4.3.deb
+Filename: ./game/com.rockstargames.gta3vc-1.3-iOS-4.3.deb
 Size: 923405350
 MD5sum: d2d96abf44e6e0453e00328700255ef2
 SHA1: f36c4639dae2636ac02c1d61c1dbe05868fc61f5
@@ -415821,7 +415821,7 @@ Version: 1.5.1
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 5.1.1), uikittools, appsync
-Filename: ./application/com.rockstargames.gta3vc-1.5.1-iOS-5.1.1.deb
+Filename: ./game/com.rockstargames.gta3vc-1.5.1-iOS-5.1.1.deb
 Size: 923935922
 MD5sum: 4ad6c6e7d6000a9e520a3efd9c67c3e7
 SHA1: 640ad2b82d97d9779d2c5ee36367b66a21231b89
@@ -415839,7 +415839,7 @@ Version: 13
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 6.0), uikittools, appsync
-Filename: ./application/net.mobigame.ZombieCarnaval-13-iOS-6.0.deb
+Filename: ./game/net.mobigame.ZombieCarnaval-13-iOS-6.0.deb
 Size: 57080082
 MD5sum: 3fba39ad0647edb4c5522a936c229831
 SHA1: 702ef5dea5569cb13b168695b3807a21fbef224a
@@ -415857,7 +415857,7 @@ Version: 14
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 6.0), uikittools, appsync
-Filename: ./application/net.mobigame.ZombieCarnaval-14-iOS-6.0.deb
+Filename: ./game/net.mobigame.ZombieCarnaval-14-iOS-6.0.deb
 Size: 68050474
 MD5sum: 609fce38a1cb9b79e0c30f293eb2e055
 SHA1: a4a6986307cfac63ee7b47cca7213f4fec992983
@@ -415875,7 +415875,7 @@ Version: 1929
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 5.0), uikittools, appsync
-Filename: ./application/com.apple.iBooks-1929-iOS-5.0.deb
+Filename: ./game/com.apple.iBooks-1929-iOS-5.0.deb
 Size: 29762498
 MD5sum: 735a1dd350e73eb843523b0a9b02ed37
 SHA1: 8c9b2efa8df0b0a5fe5fcf39e58ee0cc50607a25
@@ -415893,7 +415893,7 @@ Version: 1.3.8
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 3.1.3), uikittools, appsync
-Filename: ./application/com.gameloft.Asphalt6-1.3.8-iOS-3.1.3.deb
+Filename: ./game/com.gameloft.Asphalt6-1.3.8-iOS-3.1.3.deb
 Size: 617744958
 MD5sum: 4dee29062388ad678b1c103dd900968a
 SHA1: 402cc17c798cf7cd6724d00f0654b55467a9441c
@@ -415911,7 +415911,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 3.0), uikittools, appsync
-Filename: ./application/com.treehouse.1951-1.0-iOS-3.0.deb
+Filename: ./game/com.treehouse.1951-1.0-iOS-3.0.deb
 Size: 15627470
 MD5sum: b1affe861d52236a11c11d8f992490e5
 SHA1: dc08158e6a995be4413dca3aaf42850a1dd8e418
@@ -415929,7 +415929,7 @@ Version: 4.3.51252
 Architecture: iphoneos-arm
 Maintainer: dopaemon <polarisdp@gmail.com>
 Depends: firmware (>= 6.0), uikittools, appsync
-Filename: ./application/com.google.Maps-4.3.51252-iOS-6.0.deb
+Filename: ./game/com.google.Maps-4.3.51252-iOS-6.0.deb
 Size: 20313054
 MD5sum: 65062ba9ac2ca85471cfa2df2dadddee
 SHA1: 30f4d37b6d0c5054722e359ce8d3eba576eb5c16
@@ -415940,5 +415940,41 @@ Description: The decrypted ipa file: GoogleMapsClassic.ipa converted to .deb aut
 Author: dopaemon <polarisdp@gmail.com>
 Depiction: https://github.com/CydiaBlock/AppStore
 Name: Google Maps v4.3.51252 (iOS 6.0)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
+Package: com.gameloft.HOS2
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 3.1.3), uikittools, appsync
+Filename: ./game/com.gameloft.HOS2-1.0.3-iOS-3.1.3.deb
+Size: 341415786
+MD5sum: d75f5a425f38fd7c7d09da483d6e8285
+SHA1: a583a028cc6f4c65974e1e6a7f66fad0c404564f
+SHA256: c3ac6e415b880b82d9a3cddcf6e424b418299826a411c80092f5fd921bb1dd93
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: Hero%20of%20Sparta%202%20v1.0.3.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: HOS2 v1.0.3 (iOS 3.1.3)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
+Package: com.chairentertainment.IB2
+Version: 9714.140
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 6.0), uikittools, appsync
+Filename: ./game/com.chairentertainment.IB2-9714.140-iOS-6.0.deb
+Size: 1109572632
+MD5sum: 1e6cc98501e0e9f7bc77466d5bab886e
+SHA1: 148508a0332243e1342d02e7194f75b76dd513c3
+SHA256: df4ee5cb381251b2c7f87f9219ab70674f99ef19a4233087b72cc2ed81213043
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: InfinityBlade%202%20v1.3.5--iOS6.0-%28Clutch-1.4.6%29.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: InfinityBlade2 v9714.140 (iOS 6.0)
 Sponsor: dopaemon <polarisdp@gmail.com>
 
