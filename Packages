@@ -416176,3 +416176,21 @@ Depiction: https://github.com/CydiaBlock/AppStore
 Name: Talking Tom 2 v5.0.1 (iOS 6.0)
 Sponsor: dopaemon <polarisdp@gmail.com>
 
+Package: com.gameloft.GuitarRockTour
+Version: 1.3.7
+Architecture: iphoneos-arm
+Maintainer: dopaemon <polarisdp@gmail.com>
+Depends: firmware (>= 2.2.1), uikittools, appsync
+Filename: ./game/com.gameloft.GuitarRockTour-1.3.7-iOS-2.2.1.deb
+Size: 163281484
+MD5sum: 70ab72ceb30b23862290f7ed06c792b3
+SHA1: d36978241f8d9051a1637234a6cdb5116d0be012
+SHA256: c0de95493e02cb664acf70773da78b9b61717da0f6573b89185cac43a70dfe5a
+Section: AppStore Apps
+Homepage: https://github.com/CydiaBlock/AppStore
+Description: The decrypted ipa file: Guitar%20Rock%20Tour%201.3.7.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: dopaemon <polarisdp@gmail.com>
+Depiction: https://github.com/CydiaBlock/AppStore
+Name: Guitar Rock Tour v1.3.7 (iOS 2.2.1)
+Sponsor: dopaemon <polarisdp@gmail.com>
+
