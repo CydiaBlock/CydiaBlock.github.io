@@ -384703,7 +384703,7 @@ Package: Tomkids.DaoVang
 Version: 2.2
 Architecture: iphoneos-arm
 Maintainer: Unknown
-Filename: package_debian_C5/Tomkids.DaoVang_2.2_iphoneos-arm.deb
+Filename: package_debian_C5/Tomkids..Game.DaoVang_2.2_iphoneos-arm.deb
 Size: 11376764
 MD5sum: 5c44ee9d8fc4a37dcc936e2a6549f9a3
 SHA1: 53661a84ae3276be60dff9168c540840ae5bbff4
@@ -384720,7 +384720,7 @@ Package: Tomkids.DaoVang
 Version: 2.2
 Architecture: iphoneos-arm
 Maintainer: Unknown
-Filename: package_debian_C5/Tomkids..Game.DaoVang_2.2_iphoneos-arm.deb
+Filename: package_debian_C5/Tomkids.DaoVang_2.2_iphoneos-arm.deb
 Size: 11376764
 MD5sum: 5c44ee9d8fc4a37dcc936e2a6549f9a3
 SHA1: 53661a84ae3276be60dff9168c540840ae5bbff4
@@ -385185,11 +385185,11 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: package_debian_C5/tomkids.weepreferenceloader_1.1_iphoneos-arm.deb
-Size: 34568
-MD5sum: cef1b082bc028c22ae0eda383df0e491
-SHA1: f7e773071127ebc8910ca86b1f69b01301aa9f6e
-SHA256: 7ed9065b10acfd0d58c7ac01b69cd921639dc881f4b7087970d9f44ee455117a
+Filename: package_debian_C5/tomkids.com.arichardson.weepreferenceloader_1.1_iphoneos-arm.deb
+Size: 34562
+MD5sum: 1deaeb81dd1dcd9fe7f9521fa8be6524
+SHA1: 10b0ecae5a95031c1f7485e6e735ba64779fcf79
+SHA256: 4971aec5462de7fba3593fb18bf6091d9c40ef59e48d57725eedea95bb71cb7d
 Section: Tweaks
 Priority: extra
 Homepage: http://modmyi.com/info/weepreferenceloader.php
@@ -385204,11 +385204,11 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: package_debian_C5/tomkids.com.arichardson.weepreferenceloader_1.1_iphoneos-arm.deb
-Size: 34562
-MD5sum: 1deaeb81dd1dcd9fe7f9521fa8be6524
-SHA1: 10b0ecae5a95031c1f7485e6e735ba64779fcf79
-SHA256: 4971aec5462de7fba3593fb18bf6091d9c40ef59e48d57725eedea95bb71cb7d
+Filename: package_debian_C5/tomkids.weepreferenceloader_1.1_iphoneos-arm.deb
+Size: 34568
+MD5sum: cef1b082bc028c22ae0eda383df0e491
+SHA1: f7e773071127ebc8910ca86b1f69b01301aa9f6e
+SHA256: 7ed9065b10acfd0d58c7ac01b69cd921639dc881f4b7087970d9f44ee455117a
 Section: Tweaks
 Priority: extra
 Homepage: http://modmyi.com/info/weepreferenceloader.php
@@ -385399,11 +385399,11 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 4712
 Depends: mobilesubstrate, firmware (>= 5.0), firmware (<< 7.0)
 Conflicts: app.weiphone.jinshan.kbatterydoctorpro, app.weiphone.myrepospace.oyoung.guan, app.weiphone.ijinshan.kbatterydoctorpro, com.ijinshan.kbatterydoctorpro, com.ijinshan.kbatterydoctorpro.universal, com.myrepospace.oyoung.guan, kbatterydoctorpro.appvv
-Filename: package_debian_C5/tomkids.com.ijinshan.kbatterydoctorpro.universal_4.6.1-11_iphoneos-arm.deb
-Size: 3061322
-MD5sum: 2a9e30d319b3109977621ae167273c18
-SHA1: cf38635d7bdded30a93390a1262ade27f3786dce
-SHA256: 3d0fb10836e31bb288b4dd51aa2d5c05080f98b3a27e5e8e7e2dd78b1ef1a74e
+Filename: package_debian_C5/tomkids.kbatterydoctorpro.universal_4.6.1-11_iphoneos-arm.deb
+Size: 3061312
+MD5sum: f80aeb25dd05d44bf7b0f5754ccfbfed
+SHA1: 8db2ec0d20cd2d86e9eab6644fa8597bf782b569
+SHA256: 252da0a358d73c8465b21fe2f96d422178ef493739ce5c45107227a23e000948
 Section: Tweaks
 Priority: optional
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=batterydoctorprouniversalDp
@@ -385423,11 +385423,11 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 4712
 Depends: mobilesubstrate, firmware (>= 5.0), firmware (<< 7.0)
 Conflicts: app.weiphone.jinshan.kbatterydoctorpro, app.weiphone.myrepospace.oyoung.guan, app.weiphone.ijinshan.kbatterydoctorpro, com.ijinshan.kbatterydoctorpro, com.ijinshan.kbatterydoctorpro.universal, com.myrepospace.oyoung.guan, kbatterydoctorpro.appvv
-Filename: package_debian_C5/tomkids.kbatterydoctorpro.universal_4.6.1-11_iphoneos-arm.deb
-Size: 3061312
-MD5sum: f80aeb25dd05d44bf7b0f5754ccfbfed
-SHA1: 8db2ec0d20cd2d86e9eab6644fa8597bf782b569
-SHA256: 252da0a358d73c8465b21fe2f96d422178ef493739ce5c45107227a23e000948
+Filename: package_debian_C5/tomkids.com.ijinshan.kbatterydoctorpro.universal_4.6.1-11_iphoneos-arm.deb
+Size: 3061322
+MD5sum: 2a9e30d319b3109977621ae167273c18
+SHA1: cf38635d7bdded30a93390a1262ade27f3786dce
+SHA256: 3d0fb10836e31bb288b4dd51aa2d5c05080f98b3a27e5e8e7e2dd78b1ef1a74e
 Section: Tweaks
 Priority: optional
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=batterydoctorprouniversalDp
@@ -385511,25 +385511,6 @@ Version: 1.7.1
 Architecture: iphoneos-arm
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 Depends: firmware (>= 5.0), mobilesubstrate, com.chpwn.weeloader, preferenceloader
-Filename: package_debian_C5/tomkids.ncsettings_1.7.1_iphoneos-arm.deb
-Size: 469848
-MD5sum: e165cb7653f3923836b609ef54f15330
-SHA1: e06127303117b9beabf6fe69304e20a56f3f534e
-SHA256: ff99ee1c9dc9f2df97b4b3fc3b095b8f7eff401916830129866b9ad564edbcc4
-Section: Addons (NotificationCenter)
-Priority: extra
-Homepage: http://modmyi.com/info/ncsettings.php
-Description: NCSettings is a sleek Notification Center toggle widget
-Author: JamieD360 <jamied360support@live.co.uk>
-Depiction: http://modmyi.com/info/ncsettings.d.php
-Name: NCSettings
-Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
-
-Package: com.jamied360.ncsettings
-Version: 1.7.1
-Architecture: iphoneos-arm
-Maintainer: poetic_folly <poetic_folly@modmyi.com>
-Depends: firmware (>= 5.0), mobilesubstrate, com.chpwn.weeloader, preferenceloader
 Filename: package_debian_C5/tomkids.com.jamied360.ncsettings_1.7.1_iphoneos-arm.deb
 Size: 469838
 MD5sum: 6f472f4cf6b12e1b19ef28ac0fd47d97
@@ -385544,20 +385525,24 @@ Depiction: http://modmyi.com/info/ncsettings.d.php
 Name: NCSettings
 Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
 
-Package: com.kjcracks.clutch
-Version: 2.0.4
+Package: com.jamied360.ncsettings
+Version: 1.7.1
 Architecture: iphoneos-arm
-Maintainer: KJCracks <unknown@unknown.com>
-Depends: firmware (>= 6.0), firmware (<= 10.3.4)
-Filename: package_debian_C5/tomkids.com.kjcracks.clutch_2.0.4_iphoneos-arm.deb
-Size: 457648
-MD5sum: f87af3b9bb9d7c69c5a5b6290697a9b3
-SHA1: ec6feae66de70bd39a1bbedea50b13dce5520720
-SHA256: d4a5bd485ec8cec21be0d9e9301a2952a5798d1f62a96b50f6ef7e99e82dbd97
-Section: Terminal Support
-Description: Clutch is a high-speed iOS decryption tool. It is used for decrypting apps currently installed and usable on the device.
-Author: KJCracks <unknown@unknown.com>
-Name: Clutch 2.0.4
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Depends: firmware (>= 5.0), mobilesubstrate, com.chpwn.weeloader, preferenceloader
+Filename: package_debian_C5/tomkids.ncsettings_1.7.1_iphoneos-arm.deb
+Size: 469848
+MD5sum: e165cb7653f3923836b609ef54f15330
+SHA1: e06127303117b9beabf6fe69304e20a56f3f534e
+SHA256: ff99ee1c9dc9f2df97b4b3fc3b095b8f7eff401916830129866b9ad564edbcc4
+Section: Addons (NotificationCenter)
+Priority: extra
+Homepage: http://modmyi.com/info/ncsettings.php
+Description: NCSettings is a sleek Notification Center toggle widget
+Author: JamieD360 <jamied360support@live.co.uk>
+Depiction: http://modmyi.com/info/ncsettings.d.php
+Name: NCSettings
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
 
 Package: com.kjcracks.clutch
 Version: 2.0.4
@@ -385574,6 +385559,21 @@ Description: Clutch is a high-speed iOS decryption tool. It is used for decrypti
 Author: KJCracks <unknown@unknown.com>
 Name: Clutch 2.0.4
 
+Package: com.kjcracks.clutch
+Version: 2.0.4
+Architecture: iphoneos-arm
+Maintainer: KJCracks <unknown@unknown.com>
+Depends: firmware (>= 6.0), firmware (<= 10.3.4)
+Filename: package_debian_C5/tomkids.com.kjcracks.clutch_2.0.4_iphoneos-arm.deb
+Size: 457648
+MD5sum: f87af3b9bb9d7c69c5a5b6290697a9b3
+SHA1: ec6feae66de70bd39a1bbedea50b13dce5520720
+SHA256: d4a5bd485ec8cec21be0d9e9301a2952a5798d1f62a96b50f6ef7e99e82dbd97
+Section: Terminal Support
+Description: Clutch is a high-speed iOS decryption tool. It is used for decrypting apps currently installed and usable on the device.
+Author: KJCracks <unknown@unknown.com>
+Name: Clutch 2.0.4
+
 Package: com.linusyang.ytbnoad
 Version: 0.1
 Architecture: iphoneos-arm
@@ -385581,7 +385581,7 @@ Maintainer: Linus Yang
 Installed-Size: 344
 Depends: mobilesubstrate
 Conflicts: me.alfhaily.adblockforyoutube
-Filename: package_debian_C5/tomkids.ytbnoad_0.1_iphoneos-arm.deb
+Filename: package_debian_C5/tomkids.com.linusyang.ytbnoad_0.1_iphoneos-arm.deb
 Size: 50654
 MD5sum: 39e43deaa545fc126991b2fe2343d4c4
 SHA1: 848ecf5a0343fe1ac5e4b1cda292d2485938f2a5
@@ -385598,7 +385598,7 @@ Maintainer: Linus Yang
 Installed-Size: 344
 Depends: mobilesubstrate
 Conflicts: me.alfhaily.adblockforyoutube
-Filename: package_debian_C5/tomkids.com.linusyang.ytbnoad_0.1_iphoneos-arm.deb
+Filename: package_debian_C5/tomkids.ytbnoad_0.1_iphoneos-arm.deb
 Size: 50654
 MD5sum: 39e43deaa545fc126991b2fe2343d4c4
 SHA1: 848ecf5a0343fe1ac5e4b1cda292d2485938f2a5
@@ -385906,11 +385906,11 @@ Architecture: iphoneos-arm
 Maintainer: Requis
 Depends: mobilesubstrate (>= 0.9.2586), firmware (>= 2.0), firmware (<= 7.9), preferenceloader
 Conflicts: com.ixmoe.1pwn.weatherx, com.skyglow.stocksx
-Filename: package_debian_C5/tomkids.com.skyglow.weatherx_3.5_iphoneos-arm.deb
-Size: 155742
-MD5sum: 689171cd5f391aed223f3c0ad7e4ce3b
-SHA1: cef43a162338ef6001d56d4a4085a97e234d0340
-SHA256: 2da0aab5c140809c5d461a13a2c69029a1e4f8db9c56695c222648c37e04d9ea
+Filename: package_debian_C5/tomkids.WeatherX-Legacy.deb
+Size: 155622
+MD5sum: a6d5f494a673da237ffa95d289538447
+SHA1: 9fb97aee0ce011ea1b6bf8224e8da0ef5af2652b
+SHA256: b530eb8231e01a11562e16f23767c925f548e3261b224aaf3f7047afa514a6a0
 Section: Tweaks
 Description: Fix iOS's Weather & Stocks apps from iPhoneOS 2 to iOS 7, the widgets in the notification center, and the temperature in the iPad clock app!
 Author: Requis, Electimon
@@ -385923,11 +385923,11 @@ Architecture: iphoneos-arm
 Maintainer: Requis
 Depends: mobilesubstrate (>= 0.9.2586), firmware (>= 2.0), firmware (<= 7.9), preferenceloader
 Conflicts: com.ixmoe.1pwn.weatherx, com.skyglow.stocksx
-Filename: package_debian_C5/tomkids.WeatherX-Legacy.deb
-Size: 155622
-MD5sum: a6d5f494a673da237ffa95d289538447
-SHA1: 9fb97aee0ce011ea1b6bf8224e8da0ef5af2652b
-SHA256: b530eb8231e01a11562e16f23767c925f548e3261b224aaf3f7047afa514a6a0
+Filename: package_debian_C5/tomkids.com.skyglow.weatherx_3.5_iphoneos-arm.deb
+Size: 155742
+MD5sum: 689171cd5f391aed223f3c0ad7e4ce3b
+SHA1: cef43a162338ef6001d56d4a4085a97e234d0340
+SHA256: 2da0aab5c140809c5d461a13a2c69029a1e4f8db9c56695c222648c37e04d9ea
 Section: Tweaks
 Description: Fix iOS's Weather & Stocks apps from iPhoneOS 2 to iOS 7, the widgets in the notification center, and the temperature in the iPad clock app!
 Author: Requis, Electimon
@@ -387345,11 +387345,11 @@ Architecture: iphoneos-arm
 Maintainer: Cydia.vn <repo@cydia.vn>
 Installed-Size: 2919
 Depends: gsmicon, firmware (>= 5.0), mobilesubstrate, com.chpwn.weeloader, preferenceloader
-Filename: package_debian_C5/tomkids.flipclockwidget_1.3.3-3_iphoneos-arm.deb
-Size: 2743734
-MD5sum: bdfefd02abdb227a7394d29a8e3aad67
-SHA1: a898b2446a0a2b0ebe1e7e8c186405814bd75b99
-SHA256: 162df6f3e7f478dffc33b795d3d4830f93afe2e38fa746d4c575b60e8f426e90
+Filename: package_debian_C5/tomkids.flipclockwidget_1.3.3-3.deb
+Size: 2771400
+MD5sum: efc0573c0fefe794a3841fc25b23758d
+SHA1: a97086257445d79a00f72041bca1eb391c5edfee
+SHA256: d6afe3350c040d645734ad79977b0c9ee2726bfb456184875012d805927e1f7f
 Section: !GSMVN-Tools
 Homepage: http://cydia.vn/
 Description: beautiful animated flip clock widget for the notification center.
@@ -387385,11 +387385,11 @@ Architecture: iphoneos-arm
 Maintainer: Cydia.vn <repo@cydia.vn>
 Installed-Size: 2919
 Depends: gsmicon, firmware (>= 5.0), mobilesubstrate, com.chpwn.weeloader, preferenceloader
-Filename: package_debian_C5/tomkids.flipclockwidget_1.3.3-3.deb
-Size: 2771400
-MD5sum: efc0573c0fefe794a3841fc25b23758d
-SHA1: a97086257445d79a00f72041bca1eb391c5edfee
-SHA256: d6afe3350c040d645734ad79977b0c9ee2726bfb456184875012d805927e1f7f
+Filename: package_debian_C5/tomkids.flipclockwidget_1.3.3-3_iphoneos-arm.deb
+Size: 2743734
+MD5sum: bdfefd02abdb227a7394d29a8e3aad67
+SHA1: a898b2446a0a2b0ebe1e7e8c186405814bd75b99
+SHA256: 162df6f3e7f478dffc33b795d3d4830f93afe2e38fa746d4c575b60e8f426e90
 Section: !GSMVN-Tools
 Homepage: http://cydia.vn/
 Description: beautiful animated flip clock widget for the notification center.
